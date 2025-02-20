@@ -1,0 +1,20 @@
+﻿{
+    "attack": { 
+        "base": "ଆକ୍ରମଣ", 
+        "forms": { 
+            "singular": ["ଆକ୍ରମଣ କରେ", "ଆକ୍ରମଣ କରନ୍ତି", "ଆକ୍ରମଣ କର"], 
+            "plural": ["ଆକ୍ରମଣ କରନ୍ତି", "ଆକ୍ରମଣ କରୁ"], 
+            "english": "attack",
+            "englishV5": "attacks"
+        } 
+    },
+    "eat": {
+        "base": "ଖା",
+        "forms": {
+            "singular": ["ଖାଏ", "ଖାଉ", "ଖାଅ"],
+            "plural": ["ଖାନ୍ତି"],
+            "english": "eat",
+            "englishV5": "eats"
+        }
+    }
+}
