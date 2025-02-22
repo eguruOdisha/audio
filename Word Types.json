@@ -1,0 +1,26 @@
+﻿{
+    "object": {
+        "ବହି": "book",
+        "ଗୀତ": "song",
+        "ଖାଦ୍ୟ": "food"
+    },
+    "place": {
+        "ଘରେ": "at home",
+        "ବିଦ୍ୟାଳୟରେ": "at school",
+        "ବଗିଚାରେ": "in the garden"
+    },
+    "time": {
+        "ସକାଳେ": "in the morning",
+        "ରାତିରେ": "at night",
+        "ସନ୍ଧ୍ୟାରେ": "in the evening"
+    },
+    "companion": {
+        "ସହିତ": "with",
+        "ସାଙ୍ଗରେ": "with"
+    },
+    "manner": {
+        "ଭଲରେ": "well",
+        "ଧୀରେ": "slowly",
+        "ଜୋରରେ": "loudly"
+    }
+}
