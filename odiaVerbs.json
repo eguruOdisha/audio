@@ -262,5 +262,259 @@
          "englishV4": "abusing",
          "englishV5": "abuses"
       }
+   },
+  "accept": {
+      "base": "ଗ୍ରହଣ କର",
+      "forms": {
+         "singular": ["ଗ୍ରହଣ କରେ", "ଗ୍ରହଣ କରନ୍ତି", "ଗ୍ରହଣ କର"],
+         "plural": ["ଗ୍ରହଣ କରନ୍ତି", "ଗ୍ରହଣ କରୁ", "ଗ୍ରହଣ କର"],
+         "englishV1": "accept",
+         "englishV2": "accepted",
+         "englishV3": "accepted",
+         "englishV4": "accepting",
+         "englishV5": "accepts"
+      }
+   },
+"access": {
+      "base": "ପ୍ରବେଶ କର",
+      "forms": {
+         "singular": ["ପ୍ରବେଶ କରେ", "ପ୍ରବେଶ କରନ୍ତି", "ପ୍ରବେଶ କର"],
+         "plural": ["ପ୍ରବେଶ କରନ୍ତି", "ପ୍ରବେଶ କରୁ", "ପ୍ରବେଶ କର"],
+         "englishV1": "access",
+         "englishV2": "accessed",
+         "englishV3": "accessed",
+         "englishV4": "accessing",
+         "englishV5": "accesses"
+      }
+   },
+"acclaim": {
+      "base": "ବନ୍ଦନା କର",
+      "forms": {
+         "singular": ["ବନ୍ଦନା କରେ", "ବନ୍ଦନା କରନ୍ତି", "ବନ୍ଦନା କର"],
+         "plural": ["ବନ୍ଦନା କରନ୍ତି", "ବନ୍ଦନା କରୁ", "ବନ୍ଦନା କର"],
+         "englishV1": "acclaim",
+         "englishV2": "acclaimed",
+         "englishV3": "acclaimed",
+         "englishV4": "acclaiming",
+         "englishV5": "acclaims"
+      }
+   },
+"accommodate": {
+      "base": "ଅନୁକୂଳ କର",
+      "forms": {
+         "singular": ["ଅନୁକୂଳ କରେ", "ଅନୁକୂଳ କରନ୍ତି", "ଅନୁକୂଳ କର"],
+         "plural": ["ଅନୁକୂଳ କରନ୍ତି", "ଅନୁକୂଳ କରୁ", "ଅନୁକୂଳ କର"],
+         "englishV1": "accommodate",
+         "englishV2": "accommodated",
+         "englishV3": "accommodated",
+         "englishV4": "accommodating",
+         "englishV5": "accommodates"
+      }
+   },
+"accompany": {
+      "base": "ସାଙ୍ଗ ହେଉ",
+      "forms": {
+         "singular": ["ସାଙ୍ଗ ହେଉଁ", "ସାଙ୍ଗ ହେଉନ୍ତି", "ସାଙ୍ଗ ହେଉ"],
+         "plural": ["ସାଙ୍ଗ ହେଉନ୍ତି", "ସାଙ୍ଗ ହେଉ", "ସାଙ୍ଗ ହେଉ"],
+         "englishV1": "accompany",
+         "englishV2": "accompanied",
+         "englishV3": "accompanied",
+         "englishV4": "accompanying",
+         "englishV5": "accompanies"
+      }
+   },
+"accomplish": {
+      "base": "ସଂପାଦନ କର",
+      "forms": {
+         "singular": ["ସଂପାଦନ କରେ", "ସଂପାଦନ କରନ୍ତି", "ସଂପାଦନ କର"],
+         "plural": ["ସଂପାଦନ କରନ୍ତି", "ସଂପାଦନ କରୁ", "ସଂପାଦନ କର"],
+         "englishV1": "accomplish",
+         "englishV2": "accomplished",
+         "englishV3": "accomplished",
+         "englishV4": "accomplishing",
+         "englishV5": "accomplishes"
+      }
+   },
+"accord": {
+      "base": "ସମ୍ମତି କର",
+      "forms": {
+         "singular": ["ସମ୍ମତି କରେ", "ସମ୍ମତି କରନ୍ତି", "ସମ୍ମତି କର"],
+         "plural": ["ସମ୍ମତି କରନ୍ତି", "ସମ୍ମତି କରୁ", "ସମ୍ମତି କର"],
+         "englishV1": "accord",
+         "englishV2": "accorded",
+         "englishV3": "accorded",
+         "englishV4": "according",
+         "englishV5": "accords"
+      }
+   },
+"accost": {
+      "base": "ସମ୍ମୁଖ ହେଉ",
+      "forms": {
+         "singular": ["ସମ୍ମୁଖ ହେଉଁ", "ସମ୍ମୁଖ ହେଉନ୍ତି", "ସମ୍ମୁଖ ହେଉ"],
+         "plural": ["ସମ୍ମୁଖ ହେଉନ୍ତି", "ସମ୍ମୁଖ ହେଉ", "ସମ୍ମୁଖ ହେଉ"],
+         "englishV1": "accost",
+         "englishV2": "accosted",
+         "englishV3": "accosted",
+         "englishV4": "accosting",
+         "englishV5": "accosts"
+      }
+   },
+"account": {
+      "base": "ହିସାବ କର",
+      "forms": {
+         "singular": ["ହିସାବ କରେ", "ହିସାବ କରନ୍ତି", "ହିସାବ କର"],
+         "plural": ["ହିସାବ କରନ୍ତି", "ହିସାବ କରୁ", "ହିସାବ କର"],
+         "englishV1": "account",
+         "englishV2": "accounted",
+         "englishV3": "accounted",
+         "englishV4": "accounting",
+         "englishV5": "accounts"
+      }
+   },
+"accumulate": {
+      "base": "ସଂଚୟ କର",
+      "forms": {
+         "singular": ["ସଂଚୟ କରେ", "ସଂଚୟ କରନ୍ତି", "ସଂଚୟ କର"],
+         "plural": ["ସଂଚୟ କରନ୍ତି", "ସଂଚୟ କରୁ", "ସଂଚୟ କର"],
+         "englishV1": "accumulate",
+         "englishV2": "accumulated",
+         "englishV3": "accumulated",
+         "englishV4": "accumulating",
+         "englishV5": "accumulates"
+      }
+   },
+"accuse": {
+      "base": "ଅଭିଯୋଗ କର",
+      "forms": {
+         "singular": ["ଅଭିଯୋଗ କରେ", "ଅଭିଯୋଗ କରନ୍ତି", "ଅଭିଯୋଗ କର"],
+         "plural": ["ଅଭିଯୋଗ କରନ୍ତି", "ଅଭିଯୋଗ କରୁ", "ଅଭିଯୋଗ କର"],
+         "englishV1": "accuse",
+         "englishV2": "accused",
+         "englishV3": "accused",
+         "englishV4": "accusing",
+         "englishV5": "accuses"
+      }
+   },
+"achieve": {
+      "base": "ଅଜ",
+      "forms": {
+         "singular": ["ଅଜ କରେ", "ଅଜ କରନ୍ତି", "ଅଜ କର"],
+         "plural": ["ଅଜ କରନ୍ତି", "ଅଜ କରୁ", "ଅଜ କର"],
+         "englishV1": "achieve",
+         "englishV2": "achieved",
+         "englishV3": "achieved",
+         "englishV4": "achieving",
+         "englishV5": "achieves"
+      }
+   },
+"acknowledge": {
+      "base": "ସ୍ୱୀକାର କର",
+      "forms": {
+         "singular": ["ସ୍ୱୀକାର କରେ", "ସ୍ୱୀକାର କରନ୍ତି", "ସ୍ୱୀକାର କର"],
+         "plural": ["ସ୍ୱୀକାର କରନ୍ତି", "ସ୍ୱୀକାର କରୁ", "ସ୍ୱୀକାର କର"],
+         "englishV1": "acknowledge",
+         "englishV2": "acknowledged",
+         "englishV3": "acknowledged",
+         "englishV4": "acknowledging",
+         "englishV5": "acknowledges"
+      }
+   },
+"acquire": {
+      "base": "ଅଧିଗତ କର",
+      "forms": {
+         "singular": ["ଅଧିଗତ କରେ", "ଅଧିଗତ କରନ୍ତି", "ଅଧିଗତ କର"],
+         "plural": ["ଅଧିଗତ କରନ୍ତି", "ଅଧିଗତ କରୁ", "ଅଧିଗତ କର"],
+         "englishV1": "acquire",
+         "englishV2": "acquired",
+         "englishV3": "acquired",
+         "englishV4": "acquiring",
+         "englishV5": "acquires"
+      }
+   },
+"act": {
+      "base": "କାର୍ଯ୍ୟ କର",
+      "forms": {
+         "singular": ["କାର୍ଯ୍ୟ କରେ", "କାର୍ଯ୍ୟ କରନ୍ତି", "କାର୍ଯ୍ୟ କର"],
+         "plural": ["କାର୍ଯ୍ୟ କରନ୍ତି", "କାର୍ଯ୍ୟ କରୁ", "କାର୍ଯ୍ୟ କର"],
+         "englishV1": "act",
+         "englishV2": "acted",
+         "englishV3": "acted",
+         "englishV4": "acting",
+         "englishV5": "acts"
+      }
+   },
+"activate": {
+      "base": "ସକ୍ରିୟ କର",
+      "forms": {
+         "singular": ["ସକ୍ରିୟ କରେ", "ସକ୍ରିୟ କରନ୍ତି", "ସକ୍ରିୟ କର"],
+         "plural": ["ସକ୍ରିୟ କରନ୍ତି", "ସକ୍ରିୟ କରୁ", "ସକ୍ରିୟ କର"],
+         "englishV1": "activate",
+         "englishV2": "activated",
+         "englishV3": "activated",
+         "englishV4": "activating",
+         "englishV5": "activates"
+      }
+   },
+"accumulate": {
+      "base": "ସଂଚୟ କର",
+      "forms": {
+         "singular": ["ସଂଚୟ କରେ", "ସଂଚୟ କରନ୍ତି", "ସଂଚୟ କର"],
+         "plural": ["ସଂଚୟ କରନ୍ତି", "ସଂଚୟ କରୁ", "ସଂଚୟ କର"],
+         "englishV1": "accumulate",
+         "englishV2": "accumulated",
+         "englishV3": "accumulated",
+         "englishV4": "accumulating",
+         "englishV5": "accumulates"
+      }
+   },
+"acclimate": {
+      "base": "ଅଭ୍ୟସ୍ତ କର",
+      "forms": {
+         "singular": ["ଅଭ୍ୟସ୍ତ କରେ", "ଅଭ୍ୟସ୍ତ କରନ୍ତି", "ଅଭ୍ୟସ୍ତ କର"],
+         "plural": ["ଅଭ୍ୟସ୍ତ କରନ୍ତି", "ଅଭ୍ୟସ୍ତ କରୁ", "ଅଭ୍ୟସ୍ତ କର"],
+         "englishV1": "acclimate",
+         "englishV2": "acclimated",
+         "englishV3": "acclimated",
+         "englishV4": "acclimating",
+         "englishV5": "acclimates"
+      }
+   },
+"accentuate": {
+      "base": "ଉପସ୍ତାପନ କର",
+      "forms": {
+         "singular": ["ଉପସ୍ତାପନ କରେ", "ଉପସ୍ତାପନ କରନ୍ତି", "ଉପସ୍ତାପନ କର"],
+         "plural": ["ଉପସ୍ତାପନ କରନ୍ତି", "ଉପସ୍ତାପନ କରୁ", "ଉପସ୍ତାପନ କର"],
+         "englishV1": "accentuate",
+         "englishV2": "accentuated",
+         "englishV3": "accentuated",
+         "englishV4": "accentuating",
+         "englishV5": "accentuates"
+      }
+   },
+"accredit": {
+      "base": "ପ୍ରମାଣିତ କର",
+      "forms": {
+         "singular": ["ପ୍ରମାଣିତ କରେ", "ପ୍ରମାଣିତ କରନ୍ତି", "ପ୍ରମାଣିତ କର"],
+         "plural": ["ପ୍ରମାଣିତ କରନ୍ତି", "ପ୍ରମାଣିତ କରୁ", "ପ୍ରମାଣିତ କର"],
+         "englishV1": "accredit",
+         "englishV2": "accredited",
+         "englishV3": "accredited",
+         "englishV4": "accrediting",
+         "englishV5": "accredits"
+      }
+   },
+"accustom": {
+      "base": "ଅଭ୍ୟସ୍ତ କର",
+      "forms": {
+         "singular": ["ଅଭ୍ୟସ୍ତ କରେ", "ଅଭ୍ୟସ୍ତ କରନ୍ତି", "ଅଭ୍ୟସ୍ତ କର"],
+         "plural": ["ଅଭ୍ୟସ୍ତ କରନ୍ତି", "ଅଭ୍ୟସ୍ତ କରୁ", "ଅଭ୍ୟସ୍ତ କର"],
+         "englishV1": "accustom",
+         "englishV2": "accustomed",
+         "englishV3": "accustomed",
+         "englishV4": "accustoming",
+         "englishV5": "accustoms"
+      }
    }
+
+    
 }
