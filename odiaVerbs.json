@@ -514,7 +514,250 @@
          "englishV4": "accustoming",
          "englishV5": "accustoms"
       }
-   }
+   },
+"adapt": { 
+  "base": "ଅନୁକୂଳ", 
+  "forms": { 
+    "singular": ["ଅନୁକୂଳ କରେ", "ଅନୁକୂଳ କରନ୍ତି", "ଅନୁକୂଳ କର"], 
+    "plural": ["ଅନୁକୂଳ କରନ୍ତି", "ଅନୁକୂଳ କରୁ", "ଅନୁକୂଳ କର"], 
+    "englishV1": "adapt", 
+    "englishV2": "adapted", 
+    "englishV3": "adapted", 
+    "englishV4": "adapting", 
+    "englishV5": "adapts" 
+  } 
+},  
+"add": { 
+  "base": "ଯୋଡ଼", 
+  "forms": { 
+    "singular": ["ଯୋଡ଼େ", "ଯୋଡ଼ନ୍ତି", "ଯୋଡ଼"], 
+    "plural": ["ଯୋଡ଼ନ୍ତି", "ଯୋଡ଼ୁ", "ଯୋଡ଼"], 
+    "englishV1": "add", 
+    "englishV2": "added", 
+    "englishV3": "added", 
+    "englishV4": "adding", 
+    "englishV5": "adds" 
+  } 
+},  
+"address": { 
+  "base": "ଠିକଣା", 
+  "forms": { 
+    "singular": ["ଠିକଣା କରେ", "ଠିକଣା କରନ୍ତି", "ଠିକଣା କର"], 
+    "plural": ["ଠିକଣା କରନ୍ତି", "ଠିକଣା କରୁ", "ଠିକଣା କର"], 
+    "englishV1": "address", 
+    "englishV2": "addressed", 
+    "englishV3": "addressed", 
+    "englishV4": "addressing", 
+    "englishV5": "addresses" 
+  } 
+},  
+"adjust": { 
+  "base": "ଅନୁକୂଳ", 
+  "forms": { 
+    "singular": ["ଅନୁକୂଳ କରେ", "ଅନୁକୂଳ କରନ୍ତି", "ଅନୁକୂଳ କର"], 
+    "plural": ["ଅନୁକୂଳ କରନ୍ତି", "ଅନୁକୂଳ କରୁ", "ଅନୁକୂଳ କର"], 
+    "englishV1": "adjust", 
+    "englishV2": "adjusted", 
+    "englishV3": "adjusted", 
+    "englishV4": "adjusting", 
+    "englishV5": "adjusts" 
+  } 
+},  
+"administer": { 
+  "base": "ପରିଚାଳନା", 
+  "forms": { 
+    "singular": ["ପରିଚାଳନା କରେ", "ପରିଚାଳନା କରନ୍ତି", "ପରିଚାଳନା କର"], 
+    "plural": ["ପରିଚାଳନା କରନ୍ତି", "ପରିଚାଳନା କରୁ", "ପରିଚାଳନା କର"], 
+    "englishV1": "administer", 
+    "englishV2": "administered", 
+    "englishV3": "administered", 
+    "englishV4": "administering", 
+    "englishV5": "administers" 
+  } 
+},  
+"admit": { 
+  "base": "ଅଂଗୀକାର", 
+  "forms": { 
+    "singular": ["ଅଂଗୀକାର କରେ", "ଅଂଗୀକାର କରନ୍ତି", "ଅଂଗୀକାର କର"], 
+    "plural": ["ଅଂଗୀକାର କରନ୍ତି", "ଅଂଗୀକାର କରୁ", "ଅଂଗୀକାର କର"], 
+    "englishV1": "admit", 
+    "englishV2": "admitted", 
+    "englishV3": "admitted", 
+    "englishV4": "admitting", 
+    "englishV5": "admits" 
+  } 
+},  
+"adopt": { 
+  "base": "ଗ୍ରହଣ", 
+  "forms": { 
+    "singular": ["ଗ୍ରହଣ କରେ", "ଗ୍ରହଣ କରନ୍ତି", "ଗ୍ରହଣ କର"], 
+    "plural": ["ଗ୍ରହଣ କରନ୍ତି", "ଗ୍ରହଣ କରୁ", "ଗ୍ରହଣ କର"], 
+    "englishV1": "adopt", 
+    "englishV2": "adopted", 
+    "englishV3": "adopted", 
+    "englishV4": "adopting", 
+    "englishV5": "adopts" 
+  } 
+},  
+"adore": { 
+  "base": "ପ୍ରେମ", 
+  "forms": { 
+    "singular": ["ପ୍ରେମ କରେ", "ପ୍ରେମ କରନ୍ତି", "ପ୍ରେମ କର"], 
+    "plural": ["ପ୍ରେମ କରନ୍ତି", "ପ୍ରେମ କରୁ", "ପ୍ରେମ କର"], 
+    "englishV1": "adore", 
+    "englishV2": "adored", 
+    "englishV3": "adored", 
+    "englishV4": "adoring", 
+    "englishV5": "adores" 
+  } 
+},  
+"advance": { 
+  "base": "ଅଗ୍ରଗତି", 
+  "forms": { 
+    "singular": ["ଅଗ୍ରଗତି କରେ", "ଅଗ୍ରଗତି କରନ୍ତି", "ଅଗ୍ରଗତି କର"], 
+    "plural": ["ଅଗ୍ରଗତି କରନ୍ତି", "ଅଗ୍ରଗତି କରୁ", "ଅଗ୍ରଗତି କର"], 
+    "englishV1": "advance", 
+    "englishV2": "advanced", 
+    "englishV3": "advanced", 
+    "englishV4": "advancing", 
+    "englishV5": "advances" 
+  } 
+},  
+"advertise": { 
+  "base": "ପ୍ରଚାର", 
+  "forms": { 
+    "singular": ["ପ୍ରଚାର କରେ", "ପ୍ରଚାର କରନ୍ତି", "ପ୍ରଚାର କର"], 
+    "plural": ["ପ୍ରଚାର କରନ୍ତି", "ପ୍ରଚାର କରୁ", "ପ୍ରଚାର କର"], 
+    "englishV1": "advertise", 
+    "englishV2": "advertised", 
+    "englishV3": "advertised", 
+    "englishV4": "advertising", 
+    "englishV5": "advertises" 
+  } 
+},
+ "advocate": { 
+  "base": "ସମର୍ଥନ", 
+  "forms": { 
+    "singular": ["ସମର୍ଥନ କରେ", "ସମର୍ଥନ କରନ୍ତି", "ସମର୍ଥନ କର"], 
+    "plural": ["ସମର୍ଥନ କରନ୍ତି", "ସମର୍ଥନ କରୁ", "ସମର୍ଥନ କର"], 
+    "englishV1": "advocate", 
+    "englishV2": "advocated", 
+    "englishV3": "advocated", 
+    "englishV4": "advocating", 
+    "englishV5": "advocates" 
+  } 
+},  
+"adjoin": { 
+  "base": "ଅଟାଉ", 
+  "forms": { 
+    "singular": ["ଅଟାଉ କରେ", "ଅଟାଉ କରନ୍ତି", "ଅଟାଉ କର"], 
+    "plural": ["ଅଟାଉ କରନ୍ତି", "ଅଟାଉ କରୁ", "ଅଟାଉ କର"], 
+    "englishV1": "adjoin", 
+    "englishV2": "adjoined", 
+    "englishV3": "adjoined", 
+    "englishV4": "adjoining", 
+    "englishV5": "adjoins" 
+  } 
+},  
+"adjudge": { 
+  "base": "ନିର୍ଣ୍ଣୟ", 
+  "forms": { 
+    "singular": ["ନିର୍ଣ୍ଣୟ କରେ", "ନିର୍ଣ୍ଣୟ କରନ୍ତି", "ନିର୍ଣ୍ଣୟ କର"], 
+    "plural": ["ନିର୍ଣ୍ଣୟ କରନ୍ତି", "ନିର୍ଣ୍ଣୟ କରୁ", "ନିର୍ଣ୍ଣୟ କର"], 
+    "englishV1": "adjudge", 
+    "englishV2": "adjudged", 
+    "englishV3": "adjudged", 
+    "englishV4": "adjudging", 
+    "englishV5": "adjudges" 
+  } 
+},  
+"adhere": { 
+  "base": "ଲଗିଥିବା", 
+  "forms": { 
+    "singular": ["ଲଗିଥିବା କରେ", "ଲଗିଥିବା କରନ୍ତି", "ଲଗିଥିବା କର"], 
+    "plural": ["ଲଗିଥିବା କରନ୍ତି", "ଲଗିଥିବା କରୁ", "ଲଗିଥିବା କର"], 
+    "englishV1": "adhere", 
+    "englishV2": "adhered", 
+    "englishV3": "adhered", 
+    "englishV4": "adhering", 
+    "englishV5": "adheres" 
+  } 
+},  
+"ad-lib": { 
+  "base": "ଅଚାନକ", 
+  "forms": { 
+    "singular": ["ଅଚାନକ କରେ", "ଅଚାନକ କରନ୍ତି", "ଅଚାନକ କର"], 
+    "plural": ["ଅଚାନକ କରନ୍ତି", "ଅଚାନକ କରୁ", "ଅଚାନକ କର"], 
+    "englishV1": "ad-lib", 
+    "englishV2": "ad-libbed", 
+    "englishV3": "ad-libbed", 
+    "englishV4": "ad-libbing", 
+    "englishV5": "ad-libs" 
+  } 
+},  
+"admire": { 
+  "base": "ପ୍ରଶଂସା", 
+  "forms": { 
+    "singular": ["ପ୍ରଶଂସା କରେ", "ପ୍ରଶଂସା କରନ୍ତି", "ପ୍ରଶଂସା କର"], 
+    "plural": ["ପ୍ରଶଂସା କରନ୍ତି", "ପ୍ରଶଂସା କରୁ", "ପ୍ରଶଂସା କର"], 
+    "englishV1": "admire", 
+    "englishV2": "admired", 
+    "englishV3": "admired", 
+    "englishV4": "admiring", 
+    "englishV5": "admires" 
+  } 
+},  
+"admonish": { 
+  "base": "ତାଡ଼ନା", 
+  "forms": { 
+    "singular": ["ତାଡ଼ନା କରେ", "ତାଡ଼ନା କରନ୍ତି", "ତାଡ଼ନା କର"], 
+    "plural": ["ତାଡ଼ନା କରନ୍ତି", "ତାଡ଼ନା କରୁ", "ତାଡ଼ନା କର"], 
+    "englishV1": "admonish", 
+    "englishV2": "admonished", 
+    "englishV3": "admonished", 
+    "englishV4": "admonishing", 
+    "englishV5": "admonishes" 
+  } 
+},  
+"adulate": { 
+  "base": "ଚାମ୍ଚାଗିରି", 
+  "forms": { 
+    "singular": ["ଚାମ୍ଚାଗିରି କରେ", "ଚାମ୍ଚାଗିରି କରନ୍ତି", "ଚାମ୍ଚାଗିରି କର"], 
+    "plural": ["ଚାମ୍ଚାଗିରି କରନ୍ତି", "ଚାମ୍ଚାଗିରି କରୁ", "ଚାମ୍ଚାଗିରି କର"], 
+    "englishV1": "adulate", 
+    "englishV2": "adulated", 
+    "englishV3": "adulated", 
+    "englishV4": "adulating", 
+    "englishV5": "adulates" 
+  } 
+},  
+"adulterate": { 
+  "base": "ମିଶ୍ରଣ", 
+  "forms": { 
+    "singular": ["ମିଶ୍ରଣ କରେ", "ମିଶ୍ରଣ କରନ୍ତି", "ମିଶ୍ରଣ କର"], 
+    "plural": ["ମିଶ୍ରଣ କରନ୍ତି", "ମିଶ୍ରଣ କରୁ", "ମିଶ୍ରଣ କର"], 
+    "englishV1": "adulterate", 
+    "englishV2": "adulterated", 
+    "englishV3": "adulterated", 
+    "englishV4": "adulterating", 
+    "englishV5": "adulterates" 
+  } 
+},  
+"adumbrate": { 
+  "base": "ପ୍ରାକ୍‌ଶନ", 
+  "forms": { 
+    "singular": ["ପ୍ରାକ୍‌ଶନ କରେ", "ପ୍ରାକ୍‌ଶନ କରନ୍ତି", "ପ୍ରାକ୍‌ଶନ କର"], 
+    "plural": ["ପ୍ରାକ୍‌ଶନ କରନ୍ତି", "ପ୍ରାକ୍‌ଶନ କରୁ", "ପ୍ରାକ୍‌ଶନ କର"], 
+    "englishV1": "adumbrate", 
+    "englishV2": "adumbrated", 
+    "englishV3": "adumbrated", 
+    "englishV4": "adumbrating", 
+    "englishV5": "adumbrates" 
+  } 
+}
+      
+     
+
 
     
 }
