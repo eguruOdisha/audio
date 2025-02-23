@@ -2,8 +2,6 @@
    "abandon": {
       "base": "ତ୍ୟାଗ",
       "forms": {
-         "singular": ["ତ୍ୟାଗ କରେ", "ତ୍ୟାଗ କରନ୍ତି", "ତ୍ୟାଗ କର"],
-         "plural": ["ତ୍ୟାଗ କରନ୍ତି", "ତ୍ୟାଗ କରୁ", "ତ୍ୟାଗ କର"],
          "englishV1": "abandon",
          "englishV2": "abandoned",
          "englishV3": "abandoned",
@@ -14,109 +12,12 @@
    "abase": {
       "base": "ଅବମାନ",
       "forms": {
-         "singular": ["ଅବମାନ କରେ", "ଅବମାନ କରନ୍ତି", "ଅବମାନ କର"],
-         "plural": ["ଅବମାନ କରନ୍ତି", "ଅବମାନ କରୁ", "ଅବମାନ କର"],
          "englishV1": "abase",
          "englishV2": "abased",
          "englishV3": "abased",
          "englishV4": "abasing",
          "englishV5": "abases"
       }
-   },
-   "abash": {
-      "base": "ଲଜ୍ଜିତ",
-      "forms": {
-         "singular": ["ଲଜ୍ଜିତ କରେ", "ଲଜ୍ଜିତ କରନ୍ତି", "ଲଜ୍ଜିତ କର"],
-         "plural": ["ଲଜ୍ଜିତ କରନ୍ତି", "ଲଜ୍ଜିତ କରୁ", "ଲଜ୍ଜିତ କର"],
-         "englishV1": "abash",
-         "englishV2": "abashed",
-         "englishV3": "abashed",
-         "englishV4": "abashing",
-         "englishV5": "abashes"
-      }
-   },
-   "abate": {
-      "base": "ହ୍ରାସ",
-      "forms": {
-         "singular": ["ହ୍ରାସ କରେ", "ହ୍ରାସ କରନ୍ତି", "ହ୍ରାସ କର"],
-         "plural": ["ହ୍ରାସ କରନ୍ତି", "ହ୍ରାସ କରୁ", "ହ୍ରାସ କର"],
-         "englishV1": "abate",
-         "englishV2": "abated",
-         "englishV3": "abated",
-         "englishV4": "abating",
-         "englishV5": "abates"
-      }
-   },
-   "abandonize": {
-      "base": "ଅସ୍ଥାୟୀ ତ୍ୟାଗ",
-      "forms": {
-         "singular": ["ଅସ୍ଥାୟୀ ତ୍ୟାଗ କରେ", "ଅସ୍ଥାୟୀ ତ୍ୟାଗ କରନ୍ତି", "ଅସ୍ଥାୟୀ ତ୍ୟାଗ କର"],
-         "plural": ["ଅସ୍ଥାୟୀ ତ୍ୟାଗ କରନ୍ତି", "ଅସ୍ଥାୟୀ ତ୍ୟାଗ କରୁ", "ଅସ୍ଥାୟୀ ତ୍ୟାଗ କର"],
-         "englishV1": "abandonize",
-         "englishV2": "abandonized",
-         "englishV3": "abandonized",
-         "englishV4": "abandonizing",
-         "englishV5": "abandonizes"
-      }
-   },
-   "abamp": {
-      "base": "ଆମ୍ପିୟାର୍ ଏକାଇ",
-      "forms": {
-         "singular": ["ଆମ୍ପିୟାର୍ ଏକାଇ କରେ", "ଆମ୍ପିୟାର୍ ଏକାଇ କରନ୍ତି", "ଆମ୍ପିୟାର୍ ଏକାଇ କର"],
-         "plural": ["ଆମ୍ପିୟାର୍ ଏକାଇ କରନ୍ତି", "ଆମ୍ପିୟାର୍ ଏକାଇ କରୁ", "ଆମ୍ପିୟାର୍ ଏକାଇ କର"],
-         "englishV1": "abamp",
-         "englishV2": "abamped",
-         "englishV3": "abamped",
-         "englishV4": "abamping",
-         "englishV5": "abamps"
-      }
-   },
-   "abatefy": {
-      "base": "କମେଇବା",
-      "forms": {
-         "singular": ["କମେଇବା କରେ", "କମେଇବା କରନ୍ତି", "କମେଇବା କର"],
-         "plural": ["କମେଇବା କରନ୍ତି", "କମେଇବା କରୁ", "କମେଇବା କର"],
-         "englishV1": "abatefy",
-         "englishV2": "abatefied",
-         "englishV3": "abatefied",
-         "englishV4": "abatefying",
-         "englishV5": "abatefies"
-      }
-   },
-   "abatjour": {
-      "base": "ଆଲୋକ ବନ୍ଦ",
-      "forms": {
-         "singular": ["ଆଲୋକ ବନ୍ଦ କରେ", "ଆଲୋକ ବନ୍ଦ କରନ୍ତି", "ଆଲୋକ ବନ୍ଦ କର"],
-         "plural": ["ଆଲୋକ ବନ୍ଦ କରନ୍ତି", "ଆଲୋକ ବନ୍ଦ କରୁ", "ଆଲୋକ ବନ୍ଦ କର"],
-         "englishV1": "abatjour",
-         "englishV2": "abatjoured",
-         "englishV3": "abatjoured",
-         "englishV4": "abatjouring",
-         "englishV5": "abatjours"
-      }
-   },
-   "abave": {
-      "base": "ଉଚ୍ଚ କରିବା",
-      "forms": {
-         "singular": ["ଉଚ୍ଚ କରେ", "ଉଚ୍ଚ କରନ୍ତି", "ଉଚ୍ଚ କର"],
-         "plural": ["ଉଚ୍ଚ କରନ୍ତି", "ଉଚ୍ଚ କରୁ", "ଉଚ୍ଚ କର"],
-         "englishV1": "abave",
-         "englishV2": "abaved",
-         "englishV3": "abaved",
-         "englishV4": "abaving",
-         "englishV5": "abaves"
-      }
-   },
-   "abacinate": {
-      "base": "ଅନ୍ଧ",
-      "forms": {
-         "singular": ["ଅନ୍ଧ କରେ", "ଅନ୍ଧ କରନ୍ତି", "ଅନ୍ଧ କର"],
-         "plural": ["ଅନ୍ଧ କରନ୍ତି", "ଅନ୍ଧ କରୁ", "ଅନ୍ଧ କର"],
-         "englishV1": "abacinate",
-         "englishV2": "abacinated",
-         "englishV3": "abacinated",
-         "englishV4": "abacinating",
-         "englishV5": "abacinates"
-      }
    }
+ 
 }
