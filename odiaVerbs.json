@@ -1,5 +1,5 @@
 {
-   "abandon": {
+"abandon": {
       "base": "ତ୍ୟାଗ",
       "forms": {
          "singular": ["ତ୍ୟାଗ କରେ", "ତ୍ୟାଗ କରନ୍ତି", "ତ୍ୟାଗ କର"],
@@ -11,11 +11,11 @@
          "englishV5": "abandons"
       }
    },
-   "abase": {
-      "base": "ଅବମାନ",
+"abase": {
+      "base": "ହେଳା କର",
       "forms": {
-         "singular": ["ଅବମାନ କରେ", "ଅବମାନ କରନ୍ତି", "ଅବମାନ କର"],
-         "plural": ["ଅବମାନ କରନ୍ତି", "ଅବମାନ କରୁ", "ଅବମାନ କର"],
+         "singular": ["ହେଳା କରେ", "ହେଳା କରନ୍ତି", "ହେଳା କର"],
+         "plural": ["ହେଳା କରନ୍ତି", "ହେଳା କରୁ", "ହେଳା କର"],
          "englishV1": "abase",
          "englishV2": "abased",
          "englishV3": "abased",
@@ -23,20 +23,8 @@
          "englishV5": "abases"
       }
    },
-   "abash": {
-      "base": "ଲଜ୍ଜିତ",
-      "forms": {
-         "singular": ["ଲଜ୍ଜିତ କରେ", "ଲଜ୍ଜିତ କରନ୍ତି", "ଲଜ୍ଜିତ କର"],
-         "plural": ["ଲଜ୍ଜିତ କରନ୍ତି", "ଲଜ୍ଜିତ କରୁ", "ଲଜ୍ଜିତ କର"],
-         "englishV1": "abash",
-         "englishV2": "abashed",
-         "englishV3": "abashed",
-         "englishV4": "abashing",
-         "englishV5": "abashes"
-      }
-   },
-   "abate": {
-      "base": "ହ୍ରାସ",
+"abate": {
+      "base": "ହ୍ରାସ କର",
       "forms": {
          "singular": ["ହ୍ରାସ କରେ", "ହ୍ରାସ କରନ୍ତି", "ହ୍ରାସ କର"],
          "plural": ["ହ୍ରାସ କରନ୍ତି", "ହ୍ରାସ କରୁ", "ହ୍ରାସ କର"],
@@ -47,76 +35,232 @@
          "englishV5": "abates"
       }
    },
-   "abandonize": {
-      "base": "ଅସ୍ଥାୟୀ ତ୍ୟାଗ",
+"abbreviate": {
+      "base": "ସଂକ୍ଷେପ କର",
       "forms": {
-         "singular": ["ଅସ୍ଥାୟୀ ତ୍ୟାଗ କରେ", "ଅସ୍ଥାୟୀ ତ୍ୟାଗ କରନ୍ତି", "ଅସ୍ଥାୟୀ ତ୍ୟାଗ କର"],
-         "plural": ["ଅସ୍ଥାୟୀ ତ୍ୟାଗ କରନ୍ତି", "ଅସ୍ଥାୟୀ ତ୍ୟାଗ କରୁ", "ଅସ୍ଥାୟୀ ତ୍ୟାଗ କର"],
-         "englishV1": "abandonize",
-         "englishV2": "abandonized",
-         "englishV3": "abandonized",
-         "englishV4": "abandonizing",
-         "englishV5": "abandonizes"
+         "singular": ["ସଂକ୍ଷେପ କରେ", "ସଂକ୍ଷେପ କରନ୍ତି", "ସଂକ୍ଷେପ କର"],
+         "plural": ["ସଂକ୍ଷେପ କରନ୍ତି", "ସଂକ୍ଷେପ କରୁ", "ସଂକ୍ଷେପ କର"],
+         "englishV1": "abbreviate",
+         "englishV2": "abbreviated",
+         "englishV3": "abbreviated",
+         "englishV4": "abbreviating",
+         "englishV5": "abbreviates"
       }
    },
-   "abamp": {
-      "base": "ଆମ୍ପିୟାର୍ ଏକାଇ",
+"abdicate": {
+      "base": "ପଦତ୍ୟାଗ କର",
       "forms": {
-         "singular": ["ଆମ୍ପିୟାର୍ ଏକାଇ କରେ", "ଆମ୍ପିୟାର୍ ଏକାଇ କରନ୍ତି", "ଆମ୍ପିୟାର୍ ଏକାଇ କର"],
-         "plural": ["ଆମ୍ପିୟାର୍ ଏକାଇ କରନ୍ତି", "ଆମ୍ପିୟାର୍ ଏକାଇ କରୁ", "ଆମ୍ପିୟାର୍ ଏକାଇ କର"],
-         "englishV1": "abamp",
-         "englishV2": "abamped",
-         "englishV3": "abamped",
-         "englishV4": "abamping",
-         "englishV5": "abamps"
+         "singular": ["ପଦତ୍ୟାଗ କରେ", "ପଦତ୍ୟାଗ କରନ୍ତି", "ପଦତ୍ୟାଗ କର"],
+         "plural": ["ପଦତ୍ୟାଗ କରନ୍ତି", "ପଦତ୍ୟାଗ କରୁ", "ପଦତ୍ୟାଗ କର"],
+         "englishV1": "abdicate",
+         "englishV2": "abdicated",
+         "englishV3": "abdicated",
+         "englishV4": "abdicating",
+         "englishV5": "abdicates"
       }
    },
-   "abatefy": {
-      "base": "କମେଇବା",
+"abduct": {
+      "base": "ହରଣ କର",
       "forms": {
-         "singular": ["କମେଇବା କରେ", "କମେଇବା କରନ୍ତି", "କମେଇବା କର"],
-         "plural": ["କମେଇବା କରନ୍ତି", "କମେଇବା କରୁ", "କମେଇବା କର"],
-         "englishV1": "abatefy",
-         "englishV2": "abatefied",
-         "englishV3": "abatefied",
-         "englishV4": "abatefying",
-         "englishV5": "abatefies"
+         "singular": ["ହରଣ କରେ", "ହରଣ କରନ୍ତି", "ହରଣ କର"],
+         "plural": ["ହରଣ କରନ୍ତି", "ହରଣ କରୁ", "ହରଣ କର"],
+         "englishV1": "abduct",
+         "englishV2": "abducted",
+         "englishV3": "abducted",
+         "englishV4": "abducting",
+         "englishV5": "abducts"
       }
    },
-   "abatjour": {
-      "base": "ଆଲୋକ ବନ୍ଦ",
+"abhor": {
+      "base": "ଘୃଣା କର",
       "forms": {
-         "singular": ["ଆଲୋକ ବନ୍ଦ କରେ", "ଆଲୋକ ବନ୍ଦ କରନ୍ତି", "ଆଲୋକ ବନ୍ଦ କର"],
-         "plural": ["ଆଲୋକ ବନ୍ଦ କରନ୍ତି", "ଆଲୋକ ବନ୍ଦ କରୁ", "ଆଲୋକ ବନ୍ଦ କର"],
-         "englishV1": "abatjour",
-         "englishV2": "abatjoured",
-         "englishV3": "abatjoured",
-         "englishV4": "abatjouring",
-         "englishV5": "abatjours"
+         "singular": ["ଘୃଣା କରେ", "ଘୃଣା କରନ୍ତି", "ଘୃଣା କର"],
+         "plural": ["ଘୃଣା କରନ୍ତି", "ଘୃଣା କରୁ", "ଘୃଣା କର"],
+         "englishV1": "abhor",
+         "englishV2": "abhorred",
+         "englishV3": "abhorred",
+         "englishV4": "abhorring",
+         "englishV5": "abhors"
       }
    },
-   "abave": {
-      "base": "ଉଚ୍ଚ କରିବା",
+"abide": {
+      "base": "ପାଳନ କର",
       "forms": {
-         "singular": ["ଉଚ୍ଚ କରେ", "ଉଚ୍ଚ କରନ୍ତି", "ଉଚ୍ଚ କର"],
-         "plural": ["ଉଚ୍ଚ କରନ୍ତି", "ଉଚ୍ଚ କରୁ", "ଉଚ୍ଚ କର"],
-         "englishV1": "abave",
-         "englishV2": "abaved",
-         "englishV3": "abaved",
-         "englishV4": "abaving",
-         "englishV5": "abaves"
+         "singular": ["ପାଳନ କରେ", "ପାଳନ କରନ୍ତି", "ପାଳନ କର"],
+         "plural": ["ପାଳନ କରନ୍ତି", "ପାଳନ କରୁ", "ପାଳନ କର"],
+         "englishV1": "abide",
+         "englishV2": "abided",
+         "englishV3": "abided",
+         "englishV4": "abiding",
+         "englishV5": "abides"
       }
    },
-   "abacinate": {
-      "base": "ଅନ୍ଧ",
+"abjure": {
+      "base": "ପରିତ୍ୟାଗ କର",
       "forms": {
-         "singular": ["ଅନ୍ଧ କରେ", "ଅନ୍ଧ କରନ୍ତି", "ଅନ୍ଧ କର"],
-         "plural": ["ଅନ୍ଧ କରନ୍ତି", "ଅନ୍ଧ କରୁ", "ଅନ୍ଧ କର"],
-         "englishV1": "abacinate",
-         "englishV2": "abacinated",
-         "englishV3": "abacinated",
-         "englishV4": "abacinating",
-         "englishV5": "abacinates"
+         "singular": ["ପରିତ୍ୟାଗ କରେ", "ପରିତ୍ୟାଗ କରନ୍ତି", "ପରିତ୍ୟାଗ କର"],
+         "plural": ["ପରିତ୍ୟାଗ କରନ୍ତି", "ପରିତ୍ୟାଗ କରୁ", "ପରିତ୍ୟାଗ କର"],
+         "englishV1": "abjure",
+         "englishV2": "abjured",
+         "englishV3": "abjured",
+         "englishV4": "abjuring",
+         "englishV5": "abjures"
+      }
+   },
+"abnegate": {
+      "base": "ତ୍ୟାଗ କର",
+      "forms": {
+         "singular": ["ତ୍ୟାଗ କରେ", "ତ୍ୟାଗ କରନ୍ତି", "ତ୍ୟାଗ କର"],
+         "plural": ["ତ୍ୟାଗ କରନ୍ତି", "ତ୍ୟାଗ କରୁ", "ତ୍ୟାଗ କର"],
+         "englishV1": "abnegate",
+         "englishV2": "abnegated",
+         "englishV3": "abnegated",
+         "englishV4": "abnegating",
+         "englishV5": "abnegates"
+      }
+   },
+"abominate": {
+      "base": "ଘୃଣା କର",
+      "forms": {
+         "singular": ["ଘୃଣା କରେ", "ଘୃଣା କରନ୍ତି", "ଘୃଣା କର"],
+         "plural": ["ଘୃଣା କରନ୍ତି", "ଘୃଣା କରୁ", "ଘୃଣା କର"],
+         "englishV1": "abominate",
+         "englishV2": "abominated",
+         "englishV3": "abominated",
+         "englishV4": "abominating",
+         "englishV5": "abominates"
+      }
+   },
+"abort": {
+      "base": "ସମାପ୍ତ କର",
+      "forms": {
+         "singular": ["ସମାପ୍ତ କରେ", "ସମାପ୍ତ କରନ୍ତି", "ସମାପ୍ତ କର"],
+         "plural": ["ସମାପ୍ତ କରନ୍ତି", "ସମାପ୍ତ କରୁ", "ସମାପ୍ତ କର"],
+         "englishV1": "abort",
+         "englishV2": "aborted",
+         "englishV3": "aborted",
+         "englishV4": "aborting",
+         "englishV5": "aborts"
+      }
+   },
+"abound": {
+      "base": "ପ୍ରଚୁର ଥାଉ",
+      "forms": {
+         "singular": ["ପ୍ରଚୁର ଥାଏ", "ପ୍ରଚୁର ଥାନ୍ତି", "ପ୍ରଚୁର ଥାଉ"],
+         "plural": ["ପ୍ରଚୁର ଥାନ୍ତି", "ପ୍ରଚୁର ଥାଉ", "ପ୍ରଚୁର ଥାଉ"],
+         "englishV1": "abound",
+         "englishV2": "abounded",
+         "englishV3": "abounded",
+         "englishV4": "abounding",
+         "englishV5": "abounds"
+          }
+   },
+   "abrade": {
+      "base": "ଘଷ",
+      "forms": {
+         "singular": ["ଘଷେ", "ଘଷନ୍ତି", "ଘଷ"],
+         "plural": ["ଘଷନ୍ତି", "ଘଷୁ", "ଘଷ"],
+         "englishV1": "abrade",
+         "englishV2": "abraded",
+         "englishV3": "abraded",
+         "englishV4": "abrading",
+         "englishV5": "abrades"
+      }
+   },
+"abrogate": {
+      "base": "ରଦ କର",
+      "forms": {
+         "singular": ["ରଦ କରେ", "ରଦ କରନ୍ତି", "ରଦ କର"],
+         "plural": ["ରଦ କରନ୍ତି", "ରଦ କରୁ", "ରଦ କର"],
+         "englishV1": "abrogate",
+         "englishV2": "abrogated",
+         "englishV3": "abrogated",
+         "englishV4": "abrogating",
+         "englishV5": "abrogates"
+      }
+   },
+"abscond": {
+      "base": "ପଳାଇବା",
+      "forms": {
+         "singular": ["ପଳାଇବେ", "ପଳାଇବନ୍ତି", "ପଳାଇବା"],
+         "plural": ["ପଳାଇବନ୍ତି", "ପଳାଇବୁ", "ପଳାଇବା"],
+         "englishV1": "abscond",
+         "englishV2": "absconded",
+         "englishV3": "absconded",
+         "englishV4": "absconding",
+         "englishV5": "absconds"
+      }
+   },
+"absolve": {
+      "base": "ମୁକ୍ତ କର",
+      "forms": {
+         "singular": ["ମୁକ୍ତ କରେ", "ମୁକ୍ତ କରନ୍ତି", "ମୁକ୍ତ କର"],
+         "plural": ["ମୁକ୍ତ କରନ୍ତି", "ମୁକ୍ତ କରୁ", "ମୁକ୍ତ କର"],
+         "englishV1": "absolve",
+         "englishV2": "absolved",
+         "englishV3": "absolved",
+         "englishV4": "absolving",
+         "englishV5": "absolves"
+      }
+   },
+"absorb": {
+      "base": "ଶୋଷଣ କର",
+      "forms": {
+         "singular": ["ଶୋଷଣ କରେ", "ଶୋଷଣ କରନ୍ତି", "ଶୋଷଣ କର"],
+         "plural": ["ଶୋଷଣ କରନ୍ତି", "ଶୋଷଣ କରୁ", "ଶୋଷଣ କର"],
+         "englishV1": "absorb",
+         "englishV2": "absorbed",
+         "englishV3": "absorbed",
+         "englishV4": "absorbing",
+         "englishV5": "absorbs"
+      }
+   },
+"abstain": {
+      "base": "ବିରତ ହେଉ",
+      "forms": {
+         "singular": ["ବିରତ ହେଉଁ", "ବିରତ ହେଉନ୍ତି", "ବିରତ ହେଉ"],
+         "plural": ["ବିରତ ହେଉନ୍ତି", "ବିରତ ହେଉ", "ବିରତ ହେଉ"],
+         "englishV1": "abstain",
+         "englishV2": "abstained",
+         "englishV3": "abstained",
+         "englishV4": "abstaining",
+         "englishV5": "abstains"
+      }
+   },
+"abstract": {
+      "base": "ସାରାଂଶ କର",
+      "forms": {
+         "singular": ["ସାରାଂଶ କରେ", "ସାରାଂଶ କରନ୍ତି", "ସାରାଂଶ କର"],
+         "plural": ["ସାରାଂଶ କରନ୍ତି", "ସାରାଂଶ କରୁ", "ସାରାଂଶ କର"],
+         "englishV1": "abstract",
+         "englishV2": "abstracted",
+         "englishV3": "abstracted",
+         "englishV4": "abstracting",
+         "englishV5": "abstracts"
+      }
+   },
+"abstruse": {
+      "base": "ଅସ୍ପଷ୍ଟ କର",
+      "forms": {
+         "singular": ["ଅସ୍ପଷ୍ଟ କରେ", "ଅସ୍ପଷ୍ଟ କରନ୍ତି", "ଅସ୍ପଷ୍ଟ କର"],
+         "plural": ["ଅସ୍ପଷ୍ଟ କରନ୍ତି", "ଅସ୍ପଷ୍ଟ କରୁ", "ଅସ୍ପଷ୍ଟ କର"],
+         "englishV1": "abstruse",
+         "englishV2": "abstrused",
+         "englishV3": "abstrused",
+         "englishV4": "abstrusing",
+         "englishV5": "abstruses"
+      }
+   },
+"abuse": {
+      "base": "ଦୁର୍ବ୍ୟବହାର କର",
+      "forms": {
+         "singular": ["ଦୁର୍ବ୍ୟବହାର କରେ", "ଦୁର୍ବ୍ୟବହାର କରନ୍ତି", "ଦୁର୍ବ୍ୟବହାର କର"],
+         "plural": ["ଦୁର୍ବ୍ୟବହାର କରନ୍ତି", "ଦୁର୍ବ୍ୟବହାର କରୁ", "ଦୁର୍ବ୍ୟବହାର କର"],
+         "englishV1": "abuse",
+         "englishV2": "abused",
+         "englishV3": "abused",
+         "englishV4": "abusing",
+         "englishV5": "abuses"
       }
    }
 }
