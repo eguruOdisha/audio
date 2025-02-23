@@ -2339,5 +2339,380 @@
     "englishV4": "aweighing", 
     "englishV5": "aweighs" 
   } 
-} 
+},
+      "balance": { 
+  "base": "ସନ୍ତୁଳନ", 
+  "forms": { 
+    "singular": ["ସନ୍ତୁଳନ କରେ", "ସନ୍ତୁଳନ କରନ୍ତି", "ସନ୍ତୁଳନ କର"], 
+    "plural": ["ସନ୍ତୁଳନ କରନ୍ତି", "ସନ୍ତୁଳନ କରୁ", "ସନ୍ତୁଳନ କର"], 
+    "englishV1": "balance", 
+    "englishV2": "balanced", 
+    "englishV3": "balanced", 
+    "englishV4": "balancing", 
+    "englishV5": "balances" 
+  } 
+},  
+"bake": { 
+  "base": "ପଚା", 
+  "forms": { 
+    "singular": ["ପଚାଏ", "ପଚାନ୍ତି", "ପଚା"], 
+    "plural": ["ପଚାନ୍ତି", "ପଚାଉ", "ପଚା"], 
+    "englishV1": "bake", 
+    "englishV2": "baked", 
+    "englishV3": "baked", 
+    "englishV4": "baking", 
+    "englishV5": "bakes" 
+  } 
+},  
+"banish": { 
+  "base": "ନିଷ୍କାସନ", 
+  "forms": { 
+    "singular": ["ନିଷ୍କାସନ କରେ", "ନିଷ୍କାସନ କରନ୍ତି", "ନିଷ୍କାସନ କର"], 
+    "plural": ["ନିଷ୍କାସନ କରନ୍ତି", "ନିଷ୍କାସନ କରୁ", "ନିଷ୍କାସନ କର"], 
+    "englishV1": "banish", 
+    "englishV2": "banished", 
+    "englishV3": "banished", 
+    "englishV4": "banishing", 
+    "englishV5": "banishes" 
+  } 
+},  
+"bargain": { 
+  "base": "ବାଟାମାତା", 
+  "forms": { 
+    "singular": ["ବାଟାମାତା କରେ", "ବାଟାମାତା କରନ୍ତି", "ବାଟାମାତା କର"], 
+    "plural": ["ବାଟାମାତା କରନ୍ତି", "ବାଟାମାତା କରୁ", "ବାଟାମାତା କର"], 
+    "englishV1": "bargain", 
+    "englishV2": "bargained", 
+    "englishV3": "bargained", 
+    "englishV4": "bargaining", 
+    "englishV5": "bargains" 
+  } 
+},  
+"bark": { 
+  "base": "ଭୂକ", 
+  "forms": { 
+    "singular": ["ଭୂକେ", "ଭୂକନ୍ତି", "ଭୂକ"], 
+    "plural": ["ଭୂକନ୍ତି", "ଭୂକୁ", "ଭୂକ"], 
+    "englishV1": "bark", 
+    "englishV2": "barked", 
+    "englishV3": "barked", 
+    "englishV4": "barking", 
+    "englishV5": "barks" 
+  } 
+},  
+"bathe": { 
+  "base": "ସ୍ନାନ", 
+  "forms": { 
+    "singular": ["ସ୍ନାନ କରେ", "ସ୍ନାନ କରନ୍ତି", "ସ୍ନାନ କର"], 
+    "plural": ["ସ୍ନାନ କରନ୍ତି", "ସ୍ନାନ କରୁ", "ସ୍ନାନ କର"], 
+    "englishV1": "bathe", 
+    "englishV2": "bathed", 
+    "englishV3": "bathed", 
+    "englishV4": "bathing", 
+    "englishV5": "bathes" 
+  } 
+},  
+"battle": { 
+  "base": "ଯୁଦ୍ଧ", 
+  "forms": { 
+    "singular": ["ଯୁଦ୍ଧ କରେ", "ଯୁଦ୍ଧ କରନ୍ତି", "ଯୁଦ୍ଧ କର"], 
+    "plural": ["ଯୁଦ୍ଧ କରନ୍ତି", "ଯୁଦ୍ଧ କରୁ", "ଯୁଦ୍ଧ କର"], 
+    "englishV1": "battle", 
+    "englishV2": "battled", 
+    "englishV3": "battled", 
+    "englishV4": "battling", 
+    "englishV5": "battles" 
+  } 
+},  
+"back": { 
+  "base": "ପଛରେ ଦେଖା", 
+  "forms": { 
+    "singular": ["ପଛରେ ଦେଖାଏ", "ପଛରେ ଦେଖାନ୍ତି", "ପଛରେ ଦେଖା"], 
+    "plural": ["ପଛରେ ଦେଖାନ୍ତି", "ପଛରେ ଦେଖାଉ", "ପଛରେ ଦେଖା"], 
+    "englishV1": "back", 
+    "englishV2": "backed", 
+    "englishV3": "backed", 
+    "englishV4": "backing", 
+    "englishV5": "backs" 
+  } 
+},  
+"bait": { 
+  "base": "ଫାନ୍ଦ", 
+  "forms": { 
+    "singular": ["ଫାନ୍ଦ କରେ", "ଫାନ୍ଦ କରନ୍ତି", "ଫାନ୍ଦ କର"], 
+    "plural": ["ଫାନ୍ଦ କରନ୍ତି", "ଫାନ୍ଦ କରୁ", "ଫାନ୍ଦ କର"], 
+    "englishV1": "bait", 
+    "englishV2": "baited", 
+    "englishV3": "baited", 
+    "englishV4": "baiting", 
+    "englishV5": "baits" 
+  } 
+},  
+"ball": { 
+  "base": "ଗୋଳା", 
+  "forms": { 
+    "singular": ["ଗୋଳା କରେ", "ଗୋଳା କରନ୍ତି", "ଗୋଳା କର"], 
+    "plural": ["ଗୋଳା କରନ୍ତି", "ଗୋଳା କରୁ", "ଗୋଳା କର"], 
+    "englishV1": "ball", 
+    "englishV2": "balled", 
+    "englishV3": "balled", 
+    "englishV4": "balling", 
+    "englishV5": "balls" 
+  } 
+},
+      "bandage": { 
+  "base": "ପଟି", 
+  "forms": { 
+    "singular": ["ପଟି ବାନ୍ଧେ", "ପଟି ବାନ୍ଧନ୍ତି", "ପଟି ବାନ୍ଧ"], 
+    "plural": ["ପଟି ବାନ୍ଧନ୍ତି", "ପଟି ବାନ୍ଧୁ", "ପଟି ବାନ୍ଧ"], 
+    "englishV1": "bandage", 
+    "englishV2": "bandaged", 
+    "englishV3": "bandaged", 
+    "englishV4": "bandaging", 
+    "englishV5": "bandages" 
+  } 
+},  
+"bank": { 
+  "base": "ଥୋପ", 
+  "forms": { 
+    "singular": ["ଥୋପେ", "ଥୋପନ୍ତି", "ଥୋପ"], 
+    "plural": ["ଥୋପନ୍ତି", "ଥୋପୁ", "ଥୋପ"], 
+    "englishV1": "bank", 
+    "englishV2": "banked", 
+    "englishV3": "banked", 
+    "englishV4": "banking", 
+    "englishV5": "banks" 
+  } 
+},  
+"bash": { 
+  "base": "ପିଟ", 
+  "forms": { 
+    "singular": ["ପିଟେ", "ପିଟନ୍ତି", "ପିଟ"], 
+    "plural": ["ପିଟନ୍ତି", "ପିଟୁ", "ପିଟ"], 
+    "englishV1": "bash", 
+    "englishV2": "bashed", 
+    "englishV3": "bashed", 
+    "englishV4": "bashing", 
+    "englishV5": "bashes" 
+  } 
+},  
+"baste": { 
+  "base": "ପେନ୍ତ", 
+  "forms": { 
+    "singular": ["ପେନ୍ତେ", "ପେନ୍ତନ୍ତି", "ପେନ୍ତ"], 
+    "plural": ["ପେନ୍ତନ୍ତି", "ପେନ୍ତୁ", "ପେନ୍ତ"], 
+    "englishV1": "baste", 
+    "englishV2": "basted", 
+    "englishV3": "basted", 
+    "englishV4": "basting", 
+    "englishV5": "bastes" 
+  } 
+},  
+"batch": { 
+  "base": "ସମୁହ", 
+  "forms": { 
+    "singular": ["ସମୁହ କରେ", "ସମୁହ କରନ୍ତି", "ସମୁହ କର"], 
+    "plural": ["ସମୁହ କରନ୍ତି", "ସମୁହ କରୁ", "ସମୁହ କର"], 
+    "englishV1": "batch", 
+    "englishV2": "batched", 
+    "englishV3": "batched", 
+    "englishV4": "batching", 
+    "englishV5": "batches" 
+  } 
+},  
+"bay": { 
+  "base": "ଭୂଙ୍ଗ", 
+  "forms": { 
+    "singular": ["ଭୂଙ୍ଗେ", "ଭୂଙ୍ଗନ୍ତି", "ଭୂଙ୍ଗ"], 
+    "plural": ["ଭୂଙ୍ଗନ୍ତି", "ଭୂଙ୍ଗୁ", "ଭୂଙ୍ଗ"], 
+    "englishV1": "bay", 
+    "englishV2": "bayed", 
+    "englishV3": "bayed", 
+    "englishV4": "baying", 
+    "englishV5": "bays" 
+  } 
+},  
+"bawl": { 
+  "base": "କାନ୍ଦ", 
+  "forms": { 
+    "singular": ["କାନ୍ଦେ", "କାନ୍ଦନ୍ତି", "କାନ୍ଦ"], 
+    "plural": ["କାନ୍ଦନ୍ତି", "କାନ୍ଦୁ", "କାନ୍ଦ"], 
+    "englishV1": "bawl", 
+    "englishV2": "bawled", 
+    "englishV3": "bawled", 
+    "englishV4": "bawling", 
+    "englishV5": "bawls" 
+  } 
+},  
+"barricade": { 
+  "base": "ବାରିକେଡ଼", 
+  "forms": { 
+    "singular": ["ବାରିକେଡ଼ କରେ", "ବାରିକେଡ଼ କରନ୍ତି", "ବାରିକେଡ଼ କର"], 
+    "plural": ["ବାରିକେଡ଼ କରନ୍ତି", "ବାରିକେଡ଼ କରୁ", "ବାରିକେଡ଼ କର"], 
+    "englishV1": "barricade", 
+    "englishV2": "barricaded", 
+    "englishV3": "barricaded", 
+    "englishV4": "barricading", 
+    "englishV5": "barricades" 
+  } 
+},  
+"batter": { 
+  "base": "ମାଡ଼", 
+  "forms": { 
+    "singular": ["ମାଡ଼େ", "ମାଡ଼ନ୍ତି", "ମାଡ଼"], 
+    "plural": ["ମାଡ଼ନ୍ତି", "ମାଡ଼ୁ", "ମାଡ଼"], 
+    "englishV1": "batter", 
+    "englishV2": "battered", 
+    "englishV3": "battered", 
+    "englishV4": "battering", 
+    "englishV5": "batters" 
+  } 
+},
+      "be": { 
+  "base": "ହେବା", 
+  "forms": { 
+    "singular": ["ହେବା କରେ", "ହେବା କରନ୍ତି", "ହେବା କର"], 
+    "plural": ["ହେବା କରନ୍ତି", "ହେବା କରୁ", "ହେବା କର"], 
+    "englishV1": "be", 
+    "englishV2": "was/were", 
+    "englishV3": "been", 
+    "englishV4": "being", 
+    "englishV5": "is/are"
+  } 
+},
+"become": { 
+  "base": "ହେବା", 
+  "forms": { 
+    "singular": ["ହେବା କରେ", "ହେବା କରନ୍ତି", "ହେବା କର"], 
+    "plural": ["ହେବା କରନ୍ତି", "ହେବା କରୁ", "ହେବା କର"], 
+    "englishV1": "become", 
+    "englishV2": "became", 
+    "englishV3": "become", 
+    "englishV4": "becoming", 
+    "englishV5": "becomes"
+  } 
+},
+"begin": { 
+  "base": "ଆରମ୍ଭ କରିବା", 
+  "forms": { 
+    "singular": ["ଆରମ୍ଭ କରେ", "ଆରମ୍ଭ କରନ୍ତି", "ଆରମ୍ଭ କର"], 
+    "plural": ["ଆରମ୍ଭ କରନ୍ତି", "ଆରମ୍ଭ କରୁ", "ଆରମ୍ଭ କର"], 
+    "englishV1": "begin", 
+    "englishV2": "began", 
+    "englishV3": "begun", 
+    "englishV4": "beginning", 
+    "englishV5": "begins"
+  } 
+},
+"behave": { 
+  "base": "ଆଚରଣ କରିବା", 
+  "forms": { 
+    "singular": ["ଆଚରଣ କରେ", "ଆଚରଣ କରନ୍ତି", "ଆଚରଣ କର"], 
+    "plural": ["ଆଚରଣ କରନ୍ତି", "ଆଚରଣ କରୁ", "ଆଚରଣ କର"], 
+    "englishV1": "behave", 
+    "englishV2": "behaved", 
+    "englishV3": "behaved", 
+    "englishV4": "behaving", 
+    "englishV5": "behaves"
+  } 
+},
+"befriend": { 
+  "base": "ମିତ୍ରତା କରିବା", 
+  "forms": { 
+    "singular": ["ମିତ୍ରତା କରେ", "ମିତ୍ରତା କରନ୍ତି", "ମିତ୍ରତା କର"], 
+    "plural": ["ମିତ୍ରତା କରନ୍ତି", "ମିତ୍ରତା କରୁ", "ମିତ୍ରତା କର"], 
+    "englishV1": "befriend", 
+    "englishV2": "befriended", 
+    "englishV3": "befriended", 
+    "englishV4": "befriending", 
+    "englishV5": "befriends"
+  } 
+},
+"belong": { 
+  "base": "ଉପକୃତ ହେବା", 
+  "forms": { 
+    "singular": ["ଉପକୃତ ହେବା କରେ", "ଉପକୃତ ହେବା କରନ୍ତି", "ଉପକୃତ ହେବା କର"], 
+    "plural": ["ଉପକୃତ ହେବା କରନ୍ତି", "ଉପକୃତ ହେବା କରୁ", "ଉପକୃତ ହେବା କର"], 
+    "englishV1": "belong", 
+    "englishV2": "belonged", 
+    "englishV3": "belonged", 
+    "englishV4": "belonging", 
+    "englishV5": "belongs"
+  } 
+},
+"betray": { 
+  "base": "ଧୋକା ଦେବା", 
+  "forms": { 
+    "singular": ["ଧୋକା ଦେବା କରେ", "ଧୋକା ଦେବା କରନ୍ତି", "ଧୋକା ଦେବା କର"], 
+    "plural": ["ଧୋକା ଦେବା କରନ୍ତି", "ଧୋକା ଦେବା କରୁ", "ଧୋକା ଦେବା କର"], 
+    "englishV1": "betray", 
+    "englishV2": "betrayed", 
+    "englishV3": "betrayed", 
+    "englishV4": "betraying", 
+    "englishV5": "betrays"
+  } 
+},
+"behold": { 
+  "base": "ଦେଖିବା", 
+  "forms": { 
+    "singular": ["ଦେଖିବା କରେ", "ଦେଖିବା କରନ୍ତି", "ଦେଖିବା କର"], 
+    "plural": ["ଦେଖିବା କରନ୍ତି", "ଦେଖିବା କରୁ", "ଦେଖିବା କର"], 
+    "englishV1": "behold", 
+    "englishV2": "beheld", 
+    "englishV3": "beheld", 
+    "englishV4": "beholding", 
+    "englishV5": "beholds"
+  } 
+},
+"bet": { 
+  "base": "ପ୍ରତିଶ୍ରୁତି କରିବା", 
+  "forms": { 
+    "singular": ["ପ୍ରତିଶ୍ରୁତି କରେ", "ପ୍ରତିଶ୍ରୁତି କରନ୍ତି", "ପ୍ରତିଶ୍ରୁତି କର"], 
+    "plural": ["ପ୍ରତିଶ୍ରୁତି କରନ୍ତି", "ପ୍ରତିଶ୍ରୁତି କରୁ", "ପ୍ରତିଶ୍ରୁତି କର"], 
+    "englishV1": "bet", 
+    "englishV2": "bet", 
+    "englishV3": "bet", 
+    "englishV4": "betting", 
+    "englishV5": "bets"
+  } 
+},
+"bemoan": { 
+  "base": "ଶୋକ କରିବା", 
+  "forms": { 
+    "singular": ["ଶୋକ କରେ", "ଶୋକ କରନ୍ତି", "ଶୋକ କର"], 
+    "plural": ["ଶୋକ କରନ୍ତି", "ଶୋକ କରୁ", "ଶୋକ କର"], 
+    "englishV1": "bemoan", 
+    "englishV2": "bemoaned", 
+    "englishV3": "bemoaned", 
+    "englishV4": "bemoaning", 
+    "englishV5": "bemoans"
+  } 
+},
+"behead": { 
+  "base": "ଶରୀର ଚିହ୍ନ କରିବା", 
+  "forms": { 
+    "singular": ["ଶରୀର ଚିହ୍ନ କରେ", "ଶରୀର ଚିହ୍ନ କରନ୍ତି", "ଶରୀର ଚିହ୍ନ କର"], 
+    "plural": ["ଶରୀର ଚିହ୍ନ କରନ୍ତି", "ଶରୀର ଚିହ୍ନ କରୁ", "ଶରୀର ଚିହ୍ନ କର"], 
+    "englishV1": "behead", 
+    "englishV2": "beheaded", 
+    "englishV3": "beheaded", 
+    "englishV4": "beheading", 
+    "englishV5": "beheads"
+  } 
+},
+"bequeath": { 
+  "base": "ବିକ୍ରୟ କରିବା", 
+  "forms": { 
+    "singular": ["ବିକ୍ରୟ କରେ", "ବିକ୍ରୟ କରନ୍ତି", "ବିକ୍ରୟ କର"], 
+    "plural": ["ବିକ୍ରୟ କରନ୍ତି", "ବିକ୍ରୟ କରୁ", "ବିକ୍ରୟ କର"], 
+    "englishV1": "bequeath", 
+    "englishV2": "bequeathed", 
+    "englishV3": "bequeathed", 
+    "englishV4": "bequeathing", 
+    "englishV5": "bequeaths"
+  } 
+}
+
+
+
 }
