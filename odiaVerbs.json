@@ -2711,7 +2711,150 @@
     "englishV4": "bequeathing", 
     "englishV5": "bequeaths"
   } 
+},
+"bid": {
+  "base": "ଅନୁରୋଧ",
+  "forms": {
+    "singular": ["ଅନୁରୋଧ କରେ", "ଅନୁରୋଧ କରନ୍ତି", "ଅନୁରୋଧ କର"],
+    "plural": ["ଅନୁରୋଧ କରନ୍ତି", "ଅନୁରୋଧ କରୁ", "ଅନୁରୋଧ କର"],
+    "englishV1": "bid",
+    "englishV2": "bid",
+    "englishV3": "bid",
+    "englishV4": "bidding",
+    "englishV5": "bids"
+  }
+},
+
+"bite": {
+  "base": "କାମଡା",
+  "forms": {
+    "singular": ["କାମଡା କରେ", "କାମଡା କରନ୍ତି", "କାମଡା କର"],
+    "plural": ["କାମଡା କରନ୍ତି", "କାମଡା କରୁ", "କାମଡା କର"],
+    "englishV1": "bite",
+    "englishV2": "bit",
+    "englishV3": "bitten",
+    "englishV4": "biting",
+    "englishV5": "bites"
+  }
+},
+
+"bind": {
+  "base": "ବନ୍ଧିବା",
+  "forms": {
+    "singular": ["ବନ୍ଧିବା କରେ", "ବନ୍ଧିବା କରନ୍ତି", "ବନ୍ଧିବା କର"],
+    "plural": ["ବନ୍ଧିବା କରନ୍ତି", "ବନ୍ଧିବା କରୁ", "ବନ୍ଧିବା କର"],
+    "englishV1": "bind",
+    "englishV2": "bound",
+    "englishV3": "bound",
+    "englishV4": "binding",
+    "englishV5": "binds"
+  }
+},
+
+"bilk": {
+  "base": "ଧୋକା ଦେବା",
+  "forms": {
+    "singular": ["ଧୋକା ଦେବା କରେ", "ଧୋକା ଦେବା କରନ୍ତି", "ଧୋକା ଦେବା କର"],
+    "plural": ["ଧୋକା ଦେବା କରନ୍ତି", "ଧୋକା ଦେବା କରୁ", "ଧୋକା ଦେବା କର"],
+    "englishV1": "bilk",
+    "englishV2": "bilked",
+    "englishV3": "bilked",
+    "englishV4": "bilking",
+    "englishV5": "bilks"
+  }
+},
+
+"binge": {
+  "base": "ଅତିରିକ୍ତ ଖାଇବା",
+  "forms": {
+    "singular": ["ଅତିରିକ୍ତ ଖାଇବା କରେ", "ଅତିରିକ୍ତ ଖାଇବା କରନ୍ତି", "ଅତିରିକ୍ତ ଖାଇବା କର"],
+    "plural": ["ଅତିରିକ୍ତ ଖାଇବା କରନ୍ତି", "ଅତିରିକ୍ତ ଖାଇବା କରୁ", "ଅତିରିକ୍ତ ଖାଇବା କର"],
+    "englishV1": "binge",
+    "englishV2": "binged",
+    "englishV3": "binged",
+    "englishV4": "binging",
+    "englishV5": "binges"
+  }
+},
+
+"bicker": {
+  "base": "ତର୍କ କରିବା",
+  "forms": {
+    "singular": ["ତର୍କ କରିବା କରେ", "ତର୍କ କରିବା କରନ୍ତି", "ତର୍କ କରିବା କର"],
+    "plural": ["ତର୍କ କରିବା କରନ୍ତି", "ତର୍କ କରିବା କରୁ", "ତର୍କ କରିବା କର"],
+    "englishV1": "bicker",
+    "englishV2": "bickered",
+    "englishV3": "bickered",
+    "englishV4": "bickering",
+    "englishV5": "bickers"
+  }
+},
+      "bite": {
+  "base": "କାମଡା",
+  "forms": {
+    "singular": ["କାମଡା କରେ", "କାମଡା କରନ୍ତି", "କାମଡା କର"],
+    "plural": ["କାମଡା କରନ୍ତି", "କାମଡା କରୁ", "କାମଡା କର"],
+    "englishV1": "bite",
+    "englishV2": "bit",
+    "englishV3": "bitten",
+    "englishV4": "biting",
+    "englishV5": "bites"
+  }
+},
+
+"bind": {
+  "base": "ବନ୍ଧିବା",
+  "forms": {
+    "singular": ["ବନ୍ଧିବା କରେ", "ବନ୍ଧିବା କରନ୍ତି", "ବନ୍ଧିବା କର"],
+    "plural": ["ବନ୍ଧିବା କରନ୍ତି", "ବନ୍ଧିବା କରୁ", "ବନ୍ଧିବା କର"],
+    "englishV1": "bind",
+    "englishV2": "bound",
+    "englishV3": "bound",
+    "englishV4": "binding",
+    "englishV5": "binds"
+  }
+},
+
+"bilk": {
+  "base": "ଧୋକା ଦେବା",
+  "forms": {
+    "singular": ["ଧୋକା ଦେବା କରେ", "ଧୋକା ଦେବା କରନ୍ତି", "ଧୋକା ଦେବା କର"],
+    "plural": ["ଧୋକା ଦେବା କରନ୍ତି", "ଧୋକା ଦେବା କରୁ", "ଧୋକା ଦେବା କର"],
+    "englishV1": "bilk",
+    "englishV2": "bilked",
+    "englishV3": "bilked",
+    "englishV4": "bilking",
+    "englishV5": "bilks"
+  }
+},
+
+"binge": {
+  "base": "ଅତିରିକ୍ତ ଖାଇବା",
+  "forms": {
+    "singular": ["ଅତିରିକ୍ତ ଖାଇବା କରେ", "ଅତିରିକ୍ତ ଖାଇବା କରନ୍ତି", "ଅତିରିକ୍ତ ଖାଇବା କର"],
+    "plural": ["ଅତିରିକ୍ତ ଖାଇବା କରନ୍ତି", "ଅତିରିକ୍ତ ଖାଇବା କରୁ", "ଅତିରିକ୍ତ ଖାଇବା କର"],
+    "englishV1": "binge",
+    "englishV2": "binged",
+    "englishV3": "binged",
+    "englishV4": "binging",
+    "englishV5": "binges"
+  }
+},
+
+"bicker": {
+  "base": "ତର୍କ କରିବା",
+  "forms": {
+    "singular": ["ତର୍କ କରେ", "ତର୍କ କରନ୍ତି", "ତର୍କ କର"],
+    "plural": ["ତର୍କ କରନ୍ତି", "ତର୍କ କରୁ", "ତର୍କ କର"],
+    "englishV1": "bicker",
+    "englishV2": "bickered",
+    "englishV3": "bickered",
+    "englishV4": "bickering",
+    "englishV5": "bickers"
+  }
 }
+
+      
 
 
 
