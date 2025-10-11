@@ -118,19 +118,154 @@
   ],
   "1": [
     {
-      "keywords": ["crime", "atrocity", "offence", "beating", "abuse"],
-      "answer": "Beating, abusing, or insulting an SC or ST person is a crime. Destroying their house or land is also a crime under Chapter II.",
+      "keywords": ["chapter ii", "which chapter", "defines atrocities", "chapter do", "kaun sa chapter"],
+      "answer": "Chapter II defines atrocities and tells what crimes are punishable under the SC/ST Act.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l1_q1.mp3"
     },
     {
-      "keywords": ["officer", "duty", "government", "honest"],
-      "answer": "Government officers must do their duty honestly under this law. They must help SC and ST people and not ignore their complaints.",
+      "keywords": ["word used", "crimes called", "atrocities word", "shabd kya", "crimes ko kya kehte"],
+      "answer": "Atrocities is the word used for crimes against SC and ST people.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l1_q2.mp3"
     },
     {
-      "keywords": ["punishment", "repeat", "more", "harsh"],
-      "answer": "Those who repeat crimes against SC or ST people get more punishment. The law is strict with repeat offenders.",
+      "keywords": ["chapter describe", "mainly describe", "what describe", "kya batata", "describe karta"],
+      "answer": "Chapter II mainly describes crimes and punishments related to atrocities against SC and ST people.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l1_q3.mp3"
+    },
+    {
+      "keywords": ["type of abuse", "abuse crime", "what abuse", "kaun si abuse", "abuse type"],
+      "answer": "Physical or Verbal abuse against SC or ST people is a crime under this Act.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l1_q4.mp3"
+    },
+    {
+      "keywords": ["whose insult", "insult punishable", "punishable insult", "kiska apamaan", "beizzati kiska"],
+      "answer": "Insult of an SC or ST person is punishable under this law.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l1_q5.mp3"
+    },
+    {
+      "keywords": ["act harm", "illegal harm", "beating illegal", "maarpit", "chot illegal"],
+      "answer": "Beating an SC or ST person is an illegal act of harm under this Act.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l1_q6.mp3"
+    },
+    {
+      "keywords": ["type property", "property protected", "what property", "kaun si property", "sampatti type"],
+      "answer": "House and Land are the types of property protected under this Act.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l1_q7.mp3"
+    },
+    {
+      "keywords": ["whose property", "property whose", "protected property", "kiski sampatti", "property kiska"],
+      "answer": "Property of SC and ST people is protected from destruction under this law.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l1_q8.mp3"
+    },
+    {
+      "keywords": ["serious offence", "considered offence", "destruction offence", "gambhir apradh", "bada apradh"],
+      "answer": "Destruction of house or land of SC or ST people is considered a serious offence.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l1_q9.mp3"
+    },
+    {
+      "keywords": ["perform duties", "duties honestly", "who honest", "kaun imaandaar", "kartavya kaun"],
+      "answer": "Government Officers must perform their duties honestly under this law.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l1_q10.mp3"
+    },
+    {
+      "keywords": ["quality maintain", "officers maintain", "what quality", "kaun si quality", "gun kya"],
+      "answer": "Officers must maintain Honesty and integrity while performing their duties.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l1_q11.mp3"
+    },
+    {
+      "keywords": ["officers help", "who help", "should help", "kise madad", "sahayata kisko"],
+      "answer": "Government officers should help SC and ST people and not ignore their complaints.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l1_q12.mp3"
+    },
+    {
+      "keywords": ["stricter punishment", "receives punishment", "who receives", "kise zyada saza", "sakht saza"],
+      "answer": "Repeat Offenders receive stricter punishment under this Act.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l1_q13.mp3"
+    },
+    {
+      "keywords": ["increases after", "what increases", "punishment increases", "kya badhta", "saza badhti"],
+      "answer": "Punishment increases after repeated crimes against SC or ST people.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l1_q14.mp3"
+    },
+    {
+      "keywords": ["type crime repeated", "repeated crime", "crime type", "kaun sa apradh", "crime dobara"],
+      "answer": "Atrocity is the type of crime that when repeated, leads to harsher punishment.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l1_q15.mp3"
+    },
+    {
+      "keywords": ["chapter tell", "what tell", "tells about", "kya batata", "chapter ii batata"],
+      "answer": "Chapter II tells us about crimes called atrocities and their punishments.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l1_q16.mp3"
+    },
+    {
+      "keywords": ["beating abusing", "is what", "crime kya", "maarpit apamaan", "beating crime"],
+      "answer": "Beating or abusing an SC or ST person is a crime punishable under this Act.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l1_q17.mp3"
+    },
+    {
+      "keywords": ["work honestly", "must work", "who work", "kaun kaam", "imaandaari se"],
+      "answer": "Government officers must work honestly and help SC and ST people under this law.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l1_q18.mp3"
+    },
+    {
+      "keywords": ["repeats crime", "happens if", "repeat kare", "dobara kare", "phir se apradh"],
+      "answer": "If a person repeats the crime against SC or ST people, he gets more punishment.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l1_q19.mp3"
+    },
+    {
+      "keywords": ["kind acts", "acts called", "atrocities acts", "kaun se kaam", "kya kehte"],
+      "answer": "Violence, insult, or damage to property of SC or ST people are called atrocities.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l1_q20.mp3"
+    },
+    {
+      "keywords": ["examples atrocities", "what atrocities", "examples crimes", "udaharan", "atrocity example"],
+      "answer": "Examples of atrocities include beating, abusing, insulting, or destroying property of SC or ST people.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l1_q21.mp3"
+    },
+    {
+      "keywords": ["physical crime", "body harm", "physical violence", "sharirik hinsa", "body pe crime"],
+      "answer": "Physical crimes like beating, hitting, or causing bodily harm to SC or ST people are punishable.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l1_q22.mp3"
+    },
+    {
+      "keywords": ["verbal crime", "words insult", "abusive language", "shabdik apradh", "gaali dena"],
+      "answer": "Verbal crimes include abusing, insulting, or using offensive language against SC or ST people.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l1_q23.mp3"
+    },
+    {
+      "keywords": ["property crime", "damage property", "destroy house", "sampatti todna", "ghar todna"],
+      "answer": "Property crimes involve destroying, damaging, or illegally occupying house or land of SC or ST people.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l1_q24.mp3"
+    },
+    {
+      "keywords": ["officer duty", "government duty", "sarkari adhikari", "duty kya", "officer kartavya"],
+      "answer": "Government officers have the duty to act honestly, help SC and ST people, and not ignore their complaints.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l1_q25.mp3"
+    },
+    {
+      "keywords": ["ignore complaint", "officer ignore", "complaint ignore", "shikayat ignore", "andekhha karna"],
+      "answer": "Officers must NOT ignore complaints from SC and ST people. Ignoring is a violation of duty.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l1_q26.mp3"
+    },
+    {
+      "keywords": ["first time offender", "first crime", "pehli baar", "pehla apradh", "first offender"],
+      "answer": "Even first-time offenders face punishment, but repeat offenders get harsher punishment.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l1_q27.mp3"
+    },
+    {
+      "keywords": ["more severe", "harsher punishment", "strict punishment", "zyada sakht", "kathor saza"],
+      "answer": "The law is more severe with repeat offenders to ensure they don't commit crimes again.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l1_q28.mp3"
+    },
+    {
+      "keywords": ["why chapter important", "importance chapter", "chapter importance", "kyun zaroori", "mahatva kya"],
+      "answer": "Chapter II is important because it clearly defines what acts are crimes and what punishments offenders will face.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l1_q29.mp3"
+    },
+    {
+      "keywords": ["protect dignity", "dignity protected", "respect protect", "sammaan suraksha", "izzat bachana"],
+      "answer": "This chapter protects the dignity and respect of SC and ST people by punishing those who insult them.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l1_q30.mp3"
     }
   ],
   "2": [
@@ -208,4 +343,5 @@
   ]
 
 }
+
 
