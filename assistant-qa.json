@@ -1,0 +1,114 @@
+{
+  "0": [
+    {
+      "keywords": ["protect", "aim", "purpose", "why", "made"],
+      "answer": "This law protects SC and ST people from injustice. It stops violence and gives them safety, respect, and equal rights.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q1.mp3"
+    },
+    {
+      "keywords": ["violence", "stop", "prevent", "atrocity", "bad"],
+      "answer": "The Act stops violence and bad behaviour against SC and ST people. It punishes anyone who hurts or insults them.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q2.mp3"
+    },
+    {
+      "keywords": ["justice", "quick", "fast", "speedy", "fair"],
+      "answer": "The Act helps to give quick and fair justice to SC and ST victims through Special Courts.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q3.mp3"
+    },
+    {
+      "keywords": ["rights", "equal", "safety", "respect"],
+      "answer": "The Act gives SC and ST people safety, respect, and equal rights so they can live with dignity.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q4.mp3"
+    }
+  ],
+  "1": [
+    {
+      "keywords": ["crime", "atrocity", "offence", "beating", "abuse"],
+      "answer": "Beating, abusing, or insulting an SC or ST person is a crime. Destroying their house or land is also a crime under Chapter II.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l1_q1.mp3"
+    },
+    {
+      "keywords": ["officer", "duty", "government", "honest"],
+      "answer": "Government officers must do their duty honestly under this law. They must help SC and ST people and not ignore their complaints.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l1_q2.mp3"
+    },
+    {
+      "keywords": ["punishment", "repeat", "more", "harsh"],
+      "answer": "Those who repeat crimes against SC or ST people get more punishment. The law is strict with repeat offenders.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l1_q3.mp3"
+    }
+  ],
+  "2": [
+    {
+      "keywords": ["externment", "remove", "send", "away", "area"],
+      "answer": "Externment means removing bad persons from the area. If someone may create trouble, the officer can send him out to maintain peace.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l2_q1.mp3"
+    },
+    {
+      "keywords": ["permission", "return", "come back", "without"],
+      "answer": "If a person returns to the area without permission after being externed, he will be punished by law.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l2_q2.mp3"
+    },
+    {
+      "keywords": ["peace", "village", "safety", "maintain"],
+      "answer": "Externment helps to keep peace and safety in villages by removing troublemakers from the area.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l2_q3.mp3"
+    }
+  ],
+  "3": [
+    {
+      "keywords": ["special court", "fast", "judge", "quick"],
+      "answer": "Special Courts are made for fast justice in SC and ST cases. A Special Judge handles these cases without delay.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l3_q1.mp3"
+    },
+    {
+      "keywords": ["prosecutor", "victim", "fight", "case"],
+      "answer": "Special Prosecutors fight cases for victims in Special Courts. They help victims get justice.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l3_q2.mp3"
+    },
+    {
+      "keywords": ["chapter", "four", "iv"],
+      "answer": "Chapter IV provides for Special Courts. These courts hear SC and ST cases quickly to ensure speedy justice.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l3_q3.mp3"
+    }
+  ],
+  "4": [
+    {
+      "keywords": ["victim", "witness", "protection", "safe", "right"],
+      "answer": "Victims and witnesses have full protection under Chapter IVA. They should be treated with respect and the government must keep them safe.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l4_q1.mp3"
+    },
+    {
+      "keywords": ["threat", "trouble", "harass", "intimidate"],
+      "answer": "No one should threaten or trouble victims and witnesses. The law protects them from harassment and intimidation.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l4_q2.mp3"
+    },
+    {
+      "keywords": ["fear", "pressure", "fearless"],
+      "answer": "Victims and witnesses should get justice without fear or pressure. They have the right to speak freely in court.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l4_q3.mp3"
+    }
+  ],
+  "5": [
+    {
+      "keywords": ["prevent", "stop", "early", "before"],
+      "answer": "Chapter V says police and officers must stop crimes early before they happen. This is called preventive action.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q1.mp3"
+    },
+    {
+      "keywords": ["bail", "not allowed", "deny", "serious"],
+      "answer": "Bail is not allowed for serious offenders who commit atrocities under this Act. Section 18 denies anticipatory bail.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q2.mp3"
+    },
+    {
+      "keywords": ["stronger", "other law", "priority", "override"],
+      "answer": "This Act is stronger than other laws and gets priority. It can override other laws to protect SC and ST people.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q3.mp3"
+    },
+    {
+      "keywords": ["government", "monitor", "watch", "ensure"],
+      "answer": "The State Government must monitor the work properly and ensure justice reaches every SC and ST person.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q4.mp3"
+    }
+  ]
+}
