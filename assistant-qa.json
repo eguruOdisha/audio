@@ -1,397 +1,119 @@
 {
   "0": [
     {
-      "keywords": [
-        "main aim", "purpose", "why made", "objective", "goal",
-        "mukhya uddeshya", "maksad", "kyun banaya", "uddeshya kya hai",
-        "lakshya", "kanoon ka maksad", "is kanoon ka uddeshya"
-      ],
-      "answer": "The main aim of this law is to protect SC and ST people from injustice. It was made to ensure their safety, dignity, and equal rights in society.",
+      "keywords": ["which communities", "who protected", "communities protected", "kaun se log", "kon protected", "samudaay"],
+      "answer": "SC (Scheduled Castes) and ST (Scheduled Tribes) communities are protected under this law.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q1.mp3"
     },
     {
-      "keywords": [
-        "violence", "stop", "prevent", "atrocity", "bad behaviour",
-        "hinsa", "hinsa rokna", "atyachar", "buri harkat", "rok sakte",
-        "kaise rokta", "violence kaise", "atyachar rokne"
-      ],
-      "answer": "The Act stops violence and bad behaviour against SC and ST people. It prevents physical harm, verbal abuse, and any form of atrocity committed against them.",
+      "keywords": ["from what", "what protect", "protect from", "kis cheez se", "kya se bachata"],
+      "answer": "This law protects SC and ST people from injustice, discrimination, violence, and unfair treatment.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q2.mp3"
     },
     {
-      "keywords": [
-        "gives", "provide", "offer", "what get",
-        "deta hai", "pradaan karta", "milta hai", "kya milega",
-        "kya deta", "provide karta", "fayde", "labh"
-      ],
-      "answer": "The law gives SC and ST people three important things: safety from harm, respect in society, and equal rights. These ensure they can live with dignity and without fear.",
+      "keywords": ["main aim", "aim of act", "purpose", "mukhya uddeshya", "maksad"],
+      "answer": "The main aim of this Act is Protection - to protect SC and ST people from injustice and atrocities.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q3.mp3"
     },
     {
-      "keywords": [
-        "punishment", "punish", "who punished", "offender",
-        "saza", "dand", "kise saza", "apradhi", "saza milegi",
-        "kaun saza", "punishment kisko", "dand kise"
-      ],
-      "answer": "Anyone who hurts or insults SC or ST people gets punishment under this law. The Act punishes offenders who commit atrocities against them.",
+      "keywords": ["what prevent", "act prevent", "stops what", "kya rokta", "prevent karta"],
+      "answer": "The Act prevents violence and bad behaviour against SC and ST people.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q4.mp3"
     },
     {
-      "keywords": [
-        "justice", "quick", "fast", "speedy", "fair",
-        "nyay", "tezi se", "jaldi", "sheeghra", "insaaf",
-        "nyay kaise", "justice milta", "jaldi nyay"
-      ],
-      "answer": "The Act promotes quick and fair justice. It ensures speedy trial through Special Courts so victims don't have to wait long for justice.",
+      "keywords": ["against whom", "violence against", "prevented against", "kis ke khilaf", "violence kiske"],
+      "answer": "Violence is prevented against SC and ST people under this Act.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q5.mp3"
     },
     {
-      "keywords": [
-        "protects", "protect", "sc st", "scheduled caste", "scheduled tribe",
-        "suraksha", "bachata hai", "sc st ko", "anusuchit jati",
-        "kisko bachata", "protect karta", "suraksha kise"
-      ],
-      "answer": "The Act protects Scheduled Castes and Scheduled Tribes from injustice and crimes. Yes, this is absolutely correct - it is made specifically for their safety.",
+      "keywords": ["behaviour not allowed", "not allowed", "prohibited", "mana hai", "allowed nahi"],
+      "answer": "Atrocities - any violent, abusive, or discriminatory behaviour is not allowed under this Act.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q6.mp3"
     },
     {
-      "keywords": [
-        "allows violence", "violence allowed", "permit violence",
-        "hinsa ki anumati", "violence allowed hai", "hinsa kar sakte",
-        "maarpit allowed", "hinsa hone deta"
-      ],
-      "answer": "No, the Act does NOT allow violence against SC and ST people. In fact, it strictly stops and punishes such violence.",
+      "keywords": ["three values", "what provide", "three things", "teen cheezen", "teen mool"],
+      "answer": "This Act provides three values: Safety, Respect, and Rights to SC and ST people.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q7.mp3"
     },
     {
-      "keywords": [
-        "respect", "safety", "dignity",
-        "sammaan", "suraksha", "pratishtha", "izzat",
-        "sammaan milta", "suraksha deta", "izzat milti"
-      ],
-      "answer": "Yes, this law gives respect and safety to SC and ST people. It ensures their dignity and protects them from harm.",
+      "keywords": ["who receives", "equal rights who", "receives rights", "kise milta", "adhikaar kisko"],
+      "answer": "SC and ST people receive equal rights under this Act.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q8.mp3"
     },
     {
-      "keywords": [
-        "insult", "not punished", "no punishment",
-        "apamaan", "saza nahi", "punishment nahi",
-        "insult pe saza", "beizzati saza"
-      ],
-      "answer": "This is wrong! People who insult SC and ST WILL be punished under this law. The Act ensures strict punishment for such offenses.",
+      "keywords": ["type of rights", "what rights", "rights given", "kaun se adhikaar", "rights kya"],
+      "answer": "Equal Rights are given - meaning SC and ST people have the same rights as everyone else in society.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q9.mp3"
     },
     {
-      "keywords": [
-        "communities", "which people", "who protected",
-        "kaun se log", "kon protected", "samudaay",
-        "kise milta", "kis samudaay ko"
-      ],
-      "answer": "SC (Scheduled Castes) and ST (Scheduled Tribes) communities are protected under this law. These are the two specific groups this Act covers.",
+      "keywords": ["who faces punishment", "punishment who", "faces punishment", "kise saza", "punishment kaun"],
+      "answer": "Offenders who commit atrocities against SC and ST people face punishment under this Act.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q10.mp3"
     },
     {
-      "keywords": [
-        "injustice", "from what", "what protect",
-        "anyaay", "kis cheez se", "kya bachata",
-        "anyaay se suraksha", "kis se protect"
-      ],
-      "answer": "This law protects SC and ST people from injustice. It shields them from discrimination, violence, abuse, and unfair treatment.",
+      "keywords": ["action leads", "what leads punishment", "leads to punishment", "kya karne se", "action kaunsa"],
+      "answer": "Insult or Injury to SC or ST people leads to punishment under this law.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q11.mp3"
     },
     {
-      "keywords": [
-        "three values", "three things", "what provide",
-        "teen cheezen", "teen mool", "kya provide",
-        "kya milta", "teen baatein"
-      ],
-      "answer": "This Act provides three important values: Safety (protection from harm), Respect (dignity in society), and Rights (equal treatment under law).",
+      "keywords": ["ensures discipline", "discipline under", "what ensures", "anushasan kaise", "discipline kya"],
+      "answer": "Punishment ensures discipline under this law by making people follow rules and respect SC and ST communities.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q12.mp3"
     },
     {
-      "keywords": [
-        "equal rights", "type of rights", "what rights",
-        "barabar adhikaar", "samaan adhikaar", "kaun se adhikaar",
-        "rights kya", "adhikaar milte"
-      ],
-      "answer": "The Act gives Equal Rights to SC and ST people. This means they have the same rights as everyone else in society.",
+      "keywords": ["type of justice", "justice promote", "what justice", "kaun sa nyay", "justice type"],
+      "answer": "The Act promotes Fair Justice - quick and fair justice for victims of atrocities.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q13.mp3"
     },
     {
-      "keywords": [
-        "faces punishment", "who face", "offender punish",
-        "kaun saza", "apradhi ko saza", "punishment kaun",
-        "kise face karna", "dand bhugta"
-      ],
-      "answer": "Offenders who commit atrocities against SC and ST people face punishment under this Act. Anyone who hurts or insults them is punished.",
+      "keywords": ["who benefits", "benefits from", "justice for", "kise fayda", "labh kisko"],
+      "answer": "Victims of atrocities benefit from this justice system.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q14.mp3"
     },
     {
-      "keywords": [
-        "insult or injury", "action punish", "what leads",
-        "apamaan ya chot", "kaun sa kaam", "kya karne se",
-        "kya hone pe saza", "kis action pe"
-      ],
-      "answer": "Insult or Injury to SC or ST people leads to punishment under this law. Both verbal abuse and physical harm are serious offenses.",
+      "keywords": ["fast decision", "speedy trial", "word means", "tezi se faisla", "jaldi sunwaai"],
+      "answer": "Speedy Trial is the word that means fast decision-making in law. The Act ensures cases are decided quickly.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q15.mp3"
     },
     {
-      "keywords": [
-        "discipline", "ensure", "what ensure",
-        "anushasan", "kya ensure", "kshamta",
-        "discipline kaise", "ensure karta"
-      ],
-      "answer": "Punishment ensures discipline under this law. It makes sure people follow the rules and respect SC and ST communities.",
+      "keywords": ["why made", "act made why", "why created", "kyun banaya", "kaise bana"],
+      "answer": "This Act was made to protect SC and ST people from injustice and ensure their safety and dignity.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q16.mp3"
     },
     {
-      "keywords": [
-        "victims", "who benefit", "benefit from",
-        "pidit", "kise fayda", "labh kisko",
-        "victims ko", "pidit log"
-      ],
-      "answer": "Victims of atrocities benefit from this justice system. The Act is made to help those who suffer from discrimination and violence.",
+      "keywords": ["what stop", "act stops", "stops what", "kya rokta", "band karta"],
+      "answer": "The Act stops violence and bad behaviour against SC and ST people.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q17.mp3"
     },
     {
-      "keywords": [
-        "speedy trial", "fast decision", "quick court",
-        "tezi se sunwaai", "jaldi faisla", "sheeghra sunwaai",
-        "fast trial", "jaldi court"
-      ],
-      "answer": "Speedy Trial means fast decision-making in law. The Act ensures cases are decided quickly without long delays.",
+      "keywords": ["what give", "act gives", "gives what", "kya deta", "provide karta"],
+      "answer": "The Act gives SC and ST people safety and respect, along with equal rights.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q18.mp3"
     },
     {
-      "keywords": [
-        "protection word", "match protection", "protection mean",
-        "suraksha matlab", "protection ka arth", "bachao",
-        "suraksha kya hai", "protection means"
-      ],
-      "answer": "Protection means Safety for SC and ST people. It shields them from harm, violence, and discrimination.",
+      "keywords": ["who punished", "punished who", "punishment who", "kise saza milegi", "kaun saza"],
+      "answer": "Anyone who hurts or insults SC or ST people will be punished under this law.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q19.mp3"
     },
     {
-      "keywords": [
-        "violence word", "match violence", "violence mean",
-        "hinsa matlab", "violence ka arth", "maarpit",
-        "hinsa kya hai", "violence means"
-      ],
-      "answer": "Violence refers to bad behaviour stopped by the Act. It includes physical harm, abuse, and any cruel treatment.",
+      "keywords": ["justice type promote", "promote justice", "what justice promote", "kaun sa nyay", "justice kaunsa"],
+      "answer": "The Act promotes quick and fair justice through Special Courts for victims.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q20.mp3"
     },
     {
-      "keywords": [
-        "scst", "from injustice", "blank scst",
-        "anyaay se", "sc st ko", "khaali jagah",
-        "fill blank", "scst word"
-      ],
-      "answer": "The Act protects people of SC and ST from injustice. SCST is the correct word to fill in this blank.",
+      "keywords": ["1989", "when made", "year act", "kab bana", "kis saal"],
+      "answer": "The SC and ST (Prevention of Atrocities) Act was made in 1989.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q21.mp3"
     },
     {
-      "keywords": [
-        "stops violence", "act stops", "blank violence",
-        "hinsa rokta", "kya rokta", "violence blank",
-        "stops word"
-      ],
-      "answer": "The Act stops violence and bad behaviour. Violence is the correct word for this sentence.",
+      "keywords": ["full form", "sc st full", "scheduled", "poora naam", "sc st matlab"],
+      "answer": "SC stands for Scheduled Castes and ST stands for Scheduled Tribes.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q22.mp3"
     },
     {
-      "keywords": [
-        "gives safety", "law gives", "blank safety",
-        "suraksha deta", "kanoon deta", "safety blank",
-        "gives word"
-      ],
-      "answer": "The law gives safety and respect to SC and ST people. Safety is the key word here.",
+      "keywords": ["summary", "brief", "overview", "sankshipt", "short mein"],
+      "answer": "The SC/ST Act of 1989 protects Scheduled Castes and Scheduled Tribes from injustice. It stops violence, gives them safety and respect, punishes offenders, and ensures quick fair justice.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q23.mp3"
-    },
-    {
-      "keywords": [
-        "hurts", "insults", "blank hurts",
-        "chot pahunchata", "apamaan karta", "hurts blank",
-        "dukh deta"
-      ],
-      "answer": "Anyone who hurts or insults SC or ST people is punished. Hurts is the correct word to complete this sentence.",
-      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q24.mp3"
-    },
-    {
-      "keywords": [
-        "quick justice", "act gives", "blank quick",
-        "jaldi nyay", "act deta", "quick blank",
-        "tezi se"
-      ],
-      "answer": "The Act gives quick and fair justice. Quick is the correct word - not slow, costly, or private.",
-      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q25.mp3"
-    },
-    {
-      "keywords": [
-        "arrange law", "law protects", "arrange sentence",
-        "kram lagao", "vakya banao", "sentence arrange",
-        "shabd kram"
-      ],
-      "answer": "The correct sentence is: 'This law protects all SC/ST'. Remember - This, law, protects, all, SC/ST - in this order.",
-      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q26.mp3"
-    },
-    {
-      "keywords": [
-        "arrange violence", "stops violence", "arrange it stops",
-        "hinsa wala vakya", "violence kram", "sentence order"
-      ],
-      "answer": "The correct sentence is: 'It stops violence against SC/ST'. The order is - It, stops, violence, against, SC/ST.",
-      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q27.mp3"
-    },
-    {
-      "keywords": [
-        "arrange rights", "equal rights", "gives equal",
-        "adhikaar wala", "rights arrange", "barabar adhikaar vakya"
-      ],
-      "answer": "The correct sentence is: 'It gives SC/ST equal rights'. Order - It, gives, SC/ST, equal, rights.",
-      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q28.mp3"
-    },
-    {
-      "keywords": [
-        "arrange punishes", "punishes those", "hurting scst",
-        "saza wala vakya", "punish kram", "dukh dene wala"
-      ],
-      "answer": "The correct sentence is: 'It punishes those hurting SC/ST'. Order - It, punishes, those, hurting, SC/ST.",
-      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q29.mp3"
-    },
-    {
-      "keywords": [
-        "arrange justice", "ensures justice", "justice scst",
-        "nyay wala vakya", "justice arrange", "insaaf kram"
-      ],
-      "answer": "The correct sentence is: 'It ensures justice for SC/ST'. Order - It, ensures, justice, for, SC/ST.",
-      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q30.mp3"
-    },
-    {
-      "keywords": [
-        "animals", "protect animals", "for animals",
-        "janwar", "pashu suraksha", "animals ke liye",
-        "janwaron ki"
-      ],
-      "answer": "No, this Act is NOT to protect animals. It is specifically made to protect SC and ST people from injustice.",
-      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q31.mp3"
-    },
-    {
-      "keywords": [
-        "jobs", "give jobs", "employment",
-        "naukri", "rozgaar dena", "job milta",
-        "kaam deta"
-      ],
-      "answer": "The main aim is not to give jobs. The Act's main aim is to protect SC and ST people from injustice and atrocities.",
-      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q32.mp3"
-    },
-    {
-      "keywords": [
-        "roads", "build roads", "construction",
-        "sadak", "sadak banana", "nirman",
-        "roads banata"
-      ],
-      "answer": "No, this Act is not about building roads. It is a law to protect SC and ST people from violence and discrimination.",
-      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q33.mp3"
-    },
-    {
-      "keywords": [
-        "money", "free money", "financial",
-        "paisa", "muft paisa", "arthik",
-        "money milta"
-      ],
-      "answer": "The law doesn't directly give money. It gives safety, respect, and equal rights to SC and ST people.",
-      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q34.mp3"
-    },
-    {
-      "keywords": [
-        "houses", "free houses", "housing",
-        "ghar", "muft ghar", "awas",
-        "makan milta"
-      ],
-      "answer": "Free houses are not the focus of this Act. It focuses on giving safety, respect, and equal rights.",
-      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q35.mp3"
-    },
-    {
-      "keywords": [
-        "food", "free food", "meals",
-        "khana", "muft khana", "bhojan",
-        "food milta"
-      ],
-      "answer": "The Act doesn't provide food. It ensures safety, respect, and equal rights for SC and ST communities.",
-      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q36.mp3"
-    },
-    {
-      "keywords": [
-        "teachers", "teachers punished", "teachers punishment",
-        "adhyapak", "teacher ko saza", "shikshak saza"
-      ],
-      "answer": "Teachers are not specifically targeted. The Act punishes anyone who hurts or insults SC or ST people - whoever they may be.",
-      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q37.mp3"
-    },
-    {
-      "keywords": [
-        "farmers", "farmers punished", "agricultural",
-        "kisan", "kisaan ko saza", "kheti"
-      ],
-      "answer": "Farmers are not the focus. The law punishes anyone - any person - who hurts or insults SC or ST people.",
-      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q38.mp3"
-    },
-    {
-      "keywords": [
-        "students", "students punished", "learners",
-        "vidyarthi", "student ko saza", "chhatr"
-      ],
-      "answer": "Students are not the target. The Act punishes anyone who commits atrocities against SC or ST people, regardless of their profession.",
-      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q39.mp3"
-    },
-    {
-      "keywords": [
-        "slow weak", "slow justice", "weak justice",
-        "dheema kamzor", "dheema nyay", "kamzor insaaf"
-      ],
-      "answer": "No! The Act does NOT promote slow and weak justice. It promotes quick and fair justice for victims.",
-      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q40.mp3"
-    },
-    {
-      "keywords": [
-        "costly long", "expensive justice", "costly justice",
-        "mehnga lamba", "mehnga nyay", "kharcha zyada"
-      ],
-      "answer": "No, not costly and long. The Act promotes quick and fair justice - making it accessible and fast.",
-      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q41.mp3"
-    },
-    {
-      "keywords": [
-        "private secret", "hidden justice", "secret justice",
-        "gupt chhupa", "chhupi adalat", "rahasya nyay"
-      ],
-      "answer": "No! Justice is not private and secret. The Act ensures quick and fair justice through proper legal procedures.",
-      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q42.mp3"
-    },
-    {
-      "keywords": [
-        "1989", "when made", "year act", "when passed",
-        "kab bana", "kis saal", "saal kaunsa", "1989 mein"
-      ],
-      "answer": "The SC and ST (Prevention of Atrocities) Act was made in 1989. It's been protecting these communities for over 30 years.",
-      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q43.mp3"
-    },
-    {
-      "keywords": [
-        "full form", "sc st full", "scheduled",
-        "poora naam", "full naam", "vistar mein",
-        "sc st matlab"
-      ],
-      "answer": "SC stands for Scheduled Castes and ST stands for Scheduled Tribes. These are communities that faced historical discrimination in India.",
-      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q44.mp3"
-    },
-    {
-      "keywords": [
-        "summary", "summarize", "brief", "overview",
-        "sankshipt", "saransh", "short mein", "overview do"
-      ],
-      "answer": "Brief summary: The SC/ST Act of 1989 protects Scheduled Castes and Scheduled Tribes from injustice. It stops violence, gives them safety and respect, punishes offenders, and ensures quick fair justice through Special Courts.",
-      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l0_q45.mp3"
     }
   ],
   "1": [
@@ -486,3 +208,4 @@
   ]
 
 }
+
