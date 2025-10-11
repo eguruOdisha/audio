@@ -270,78 +270,611 @@
   ],
   "2": [
     {
-      "keywords": ["externment", "remove", "send", "away", "area"],
-      "answer": "Externment means removing bad persons from the area. If someone may create trouble, the officer can send him out to maintain peace.",
+      "keywords": ["which chapter", "externment chapter", "chapter deals", "kaun sa chapter", "chapter iii"],
+      "answer": "Chapter III deals with externment - the removal of bad persons from an area.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l2_q1.mp3"
     },
     {
-      "keywords": ["permission", "return", "come back", "without"],
-      "answer": "If a person returns to the area without permission after being externed, he will be punished by law.",
+      "keywords": ["who removed", "removed from area", "bad persons", "kaun nikala", "area se kaun"],
+      "answer": "Bad Persons who may create trouble are removed from the area.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l2_q2.mp3"
     },
     {
-      "keywords": ["peace", "village", "safety", "maintain"],
-      "answer": "Externment helps to keep peace and safety in villages by removing troublemakers from the area.",
+      "keywords": ["purpose externment", "externment purpose", "why externment", "uddeshya kya", "kyun nikalna"],
+      "answer": "The purpose of externment is to maintain Peace and safety in the area.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l2_q3.mp3"
+    },
+    {
+      "keywords": ["who takes action", "preventive action", "takes action", "kaun action", "officer action"],
+      "answer": "An Officer (police or government officer) takes preventive action through externment.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l2_q4.mp3"
+    },
+    {
+      "keywords": ["kind action", "action prevents", "what prevents", "kaun sa action", "rokne wala"],
+      "answer": "Externment is the kind of action that prevents trouble before it happens.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l2_q5.mp3"
+    },
+    {
+      "keywords": ["sent out", "who sent", "can be sent", "kise bheja", "bahar bheja"],
+      "answer": "A Troublemaker - someone who may create problems - can be sent out of the area.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l2_q6.mp3"
+    },
+    {
+      "keywords": ["how long", "removed how long", "time period", "kitne samay", "kab tak"],
+      "answer": "The person is removed for a Temporary Period - for some time as decided by authorities.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l2_q7.mp3"
+    },
+    {
+      "keywords": ["must do", "person do", "after externment", "kya karna", "externment ke baad"],
+      "answer": "The person must Leave the Area and stay away for the specified time period.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l2_q8.mp3"
+    },
+    {
+      "keywords": ["nature removal", "removal nature", "type removal", "kaisa nikalna", "removal type"],
+      "answer": "The nature of removal is Temporary - not permanent, the person can return later with permission.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l2_q9.mp3"
+    },
+    {
+      "keywords": ["must get", "before returning", "need permission", "kya chahiye", "wapas aane"],
+      "answer": "A person must get Permission from authorities before returning to the area.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l2_q10.mp3"
+    },
+    {
+      "keywords": ["returns early", "comes back", "happens if", "jaldi aaye", "wapas aaye"],
+      "answer": "If someone returns early without permission, he faces Punishment under the law.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l2_q11.mp3"
+    },
+    {
+      "keywords": ["who punishes", "punishes offender", "authority punishes", "kaun saza", "saza kaun deta"],
+      "answer": "The Authority (police or court) punishes the offender who returns without permission.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l2_q12.mp3"
+    },
+    {
+      "keywords": ["help maintain", "externment help", "what maintain", "kya maintain", "raksha kaise"],
+      "answer": "Externment helps to maintain Peace and order in the community.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l2_q13.mp3"
+    },
+    {
+      "keywords": ["safety maintained", "where maintained", "maintained where", "kahan suraksha", "safety kahan"],
+      "answer": "Safety is maintained in Villages and communities where SC and ST people live.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l2_q14.mp3"
+    },
+    {
+      "keywords": ["goal externment", "externment goal", "objective what", "lakshya kya", "goal kya"],
+      "answer": "The goal of externment is Safety - protecting SC and ST people from potential troublemakers.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l2_q15.mp3"
+    },
+    {
+      "keywords": ["name chapter", "chapter name", "chapter iii name", "naam kya", "chapter ka naam"],
+      "answer": "The name of Chapter III is Externment.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l2_q16.mp3"
+    },
+    {
+      "keywords": ["who remove", "remove person", "likely trouble", "kaun nikal sakta", "trouble wala"],
+      "answer": "A police or government officer can remove a person likely to create trouble.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l2_q17.mp3"
+    },
+    {
+      "keywords": ["removed person", "should do", "person should", "kya karna chahiye", "nikale gaye"],
+      "answer": "The removed person must leave the area for some time as ordered.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l2_q18.mp3"
+    },
+    {
+      "keywords": ["without permission", "returns without", "happens return", "bina anumati", "permission bina"],
+      "answer": "If he returns without permission, he will be punished by law.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l2_q19.mp3"
+    },
+    {
+      "keywords": ["externment used", "why used", "used why", "kyun use", "prayog kyun"],
+      "answer": "Externment is used to keep peace and safety in the area and protect SC and ST people.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l2_q20.mp3"
+    },
+    {
+      "keywords": ["what externment", "externment means", "define externment", "externment kya", "matlab kya"],
+      "answer": "Externment means removing a person from an area temporarily to prevent trouble and maintain peace.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l2_q21.mp3"
+    },
+    {
+      "keywords": ["preventive measure", "before crime", "prevent trouble", "pehle se", "rokne ka"],
+      "answer": "Externment is a preventive measure taken before a crime happens to stop potential trouble.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l2_q22.mp3"
+    },
+    {
+      "keywords": ["officer decide", "how decide", "decide who", "kaise tay", "officer faisla"],
+      "answer": "The officer decides based on past behavior, complaints, or evidence that someone may create trouble.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l2_q23.mp3"
+    },
+    {
+      "keywords": ["how long stay", "stay away", "period time", "kitne din", "samay kitna"],
+      "answer": "The person must stay away for the time period specified in the externment order by the officer.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l2_q24.mp3"
+    },
+    {
+      "keywords": ["permanent removal", "forever removed", "permanent ban", "hamesha ke liye", "sadaiv"],
+      "answer": "No, externment is not permanent removal. It is temporary, and the person can return after the period ends.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l2_q25.mp3"
+    },
+    {
+      "keywords": ["get permission", "how permission", "permission how", "anumati kaise", "permission lena"],
+      "answer": "To get permission to return, the person must apply to the authorities who issued the externment order.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l2_q26.mp3"
+    },
+    {
+      "keywords": ["type punishment", "what punishment", "punishment type", "kaisi saza", "punishment kya"],
+      "answer": "Punishment for returning without permission can include arrest, fine, or imprisonment as per law.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l2_q27.mp3"
+    },
+    {
+      "keywords": ["benefit community", "community benefit", "village benefit", "samudaay fayda", "gaon ko"],
+      "answer": "Externment benefits the community by removing potential troublemakers and creating a safe environment for SC and ST people.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l2_q28.mp3"
+    },
+    {
+      "keywords": ["peace village", "village peace", "rural safety", "gaon shanti", "dehaat suraksha"],
+      "answer": "Externment is especially important in villages to maintain peace and protect vulnerable SC and ST communities.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l2_q29.mp3"
+    },
+    {
+      "keywords": ["difference arrest", "arrest externment", "how different", "antar kya", "farak kya"],
+      "answer": "Arrest is for someone who committed a crime, while externment is preventive - to stop someone who may commit a crime.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l2_q30.mp3"
     }
   ],
   "3": [
     {
-      "keywords": ["special court", "fast", "judge", "quick"],
-      "answer": "Special Courts are made for fast justice in SC and ST cases. A Special Judge handles these cases without delay.",
+      "keywords": ["which chapter", "special courts chapter", "chapter provides", "kaun sa chapter", "chapter iv"],
+      "answer": "Chapter IV provides for Special Courts to handle SC and ST atrocity cases.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l3_q1.mp3"
     },
     {
-      "keywords": ["prosecutor", "victim", "fight", "case"],
-      "answer": "Special Prosecutors fight cases for victims in Special Courts. They help victims get justice.",
+      "keywords": ["why made", "special courts why", "courts made", "kyun banaye", "uddeshya kya"],
+      "answer": "Special Courts are made for Fast Justice - to ensure SC and ST cases are decided quickly.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l3_q2.mp3"
     },
     {
-      "keywords": ["chapter", "four", "iv"],
-      "answer": "Chapter IV provides for Special Courts. These courts hear SC and ST cases quickly to ensure speedy justice.",
+      "keywords": ["kind cases", "cases handle", "what cases", "kaun se case", "cases type"],
+      "answer": "Special Courts handle SC and ST Cases - cases related to atrocities against these communities.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l3_q3.mp3"
+    },
+    {
+      "keywords": ["type trial", "trial conducted", "what trial", "kaun si trial", "sunwaai type"],
+      "answer": "Speedy Trial is conducted in these courts to ensure quick decision-making.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l3_q4.mp3"
+    },
+    {
+      "keywords": ["which cases heard", "cases heard", "heard cases", "kaun se case sune", "sunwaai cases"],
+      "answer": "SC and ST Cases involving atrocities and discrimination are heard in these courts.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l3_q5.mp3"
+    },
+    {
+      "keywords": ["what avoided", "avoided courts", "courts avoid", "kya टाला", "bachaya kya"],
+      "answer": "Delay is avoided in these courts - cases are heard quickly without unnecessary waiting.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l3_q6.mp3"
+    },
+    {
+      "keywords": ["who conducts", "conducts trial", "trial who", "kaun chalata", "sunwaai kaun"],
+      "answer": "A Special Judge conducts the trial in Special Courts.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l3_q7.mp3"
+    },
+    {
+      "keywords": ["judge ensure", "what ensure", "ensures what", "kya ensure", "judge kya"],
+      "answer": "The judge ensures Proper Trial - fair hearing and correct legal procedures.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l3_q8.mp3"
+    },
+    {
+      "keywords": ["who appointed", "appointed courts", "judge appointed", "kaun niyukt", "appointment kaun"],
+      "answer": "A Special Judge is appointed by the State Government for these courts.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l3_q9.mp3"
+    },
+    {
+      "keywords": ["who represents", "represents victims", "victims court", "kaun represent", "pidit ka"],
+      "answer": "Special Prosecutor represents victims in court and fights their cases.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l3_q10.mp3"
+    },
+    {
+      "keywords": ["where work", "prosecutors work", "work where", "kahan kaam", "work location"],
+      "answer": "Special Prosecutors work in Special Courts dedicated to SC and ST cases.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l3_q11.mp3"
+    },
+    {
+      "keywords": ["whom support", "support whom", "prosecutors support", "kise support", "sahayata kisko"],
+      "answer": "Special Prosecutors support Victims of atrocities and help them get justice.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l3_q12.mp3"
+    },
+    {
+      "keywords": ["get quickly", "victims get", "what quickly", "kya jaldi", "turant kya"],
+      "answer": "Victims get Justice quickly through Special Courts without long delays.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l3_q13.mp3"
+    },
+    {
+      "keywords": ["what reduces", "reduces courts", "courts reduce", "kya kam", "reduce kya"],
+      "answer": "Delay reduces through these courts - cases are decided faster than regular courts.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l3_q14.mp3"
+    },
+    {
+      "keywords": ["kind justice", "justice ensured", "what justice", "kaun sa nyay", "justice type"],
+      "answer": "Speedy Justice is ensured - quick and fair decisions for SC and ST victims.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l3_q15.mp3"
+    },
+    {
+      "keywords": ["name chapter", "chapter name", "chapter iv name", "naam kya", "chapter ka"],
+      "answer": "The name of Chapter IV is Special Courts.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l3_q16.mp3"
+    },
+    {
+      "keywords": ["who creates", "creates courts", "courts creates", "kaun banata", "nirman kaun"],
+      "answer": "The State Government creates Special Courts for SC and ST cases.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l3_q17.mp3"
+    },
+    {
+      "keywords": ["why created", "courts created", "created why", "kyun bane", "banaye kyun"],
+      "answer": "Special Courts are created to hear cases quickly and provide fast justice.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l3_q18.mp3"
+    },
+    {
+      "keywords": ["who works", "works court", "court works", "kaun kaam", "kaam kaun"],
+      "answer": "A Special Judge works in the Special Court to conduct trials.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l3_q19.mp3"
+    },
+    {
+      "keywords": ["aim courts", "courts aim", "objective what", "lakshya kya", "uddeshya courts"],
+      "answer": "The aim of Special Courts is to give quick and fair justice to victims.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l3_q20.mp3"
+    },
+    {
+      "keywords": ["difference regular", "regular court", "normal court", "antar kya", "farak court"],
+      "answer": "Special Courts are faster than regular courts and focus only on SC and ST atrocity cases.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l3_q21.mp3"
+    },
+    {
+      "keywords": ["how many courts", "number courts", "courts kitne", "sankhya kitni", "kitne adalat"],
+      "answer": "The State Government can create as many Special Courts as needed based on the number of cases.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l3_q22.mp3"
+    },
+    {
+      "keywords": ["judge qualification", "judge eligibility", "qualification kya", "yogyata judge", "judge kaisa"],
+      "answer": "The Special Judge must be qualified and experienced in handling criminal cases and the SC/ST Act.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l3_q23.mp3"
+    },
+    {
+      "keywords": ["prosecutor role", "prosecutor duty", "role kya", "kartavya prosecutor", "kaam prosecutor"],
+      "answer": "The Special Prosecutor's role is to present evidence, argue the case, and help victims get justice.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l3_q24.mp3"
+    },
+    {
+      "keywords": ["trial duration", "how long trial", "time taken", "kitna samay", "trial duration"],
+      "answer": "Special Courts try to complete trials within a few months, much faster than regular courts.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l3_q25.mp3"
+    },
+    {
+      "keywords": ["victim help", "support victim", "help kaise", "pidit madad", "sahayata victim"],
+      "answer": "Victims get help through Special Prosecutors who represent them and ensure their case is properly presented.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l3_q26.mp3"
+    },
+    {
+      "keywords": ["court location", "where located", "kahan hai", "sthan kahan", "location court"],
+      "answer": "Special Courts are located in districts to ensure easy access for victims from nearby villages.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l3_q27.mp3"
+    },
+    {
+      "keywords": ["priority cases", "which priority", "important cases", "prathamikta kaun", "pehle kaun"],
+      "answer": "Cases involving serious atrocities, violence, or repeat offenders get priority in Special Courts.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l3_q28.mp3"
+    },
+    {
+      "keywords": ["benefit victims", "victims benefit", "fayda kya", "labh victim", "benefit kya"],
+      "answer": "Victims benefit from faster justice, professional support, and dedicated attention to their cases.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l3_q29.mp3"
+    },
+    {
+      "keywords": ["ensure fairness", "fair trial", "fairness how", "nishpakshta kaise", "fair kaise"],
+      "answer": "Special Judges ensure fairness by following proper legal procedures and giving both sides a fair hearing.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l3_q30.mp3"
     }
   ],
   "4": [
     {
-      "keywords": ["victim", "witness", "protection", "safe", "right"],
-      "answer": "Victims and witnesses have full protection under Chapter IVA. They should be treated with respect and the government must keep them safe.",
+      "keywords": ["which chapter", "protection chapter", "chapter gives", "kaun sa chapter", "chapter iva"],
+      "answer": "Chapter IVA gives protection to victims and witnesses under the SC/ST Act.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l4_q1.mp3"
     },
     {
-      "keywords": ["threat", "trouble", "harass", "intimidate"],
-      "answer": "No one should threaten or trouble victims and witnesses. The law protects them from harassment and intimidation.",
+      "keywords": ["who protected", "protected law", "law protects", "kaun surakshit", "kise bachaya"],
+      "answer": "Victims and Witnesses are protected by this law from threats and harm.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l4_q2.mp3"
     },
     {
-      "keywords": ["fear", "pressure", "fearless"],
-      "answer": "Victims and witnesses should get justice without fear or pressure. They have the right to speak freely in court.",
+      "keywords": ["type protection", "protection given", "what protection", "kaun si suraksha", "protection type"],
+      "answer": "Full Protection is given - complete safety from threats, harm, and harassment.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l4_q3.mp3"
+    },
+    {
+      "keywords": ["how treated", "victims treated", "treated how", "kaise vyavhar", "bartav kaisa"],
+      "answer": "Victims should be treated Respectfully - with dignity, care, and understanding.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l4_q4.mp3"
+    },
+    {
+      "keywords": ["who receive", "receive care", "must care", "kise milni", "dekhbhal kisko"],
+      "answer": "Victims and Witnesses must receive care and support from authorities.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l4_q5.mp3"
+    },
+    {
+      "keywords": ["moral value", "value ensured", "what value", "kaun sa mool", "naitik mulya"],
+      "answer": "Respect is the moral value ensured - treating victims with dignity and honor.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l4_q6.mp3"
+    },
+    {
+      "keywords": ["action prohibited", "prohibited what", "not allowed", "kya mana", "prohibited action"],
+      "answer": "Threat is prohibited - no one can threaten victims or witnesses.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l4_q7.mp3"
+    },
+    {
+      "keywords": ["not troubled", "should not", "troubled who", "kise pareshan", "trouble nahi"],
+      "answer": "Victims and Witnesses should not be troubled or harassed by anyone.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l4_q8.mp3"
+    },
+    {
+      "keywords": ["must stopped", "protect witnesses", "stopped what", "kya rokna", "stop karna"],
+      "answer": "Harassment must be stopped to protect witnesses from intimidation and fear.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l4_q9.mp3"
+    },
+    {
+      "keywords": ["ensures safety", "who ensures", "safety who", "kaun ensure", "suraksha kaun"],
+      "answer": "The Government ensures safety of victims and witnesses through police protection.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l4_q10.mp3"
+    },
+    {
+      "keywords": ["must provided", "provided government", "government provide", "kya dena", "provide kya"],
+      "answer": "Safety must be provided by the government to protect victims and witnesses from harm.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l4_q11.mp3"
+    },
+    {
+      "keywords": ["responsible protection", "who responsible", "protection responsibility", "zimmedar kaun", "uttar kaun"],
+      "answer": "State Authority (government and police) is responsible for protection of victims and witnesses.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l4_q12.mp3"
+    },
+    {
+      "keywords": ["justice given", "how justice", "given how", "kaise nyay", "justice kaise"],
+      "answer": "Justice should be given Fearlessly - without intimidation or pressure on victims.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l4_q13.mp3"
+    },
+    {
+      "keywords": ["avoided trial", "must avoided", "trial avoid", "kya टालna", "avoid karna"],
+      "answer": "Pressure must be avoided during trial - no one should force victims or witnesses.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l4_q14.mp3"
+    },
+    {
+      "keywords": ["right ensures", "courage speak", "ensures what", "kya ensure", "himmat deta"],
+      "answer": "Fearless Justice ensures courage to speak - victims can testify without fear.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l4_q15.mp3"
+    },
+    {
+      "keywords": ["chapter talk", "what talk", "iva about", "kya baat", "chapter bare"],
+      "answer": "Chapter IVA talks about Rights of victims and witnesses.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l4_q16.mp3"
+    },
+    {
+      "keywords": ["who victim", "victim who", "define victim", "pidit kaun", "victim kise"],
+      "answer": "A victim is a person who suffers from the crime or atrocity.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l4_q17.mp3"
+    },
+    {
+      "keywords": ["who witness", "witness who", "define witness", "gawah kaun", "witness kise"],
+      "answer": "A witness is a person who sees or knows about the crime and can testify.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l4_q18.mp3"
+    },
+    {
+      "keywords": ["what get", "should get", "they get", "kya milna", "get kya"],
+      "answer": "They should get respect, care, and safety from the government and authorities.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l4_q19.mp3"
+    },
+    {
+      "keywords": ["who protects", "protects them", "protection who", "kaun bachata", "suraksha kaun"],
+      "answer": "The Government protects victims and witnesses through police and legal measures.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l4_q20.mp3"
+    },
+    {
+      "keywords": ["importance protection", "why protect", "protection important", "kyun zaroori", "mahatva kya"],
+      "answer": "Protection is important so victims and witnesses can speak truth without fear and help get justice.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l4_q21.mp3"
+    },
+    {
+      "keywords": ["types threats", "threat examples", "what threats", "dhamki kaisi", "threat type"],
+      "answer": "Threats can include physical harm, intimidation, pressure to withdraw case, or harassment of family.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l4_q22.mp3"
+    },
+    {
+      "keywords": ["government measures", "protection measures", "safety steps", "kya kadam", "upay kya"],
+      "answer": "Government provides police protection, safe houses, travel assistance, and legal support to victims and witnesses.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l4_q23.mp3"
+    },
+    {
+      "keywords": ["witness intimidation", "intimidate witness", "darana dhamkana", "witness darana", "intimidation kya"],
+      "answer": "Witness intimidation means threatening or scaring witnesses to stop them from testifying - this is illegal.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l4_q24.mp3"
+    },
+    {
+      "keywords": ["victim compensation", "financial help", "money help", "arthik sahayata", "paisa madad"],
+      "answer": "Victims may receive compensation (financial help) from the government for medical treatment and other losses.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l4_q25.mp3"
+    },
+    {
+      "keywords": ["identity protection", "hide identity", "naam chhupana", "identity suraksha", "pehchan"],
+      "answer": "In some cases, the court can protect the identity of victims and witnesses to ensure their safety.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l4_q26.mp3"
+    },
+    {
+      "keywords": ["legal assistance", "lawyer help", "kanuni madad", "vakil sahayata", "legal support"],
+      "answer": "Victims get free legal assistance - lawyers provided by government to help fight their case.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l4_q27.mp3"
+    },
+    {
+      "keywords": ["witness rights", "rights witness", "witness adhikaar", "gawah ke", "witness ka"],
+      "answer": "Witnesses have rights including protection, respect, travel expenses, and freedom to testify without pressure.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l4_q28.mp3"
+    },
+    {
+      "keywords": ["police duty", "police role", "police kartavya", "police kaam", "duty police"],
+      "answer": "Police must protect victims and witnesses, register complaints properly, and ensure their safety throughout the case.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l4_q29.mp3"
+    },
+    {
+      "keywords": ["fearless testimony", "speak freely", "bina dar", "testimony free", "gawahi khul ke"],
+      "answer": "Fearless testimony means victims and witnesses can speak the truth in court without fear of retaliation or harm.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l4_q30.mp3"
     }
   ],
   "5": [
     {
-      "keywords": ["prevent", "stop", "early", "before"],
-      "answer": "Chapter V says police and officers must stop crimes early before they happen. This is called preventive action.",
+      "keywords": ["which chapter", "prevention chapter", "chapter talks", "kaun sa chapter", "chapter v"],
+      "answer": "Chapter V talks about prevention and other important provisions to stop crimes early.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q1.mp3"
     },
     {
-      "keywords": ["bail", "not allowed", "deny", "serious"],
-      "answer": "Bail is not allowed for serious offenders who commit atrocities under this Act. Section 18 denies anticipatory bail.",
+      "keywords": ["must stop", "stop crimes", "who stop", "kaun roke", "crimes kaun"],
+      "answer": "Police and officers must stop crimes early before they happen.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q2.mp3"
     },
     {
-      "keywords": ["stronger", "other law", "priority", "override"],
-      "answer": "This Act is stronger than other laws and gets priority. It can override other laws to protect SC and ST people.",
+      "keywords": ["type action", "prevents offences", "action type", "kaun sa action", "action kaunsa"],
+      "answer": "Preventive Action prevents offences - taking steps before crimes occur.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q3.mp3"
     },
     {
-      "keywords": ["government", "monitor", "watch", "ensure"],
-      "answer": "The State Government must monitor the work properly and ensure justice reaches every SC and ST person.",
+      "keywords": ["must monitor", "who monitor", "monitor work", "kaun dekhe", "nigrani kaun"],
+      "answer": "State Government must monitor the Act's work to ensure proper implementation.",
       "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q4.mp3"
+    },
+    {
+      "keywords": ["must ensured", "ensured government", "government ensure", "kya ensure", "sarkar ensure"],
+      "answer": "Justice must be ensured by the government for all SC and ST people.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q5.mp3"
+    },
+    {
+      "keywords": ["checks implementation", "who checks", "proper implementation", "kaun check", "lagoo kaun"],
+      "answer": "Government checks proper implementation of the Act through monitoring and reviews.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q6.mp3"
+    },
+    {
+      "keywords": ["facility denied", "denied offenders", "what denied", "kya mana", "facility kya"],
+      "answer": "Bail is the facility denied to serious offenders who commit atrocities.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q7.mp3"
+    },
+    {
+      "keywords": ["cannot bail", "who cannot", "bail easily", "kise nahi", "bail kaun"],
+      "answer": "Atrocity Offenders cannot get bail easily under this Act.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q8.mp3"
+    },
+    {
+      "keywords": ["section denies", "denies bail", "which section", "kaun si dhara", "section bail"],
+      "answer": "Section 18 denies bail to serious offenders under the SC/ST Act.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q9.mp3"
+    },
+    {
+      "keywords": ["compared laws", "how compared", "act compared", "kaise compare", "tulna kaise"],
+      "answer": "This Act is Stronger than other laws and takes priority over them.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q10.mp3"
+    },
+    {
+      "keywords": ["get priority", "act gets", "priority over", "prathamikta kya", "pehle kya"],
+      "answer": "This Act gets Priority over other laws when there is a conflict.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q11.mp3"
+    },
+    {
+      "keywords": ["word shows", "legal power", "shows power", "shabd kaunsa", "shakti dikha"],
+      "answer": "Override is the word that shows legal power - this Act overrides other laws.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q12.mp3"
+    },
+    {
+      "keywords": ["should receive", "receive justice", "who receive", "kise milna", "justice kisko"],
+      "answer": "SC and ST people should receive justice under this Act.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q13.mp3"
+    },
+    {
+      "keywords": ["act ensure", "what ensure", "ensures what", "kya ensure", "act kya"],
+      "answer": "The Act ensures Justice for All - every SC and ST person gets justice.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q14.mp3"
+    },
+    {
+      "keywords": ["who benefits", "benefits act", "benefit from", "kise fayda", "labh kisko"],
+      "answer": "Marginalised Communities (SC and ST people) benefit from this Act.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q15.mp3"
+    },
+    {
+      "keywords": ["chapter about", "what about", "chapter v about", "kya bare", "vishay kya"],
+      "answer": "Chapter V is about Preventive and other important rules to stop crimes and ensure justice.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q16.mp3"
+    },
+    {
+      "keywords": ["impose fine", "collective fine", "who impose", "kaun lagaye", "jurmana kaun"],
+      "answer": "The State Government can impose collective fine under Section 16 on areas where atrocities occur.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q17.mp3"
+    },
+    {
+      "keywords": ["section 17", "tell police", "police do", "section kya", "police kya"],
+      "answer": "Section 17 tells police to take preventive action to stop crimes before they happen.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q18.mp3"
+    },
+    {
+      "keywords": ["accused bail", "bail easily", "get bail", "aarop bail", "accused ko"],
+      "answer": "No, accused cannot get bail easily. Section 18 stops bail under Section 438 CrPC.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q19.mp3"
+    },
+    {
+      "keywords": ["makes rules", "who makes", "rules act", "niyam kaun", "rules banata"],
+      "answer": "The Government makes rules for this Act under Section 23 for proper implementation.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q20.mp3"
+    },
+    {
+      "keywords": ["preventive measures", "what measures", "measures examples", "upay kya", "kadam kaun"],
+      "answer": "Preventive measures include patrolling sensitive areas, monitoring potential offenders, and taking early action to stop crimes.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q21.mp3"
+    },
+    {
+      "keywords": ["collective fine", "fine why", "section 16", "samuhik jurmana", "fine kya"],
+      "answer": "Collective fine under Section 16 can be imposed on a village or area if people there commit or support atrocities.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q22.mp3"
+    },
+    {
+      "keywords": ["section 438", "crpc 438", "anticipatory bail", "dhara 438", "bail pehle"],
+      "answer": "Section 438 CrPC is about anticipatory bail (getting bail before arrest), which is not allowed for SC/ST Act offences.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q23.mp3"
+    },
+    {
+      "keywords": ["why strict", "bail strict", "strict why", "sakht kyun", "bail kathor"],
+      "answer": "Bail is strict because atrocities are serious crimes, and offenders might threaten victims or escape if released easily.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q24.mp3"
+    },
+    {
+      "keywords": ["override means", "what override", "override kya", "override matlab", "power over"],
+      "answer": "Override means this Act has more power than other laws - if there's conflict, SC/ST Act provisions apply.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q25.mp3"
+    },
+    {
+      "keywords": ["monitoring system", "government watch", "nigrani pranali", "system kya", "watch kaise"],
+      "answer": "Government monitors through regular reports, inspections, review meetings, and checking if cases are handled properly.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q26.mp3"
+    },
+    {
+      "keywords": ["police responsibility", "police duty", "police zimmedari", "duty kya", "kartavya police"],
+      "answer": "Police must take preventive action, register cases properly, investigate quickly, and protect victims throughout the process.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q27.mp3"
+    },
+    {
+      "keywords": ["section 23", "rules section", "rules power", "dhara 23", "niyam shakti"],
+      "answer": "Section 23 gives government power to make rules for implementing the Act effectively in different situations.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q28.mp3"
+    },
+    {
+      "keywords": ["justice reaches", "ensure reach", "every person", "har vyakti", "pahunchna justice"],
+      "answer": "The Act ensures justice reaches every SC and ST person through Special Courts, monitoring, and strict enforcement.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q29.mp3"
+    },
+    {
+      "keywords": ["marginalised meaning", "who marginalised", "kamzor varg", "marginalised kya", "daba kuchal"],
+      "answer": "Marginalised communities are groups that face discrimination and are pushed to edges of society - like SC and ST people historically.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/assist_l5_q30.mp3"
     }
   ]
-
 }
-
 
