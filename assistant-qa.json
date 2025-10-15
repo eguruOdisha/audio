@@ -4,7 +4,7 @@
       {
         "keywords": ["what is law called", "name of law", "law name", "title", "kya naam hai", "kanoon ka naam"],
         "answer": "This law is called the 'Bharatiya Nagarik Suraksha Sanhita, 2023'.\n\nयह कानून 'भारतीय नागरिक सुरक्षा संहिता, 2023' कहलाता है।",
-        "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/section1_law_name.mp3"
+        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-C1-P1.mp3"
       },
       {
         "keywords": ["what is complete title", "full title", "complete name", "pura naam"],
@@ -528,3 +528,4 @@
     ]
   }
 }
+
