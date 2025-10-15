@@ -1,774 +1,530 @@
 {
-  "bnss_section1_qa": [
-    {
-      "question": "What is the short title of this Act?",
-      "questionHindi": "इस अधिनियम का संक्षिप्त शीर्षक क्या है?",
-      "answer": "The short title of this Act is Bharatiya Nagarik Suraksha Sanhita, 2023.",
-      "answerHindi": "इस अधिनियम का संक्षिप्त शीर्षक भारतीय नागरिक सुरक्षा संहिता, 2023 है।",
-      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-C1-P1.mp3",
-      "keywords": ["short title", "act name", "BNSS", "title", "naam kya hai", "संक्षिप्त शीर्षक"]
-    },
-    {
-      "question": "State the full name of BNSS.",
-      "questionHindi": "BNSS का पूरा नाम बताइए।",
-      "answer": "The full name is Bharatiya Nagarik Suraksha Sanhita, 2023.",
-      "answerHindi": "पूरा नाम भारतीय नागरिक सुरक्षा संहिता, 2023 है।",
-      "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/bnss_q2.mp3",
-      "keywords": ["full name", "complete name", "BNSS full form", "poora naam", "पूरा नाम"]
-    },
-    {
-      "question": "In which year was this Sanhita enacted?",
-      "questionHindi": "यह संहिता किस वर्ष अधिनियमित की गई थी?",
-      "answer": "This Sanhita was enacted in the year 2023.",
-      "answerHindi": "यह संहिता वर्ष 2023 में अधिनियमित की गई थी।",
-      "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/bnss_q3.mp3",
-      "keywords": ["year", "enacted", "2023", "kab bana", "वर्ष", "कब बनाया"]
-    }
-  ],
-  
-  "bnss_section1_mcqs": [
-    {
-      "id": 1,
-      "question": "What is the short title of this Act?",
-      "questionHindi": "इस अधिनियम का संक्षिप्त शीर्षक क्या है?",
-      "options": [
-        "Bharatiya Nyaya Sanhita, 2023",
-        "Bharatiya Nagarik Suraksha Sanhita, 2023",
-        "Bharatiya Sakshya Adhiniyam, 2023",
-        "Criminal Procedure Code, 2023"
-      ],
-      "optionsHindi": [
-        "भारतीय न्याय संहिता, 2023",
-        "भारतीय नागरिक सुरक्षा संहिता, 2023",
-        "भारतीय साक्ष्य अधिनियम, 2023",
-        "आपराधिक प्रक्रिया संहिता, 2023"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The short title is Bharatiya Nagarik Suraksha Sanhita, 2023 as mentioned in Section 1(1).",
-      "explanationHindi": "धारा 1(1) में उल्लिखित संक्षिप्त शीर्षक भारतीय नागरिक सुरक्षा संहिता, 2023 है।",
-      "difficulty": "easy",
-      "category": "short_title",
-      "keywords": ["short title", "BNSS", "name"]
-    },
-    {
-      "id": 2,
-      "question": "In which year was the Bharatiya Nagarik Suraksha Sanhita enacted?",
-      "questionHindi": "भारतीय नागरिक सुरक्षा संहिता किस वर्ष अधिनियमित की गई?",
-      "options": [
-        "2022",
-        "2023",
-        "2024",
-        "2025"
-      ],
-      "optionsHindi": [
-        "2022",
-        "2023",
-        "2024",
-        "2025"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The Act was enacted in 2023.",
-      "explanationHindi": "यह अधिनियम 2023 में अधिनियमित किया गया था।",
-      "difficulty": "easy",
-      "category": "enactment",
-      "keywords": ["year", "2023", "enacted"]
-    },
-    {
-      "id": 3,
-      "question": "Which state is specifically mentioned where certain provisions of BNSS do not apply?",
-      "questionHindi": "कौन सा राज्य विशेष रूप से उल्लिखित है जहां BNSS के कुछ प्रावधान लागू नहीं होते हैं?",
-      "options": [
-        "Manipur",
-        "Mizoram",
-        "Nagaland",
-        "Tripura"
-      ],
-      "optionsHindi": [
-        "मणिपुर",
-        "मिजोरम",
-        "नागालैंड",
-        "त्रिपुरा"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Nagaland is specifically mentioned in Section 1(2)(a).",
-      "explanationHindi": "धारा 1(2)(a) में नागालैंड का विशेष रूप से उल्लेख किया गया है।",
-      "difficulty": "medium",
-      "category": "extent",
-      "keywords": ["nagaland", "state", "exception"]
-    },
-    {
-      "id": 4,
-      "question": "Which chapters of BNSS apply to Nagaland and tribal areas?",
-      "questionHindi": "BNSS के कौन से अध्याय नागालैंड और आदिवासी क्षेत्रों पर लागू होते हैं?",
-      "options": [
-        "Chapters VIII, X and XI",
-        "Chapters IX, XI and XII",
-        "Chapters X, XII and XIII",
-        "Chapters VII, IX and X"
-      ],
-      "optionsHindi": [
-        "अध्याय VIII, X और XI",
-        "अध्याय IX, XI और XII",
-        "अध्याय X, XII और XIII",
-        "अध्याय VII, IX और X"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Chapters IX, XI and XII are the exceptions that DO apply to Nagaland and tribal areas.",
-      "explanationHindi": "अध्याय IX, XI और XII अपवाद हैं जो नागालैंड और आदिवासी क्षेत्रों पर लागू होते हैं।",
-      "difficulty": "medium",
-      "category": "chapters",
-      "keywords": ["chapters", "IX", "XI", "XII", "nagaland"]
-    },
-    {
-      "id": 5,
-      "question": "Who has the power to apply BNSS provisions to Nagaland or tribal areas?",
-      "questionHindi": "नागालैंड या आदिवासी क्षेत्रों पर BNSS प्रावधान लागू करने की शक्ति किसके पास है?",
-      "options": [
-        "Central Government",
-        "State Government concerned",
-        "Supreme Court",
-        "Parliament"
-      ],
-      "optionsHindi": [
-        "केंद्र सरकार",
-        "संबंधित राज्य सरकार",
-        "सर्वोच्च न्यायालय",
-        "संसद"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The concerned State Government has the power as per Section 1(2).",
-      "explanationHindi": "धारा 1(2) के अनुसार संबंधित राज्य सरकार के पास यह शक्ति है।",
-      "difficulty": "medium",
-      "category": "power",
-      "keywords": ["state government", "power", "apply"]
-    },
-    {
-      "id": 6,
-      "question": "The State Government can apply provisions by:",
-      "questionHindi": "राज्य सरकार प्रावधानों को इस प्रकार लागू कर सकती है:",
-      "options": [
-        "Executive order",
-        "Notification",
-        "Ordinance",
-        "Resolution"
-      ],
-      "optionsHindi": [
-        "कार्यकारी आदेश",
-        "अधिसूचना",
-        "अध्यादेश",
-        "संकल्प"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The State Government must apply provisions by notification.",
-      "explanationHindi": "राज्य सरकार को अधिसूचना द्वारा प्रावधान लागू करने होंगे।",
-      "difficulty": "medium",
-      "category": "procedure",
-      "keywords": ["notification", "apply", "state government"]
-    },
-    {
-      "id": 7,
-      "question": "The State Government may apply provisions with:",
-      "questionHindi": "राज्य सरकार प्रावधानों को इनके साथ लागू कर सकती है:",
-      "options": [
-        "No modifications",
-        "Only supplemental modifications",
-        "Supplemental, incidental or consequential modifications",
-        "Fundamental modifications"
-      ],
-      "optionsHindi": [
-        "बिना संशोधन के",
-        "केवल पूरक संशोधन",
-        "पूरक, आनुषंगिक या परिणामी संशोधन",
-        "मौलिक संशोधन"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Section 1(2) allows supplemental, incidental or consequential modifications.",
-      "explanationHindi": "धारा 1(2) पूरक, आनुषंगिक या परिणामी संशोधनों की अनुमति देती है।",
-      "difficulty": "hard",
-      "category": "modifications",
-      "keywords": ["modifications", "supplemental", "incidental", "consequential"]
-    },
-    {
-      "id": 8,
-      "question": "'Tribal areas' refers to territories as they existed immediately before:",
-      "questionHindi": "'आदिवासी क्षेत्र' उन क्षेत्रों को संदर्भित करते हैं जो इससे तुरंत पहले मौजूद थे:",
-      "options": [
-        "21st January, 1972",
-        "26th January, 1972",
-        "21st January, 1971",
-        "15th August, 1972"
-      ],
-      "optionsHindi": [
-        "21 जनवरी, 1972",
-        "26 जनवरी, 1972",
-        "21 जनवरी, 1971",
-        "15 अगस्त, 1972"
-      ],
-      "correctAnswer": 0,
-      "explanation": "The Explanation defines tribal areas with reference to 21st January, 1972.",
-      "explanationHindi": "स्पष्टीकरण 21 जनवरी, 1972 के संदर्भ में आदिवासी क्षेत्रों को परिभाषित करता है।",
-      "difficulty": "medium",
-      "category": "definition",
-      "keywords": ["tribal areas", "date", "1972"]
-    },
-    {
-      "id": 9,
-      "question": "The definition of tribal areas refers to which Schedule of the Constitution?",
-      "questionHindi": "आदिवासी क्षेत्रों की परिभाषा संविधान की किस अनुसूची को संदर्भित करती है?",
-      "options": [
-        "Fifth Schedule",
-        "Sixth Schedule",
-        "Seventh Schedule",
-        "Eighth Schedule"
-      ],
-      "optionsHindi": [
-        "पांचवीं अनुसूची",
-        "छठी अनुसूची",
-        "सातवीं अनुसूची",
-        "आठवीं अनुसूची"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The Explanation refers to paragraph 20 of the Sixth Schedule.",
-      "explanationHindi": "स्पष्टीकरण छठी अनुसूची के पैराग्राफ 20 को संदर्भित करता है।",
-      "difficulty": "medium",
-      "category": "constitution",
-      "keywords": ["sixth schedule", "constitution", "paragraph 20"]
-    },
-    {
-      "id": 10,
-      "question": "Which paragraph of the Sixth Schedule is mentioned in the explanation?",
-      "questionHindi": "स्पष्टीकरण में छठी अनुसूची के कौन से पैराग्राफ का उल्लेख है?",
-      "options": [
-        "Paragraph 18",
-        "Paragraph 19",
-        "Paragraph 20",
-        "Paragraph 21"
-      ],
-      "optionsHindi": [
-        "पैराग्राफ 18",
-        "पैराग्राफ 19",
-        "पैराग्राफ 20",
-        "पैराग्राफ 21"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Paragraph 20 of the Sixth Schedule is specifically mentioned.",
-      "explanationHindi": "छठी अनुसूची के पैराग्राफ 20 का विशेष रूप से उल्लेख किया गया है।",
-      "difficulty": "hard",
-      "category": "constitution",
-      "keywords": ["paragraph 20", "sixth schedule"]
-    },
-    {
-      "id": 11,
-      "question": "The areas within the local limits of which municipality are excluded from 'tribal areas'?",
-      "questionHindi": "किस नगरपालिका की स्थानीय सीमा के भीतर के क्षेत्रों को 'आदिवासी क्षेत्रों' से बाहर रखा गया है?",
-      "options": [
-        "Guwahati",
-        "Imphal",
-        "Shillong",
-        "Kohima"
-      ],
-      "optionsHindi": [
-        "गुवाहाटी",
-        "इंफाल",
-        "शिलांग",
-        "कोहिमा"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Shillong municipality is excluded from the definition of tribal areas.",
-      "explanationHindi": "शिलांग नगरपालिका को आदिवासी क्षेत्रों की परिभाषा से बाहर रखा गया है।",
-      "difficulty": "medium",
-      "category": "exclusion",
-      "keywords": ["shillong", "municipality", "excluded"]
-    },
-    {
-      "id": 12,
-      "question": "According to Sub-section (3), the Act shall come into force on:",
-      "questionHindi": "उप-धारा (3) के अनुसार, अधिनियम इस दिन लागू होगा:",
-      "options": [
-        "The date of Presidential assent",
-        "1st January, 2024",
-        "Such date as Central Government may appoint",
-        "Immediately upon enactment"
-      ],
-      "optionsHindi": [
-        "राष्ट्रपति की स्वीकृति की तारीख",
-        "1 जनवरी, 2024",
-        "ऐसी तारीख जो केंद्र सरकार नियुक्त करे",
-        "अधिनियमन के तुरंत बाद"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The Act comes into force on such date as the Central Government may appoint.",
-      "explanationHindi": "अधिनियम ऐसी तारीख को लागू होता है जो केंद्र सरकार नियुक्त करे।",
-      "difficulty": "medium",
-      "category": "commencement",
-      "keywords": ["commencement", "central government", "appoint"]
-    },
-    {
-      "id": 13,
-      "question": "Who has the power to appoint the date of commencement of BNSS?",
-      "questionHindi": "BNSS के प्रारंभ की तारीख नियुक्त करने की शक्ति किसके पास है?",
-      "options": [
-        "President of India",
-        "Central Government",
-        "Parliament",
-        "Supreme Court"
-      ],
-      "optionsHindi": [
-        "भारत के राष्ट्रपति",
-        "केंद्र सरकार",
-        "संसद",
-        "सर्वोच्च न्यायालय"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The Central Government has the power to appoint the commencement date.",
-      "explanationHindi": "केंद्र सरकार के पास प्रारंभ तिथि नियुक्त करने की शक्ति है।",
-      "difficulty": "easy",
-      "category": "commencement",
-      "keywords": ["central government", "power", "commencement"]
-    },
-    {
-      "id": 14,
-      "question": "The commencement date must be notified in:",
-      "questionHindi": "प्रारंभ तिथि को इसमें अधिसूचित किया जाना चाहिए:",
-      "options": [
-        "Leading newspapers",
-        "Official Gazette",
-        "State Gazette",
-        "All of the above"
-      ],
-      "optionsHindi": [
-        "प्रमुख समाचार पत्र",
-        "राजपत्र",
-        "राज्य राजपत्र",
-        "उपरोक्त सभी"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The notification must be published in the Official Gazette.",
-      "explanationHindi": "अधिसूचना को राजपत्र में प्रकाशित किया जाना चाहिए।",
-      "difficulty": "easy",
-      "category": "commencement",
-      "keywords": ["official gazette", "notification", "publish"]
-    },
-    {
-      "id": 15,
-      "question": "According to the footnote, on which date did BNSS come into force?",
-      "questionHindi": "फुटनोट के अनुसार, BNSS किस तारीख को लागू हुआ?",
-      "options": [
-        "1st January, 2024",
-        "23rd February, 2024",
-        "1st July, 2024",
-        "1st April, 2024"
-      ],
-      "optionsHindi": [
-        "1 जनवरी, 2024",
-        "23 फरवरी, 2024",
-        "1 जुलाई, 2024",
-        "1 अप्रैल, 2024"
-      ],
-      "correctAnswer": 2,
-      "explanation": "BNSS came into force on 1st July, 2024 as per the footnote.",
-      "explanationHindi": "फुटनोट के अनुसार BNSS 1 जुलाई, 2024 को लागू हुआ।",
-      "difficulty": "medium",
-      "category": "commencement",
-      "keywords": ["1 july 2024", "came into force", "effective date"]
-    },
-    {
-      "id": 16,
-      "question": "The notification for commencement was issued on:",
-      "questionHindi": "प्रारंभ के लिए अधिसूचना इस दिन जारी की गई थी:",
-      "options": [
-        "1st July, 2024",
-        "23rd February, 2024",
-        "21st January, 2024",
-        "1st January, 2024"
-      ],
-      "optionsHindi": [
-        "1 जुलाई, 2024",
-        "23 फरवरी, 2024",
-        "21 जनवरी, 2024",
-        "1 जनवरी, 2024"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The notification was dated 23rd February, 2024.",
-      "explanationHindi": "अधिसूचना 23 फरवरी, 2024 को दिनांकित थी।",
-      "difficulty": "hard",
-      "category": "commencement",
-      "keywords": ["23 february 2024", "notification date"]
-    },
-    {
-      "id": 17,
-      "question": "Which notification number was used for appointing the commencement date?",
-      "questionHindi": "प्रारंभ तिथि नियुक्त करने के लिए कौन सी अधिसूचना संख्या का उपयोग किया गया?",
-      "options": [
-        "S.O. 747(E)",
-        "S.O. 848(E)",
-        "S.O. 948(E)",
-        "S.O. 648(E)"
-      ],
-      "optionsHindi": [
-        "S.O. 747(E)",
-        "S.O. 848(E)",
-        "S.O. 948(E)",
-        "S.O. 648(E)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Notification number S.O. 848(E) was used.",
-      "explanationHindi": "अधिसूचना संख्या S.O. 848(E) का उपयोग किया गया था।",
-      "difficulty": "hard",
-      "category": "commencement",
-      "keywords": ["SO 848", "notification number"]
-    },
-    {
-      "id": 18,
-      "question": "Which provision was excepted from coming into force on 1st July, 2024?",
-      "questionHindi": "1 जुलाई, 2024 को लागू होने से कौन सा प्रावधान छूट गया था?",
-      "options": [
-        "Section 105(2)",
-        "Section 106(2) in the first Schedule",
-        "Section 107(2)",
-        "Section 108(2)"
-      ],
-      "optionsHindi": [
-        "धारा 105(2)",
-        "प्रथम अनुसूची में धारा 106(2)",
-        "धारा 107(2)",
-        "धारा 108(2)"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The entry relating to Section 106(2) in the first Schedule was excepted.",
-      "explanationHindi": "प्रथम अनुसूची में धारा 106(2) से संबंधित प्रविष्टि को छूट दी गई थी।",
-      "difficulty": "hard",
-      "category": "commencement",
-      "keywords": ["section 106", "excepted", "first schedule"]
-    },
-    {
-      "id": 19,
-      "question": "How many sub-sections does Section 1 of BNSS contain?",
-      "questionHindi": "BNSS की धारा 1 में कितनी उप-धाराएं हैं?",
-      "options": [
-        "Two",
-        "Three",
-        "Four",
-        "Five"
-      ],
-      "optionsHindi": [
-        "दो",
-        "तीन",
-        "चार",
-        "पांच"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Section 1 contains three sub-sections.",
-      "explanationHindi": "धारा 1 में तीन उप-धाराएं हैं।",
-      "difficulty": "easy",
-      "category": "structure",
-      "keywords": ["sub-sections", "three", "section 1"]
-    },
-    {
-      "id": 20,
-      "question": "The word 'Sanhita' in the title means:",
-      "questionHindi": "शीर्षक में 'संहिता' शब्द का अर्थ है:",
-      "options": [
-        "Act",
-        "Code",
-        "Rule",
-        "Law"
-      ],
-      "optionsHindi": [
-        "अधिनियम",
-        "संहिता",
-        "नियम",
-        "कानून"
-      ],
-      "correctAnswer": 1,
-      "explanation": "'Sanhita' means Code or systematic compilation.",
-      "explanationHindi": "'संहिता' का अर्थ है संहिता या व्यवस्थित संकलन।",
-      "difficulty": "easy",
-      "category": "terminology",
-      "keywords": ["sanhita", "code", "meaning"]
-    },
-    {
-      "id": 21,
-      "question": "The term 'Nagarik' in the title refers to:",
-      "questionHindi": "शीर्षक में 'नागरिक' शब्द का तात्पर्य है:",
-      "options": [
-        "Criminal",
-        "Civil",
-        "Citizen",
-        "National"
-      ],
-      "optionsHindi": [
-        "आपराधिक",
-        "नागरिक (सिविल)",
-        "नागरिक (सिटीजन)",
-        "राष्ट्रीय"
-      ],
-      "correctAnswer": 2,
-      "explanation": "'Nagarik' means Citizen.",
-      "explanationHindi": "'नागरिक' का अर्थ है नागरिक (सिटीजन)।",
-      "difficulty": "easy",
-      "category": "terminology",
-      "keywords": ["nagarik", "citizen", "meaning"]
-    },
-    {
-      "id": 22,
-      "question": "The word 'Suraksha' in the title means:",
-      "questionHindi": "शीर्षक में 'सुरक्षा' शब्द का अर्थ है:",
-      "options": [
-        "Justice",
-        "Security/Protection",
-        "Rights",
-        "Duty"
-      ],
-      "optionsHindi": [
-        "न्याय",
-        "सुरक्षा/संरक्षण",
-        "अधिकार",
-        "कर्तव्य"
-      ],
-      "correctAnswer": 1,
-      "explanation": "'Suraksha' means Security or Protection.",
-      "explanationHindi": "'सुरक्षा' का अर्थ है सुरक्षा या संरक्षण।",
-      "difficulty": "easy",
-      "category": "terminology",
-      "keywords": ["suraksha", "security", "protection"]
-    },
-    {
-      "id": 23,
-      "question": "How many clauses are there under sub-section (2)?",
-      "questionHindi": "उप-धारा (2) के अंतर्गत कितने खंड हैं?",
-      "options": [
-        "One",
-        "Two",
-        "Three",
-        "Four"
-      ],
-      "optionsHindi": [
-        "एक",
-        "दो",
-        "तीन",
-        "चार"
-      ],
-      "correctAnswer": 1,
-      "explanation": "There are two clauses: (a) and (b) under sub-section (2).",
-      "explanationHindi": "उप-धारा (2) के अंतर्गत दो खंड हैं: (a) और (b)।",
-      "difficulty": "medium",
-      "category": "structure",
-      "keywords": ["clauses", "two", "sub-section 2"]
-    },
-    {
-      "id": 24,
-      "question": "Clause (a) of sub-section (2) refers to:",
-      "questionHindi": "उप-धारा (2) का खंड (a) इसे संदर्भित करता है:",
-      "options": [
-        "Tribal areas",
-        "State of Nagaland",
-        "Shillong municipality",
-        "Assam"
-      ],
-      "optionsHindi": [
-        "आदिवासी क्षेत्र",
-        "नागालैंड राज्य",
-        "शिलांग नगरपालिका",
-        "असम"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Clause (a) specifically refers to the State of Nagaland.",
-      "explanationHindi": "खंड (a) विशेष रूप से नागालैंड राज्य को संदर्भित करता है।",
-      "difficulty": "easy",
-      "category": "structure",
-      "keywords": ["clause a", "nagaland", "state"]
-    },
-    {
-      "id": 25,
-      "question": "Clause (b) of sub-section (2) refers to:",
-      "questionHindi": "उप-धारा (2) का खंड (b) इसे संदर्भित करता है:",
-      "options": [
-        "State of Nagaland",
-        "North-Eastern states",
-        "Tribal areas",
-        "All excluded areas"
-      ],
-      "optionsHindi": [
-        "नागालैंड राज्य",
-        "उत्तर-पूर्वी राज्य",
-        "आदिवासी क्षेत्र",
-        "सभी बहिष्कृत क्षेत्र"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Clause (b) refers to tribal areas.",
-      "explanationHindi": "खंड (b) आदिवासी क्षेत्रों को संदर्भित करता है।",
-      "difficulty": "easy",
-      "category": "structure",
-      "keywords": ["clause b", "tribal areas"]
-    },
-    {
-      "id": 26,
-      "question": "Chapter IX, XI and XII provisions:",
-      "questionHindi": "अध्याय IX, XI और XII के प्रावधान:",
-      "options": [
-        "Do not apply to Nagaland",
-        "Apply to Nagaland and tribal areas",
-        "May be applied by State Government",
-        "Apply partially"
-      ],
-      "optionsHindi": [
-        "नागालैंड पर लागू नहीं होते",
-        "नागालैंड और आदिवासी क्षेत्रों पर लागू होते हैं",
-        "राज्य सरकार द्वारा लागू किए जा सकते हैं",
-        "आंशिक रूप से लागू होते हैं"
-      ],
-      "correctAnswer": 1,
-      "explanation": "These chapters DO apply to Nagaland and tribal areas as exceptions.",
-      "explanationHindi": "ये अध्याय अपवाद के रूप में नागालैंड और आदिवासी क्षेत्रों पर लागू होते हैं।",
-      "difficulty": "medium",
-      "category": "chapters",
-      "keywords": ["chapters", "apply", "nagaland", "tribal"]
-    },
-    {
-      "id": 27,
-      "question": "Can the State Government apply only some provisions to tribal areas?",
-      "questionHindi": "क्या राज्य सरकार आदिवासी क्षेत्रों पर केवल कुछ प्रावधान लागू कर सकती है?",
-      "options": [
-        "No, all or none",
-        "Yes, such provisions or any of them",
-        "Only with Central Government approval",
-        "Not mentioned"
-      ],
-      "optionsHindi": [
-        "नहीं, सभी या कोई नहीं",
-        "हां, ऐसे प्रावधान या उनमें से कोई भी",
-        "केवल केंद्र सरकार की मंजूरी से",
-        "उल्लेख नहीं किया गया"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The State Government can apply 'such provisions or any of them' - selective application is allowed.",
-      "explanationHindi": "राज्य सरकार 'ऐसे प्रावधान या उनमें से कोई भी' लागू कर सकती है - चयनात्मक आवेदन की अनुमति है।",
-      "difficulty": "medium",
-      "category": "power",
-      "keywords": ["selective", "some provisions", "any of them"]
-    },
-    {
-      "id": 28,
-      "question": "The provisions that do NOT apply to Nagaland are:",
-      "questionHindi": "नागालैंड पर लागू नहीं होने वाले प्रावधान हैं:",
-      "options": [
-        "All provisions",
-        "None of the provisions",
-        "All provisions except Chapters IX, XI and XII",
-        "Only Chapters IX, XI and XII"
-      ],
-      "optionsHindi": [
-        "सभी प्रावधान",
-        "कोई प्रावधान नहीं",
-        "अध्याय IX, XI और XII को छोड़कर सभी प्रावधान",
-        "केवल अध्याय IX, XI और XII"
-      ],
-      "correctAnswer": 2,
-      "explanation": "All provisions except Chapters IX, XI and XII do not apply to Nagaland.",
-      "explanationHindi": "अध्याय IX, XI और XII को छोड़कर सभी प्रावधान नागालैंड पर लागू नहीं होते हैं।",
-      "difficulty": "hard",
-      "category": "extent",
-      "keywords": ["not apply", "nagaland", "except chapters"]
-    },
-    {
-      "id": 29,
-      "question": "Shillong municipality is:",
-      "questionHindi": "शिलांग नगरपालिका है:",
-      "options": [
-        "Included in tribal areas",
-        "Excluded from tribal areas",
-        "Partially included",
-        "Not mentioned"
-      ],
-      "optionsHindi": [
-        "आदिवासी क्षेत्रों में शामिल",
-        "आदिवासी क्षेत्रों से बाहर",
-        "आंशिक रूप से शामिल",
-        "उल्लेख नहीं किया गया"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Shillong municipality is explicitly excluded from tribal areas.",
-      "explanationHindi": "शिलांग नगरपालिका को स्पष्ट रूप से आदिवासी क्षेत्रों से बाहर रखा गया है।",
-      "difficulty": "medium",
-      "category": "exclusion",
-      "keywords": ["shillong", "excluded", "not included"]
-    },
-    {
-      "id": 30,
-      "question": "Which areas can have BNSS provisions applied by State notification?",
-      "questionHindi": "राज्य अधिसूचना द्वारा किन क्षेत्रों पर BNSS प्रावधान लागू किए जा सकते हैं?",
-      "options": [
-        "Only Nagaland",
-        "Only tribal areas",
-        "Whole or part of Nagaland or tribal areas",
-        "Only non-tribal areas"
-      ],
-      "optionsHindi": [
-        "केवल नागालैंड",
-        "केवल आदिवासी क्षेत्र",
-        "नागालैंड या आदिवासी क्षेत्रों का संपूर्ण या भाग",
-        "केवल गैर-आदिवासी क्षेत्र"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Provisions can be applied to whole or part of Nagaland or tribal areas.",
-      "explanationHindi": "प्रावधान नागालैंड या आदिवासी क्षेत्रों के संपूर्ण या भाग पर लागू किए जा सकते हैं।",
-      "difficulty": "medium",
-      "category": "extent",
-      "keywords": ["whole or part", "nagaland", "tribal areas"]
-    }
-  ],
-  
-  "mcq_test_settings": {
-    "availableCategories": [
-      "short_title",
-      "enactment",
-      "extent",
-      "chapters",
-      "power",
-      "procedure",
-      "modifications",
-      "definition",
-      "constitution",
-      "exclusion",
-      "commencement",
-      "structure",
-      "terminology"
+  "section1_sentence1": {
+    "general_qa": [
+      {
+        "keywords": ["what is law called", "name of law", "law name", "title", "kya naam hai", "kanoon ka naam"],
+        "answer": "This law is called the 'Bharatiya Nagarik Suraksha Sanhita, 2023'.\n\nयह कानून 'भारतीय नागरिक सुरक्षा संहिता, 2023' कहलाता है।",
+        "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/section1_law_name.mp3"
+      },
+      {
+        "keywords": ["what is complete title", "full title", "complete name", "pura naam"],
+        "answer": "The complete title of this law is: 'Bharatiya Nagarik Suraksha Sanhita, 2023'.\n\nइस कानून का पूरा शीर्षक है: 'भारतीय नागरिक सुरक्षा संहिता, 2023'।",
+        "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/section1_complete_title.mp3"
+      },
+      {
+        "keywords": ["when enacted", "year", "which year", "kab banaya", "kaun sa saal"],
+        "answer": "This law was enacted in the year 2023.\n\nयह कानून वर्ष 2023 में बनाया गया था।",
+        "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/section1_year.mp3"
+      },
+      {
+        "keywords": ["what does bharatiya nagarik suraksha sanhita mean", "meaning", "kya matlab hai"],
+        "answer": "Bharatiya Nagarik Suraksha Sanhita means 'Indian Citizen Security Code' in English. It is a comprehensive law for the protection and security of Indian citizens.\n\nभारतीय नागरिक सुरक्षा संहिता का अर्थ है 'Indian Citizen Security Code'। यह भारतीय नागरिकों की सुरक्षा के लिए एक व्यापक कानून है।",
+        "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/section1_meaning.mp3"
+      },
+      {
+        "keywords": ["help", "what can you do", "features", "capabilities", "kya kar sakte ho"],
+        "answer": "🤖 Welcome! I'm your BNSS Learning Assistant!\n\n📚 I can help you with Section-1, Sentence-1:\n\"This law is called the 'Bharatiya Nagarik Suraksha Sanhita, 2023'\"\n\n✨ MY CAPABILITIES:\n\n1️⃣ ANSWER QUESTIONS (Hindi/English)\n   • What/When/Where/Why/How questions\n   • Yes/No questions\n   • Short answer questions\n\n2️⃣ PRACTICE TESTS (Unlimited Questions!)\n   • MCQ tests (specify any number: \"5 MCQs\", \"10 MCQs\")\n   • True/False tests (any quantity)\n   • Fill in the blanks (any quantity)\n   • Matching exercises\n   • Word arrangement practice\n\n3️⃣ INTELLIGENT FEATURES\n   • Never repeats questions you've seen\n   • Tracks your progress\n   • Custom test lengths\n\n💬 EXAMPLE PROMPTS:\n   • \"Give me 5 MCQs\"\n   • \"I need 10 true/false questions\"\n   • \"Show me 3 fill in the blanks\"\n   • \"Word arrangement exercise\"\n\n🌐 LANGUAGE: Ask in Hindi or English!\n\n📝 TYPE YOUR QUESTION BELOW! 👇",
+        "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/section1_help.mp3"
+      },
+      {
+        "keywords": ["quick revision", "summary", "revision", "jaldi yaad karo"],
+        "answer": "⚡ QUICK REVISION - BNSS Section-1, Sentence-1\n\n📌 KEY POINTS TO REMEMBER:\n\n1. LAW NAME: Bharatiya Nagarik Suraksha Sanhita, 2023\n2. SHORT FORM: BNSS 2023\n3. YEAR: 2023\n4. MEANING: Indian Citizen Security Code\n\n🔑 MEMORY TECHNIQUE:\nB - Bharatiya (Indian)\nN - Nagarik (Citizen)\nS - Suraksha (Security)\nS - Sanhita (Code)\n+ 2023 (Year)\n\n💭 REMEMBER: \"This law is CALLED the BNSS 2023\"\n\n✅ You're ready! Practice more questions for better retention! 🌟",
+        "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/section1_revision.mp3"
+      }
     ],
-    "difficultyLevels": ["easy", "medium", "hard"],
-    "totalMCQs": 75,
-    "passingPercentage": 60,
-    "timePerQuestion": 60
-  },
-  
-  "test_commands": {
-    "keywords": [
-      "test me",
-      "mcq test",
-      "quiz",
-      "practice questions",
-      "mock test",
-      "exam",
-      "test de",
-      "quiz de",
-      "practice karna hai",
-      "परीक्षा दो",
-      "टेस्ट दो",
-      "प्रश्न पूछो",
-      "mcq dikha",
-      "show mcq",
-      "give me test",
-      "start test",
-      "begin quiz"
+    "mcq_pool": [
+      {
+        "id": "mcq_1",
+        "question": "What is this law called?",
+        "question_hi": "इस कानून को क्या कहा जाता है?",
+        "options": ["Indian Penal Code, 2023", "Bharatiya Nagarik Suraksha Sanhita, 2023", "Criminal Procedure Code, 2023", "Indian Evidence Act, 2023"],
+        "options_hi": ["भारतीय दंड संहिता, 2023", "भारतीय नागरिक सुरक्षा संहिता, 2023", "आपराधिक प्रक्रिया संहिता, 2023", "भारतीय साक्ष्य अधिनियम, 2023"],
+        "correct": 1,
+        "explanation": "The law is officially called 'Bharatiya Nagarik Suraksha Sanhita, 2023'."
+      },
+      {
+        "id": "mcq_2",
+        "question": "In which year was this law named?",
+        "question_hi": "इस कानून का नाम किस वर्ष रखा गया था?",
+        "options": ["2022", "2024", "2023", "2021"],
+        "options_hi": ["2022", "2024", "2023", "2021"],
+        "correct": 2,
+        "explanation": "The law was named in the year 2023."
+      },
+      {
+        "id": "mcq_3",
+        "question": "The term 'Bharatiya' in the law's name means:",
+        "question_hi": "कानून के नाम में 'भारतीय' शब्द का अर्थ है:",
+        "options": ["British", "Indian", "Foreign", "Colonial"],
+        "options_hi": ["ब्रिटिश", "भारतीय", "विदेशी", "औपनिवेशिक"],
+        "correct": 1,
+        "explanation": "'Bharatiya' means 'Indian' in English."
+      },
+      {
+        "id": "mcq_4",
+        "question": "What does 'Nagarik' mean in English?",
+        "question_hi": "'नागरिक' का अंग्रेजी में क्या अर्थ है?",
+        "options": ["Soldier", "Police", "Citizen", "Judge"],
+        "options_hi": ["सैनिक", "पुलिस", "नागरिक", "न्यायाधीश"],
+        "correct": 2,
+        "explanation": "'Nagarik' translates to 'Citizen' in English."
+      },
+      {
+        "id": "mcq_5",
+        "question": "The word 'Suraksha' in the title means:",
+        "question_hi": "शीर्षक में 'सुरक्षा' शब्द का अर्थ है:",
+        "options": ["Punishment", "Security/Protection", "Justice", "Rights"],
+        "options_hi": ["सजा", "सुरक्षा/संरक्षण", "न्याय", "अधिकार"],
+        "correct": 1,
+        "explanation": "'Suraksha' means 'Security' or 'Protection'."
+      },
+      {
+        "id": "mcq_6",
+        "question": "'Sanhita' in the law's name translates to:",
+        "question_hi": "कानून के नाम में 'संहिता' का अनुवाद है:",
+        "options": ["Act", "Rule", "Code", "Law"],
+        "options_hi": ["अधिनियम", "नियम", "संहिता", "कानून"],
+        "correct": 2,
+        "explanation": "'Sanhita' means 'Code' in English."
+      },
+      {
+        "id": "mcq_7",
+        "question": "How many words are in the law's name (excluding the year)?",
+        "question_hi": "कानून के नाम में कितने शब्द हैं (वर्ष को छोड़कर)?",
+        "options": ["Two", "Three", "Four", "Five"],
+        "options_hi": ["दो", "तीन", "चार", "पांच"],
+        "correct": 2,
+        "explanation": "There are four words: Bharatiya, Nagarik, Suraksha, Sanhita."
+      },
+      {
+        "id": "mcq_8",
+        "question": "The short form of this law is:",
+        "question_hi": "इस कानून का संक्षिप्त रूप है:",
+        "options": ["IPC", "BNSS", "CrPC", "IEA"],
+        "options_hi": ["आईपीसी", "बीएनएसएस", "सीआरपीसी", "आईईए"],
+        "correct": 1,
+        "explanation": "The short form is BNSS (Bharatiya Nagarik Suraksha Sanhita)."
+      },
+      {
+        "id": "mcq_9",
+        "question": "This law is related to:",
+        "question_hi": "यह कानून संबंधित है:",
+        "options": ["Traffic Rules", "Citizen Security", "Tax Collection", "Education"],
+        "options_hi": ["यातायात नियम", "नागरिक सुरक्षा", "कर संग्रह", "शिक्षा"],
+        "correct": 1,
+        "explanation": "The law is about Citizen Security (Nagarik Suraksha)."
+      },
+      {
+        "id": "mcq_10",
+        "question": "The complete title includes which year?",
+        "question_hi": "पूर्ण शीर्षक में कौन सा वर्ष शामिल है?",
+        "options": ["2020", "2021", "2022", "2023"],
+        "options_hi": ["2020", "2021", "2022", "2023"],
+        "correct": 3,
+        "explanation": "The complete title includes the year 2023."
+      },
+      {
+        "id": "mcq_11",
+        "question": "Which language is the law's name in?",
+        "question_hi": "कानून का नाम किस भाषा में है?",
+        "options": ["English", "Hindi", "Sanskrit", "Urdu"],
+        "options_hi": ["अंग्रेजी", "हिंदी", "संस्कृत", "उर्दू"],
+        "correct": 1,
+        "explanation": "The law's name is in Hindi."
+      },
+      {
+        "id": "mcq_12",
+        "question": "The first word in the law's name is:",
+        "question_hi": "कानून के नाम में पहला शब्द है:",
+        "options": ["Nagarik", "Bharatiya", "Suraksha", "Sanhita"],
+        "options_hi": ["नागरिक", "भारतीय", "सुरक्षा", "संहिता"],
+        "correct": 1,
+        "explanation": "The first word is 'Bharatiya'."
+      },
+      {
+        "id": "mcq_13",
+        "question": "The last word before the year is:",
+        "question_hi": "वर्ष से पहले अंतिम शब्द है:",
+        "options": ["Bharatiya", "Nagarik", "Suraksha", "Sanhita"],
+        "options_hi": ["भारतीय", "नागरिक", "सुरक्षा", "संहिता"],
+        "correct": 3,
+        "explanation": "The last word before 2023 is 'Sanhita'."
+      },
+      {
+        "id": "mcq_14",
+        "question": "This law is also known as:",
+        "question_hi": "इस कानून को इस रूप में भी जाना जाता है:",
+        "options": ["BNS", "BNSS", "BSS", "BNS 2023"],
+        "options_hi": ["बीएनएस", "बीएनएसएस", "बीएसएस", "बीएनएस 2023"],
+        "correct": 1,
+        "explanation": "It's commonly abbreviated as BNSS."
+      },
+      {
+        "id": "mcq_15",
+        "question": "The law's title contains how many numbers?",
+        "question_hi": "कानून के शीर्षक में कितने नंबर हैं?",
+        "options": ["None", "One", "Two", "Three"],
+        "options_hi": ["कोई नहीं", "एक", "दो", "तीन"],
+        "correct": 1,
+        "explanation": "The title contains one number: 2023."
+      },
+      {
+        "id": "mcq_16",
+        "question": "What type of document is this?",
+        "question_hi": "यह किस प्रकार का दस्तावेज़ है?",
+        "options": ["Constitution", "Law/Code", "Agreement", "Treaty"],
+        "options_hi": ["संविधान", "कानून/संहिता", "समझौता", "संधि"],
+        "correct": 1,
+        "explanation": "It's a Law/Code (Sanhita)."
+      },
+      {
+        "id": "mcq_17",
+        "question": "The second word in the law's name is:",
+        "question_hi": "कानून के नाम में दूसरा शब्द है:",
+        "options": ["Bharatiya", "Nagarik", "Suraksha", "Sanhita"],
+        "options_hi": ["भारतीय", "नागरिक", "सुरक्षा", "संहिता"],
+        "correct": 1,
+        "explanation": "The second word is 'Nagarik'."
+      },
+      {
+        "id": "mcq_18",
+        "question": "The third word in the law's name is:",
+        "question_hi": "कानून के नाम में तीसरा शब्द है:",
+        "options": ["Bharatiya", "Nagarik", "Suraksha", "Sanhita"],
+        "options_hi": ["भारतीय", "नागरिक", "सुरक्षा", "संहिता"],
+        "correct": 2,
+        "explanation": "The third word is 'Suraksha'."
+      },
+      {
+        "id": "mcq_19",
+        "question": "This law is meant for:",
+        "question_hi": "यह कानून किसके लिए है:",
+        "options": ["Only government officials", "All Indian citizens", "Only police", "Only judges"],
+        "options_hi": ["केवल सरकारी अधिकारियों के लिए", "सभी भारतीय नागरिकों के लिए", "केवल पुलिस के लिए", "केवल न्यायाधीशों के लिए"],
+        "correct": 1,
+        "explanation": "It's for all Indian citizens (Bharatiya Nagarik)."
+      },
+      {
+        "id": "mcq_20",
+        "question": "The year 2023 appears at the:",
+        "question_hi": "वर्ष 2023 कहाँ दिखाई देता है:",
+        "options": ["Beginning", "Middle", "End", "Not mentioned"],
+        "options_hi": ["शुरुआत में", "बीच में", "अंत में", "उल्लेख नहीं"],
+        "correct": 2,
+        "explanation": "The year 2023 appears at the end of the title."
+      }
     ],
-    "responses": {
-      "testStart": "Great! Let's start your BNSS Section 1 MCQ Test. How many questions would you like to attempt?",
-      "testStartHindi": "बढ़िया! आइए आपका BNSS धारा 1 MCQ परीक्षण शुरू करें। आप कितने प्रश्नों का प्रयास करना चाहेंगे?",
-      "selectDifficulty": "Please select difficulty level: Easy, Medium, or Hard (or type 'All' for mixed)",
-      "selectDifficultyHindi": "कृपया कठिनाई स्तर चुनें: आसान, मध्यम, या कठिन (या मिश्रित के लिए 'सभी' टाइप करें)",
-      "testComplete": "Test completed! Your score: {score}/{total}. Percentage: {percentage}%",
-      "testCompleteHindi": "परीक्षण पूर्ण! आपका स्कोर: {score}/{total}। प्रतिशत: {percentage}%"
-    }
+    "truefalse_pool": [
+      {
+        "id": "tf_1",
+        "statement": "This law is called the 'Bharatiya Nagarik Suraksha Sanhita, 2023'.",
+        "statement_hi": "इस कानून को 'भारतीय नागरिक सुरक्षा संहिता, 2023' कहा जाता है।",
+        "correct": true,
+        "explanation": "This is the exact official name of the law."
+      },
+      {
+        "id": "tf_2",
+        "statement": "The law was named in 2022.",
+        "statement_hi": "कानून का नाम 2022 में रखा गया था।",
+        "correct": false,
+        "explanation": "The law was named in 2023, not 2022."
+      },
+      {
+        "id": "tf_3",
+        "statement": "The name of this law includes the year 2023.",
+        "statement_hi": "इस कानून के नाम में वर्ष 2023 शामिल है।",
+        "correct": true,
+        "explanation": "Yes, 2023 is part of the official name."
+      },
+      {
+        "id": "tf_4",
+        "statement": "This law is called the 'Indian Penal Code, 2023'.",
+        "statement_hi": "इस कानून को 'भारतीय दंड संहिता, 2023' कहा जाता है।",
+        "correct": false,
+        "explanation": "It's called BNSS, not IPC."
+      },
+      {
+        "id": "tf_5",
+        "statement": "'Bharatiya Nagarik Suraksha Sanhita' is part of the law's name.",
+        "statement_hi": "'भारतीय नागरिक सुरक्षा संहिता' कानून के नाम का हिस्सा है।",
+        "correct": true,
+        "explanation": "This is the main part of the law's name."
+      },
+      {
+        "id": "tf_6",
+        "statement": "The year 2023 appears in the law's official name.",
+        "statement_hi": "कानून के आधिकारिक नाम में वर्ष 2023 दिखाई देता है।",
+        "correct": true,
+        "explanation": "2023 is included in the official title."
+      },
+      {
+        "id": "tf_7",
+        "statement": "This law has no official name.",
+        "statement_hi": "इस कानून का कोई आधिकारिक नाम नहीं है।",
+        "correct": false,
+        "explanation": "The law has an official name: BNSS 2023."
+      },
+      {
+        "id": "tf_8",
+        "statement": "The law's name is only in English.",
+        "statement_hi": "कानून का नाम केवल अंग्रेजी में है।",
+        "correct": false,
+        "explanation": "The law's name is in Hindi."
+      },
+      {
+        "id": "tf_9",
+        "statement": "BNSS stands for Bharatiya Nagarik Suraksha Sanhita.",
+        "statement_hi": "BNSS का मतलब भारतीय नागरिक सुरक्षा संहिता है।",
+        "correct": true,
+        "explanation": "BNSS is the correct abbreviation."
+      },
+      {
+        "id": "tf_10",
+        "statement": "The word 'Nagarik' means 'Police' in English.",
+        "statement_hi": "'नागरिक' शब्द का अंग्रेजी में अर्थ 'पुलिस' है।",
+        "correct": false,
+        "explanation": "'Nagarik' means 'Citizen', not 'Police'."
+      },
+      {
+        "id": "tf_11",
+        "statement": "'Suraksha' means 'Security' or 'Protection'.",
+        "statement_hi": "'सुरक्षा' का अर्थ 'Security' या 'Protection' है।",
+        "correct": true,
+        "explanation": "This is the correct meaning of 'Suraksha'."
+      },
+      {
+        "id": "tf_12",
+        "statement": "The law was enacted in 2020.",
+        "statement_hi": "यह कानून 2020 में बनाया गया था।",
+        "correct": false,
+        "explanation": "The law was enacted in 2023."
+      },
+      {
+        "id": "tf_13",
+        "statement": "'Sanhita' translates to 'Code' in English.",
+        "statement_hi": "'संहिता' का अंग्रेजी में अनुवाद 'Code' है।",
+        "correct": true,
+        "explanation": "'Sanhita' means 'Code'."
+      },
+      {
+        "id": "tf_14",
+        "statement": "This law contains exactly three words.",
+        "statement_hi": "इस कानून में बिल्कुल तीन शब्द हैं।",
+        "correct": false,
+        "explanation": "It contains four words plus the year."
+      },
+      {
+        "id": "tf_15",
+        "statement": "The law's name begins with 'Bharatiya'.",
+        "statement_hi": "कानून का नाम 'भारतीय' से शुरू होता है।",
+        "correct": true,
+        "explanation": "'Bharatiya' is the first word."
+      },
+      {
+        "id": "tf_16",
+        "statement": "This is a law about traffic regulations.",
+        "statement_hi": "यह यातायात नियमों के बारे में कानून है।",
+        "correct": false,
+        "explanation": "It's about citizen security, not traffic."
+      },
+      {
+        "id": "tf_17",
+        "statement": "The law's title ends with the year 2023.",
+        "statement_hi": "कानून का शीर्षक वर्ष 2023 के साथ समाप्त होता है।",
+        "correct": true,
+        "explanation": "The title ends with 2023."
+      },
+      {
+        "id": "tf_18",
+        "statement": "'Bharatiya' means 'British' in English.",
+        "statement_hi": "'भारतीय' का अंग्रेजी में अर्थ 'British' है।",
+        "correct": false,
+        "explanation": "'Bharatiya' means 'Indian', not 'British'."
+      },
+      {
+        "id": "tf_19",
+        "statement": "This law is called a 'Sanhita' (Code).",
+        "statement_hi": "इस कानून को 'संहिता' (Code) कहा जाता है।",
+        "correct": true,
+        "explanation": "Yes, it's officially called a Sanhita."
+      },
+      {
+        "id": "tf_20",
+        "statement": "The law has no year mentioned in its title.",
+        "statement_hi": "कानून के शीर्षक में कोई वर्ष उल्लिखित नहीं है।",
+        "correct": false,
+        "explanation": "The year 2023 is mentioned in the title."
+      }
+    ],
+    "fillblank_pool": [
+      {
+        "id": "fb_1",
+        "question": "This law is called the \"__________, 2023\".",
+        "question_hi": "इस कानून को \"__________, 2023\" कहा जाता है।",
+        "answer": "Bharatiya Nagarik Suraksha Sanhita",
+        "answer_hi": "भारतीय नागरिक सुरक्षा संहिता"
+      },
+      {
+        "id": "fb_2",
+        "question": "This law is called the \"Bharatiya Nagarik Suraksha Sanhita, __________\".",
+        "question_hi": "इस कानून को \"भारतीय नागरिक सुरक्षा संहिता, __________\" कहा जाता है।",
+        "answer": "2023",
+        "answer_hi": "2023"
+      },
+      {
+        "id": "fb_3",
+        "question": "The complete name of this law is __________.",
+        "question_hi": "इस कानून का पूरा नाम __________ है।",
+        "answer": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+        "answer_hi": "भारतीय नागरिक सुरक्षा संहिता, 2023"
+      },
+      {
+        "id": "fb_4",
+        "question": "The year mentioned in the law's name is __________.",
+        "question_hi": "कानून के नाम में उल्लिखित वर्ष __________ है।",
+        "answer": "2023",
+        "answer_hi": "2023"
+      },
+      {
+        "id": "fb_5",
+        "question": "This __________ is called the \"Bharatiya Nagarik Suraksha Sanhita, 2023\".",
+        "question_hi": "यह __________ को \"भारतीय नागरिक सुरक्षा संहिता, 2023\" कहा जाता है।",
+        "answer": "law",
+        "answer_hi": "कानून"
+      },
+      {
+        "id": "fb_6",
+        "question": "The complete title is \"__________ __________ __________ __________, 2023\".",
+        "question_hi": "पूर्ण शीर्षक \"__________ __________ __________ __________, 2023\" है।",
+        "answer": "Bharatiya Nagarik Suraksha Sanhita",
+        "answer_hi": "भारतीय नागरिक सुरक्षा संहिता"
+      },
+      {
+        "id": "fb_7",
+        "question": "This law is __________ the \"Bharatiya Nagarik Suraksha Sanhita, 2023\".",
+        "question_hi": "यह कानून \"भारतीय नागरिक सुरक्षा संहिता, 2023\" __________ है।",
+        "answer": "called",
+        "answer_hi": "कहलाता"
+      },
+      {
+        "id": "fb_8",
+        "question": "The law's name includes the term \"__________ Nagarik Suraksha Sanhita\".",
+        "question_hi": "कानून के नाम में \"__________ नागरिक सुरक्षा संहिता\" शब्द शामिल है।",
+        "answer": "Bharatiya",
+        "answer_hi": "भारतीय"
+      },
+      {
+        "id": "fb_9",
+        "question": "The short form of this law is __________.",
+        "question_hi": "इस कानून का संक्षिप्त रूप __________ है।",
+        "answer": "BNSS",
+        "answer_hi": "बीएनएसएस"
+      },
+      {
+        "id": "fb_10",
+        "question": "'Nagarik' means __________ in English.",
+        "question_hi": "'नागरिक' का अंग्रेजी में अर्थ __________ है।",
+        "answer": "Citizen",
+        "answer_hi": "नागरिक"
+      },
+      {
+        "id": "fb_11",
+        "question": "'Suraksha' translates to __________ in English.",
+        "question_hi": "'सुरक्षा' का अंग्रेजी में अनुवाद __________ है।",
+        "answer": "Security/Protection",
+        "answer_hi": "सुरक्षा/संरक्षण"
+      },
+      {
+        "id": "fb_12",
+        "question": "'Sanhita' means __________ in English.",
+        "question_hi": "'संहिता' का अंग्रेजी में अर्थ __________ है।",
+        "answer": "Code",
+        "answer_hi": "संहिता"
+      },
+      {
+        "id": "fb_13",
+        "question": "The first word in the law's name is __________.",
+        "question_hi": "कानून के नाम में पहला शब्द __________ है।",
+        "answer": "Bharatiya",
+        "answer_hi": "भारतीय"
+      },
+      {
+        "id": "fb_14",
+        "question": "The second word in the law's name is __________.",
+        "question_hi": "कानून के नाम में दूसरा शब्द __________ है।",
+        "answer": "Nagarik",
+        "answer_hi": "नागरिक"
+      },
+      {
+        "id": "fb_15",
+        "question": "The third word in the law's name is __________.",
+        "question_hi": "कानून के नाम में तीसरा शब्द __________ है।",
+        "answer": "Suraksha",
+        "answer_hi": "सुरक्षा"
+      },
+      {
+        "id": "fb_16",
+        "question": "The fourth word in the law's name is __________.",
+        "question_hi": "कानून के नाम में चौथा शब्द __________ है।",
+        "answer": "Sanhita",
+        "answer_hi": "संहिता"
+      },
+      {
+        "id": "fb_17",
+        "question": "'Bharatiya' means __________ in English.",
+        "question_hi": "'भारतीय' का अंग्रेजी में अर्थ __________ है।",
+        "answer": "Indian",
+        "answer_hi": "भारतीय"
+      },
+      {
+        "id": "fb_18",
+        "question": "This law was enacted in the year __________.",
+        "question_hi": "यह कानून वर्ष __________ में बनाया गया था।",
+        "answer": "2023",
+        "answer_hi": "2023"
+      },
+      {
+        "id": "fb_19",
+        "question": "The law is about __________ Security.",
+        "question_hi": "यह कानून __________ सुरक्षा के बारे में है।",
+        "answer": "Citizen",
+        "answer_hi": "नागरिक"
+      },
+      {
+        "id": "fb_20",
+        "question": "BNSS stands for Bharatiya __________ Suraksha __________.",
+        "question_hi": "BNSS का मतलब भारतीय __________ सुरक्षा __________ है।",
+        "answer": "Nagarik, Sanhita",
+        "answer_hi": "नागरिक, संहिता"
+      }
+    ],
+    "matching_pool": [
+      {
+        "id": "match_1",
+        "columnA": ["Law's name", "Year", "Complete title", "First word", "Verb used"],
+        "columnA_hi": ["कानून का नाम", "वर्ष", "पूर्ण शीर्षक", "पहला शब्द", "प्रयुक्त क्रिया"],
+        "columnB": ["2023", "Bharatiya Nagarik Suraksha Sanhita, 2023", "Bharatiya Nagarik Suraksha Sanhita", "Bharatiya", "Called"],
+        "columnB_hi": ["2023", "भारतीय नागरिक सुरक्षा संहिता, 2023", "भारतीय नागरिक सुरक्षा संहिता", "भारतीय", "कहलाता"],
+        "correct_matches": [1, 0, 1, 3, 4]
+      }
+    ],
+    "word_arrangement_pool": [
+      {
+        "id": "wa_1",
+        "jumbled": ["2023", "Sanhita", "This", "Bharatiya", "is", "Nagarik", "law", "the", "called", "Suraksha"],
+        "jumbled_hi": ["2023", "संहिता", "यह", "भारतीय", "है", "नागरिक", "कानून", "को", "कहलाता", "सुरक्षा"],
+        "correct": "This law is called the Bharatiya Nagarik Suraksha Sanhita, 2023.",
+        "correct_hi": "यह कानून भारतीय नागरिक सुरक्षा संहिता, 2023 कहलाता है।",
+        "hint": "Start with 'This law...'"
+      },
+      {
+        "id": "wa_2",
+        "jumbled": ["called", "the", "law", "Bharatiya", "This", "is", "Nagarik", "Sanhita", "Suraksha", "2023"],
+        "jumbled_hi": ["कहलाता", "को", "कानून", "भारतीय", "यह", "है", "नागरिक", "संहिता", "सुरक्षा", "2023"],
+        "correct": "This law is called the Bharatiya Nagarik Suraksha Sanhita, 2023.",
+        "correct_hi": "यह कानून भारतीय नागरिक सुरक्षा संहिता, 2023 कहलाता है।",
+        "hint": "Arrange in proper sequence"
+      }
+    ]
   }
 }
-
