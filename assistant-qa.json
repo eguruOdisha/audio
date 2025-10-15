@@ -1,8 +1,244 @@
-
+{
+  "bnss_section1": [
     {
-      "keywords": ["main aim", "aim of act", "purpose", "mukhya uddeshya", "maksad"],
-      "answer": "The main aim of this Act is Protection - to protect SC and ST people from injustice and atrocities.",
-      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-C1-L2.mp3"
+      "question": "What is the short title of this Act?",
+      "questionHindi": "इस अधिनियम का संक्षिप्त शीर्षक क्या है?",
+      "answer": "The short title of this Act is Bharatiya Nagarik Suraksha Sanhita, 2023.",
+      "answerHindi": "इस अधिनियम का संक्षिप्त शीर्षक भारतीय नागरिक सुरक्षा संहिता, 2023 है।",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-C1-P1.mp3",
+      "keywords": ["short title", "act name", "BNSS", "title", "naam kya hai", "संक्षिप्त शीर्षक"]
+    },
+    {
+      "question": "State the full name of BNSS.",
+      "questionHindi": "BNSS का पूरा नाम बताइए।",
+      "answer": "The full name is Bharatiya Nagarik Suraksha Sanhita, 2023.",
+      "answerHindi": "पूरा नाम भारतीय नागरिक सुरक्षा संहिता, 2023 है।",
+      "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/bnss_q2.mp3",
+      "keywords": ["full name", "complete name", "BNSS full form", "poora naam", "पूरा नाम"]
+    },
+    {
+      "question": "In which year was this Sanhita enacted?",
+      "questionHindi": "यह संहिता किस वर्ष अधिनियमित की गई थी?",
+      "answer": "This Sanhita was enacted in the year 2023.",
+      "answerHindi": "यह संहिता वर्ष 2023 में अधिनियमित की गई थी।",
+      "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/bnss_q3.mp3",
+      "keywords": ["year", "enacted", "2023", "kab bana", "वर्ष", "कब बनाया"]
+    },
+    {
+      "question": "What does 'may be called' indicate in legal terminology?",
+      "questionHindi": "कानूनी शब्दावली में 'may be called' का क्या अर्थ है?",
+      "answer": "'May be called' indicates the short title provision in legal terminology, which provides a convenient way to refer to the Act.",
+      "answerHindi": "'May be called' कानूनी शब्दावली में संक्षिप्त शीर्षक प्रावधान को दर्शाता है, जो अधिनियम को संदर्भित करने का एक सुविधाजनक तरीका प्रदान करता है।",
+      "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/bnss_q4.mp3",
+      "keywords": ["may be called", "legal term", "short title provision", "meaning", "अर्थ"]
+    },
+    {
+      "question": "What is the meaning of 'Bharatiya'?",
+      "questionHindi": "'भारतीय' का अर्थ क्या है?",
+      "answer": "'Bharatiya' means Indian or relating to India/Bharat.",
+      "answerHindi": "'भारतीय' का अर्थ है भारत से संबंधित या भारत का।",
+      "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/bnss_q5.mp3",
+      "keywords": ["bharatiya", "meaning", "indian", "bharat", "arth", "भारतीय", "अर्थ"]
+    },
+    {
+      "question": "What does 'Nagarik' mean?",
+      "questionHindi": "'नागरिक' का अर्थ क्या है?",
+      "answer": "'Nagarik' means Citizen.",
+      "answerHindi": "'नागरिक' का अर्थ नागरिक या सिटीजन है।",
+      "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/bnss_q6.mp3",
+      "keywords": ["nagarik", "citizen", "meaning", "arth", "nagrik", "नागरिक"]
+    },
+    {
+      "question": "What does 'Suraksha' mean?",
+      "questionHindi": "'सुरक्षा' का अर्थ क्या है?",
+      "answer": "'Suraksha' means Security or Protection.",
+      "answerHindi": "'सुरक्षा' का अर्थ सुरक्षा या संरक्षण है।",
+      "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/bnss_q7.mp3",
+      "keywords": ["suraksha", "security", "protection", "meaning", "arth", "सुरक्षा"]
+    },
+    {
+      "question": "What does 'Sanhita' mean?",
+      "questionHindi": "'संहिता' का अर्थ क्या है?",
+      "answer": "'Sanhita' means Code or a systematic compilation of laws.",
+      "answerHindi": "'संहिता' का अर्थ संहिता या कानूनों का व्यवस्थित संग्रह है।",
+      "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/bnss_q8.mp3",
+      "keywords": ["sanhita", "code", "meaning", "arth", "kanoon", "संहिता", "कानून"]
+    },
+    {
+      "question": "Which sub-section deals with the short title?",
+      "questionHindi": "कौन सी उप-धारा संक्षिप्त शीर्षक से संबंधित है?",
+      "answer": "Sub-section (1) deals with the short title of the Act.",
+      "answerHindi": "उप-धारा (1) अधिनियम के संक्षिप्त शीर्षक से संबंधित है।",
+      "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/bnss_q9.mp3",
+      "keywords": ["sub-section", "short title", "section 1", "which subsection", "उप-धारा"]
+    },
+    {
+      "question": "What is the significance of giving a short title to an Act?",
+      "questionHindi": "किसी अधिनियम को संक्षिप्त शीर्षक देने का क्या महत्व है?",
+      "answer": "A short title provides a convenient and brief way to refer to and cite the Act in legal documents and proceedings.",
+      "answerHindi": "एक संक्षिप्त शीर्षक कानूनी दस्तावेजों और कार्यवाहियों में अधिनियम को संदर्भित करने और उद्धृत करने का एक सुविधाजनक और संक्षिप्त तरीका प्रदान करता है।",
+      "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/bnss_q10.mp3",
+      "keywords": ["significance", "short title", "importance", "why short title", "महत्व"]
+    },
+    {
+      "question": "Which provisions are mentioned as exceptions in sub-section (2)?",
+      "questionHindi": "उप-धारा (2) में अपवाद के रूप में कौन से प्रावधानों का उल्लेख किया गया है?",
+      "answer": "Chapters IX, XI and XII are mentioned as exceptions that DO apply to Nagaland and tribal areas.",
+      "answerHindi": "अध्याय IX, XI और XII को अपवाद के रूप में उल्लेखित किया गया है जो नागालैंड और आदिवासी क्षेत्रों पर लागू होते हैं।",
+      "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/bnss_q11.mp3",
+      "keywords": ["exceptions", "chapters", "sub-section 2", "which chapters", "अपवाद", "अध्याय"]
+    },
+    {
+      "question": "Name the chapters that DO apply to Nagaland and tribal areas.",
+      "questionHindi": "उन अध्यायों के नाम बताइए जो नागालैंड और आदिवासी क्षेत्रों पर लागू होते हैं।",
+      "answer": "Chapters IX, XI and XII apply to the State of Nagaland and tribal areas.",
+      "answerHindi": "अध्याय IX, XI और XII नागालैंड राज्य और आदिवासी क्षेत्रों पर लागू होते हैं।",
+      "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/bnss_q12.mp3",
+      "keywords": ["chapters apply", "nagaland", "tribal areas", "which chapters apply", "अध्याय लागू"]
+    },
+    {
+      "question": "What does 'provisions of this Sanhita' refer to?",
+      "questionHindi": "'इस संहिता के प्रावधान' किसे संदर्भित करते हैं?",
+      "answer": "'Provisions of this Sanhita' refers to all the sections, rules, and regulations contained in the Bharatiya Nagarik Suraksha Sanhita, 2023.",
+      "answerHindi": "'इस संहिता के प्रावधान' भारतीय नागरिक सुरक्षा संहिता, 2023 में निहित सभी धाराओं, नियमों और विनियमों को संदर्भित करते हैं।",
+      "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/bnss_q13.mp3",
+      "keywords": ["provisions", "sanhita", "meaning", "what is provisions", "प्रावधान"]
+    },
+    {
+      "question": "What does 'other than those relating to' mean?",
+      "questionHindi": "'other than those relating to' का क्या अर्थ है?",
+      "answer": "'Other than those relating to' means 'except' or 'excluding' - it creates an exception for certain provisions.",
+      "answerHindi": "'Other than those relating to' का अर्थ है 'सिवाय' या 'को छोड़कर' - यह कुछ प्रावधानों के लिए एक अपवाद बनाता है।",
+      "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/bnss_q14.mp3",
+      "keywords": ["other than", "except", "excluding", "meaning", "सिवाय", "छोड़कर"]
+    },
+    {
+      "question": "List the chapter numbers mentioned in sub-section (2).",
+      "questionHindi": "उप-धारा (2) में उल्लिखित अध्याय संख्याओं की सूची बनाइए।",
+      "answer": "Chapter IX, Chapter XI, and Chapter XII are mentioned in sub-section (2).",
+      "answerHindi": "उप-धारा (2) में अध्याय IX, अध्याय XI, और अध्याय XII का उल्लेख किया गया है।",
+      "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/bnss_q15.mp3",
+      "keywords": ["chapter numbers", "list chapters", "IX XI XII", "chapter", "अध्याय संख्या"]
+    },
+    {
+      "question": "How many chapters are specifically exempted from non-application?",
+      "questionHindi": "विशेष रूप से कितने अध्यायों को गैर-लागू होने से छूट दी गई है?",
+      "answer": "Three chapters (IX, XI, and XII) are specifically exempted from non-application.",
+      "answerHindi": "तीन अध्यायों (IX, XI, और XII) को विशेष रूप से गैर-लागू होने से छूट दी गई है।",
+      "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/bnss_q16.mp3",
+      "keywords": ["how many chapters", "number of chapters", "3 chapters", "kitne chapter", "तीन अध्याय"]
+    },
+    {
+      "question": "What does 'shall not apply' indicate?",
+      "questionHindi": "'shall not apply' क्या दर्शाता है?",
+      "answer": "'Shall not apply' indicates a mandatory prohibition - it means the provisions are legally excluded from application in those areas.",
+      "answerHindi": "'Shall not apply' एक अनिवार्य निषेध को दर्शाता है - इसका मतलब है कि प्रावधानों को उन क्षेत्रों में लागू होने से कानूनी रूप से बाहर रखा गया है।",
+      "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/bnss_q17.mp3",
+      "keywords": ["shall not apply", "mandatory", "prohibition", "meaning", "लागू नहीं होगा"]
+    },
+    {
+      "question": "Is the non-application mandatory or optional?",
+      "questionHindi": "क्या गैर-लागू होना अनिवार्य है या वैकल्पिक?",
+      "answer": "The non-application is mandatory, as indicated by the word 'shall'.",
+      "answerHindi": "गैर-लागू होना अनिवार्य है, जैसा कि 'shall' शब्द से संकेत मिलता है।",
+      "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/bnss_q18.mp3",
+      "keywords": ["mandatory", "optional", "shall", "compulsory", "अनिवार्य"]
+    },
+    {
+      "question": "What is the nature of the restriction created by 'shall not apply'?",
+      "questionHindi": "'shall not apply' द्वारा बनाए गए प्रतिबंध की प्रकृति क्या है?",
+      "answer": "It creates a mandatory territorial restriction on the applicability of certain provisions.",
+      "answerHindi": "यह कुछ प्रावधानों की लागू होने की क्षमता पर एक अनिवार्य क्षेत्रीय प्रतिबंध बनाता है।",
+      "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/bnss_q19.mp3",
+      "keywords": ["nature", "restriction", "shall not apply", "mandatory restriction", "प्रतिबंध"]
+    },
+    {
+      "question": "What does 'thereof' refer to?",
+      "questionHindi": "'thereof' किसे संदर्भित करता है?",
+      "answer": "'Thereof' refers to 'this Sanhita' or 'this Act' mentioned earlier in the sentence.",
+      "answerHindi": "'Thereof' वाक्य में पहले उल्लिखित 'इस संहिता' या 'इस अधिनियम' को संदर्भित करता है।",
+      "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/bnss_q20.mp3",
+      "keywords": ["thereof", "refers to", "meaning", "what refers", "संदर्भ"]
+    },
+    {
+      "question": "Which state is mentioned in clause (a)?",
+      "questionHindi": "खंड (a) में कौन सा राज्य उल्लिखित है?",
+      "answer": "The State of Nagaland is mentioned in clause (a).",
+      "answerHindi": "खंड (a) में नागालैंड राज्य का उल्लेख किया गया है।",
+      "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/bnss_q21.mp3",
+      "keywords": ["clause a", "state", "nagaland", "which state", "खंड", "नागालैंड"]
+    },
+    {
+      "question": "Name the state to which certain provisions don't apply.",
+      "questionHindi": "उस राज्य का नाम बताइए जिस पर कुछ प्रावधान लागू नहीं होते हैं।",
+      "answer": "State of Nagaland is the state to which certain provisions don't apply.",
+      "answerHindi": "नागालैंड राज्य वह राज्य है जिस पर कुछ प्रावधान लागू नहीं होते हैं।",
+      "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/bnss_q22.mp3",
+      "keywords": ["provisions don't apply", "nagaland", "which state", "excluded state", "प्रावधान लागू नहीं"]
+    },
+    {
+      "question": "Is Nagaland in North-East India?",
+      "questionHindi": "क्या नागालैंड उत्तर-पूर्व भारत में है?",
+      "answer": "Yes, Nagaland is in North-East India.",
+      "answerHindi": "हां, नागालैंड उत्तर-पूर्व भारत में है।",
+      "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/bnss_q23.mp3",
+      "keywords": ["nagaland location", "north-east", "where is nagaland", "नागालैंड स्थान"]
+    },
+    {
+      "question": "To which geographical area does clause (a) refer?",
+      "questionHindi": "खंड (a) किस भौगोलिक क्षेत्र को संदर्भित करता है?",
+      "answer": "Clause (a) refers to the State of Nagaland.",
+      "answerHindi": "खंड (a) नागालैंड राज्य को संदर्भित करता है।",
+      "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/bnss_q24.mp3",
+      "keywords": ["clause a", "geographical area", "nagaland", "area", "भौगोलिक क्षेत्र"]
+    },
+    {
+      "question": "What is the capital of Nagaland?",
+      "questionHindi": "नागालैंड की राजधानी क्या है?",
+      "answer": "The capital of Nagaland is Kohima.",
+      "answerHindi": "नागालैंड की राजधानी कोहिमा है।",
+      "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/bnss_q25.mp3",
+      "keywords": ["nagaland capital", "kohima", "capital city", "राजधानी", "कोहिमा"]
+    },
+    {
+      "question": "What does clause (b) refer to?",
+      "questionHindi": "खंड (b) किसे संदर्भित करता है?",
+      "answer": "Clause (b) refers to tribal areas as defined in the Explanation.",
+      "answerHindi": "खंड (b) आदिवासी क्षेत्रों को संदर्भित करता है जैसा कि स्पष्टीकरण में परिभाषित किया गया है।",
+      "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/bnss_q26.mp3",
+      "keywords": ["clause b", "tribal areas", "what is clause b", "आदिवासी क्षेत्र"]
+    },
+    {
+      "question": "Define 'tribal areas' as per this section.",
+      "questionHindi": "इस धारा के अनुसार 'आदिवासी क्षेत्रों' को परिभाषित कीजिए।",
+      "answer": "Tribal areas means the territories which immediately before 21st January, 1972, were included in the tribal areas of Assam as referred to in paragraph 20 of the Sixth Schedule to the Constitution, other than those within the local limits of the municipality of Shillong.",
+      "answerHindi": "आदिवासी क्षेत्रों का अर्थ है वे क्षेत्र जो 21 जनवरी, 1972 से तुरंत पहले, संविधान की छठी अनुसूची के पैराग्राफ 20 में संदर्भित असम के आदिवासी क्षेत्रों में शामिल थे, शिलांग नगरपालिका की स्थानीय सीमा के भीतर वाले क्षेत्रों के अलावा।",
+      "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/bnss_q27.mp3",
+      "keywords": ["define tribal areas", "what is tribal areas", "tribal areas definition", "tribal areas kya hai", "आदिवासी क्षेत्र परिभाषा"]
+    },
+    {
+      "question": "Are tribal areas limited to one state?",
+      "questionHindi": "क्या आदिवासी क्षेत्र एक राज्य तक सीमित हैं?",
+      "answer": "No, tribal areas are not limited to one state. They are defined with reference to territories that existed before 1972.",
+      "answerHindi": "नहीं, आदिवासी क्षेत्र एक राज्य तक सीमित नहीं हैं। वे 1972 से पहले मौजूद क्षेत्रों के संदर्भ में परिभाषित किए गए हैं।",
+      "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/bnss_q28.mp3",
+      "keywords": ["tribal areas", "one state", "limited", "multiple states", "एक राज्य"]
+    },
+    {
+      "question": "Which clause deals with tribal areas?",
+      "questionHindi": "कौन सा खंड आदिवासी क्षेत्रों से संबंधित है?",
+      "answer": "Clause (b) of sub-section (2) deals with tribal areas.",
+      "answerHindi": "उप-धारा (2) का खंड (b) आदिवासी क्षेत्रों से संबंधित है।",
+      "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/bnss_q29.mp3",
+      "keywords": ["which clause", "tribal areas", "clause b", "tribal clause", "आदिवासी खंड"]
+    },
+    {
+      "question": "What type of areas are mentioned in clause (b)?",
+      "questionHindi": "खंड (b) में किस प्रकार के क्षेत्रों का उल्लेख है?",
+      "answer": "Tribal areas are mentioned in clause (b).",
+      "answerHindi": "खंड (b) में आदिवासी क्षेत्रों का उल्लेख है।",
+      "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/bnss_q30.mp3",
+      "keywords": ["clause b", "type of areas", "tribal", "areas", "क्षेत्र प्रकार"]
     }
-
-
+  ]
+}
