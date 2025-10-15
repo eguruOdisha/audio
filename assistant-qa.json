@@ -3,22 +3,22 @@
     "general_qa": [
       {
         "keywords": ["what is law called", "name of law", "law name", "title", "kya naam hai", "kanoon ka naam"],
-        "answer": "This law is called the 'Bharatiya Nagarik Suraksha Sanhita, 2023'.\n\nयह कानून 'भारतीय नागरिक सुरक्षा संहिता, 2023' कहलाता है।",
+        "answer": "This law is called the 'Bharatiya Nagarik Suraksha Sanhita, 2023'.",
         "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-C1-P1.mp3"
       },
       {
         "keywords": ["what is complete title", "full title", "complete name", "pura naam"],
-        "answer": "The complete title of this law is: 'Bharatiya Nagarik Suraksha Sanhita, 2023'.\n\nइस कानून का पूरा शीर्षक है: 'भारतीय नागरिक सुरक्षा संहिता, 2023'।",
+        "answer": "The complete title of this law is: 'Bharatiya Nagarik Suraksha Sanhita, 2023'.",
         "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/section1_complete_title.mp3"
       },
       {
         "keywords": ["when enacted", "year", "which year", "kab banaya", "kaun sa saal"],
-        "answer": "This law was enacted in the year 2023.\n\nयह कानून वर्ष 2023 में बनाया गया था।",
+        "answer": "This law was enacted in the year 2023.",
         "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/section1_year.mp3"
       },
       {
         "keywords": ["what does bharatiya nagarik suraksha sanhita mean", "meaning", "kya matlab hai"],
-        "answer": "Bharatiya Nagarik Suraksha Sanhita means 'Indian Citizen Security Code' in English. It is a comprehensive law for the protection and security of Indian citizens.\n\nभारतीय नागरिक सुरक्षा संहिता का अर्थ है 'Indian Citizen Security Code'। यह भारतीय नागरिकों की सुरक्षा के लिए एक व्यापक कानून है।",
+        "answer": "Bharatiya Nagarik Suraksha Sanhita means 'Indian Citizen Security Code' in English. It is a comprehensive law for the protection and security of Indian citizens.",
         "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/section1_meaning.mp3"
       },
       {
@@ -36,180 +36,140 @@
       {
         "id": "mcq_1",
         "question": "What is this law called?",
-        "question_hi": "इस कानून को क्या कहा जाता है?",
         "options": ["Indian Penal Code, 2023", "Bharatiya Nagarik Suraksha Sanhita, 2023", "Criminal Procedure Code, 2023", "Indian Evidence Act, 2023"],
-        "options_hi": ["भारतीय दंड संहिता, 2023", "भारतीय नागरिक सुरक्षा संहिता, 2023", "आपराधिक प्रक्रिया संहिता, 2023", "भारतीय साक्ष्य अधिनियम, 2023"],
         "correct": 1,
         "explanation": "The law is officially called 'Bharatiya Nagarik Suraksha Sanhita, 2023'."
       },
       {
         "id": "mcq_2",
         "question": "In which year was this law named?",
-        "question_hi": "इस कानून का नाम किस वर्ष रखा गया था?",
         "options": ["2022", "2024", "2023", "2021"],
-        "options_hi": ["2022", "2024", "2023", "2021"],
         "correct": 2,
         "explanation": "The law was named in the year 2023."
       },
       {
         "id": "mcq_3",
         "question": "The term 'Bharatiya' in the law's name means:",
-        "question_hi": "कानून के नाम में 'भारतीय' शब्द का अर्थ है:",
         "options": ["British", "Indian", "Foreign", "Colonial"],
-        "options_hi": ["ब्रिटिश", "भारतीय", "विदेशी", "औपनिवेशिक"],
         "correct": 1,
         "explanation": "'Bharatiya' means 'Indian' in English."
       },
       {
         "id": "mcq_4",
         "question": "What does 'Nagarik' mean in English?",
-        "question_hi": "'नागरिक' का अंग्रेजी में क्या अर्थ है?",
         "options": ["Soldier", "Police", "Citizen", "Judge"],
-        "options_hi": ["सैनिक", "पुलिस", "नागरिक", "न्यायाधीश"],
         "correct": 2,
         "explanation": "'Nagarik' translates to 'Citizen' in English."
       },
       {
         "id": "mcq_5",
         "question": "The word 'Suraksha' in the title means:",
-        "question_hi": "शीर्षक में 'सुरक्षा' शब्द का अर्थ है:",
         "options": ["Punishment", "Security/Protection", "Justice", "Rights"],
-        "options_hi": ["सजा", "सुरक्षा/संरक्षण", "न्याय", "अधिकार"],
         "correct": 1,
         "explanation": "'Suraksha' means 'Security' or 'Protection'."
       },
       {
         "id": "mcq_6",
         "question": "'Sanhita' in the law's name translates to:",
-        "question_hi": "कानून के नाम में 'संहिता' का अनुवाद है:",
         "options": ["Act", "Rule", "Code", "Law"],
-        "options_hi": ["अधिनियम", "नियम", "संहिता", "कानून"],
         "correct": 2,
         "explanation": "'Sanhita' means 'Code' in English."
       },
       {
         "id": "mcq_7",
         "question": "How many words are in the law's name (excluding the year)?",
-        "question_hi": "कानून के नाम में कितने शब्द हैं (वर्ष को छोड़कर)?",
         "options": ["Two", "Three", "Four", "Five"],
-        "options_hi": ["दो", "तीन", "चार", "पांच"],
         "correct": 2,
         "explanation": "There are four words: Bharatiya, Nagarik, Suraksha, Sanhita."
       },
       {
         "id": "mcq_8",
         "question": "The short form of this law is:",
-        "question_hi": "इस कानून का संक्षिप्त रूप है:",
         "options": ["IPC", "BNSS", "CrPC", "IEA"],
-        "options_hi": ["आईपीसी", "बीएनएसएस", "सीआरपीसी", "आईईए"],
         "correct": 1,
         "explanation": "The short form is BNSS (Bharatiya Nagarik Suraksha Sanhita)."
       },
       {
         "id": "mcq_9",
         "question": "This law is related to:",
-        "question_hi": "यह कानून संबंधित है:",
         "options": ["Traffic Rules", "Citizen Security", "Tax Collection", "Education"],
-        "options_hi": ["यातायात नियम", "नागरिक सुरक्षा", "कर संग्रह", "शिक्षा"],
         "correct": 1,
         "explanation": "The law is about Citizen Security (Nagarik Suraksha)."
       },
       {
         "id": "mcq_10",
         "question": "The complete title includes which year?",
-        "question_hi": "पूर्ण शीर्षक में कौन सा वर्ष शामिल है?",
         "options": ["2020", "2021", "2022", "2023"],
-        "options_hi": ["2020", "2021", "2022", "2023"],
         "correct": 3,
         "explanation": "The complete title includes the year 2023."
       },
       {
         "id": "mcq_11",
         "question": "Which language is the law's name in?",
-        "question_hi": "कानून का नाम किस भाषा में है?",
         "options": ["English", "Hindi", "Sanskrit", "Urdu"],
-        "options_hi": ["अंग्रेजी", "हिंदी", "संस्कृत", "उर्दू"],
         "correct": 1,
         "explanation": "The law's name is in Hindi."
       },
       {
         "id": "mcq_12",
         "question": "The first word in the law's name is:",
-        "question_hi": "कानून के नाम में पहला शब्द है:",
         "options": ["Nagarik", "Bharatiya", "Suraksha", "Sanhita"],
-        "options_hi": ["नागरिक", "भारतीय", "सुरक्षा", "संहिता"],
         "correct": 1,
         "explanation": "The first word is 'Bharatiya'."
       },
       {
         "id": "mcq_13",
         "question": "The last word before the year is:",
-        "question_hi": "वर्ष से पहले अंतिम शब्द है:",
         "options": ["Bharatiya", "Nagarik", "Suraksha", "Sanhita"],
-        "options_hi": ["भारतीय", "नागरिक", "सुरक्षा", "संहिता"],
         "correct": 3,
         "explanation": "The last word before 2023 is 'Sanhita'."
       },
       {
         "id": "mcq_14",
         "question": "This law is also known as:",
-        "question_hi": "इस कानून को इस रूप में भी जाना जाता है:",
         "options": ["BNS", "BNSS", "BSS", "BNS 2023"],
-        "options_hi": ["बीएनएस", "बीएनएसएस", "बीएसएस", "बीएनएस 2023"],
         "correct": 1,
         "explanation": "It's commonly abbreviated as BNSS."
       },
       {
         "id": "mcq_15",
         "question": "The law's title contains how many numbers?",
-        "question_hi": "कानून के शीर्षक में कितने नंबर हैं?",
         "options": ["None", "One", "Two", "Three"],
-        "options_hi": ["कोई नहीं", "एक", "दो", "तीन"],
         "correct": 1,
         "explanation": "The title contains one number: 2023."
       },
       {
         "id": "mcq_16",
         "question": "What type of document is this?",
-        "question_hi": "यह किस प्रकार का दस्तावेज़ है?",
         "options": ["Constitution", "Law/Code", "Agreement", "Treaty"],
-        "options_hi": ["संविधान", "कानून/संहिता", "समझौता", "संधि"],
         "correct": 1,
         "explanation": "It's a Law/Code (Sanhita)."
       },
       {
         "id": "mcq_17",
         "question": "The second word in the law's name is:",
-        "question_hi": "कानून के नाम में दूसरा शब्द है:",
         "options": ["Bharatiya", "Nagarik", "Suraksha", "Sanhita"],
-        "options_hi": ["भारतीय", "नागरिक", "सुरक्षा", "संहिता"],
         "correct": 1,
         "explanation": "The second word is 'Nagarik'."
       },
       {
         "id": "mcq_18",
         "question": "The third word in the law's name is:",
-        "question_hi": "कानून के नाम में तीसरा शब्द है:",
         "options": ["Bharatiya", "Nagarik", "Suraksha", "Sanhita"],
-        "options_hi": ["भारतीय", "नागरिक", "सुरक्षा", "संहिता"],
         "correct": 2,
         "explanation": "The third word is 'Suraksha'."
       },
       {
         "id": "mcq_19",
         "question": "This law is meant for:",
-        "question_hi": "यह कानून किसके लिए है:",
         "options": ["Only government officials", "All Indian citizens", "Only police", "Only judges"],
-        "options_hi": ["केवल सरकारी अधिकारियों के लिए", "सभी भारतीय नागरिकों के लिए", "केवल पुलिस के लिए", "केवल न्यायाधीशों के लिए"],
         "correct": 1,
         "explanation": "It's for all Indian citizens (Bharatiya Nagarik)."
       },
       {
         "id": "mcq_20",
         "question": "The year 2023 appears at the:",
-        "question_hi": "वर्ष 2023 कहाँ दिखाई देता है:",
         "options": ["Beginning", "Middle", "End", "Not mentioned"],
-        "options_hi": ["शुरुआत में", "बीच में", "अंत में", "उल्लेख नहीं"],
         "correct": 2,
         "explanation": "The year 2023 appears at the end of the title."
       }
@@ -218,140 +178,120 @@
       {
         "id": "tf_1",
         "statement": "This law is called the 'Bharatiya Nagarik Suraksha Sanhita, 2023'.",
-        "statement_hi": "इस कानून को 'भारतीय नागरिक सुरक्षा संहिता, 2023' कहा जाता है।",
         "correct": true,
         "explanation": "This is the exact official name of the law."
       },
       {
         "id": "tf_2",
         "statement": "The law was named in 2022.",
-        "statement_hi": "कानून का नाम 2022 में रखा गया था।",
         "correct": false,
         "explanation": "The law was named in 2023, not 2022."
       },
       {
         "id": "tf_3",
         "statement": "The name of this law includes the year 2023.",
-        "statement_hi": "इस कानून के नाम में वर्ष 2023 शामिल है।",
         "correct": true,
         "explanation": "Yes, 2023 is part of the official name."
       },
       {
         "id": "tf_4",
         "statement": "This law is called the 'Indian Penal Code, 2023'.",
-        "statement_hi": "इस कानून को 'भारतीय दंड संहिता, 2023' कहा जाता है।",
         "correct": false,
         "explanation": "It's called BNSS, not IPC."
       },
       {
         "id": "tf_5",
         "statement": "'Bharatiya Nagarik Suraksha Sanhita' is part of the law's name.",
-        "statement_hi": "'भारतीय नागरिक सुरक्षा संहिता' कानून के नाम का हिस्सा है।",
         "correct": true,
         "explanation": "This is the main part of the law's name."
       },
       {
         "id": "tf_6",
         "statement": "The year 2023 appears in the law's official name.",
-        "statement_hi": "कानून के आधिकारिक नाम में वर्ष 2023 दिखाई देता है।",
         "correct": true,
         "explanation": "2023 is included in the official title."
       },
       {
         "id": "tf_7",
         "statement": "This law has no official name.",
-        "statement_hi": "इस कानून का कोई आधिकारिक नाम नहीं है।",
         "correct": false,
         "explanation": "The law has an official name: BNSS 2023."
       },
       {
         "id": "tf_8",
         "statement": "The law's name is only in English.",
-        "statement_hi": "कानून का नाम केवल अंग्रेजी में है।",
         "correct": false,
         "explanation": "The law's name is in Hindi."
       },
       {
         "id": "tf_9",
         "statement": "BNSS stands for Bharatiya Nagarik Suraksha Sanhita.",
-        "statement_hi": "BNSS का मतलब भारतीय नागरिक सुरक्षा संहिता है।",
         "correct": true,
         "explanation": "BNSS is the correct abbreviation."
       },
       {
         "id": "tf_10",
         "statement": "The word 'Nagarik' means 'Police' in English.",
-        "statement_hi": "'नागरिक' शब्द का अंग्रेजी में अर्थ 'पुलिस' है।",
         "correct": false,
         "explanation": "'Nagarik' means 'Citizen', not 'Police'."
       },
       {
         "id": "tf_11",
         "statement": "'Suraksha' means 'Security' or 'Protection'.",
-        "statement_hi": "'सुरक्षा' का अर्थ 'Security' या 'Protection' है।",
         "correct": true,
         "explanation": "This is the correct meaning of 'Suraksha'."
       },
       {
         "id": "tf_12",
         "statement": "The law was enacted in 2020.",
-        "statement_hi": "यह कानून 2020 में बनाया गया था।",
         "correct": false,
         "explanation": "The law was enacted in 2023."
       },
       {
         "id": "tf_13",
         "statement": "'Sanhita' translates to 'Code' in English.",
-        "statement_hi": "'संहिता' का अंग्रेजी में अनुवाद 'Code' है।",
         "correct": true,
         "explanation": "'Sanhita' means 'Code'."
       },
       {
         "id": "tf_14",
         "statement": "This law contains exactly three words.",
-        "statement_hi": "इस कानून में बिल्कुल तीन शब्द हैं।",
         "correct": false,
         "explanation": "It contains four words plus the year."
       },
       {
         "id": "tf_15",
         "statement": "The law's name begins with 'Bharatiya'.",
-        "statement_hi": "कानून का नाम 'भारतीय' से शुरू होता है।",
         "correct": true,
         "explanation": "'Bharatiya' is the first word."
       },
       {
         "id": "tf_16",
         "statement": "This is a law about traffic regulations.",
-        "statement_hi": "यह यातायात नियमों के बारे में कानून है।",
         "correct": false,
         "explanation": "It's about citizen security, not traffic."
       },
       {
         "id": "tf_17",
         "statement": "The law's title ends with the year 2023.",
-        "statement_hi": "कानून का शीर्षक वर्ष 2023 के साथ समाप्त होता है।",
         "correct": true,
         "explanation": "The title ends with 2023."
       },
       {
         "id": "tf_18",
         "statement": "'Bharatiya' means 'British' in English.",
-        "statement_hi": "'भारतीय' का अंग्रेजी में अर्थ 'British' है।",
         "correct": false,
         "explanation": "'Bharatiya' means 'Indian', not 'British'."
       },
       {
         "id": "tf_19",
         "statement": "This law is called a 'Sanhita' (Code).",
-        "statement_hi": "इस कानून को 'संहिता' (Code) कहा जाता है।",
         "correct": true,
         "explanation": "Yes, it's officially called a Sanhita."
       },
       {
         "id": "tf_20",
         "statement": "The law has no year mentioned in its title.",
-        "statement_hi": "कानून के शीर्षक में कोई वर्ष उल्लिखित नहीं है।",
         "correct": false,
         "explanation": "The year 2023 is mentioned in the title."
       }
@@ -360,151 +300,109 @@
       {
         "id": "fb_1",
         "question": "This law is called the \"__________, 2023\".",
-        "question_hi": "इस कानून को \"__________, 2023\" कहा जाता है।",
-        "answer": "Bharatiya Nagarik Suraksha Sanhita",
-        "answer_hi": "भारतीय नागरिक सुरक्षा संहिता"
+        "answer": "Bharatiya Nagarik Suraksha Sanhita"
       },
       {
         "id": "fb_2",
         "question": "This law is called the \"Bharatiya Nagarik Suraksha Sanhita, __________\".",
-        "question_hi": "इस कानून को \"भारतीय नागरिक सुरक्षा संहिता, __________\" कहा जाता है।",
-        "answer": "2023",
-        "answer_hi": "2023"
+        "answer": "2023"
       },
       {
         "id": "fb_3",
         "question": "The complete name of this law is __________.",
-        "question_hi": "इस कानून का पूरा नाम __________ है।",
-        "answer": "Bharatiya Nagarik Suraksha Sanhita, 2023",
-        "answer_hi": "भारतीय नागरिक सुरक्षा संहिता, 2023"
+        "answer": "Bharatiya Nagarik Suraksha Sanhita, 2023"
       },
       {
         "id": "fb_4",
         "question": "The year mentioned in the law's name is __________.",
-        "question_hi": "कानून के नाम में उल्लिखित वर्ष __________ है।",
-        "answer": "2023",
-        "answer_hi": "2023"
+        "answer": "2023"
       },
       {
         "id": "fb_5",
         "question": "This __________ is called the \"Bharatiya Nagarik Suraksha Sanhita, 2023\".",
-        "question_hi": "यह __________ को \"भारतीय नागरिक सुरक्षा संहिता, 2023\" कहा जाता है।",
-        "answer": "law",
-        "answer_hi": "कानून"
+        "answer": "law"
       },
       {
         "id": "fb_6",
         "question": "The complete title is \"__________ __________ __________ __________, 2023\".",
-        "question_hi": "पूर्ण शीर्षक \"__________ __________ __________ __________, 2023\" है।",
-        "answer": "Bharatiya Nagarik Suraksha Sanhita",
-        "answer_hi": "भारतीय नागरिक सुरक्षा संहिता"
+        "answer": "Bharatiya Nagarik Suraksha Sanhita"
       },
       {
         "id": "fb_7",
         "question": "This law is __________ the \"Bharatiya Nagarik Suraksha Sanhita, 2023\".",
-        "question_hi": "यह कानून \"भारतीय नागरिक सुरक्षा संहिता, 2023\" __________ है।",
-        "answer": "called",
-        "answer_hi": "कहलाता"
+        "answer": "called"
       },
       {
         "id": "fb_8",
         "question": "The law's name includes the term \"__________ Nagarik Suraksha Sanhita\".",
-        "question_hi": "कानून के नाम में \"__________ नागरिक सुरक्षा संहिता\" शब्द शामिल है।",
-        "answer": "Bharatiya",
-        "answer_hi": "भारतीय"
+        "answer": "Bharatiya"
       },
       {
         "id": "fb_9",
         "question": "The short form of this law is __________.",
-        "question_hi": "इस कानून का संक्षिप्त रूप __________ है।",
-        "answer": "BNSS",
-        "answer_hi": "बीएनएसएस"
+        "answer": "BNSS"
       },
       {
         "id": "fb_10",
         "question": "'Nagarik' means __________ in English.",
-        "question_hi": "'नागरिक' का अंग्रेजी में अर्थ __________ है।",
-        "answer": "Citizen",
-        "answer_hi": "नागरिक"
+        "answer": "Citizen"
       },
       {
         "id": "fb_11",
         "question": "'Suraksha' translates to __________ in English.",
-        "question_hi": "'सुरक्षा' का अंग्रेजी में अनुवाद __________ है।",
-        "answer": "Security/Protection",
-        "answer_hi": "सुरक्षा/संरक्षण"
+        "answer": "Security/Protection"
       },
       {
         "id": "fb_12",
         "question": "'Sanhita' means __________ in English.",
-        "question_hi": "'संहिता' का अंग्रेजी में अर्थ __________ है।",
-        "answer": "Code",
-        "answer_hi": "संहिता"
+        "answer": "Code"
       },
       {
         "id": "fb_13",
         "question": "The first word in the law's name is __________.",
-        "question_hi": "कानून के नाम में पहला शब्द __________ है।",
-        "answer": "Bharatiya",
-        "answer_hi": "भारतीय"
+        "answer": "Bharatiya"
       },
       {
         "id": "fb_14",
         "question": "The second word in the law's name is __________.",
-        "question_hi": "कानून के नाम में दूसरा शब्द __________ है।",
-        "answer": "Nagarik",
-        "answer_hi": "नागरिक"
+        "answer": "Nagarik"
       },
       {
         "id": "fb_15",
         "question": "The third word in the law's name is __________.",
-        "question_hi": "कानून के नाम में तीसरा शब्द __________ है।",
-        "answer": "Suraksha",
-        "answer_hi": "सुरक्षा"
+        "answer": "Suraksha"
       },
       {
         "id": "fb_16",
         "question": "The fourth word in the law's name is __________.",
-        "question_hi": "कानून के नाम में चौथा शब्द __________ है।",
-        "answer": "Sanhita",
-        "answer_hi": "संहिता"
+        "answer": "Sanhita"
       },
       {
         "id": "fb_17",
         "question": "'Bharatiya' means __________ in English.",
-        "question_hi": "'भारतीय' का अंग्रेजी में अर्थ __________ है।",
-        "answer": "Indian",
-        "answer_hi": "भारतीय"
+        "answer": "Indian"
       },
       {
         "id": "fb_18",
         "question": "This law was enacted in the year __________.",
-        "question_hi": "यह कानून वर्ष __________ में बनाया गया था।",
-        "answer": "2023",
-        "answer_hi": "2023"
+        "answer": "2023"
       },
       {
         "id": "fb_19",
         "question": "The law is about __________ Security.",
-        "question_hi": "यह कानून __________ सुरक्षा के बारे में है।",
-        "answer": "Citizen",
-        "answer_hi": "नागरिक"
+        "answer": "Citizen"
       },
       {
         "id": "fb_20",
         "question": "BNSS stands for Bharatiya __________ Suraksha __________.",
-        "question_hi": "BNSS का मतलब भारतीय __________ सुरक्षा __________ है।",
-        "answer": "Nagarik, Sanhita",
-        "answer_hi": "नागरिक, संहिता"
+        "answer": "Nagarik, Sanhita"
       }
     ],
     "matching_pool": [
       {
         "id": "match_1",
         "columnA": ["Law's name", "Year", "Complete title", "First word", "Verb used"],
-        "columnA_hi": ["कानून का नाम", "वर्ष", "पूर्ण शीर्षक", "पहला शब्द", "प्रयुक्त क्रिया"],
         "columnB": ["2023", "Bharatiya Nagarik Suraksha Sanhita, 2023", "Bharatiya Nagarik Suraksha Sanhita", "Bharatiya", "Called"],
-        "columnB_hi": ["2023", "भारतीय नागरिक सुरक्षा संहिता, 2023", "भारतीय नागरिक सुरक्षा संहिता", "भारतीय", "कहलाता"],
         "correct_matches": [1, 0, 1, 3, 4]
       }
     ],
@@ -512,20 +410,15 @@
       {
         "id": "wa_1",
         "jumbled": ["2023", "Sanhita", "This", "Bharatiya", "is", "Nagarik", "law", "the", "called", "Suraksha"],
-        "jumbled_hi": ["2023", "संहिता", "यह", "भारतीय", "है", "नागरिक", "कानून", "को", "कहलाता", "सुरक्षा"],
         "correct": "This law is called the Bharatiya Nagarik Suraksha Sanhita, 2023.",
-        "correct_hi": "यह कानून भारतीय नागरिक सुरक्षा संहिता, 2023 कहलाता है।",
         "hint": "Start with 'This law...'"
       },
       {
         "id": "wa_2",
         "jumbled": ["called", "the", "law", "Bharatiya", "This", "is", "Nagarik", "Sanhita", "Suraksha", "2023"],
-        "jumbled_hi": ["कहलाता", "को", "कानून", "भारतीय", "यह", "है", "नागरिक", "संहिता", "सुरक्षा", "2023"],
         "correct": "This law is called the Bharatiya Nagarik Suraksha Sanhita, 2023.",
-        "correct_hi": "यह कानून भारतीय नागरिक सुरक्षा संहिता, 2023 कहलाता है।",
         "hint": "Arrange in proper sequence"
       }
     ]
   }
 }
-
