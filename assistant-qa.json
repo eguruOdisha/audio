@@ -5,7 +5,7 @@
       "questionHindi": "इस अधिनियम का संक्षिप्त शीर्षक क्या है?",
       "answer": "The short title of this Act is Bharatiya Nagarik Suraksha Sanhita, 2023.",
       "answerHindi": "इस अधिनियम का संक्षिप्त शीर्षक भारतीय नागरिक सुरक्षा संहिता, 2023 है।",
-      "audioUrl": "https://raw.githubusercontent.com/eguruOdisha/audio/main/bnss_q1.mp3",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-C1-P1.mp3",
       "keywords": ["short title", "act name", "BNSS", "title", "naam kya hai", "संक्षिप्त शीर्षक"]
     },
     {
@@ -771,3 +771,4 @@
     }
   }
 }
+
