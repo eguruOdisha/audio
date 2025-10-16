@@ -15,553 +15,7 @@
             "keywords": ["what is law called", "name of law", "law name", "title", "kya naam hai", "kanoon ka naam"],
             "answer": "This law is called the 'Bharatiya Nagarik Suraksha Sanhita, 2023'.",
             "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-C1-P1.mp3",
-            "subsection": "2"
-          },
-          {
-            "keywords": ["state government power", "notification", "suchna", "rajya sarkar"],
-            "answer": "State Governments have the power to apply any provisions of BNSS to Nagaland or tribal areas through official notifications. They can also add supplemental, incidental, or consequential modifications as needed.",
-            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-QA3.mp3",
-            "subsection": "2"
-          },
-          {
-            "keywords": ["modifications", "changes", "badlav", "parivartan"],
-            "answer": "When applying BNSS provisions to Nagaland or tribal areas, State Governments can make supplemental (additional), incidental (related), or consequential (resulting) modifications to suit local conditions.",
-            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-QA4.mp3",
-            "subsection": "2"
-          }
-        ],
-        "main": {
-          "keywords": ["overview subsection 2", "tell me about subsection 2", "explain subsection 2", "batao subsection 2", "samjhao subsection 2"],
-          "content": [
-            {
-              "text": "Subsection-2: Special Provisions for Nagaland and Tribal Areas<br><br>• This subsection exempts Nagaland and tribal areas from most provisions of BNSS.<br>• Only Chapters IX, XI, and XII apply to these areas by default.<br>• State Governments can choose to apply other provisions with modifications.",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-MAIN.mp3"
-            }
-          ]
-        },
-        "what": {
-          "keywords": ["what subsection 2", "kya subsection 2", "what does subsection 2 say"],
-          "content": [
-            {
-              "text": "Subsection-2 states that most provisions of BNSS do not apply to Nagaland and tribal areas, except Chapters IX, XI, and XII. State Governments can notify to apply other provisions with modifications. Example: Like giving special autonomy to certain regions based on their unique needs.",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-WHAT.mp3"
-            }
-          ]
-        },
-        "why": {
-          "keywords": ["why subsection 2", "kyun subsection 2", "reason subsection 2"],
-          "content": [
-            {
-              "text": "Subsection-2 exists to respect the special constitutional status of Nagaland and tribal areas. These regions have unique cultural, social, and legal traditions that need protection. Example: Like Article 371A which grants special provisions to Nagaland, this subsection ensures their autonomy while maintaining national legal framework.",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-WHY.mp3"
-            }
-          ]
-        },
-        "where": {
-          "keywords": ["where subsection 2", "kahan subsection 2", "which areas subsection 2"],
-          "content": [
-            {
-              "text": "Subsection-2 applies to: (a) The State of Nagaland, and (b) Tribal areas as defined under the Constitution. These are specially protected regions with distinct legal status. Example: Scheduled Areas under Fifth Schedule and Tribal Areas under Sixth Schedule of the Indian Constitution.",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-WHERE.mp3"
-            }
-          ]
-        },
-        "when": {
-          "keywords": ["when subsection 2", "kab subsection 2", "time subsection 2"],
-          "content": [
-            {
-              "text": "Subsection-2 came into effect with BNSS in 2023. State Governments can issue notifications at any time to apply provisions to these areas. There's no fixed timeline - it depends on when the State Government decides. Example: A State can notify today, tomorrow, or years later based on their assessment.",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-WHEN.mp3"
-            }
-          ]
-        },
-        "which": {
-          "keywords": ["which subsection 2", "kaun sa subsection 2", "which chapters subsection 2"],
-          "content": [
-            {
-              "text": "Subsection-2 identifies: (1) Which areas are exempt: Nagaland and tribal areas. (2) Which chapters DO apply: Chapters IX, XI, and XII. (3) Which provisions DON'T apply: All other chapters. Example: If BNSS has 20 chapters, only 3 automatically apply to these regions; remaining 17 are optional.",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-WHICH.mp3"
-            }
-          ]
-        },
-        "how": {
-          "keywords": ["how subsection 2", "kaise subsection 2", "mechanism subsection 2"],
-          "content": [
-            {
-              "text": "Subsection-2 works through a notification system:<br>Step 1: State Government decides which provisions to apply<br>Step 2: Issues official notification<br>Step 3: Can add supplemental or consequential modifications<br>Step 4: Provisions become applicable as per notification. Example: Like a menu where the State picks what legal provisions suit their region best.",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-HOW.mp3"
-            }
-          ]
-        },
-        "mcq_pool": [
-          {
-            "id": "ss2_mcq_1",
-            "question": "Subsection-2 grants special exemption to which state?",
-            "options": ["Assam", "Nagaland", "Manipur", "Mizoram"],
-            "correct": 1,
-            "explanation": "Subsection-2 specifically mentions the State of Nagaland as exempt from most BNSS provisions.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_2",
-            "question": "Which type of areas are exempt along with Nagaland?",
-            "options": ["Urban areas", "Tribal areas", "Metropolitan areas", "Industrial areas"],
-            "correct": 1,
-            "explanation": "Tribal areas are given the same exemption as Nagaland.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_3",
-            "question": "How many chapters of BNSS automatically apply to these exempt areas?",
-            "options": ["Two", "Three", "Four", "Five"],
-            "correct": 1,
-            "explanation": "Three chapters (IX, XI, and XII) automatically apply to Nagaland and tribal areas.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_4",
-            "question": "Which chapter is mentioned as automatically applicable?",
-            "options": ["Chapter VIII", "Chapter IX", "Chapter X", "Chapter XIII"],
-            "correct": 1,
-            "explanation": "Chapter IX is one of the three chapters that apply to these areas.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_5",
-            "question": "Who can notify to apply other BNSS provisions to these areas?",
-            "options": ["Central Government", "State Government", "Supreme Court", "Parliament"],
-            "correct": 1,
-            "explanation": "The concerned State Government has the power to issue such notifications.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_6",
-            "question": "What can State Governments add while applying provisions?",
-            "options": ["Punishments only", "Modifications", "New chapters", "Foreign laws"],
-            "correct": 1,
-            "explanation": "State Governments can add supplemental, incidental, or consequential modifications.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_7",
-            "question": "The exemption under Subsection-2 applies to how much of Nagaland?",
-            "options": ["Only cities", "Only villages", "Whole state", "Only capital"],
-            "correct": 2,
-            "explanation": "The exemption applies to the entire State of Nagaland.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_8",
-            "question": "Can State Government apply provisions to only part of the area?",
-            "options": ["No, must be full", "Yes, whole or part", "Only full state", "Not mentioned"],
-            "correct": 1,
-            "explanation": "State Government can apply to 'whole or part' of the area.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_9",
-            "question": "What type of modifications can be made?",
-            "options": ["Only supplemental", "Only incidental", "Only consequential", "All three types"],
-            "correct": 3,
-            "explanation": "Supplemental, incidental, or consequential modifications can be made.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_10",
-            "question": "Which chapter besides IX and XI also applies automatically?",
-            "options": ["Chapter X", "Chapter XII", "Chapter XIII", "Chapter XIV"],
-            "correct": 1,
-            "explanation": "Chapter XII is the third chapter that automatically applies.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_11",
-            "question": "The word 'Sanhita' in Subsection-2 refers to:",
-            "options": ["BNSS", "Constitution", "IPC", "CrPC"],
-            "correct": 0,
-            "explanation": "'This Sanhita' refers to BNSS (Bharatiya Nagarik Suraksha Sanhita).",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_12",
-            "question": "What must State Government issue to apply provisions?",
-            "options": ["Order", "Notification", "Judgment", "Circular"],
-            "correct": 1,
-            "explanation": "State Government must issue a notification.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_13",
-            "question": "Are all BNSS provisions exempt for these areas?",
-            "options": ["Yes, all exempt", "No, 3 chapters apply", "Only half exempt", "Not mentioned"],
-            "correct": 1,
-            "explanation": "No, Chapters IX, XI, and XII automatically apply; only other provisions are exempt.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_14",
-            "question": "The exemption is based on what factor?",
-            "options": ["Population", "Geography", "Special status", "Economy"],
-            "correct": 2,
-            "explanation": "The exemption recognizes the special constitutional and cultural status of these areas.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_15",
-            "question": "Can Central Government apply provisions to these areas?",
-            "options": ["Yes, only Central", "No, only State", "Both can", "Not mentioned"],
-            "correct": 1,
-            "explanation": "Only the concerned State Government can issue such notifications.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_16",
-            "question": "What does 'supplemental modifications' mean?",
-            "options": ["Remove provisions", "Add additional provisions", "Change completely", "Delete sections"],
-            "correct": 1,
-            "explanation": "Supplemental means additional provisions that supplement the main law.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_17",
-            "question": "Which subsection deals with exemptions?",
-            "options": ["Subsection-1", "Subsection-2", "Subsection-3", "Subsection-4"],
-            "correct": 1,
-            "explanation": "Subsection-2 of Section-1 deals with exemptions for Nagaland and tribal areas.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_18",
-            "question": "The provisions 'other than' which chapters are exempt?",
-            "options": ["I, II, III", "IX, XI, XII", "V, VI, VII", "All chapters"],
-            "correct": 1,
-            "explanation": "Provisions 'other than' Chapters IX, XI, XII are exempt.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_19",
-            "question": "How is the exemption implemented?",
-            "options": ["Automatically", "By default for most provisions", "Never", "By President"],
-            "correct": 1,
-            "explanation": "The exemption is automatic by default; State must notify to apply provisions.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_20",
-            "question": "What is the main purpose of Subsection-2?",
-            "options": ["Punish crimes", "Grant exemptions", "Define terms", "Create courts"],
-            "correct": 1,
-            "explanation": "The main purpose is to grant exemptions to special areas while allowing flexibility.",
-            "subsection": "2"
-          }
-        ],
-        "truefalse_pool": [
-          {
-            "id": "ss2_tf_1",
-            "statement": "Subsection-2 exempts Nagaland from most BNSS provisions.",
-            "correct": true,
-            "explanation": "This is correct. Most provisions do not apply to Nagaland.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_2",
-            "statement": "All provisions of BNSS apply to tribal areas.",
-            "correct": false,
-            "explanation": "False. Most provisions do not apply; only Chapters IX, XI, XII apply automatically.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_3",
-            "statement": "Chapter IX applies to Nagaland and tribal areas.",
-            "correct": true,
-            "explanation": "Correct. Chapter IX is one of the three chapters that automatically apply.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_4",
-            "statement": "Only Central Government can notify to apply provisions to these areas.",
-            "correct": false,
-            "explanation": "False. The concerned State Government has this power.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_5",
-            "statement": "State Government can make modifications while applying provisions.",
-            "correct": true,
-            "explanation": "True. They can make supplemental, incidental, or consequential modifications.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_6",
-            "statement": "Chapter XI does not apply to tribal areas.",
-            "correct": false,
-            "explanation": "False. Chapter XI is one of the three chapters that automatically apply.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_7",
-            "statement": "The exemption applies to the entire State of Nagaland.",
-            "correct": true,
-            "explanation": "True. The exemption covers the whole State of Nagaland.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_8",
-            "statement": "Chapter XII is exempt from applying to these areas.",
-            "correct": false,
-            "explanation": "False. Chapter XII is one of the three chapters that do apply.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_9",
-            "statement": "State Government must apply provisions to the whole area only.",
-            "correct": false,
-            "explanation": "False. They can apply to 'whole or part' of the area.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_10",
-            "statement": "Tribal areas have the same exemption status as Nagaland.",
-            "correct": true,
-            "explanation": "True. Both are treated similarly under Subsection-2.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_11",
-            "statement": "No chapters of BNSS apply to Nagaland by default.",
-            "correct": false,
-            "explanation": "False. Three chapters (IX, XI, XII) apply by default.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_12",
-            "statement": "Notification is required to apply exempt provisions.",
-            "correct": true,
-            "explanation": "True. State Government must issue a notification.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_13",
-            "statement": "Subsection-2 is about the law's name.",
-            "correct": false,
-            "explanation": "False. Subsection-1 is about the name; Subsection-2 is about exemptions.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_14",
-            "statement": "The exemption recognizes special status of certain areas.",
-            "correct": true,
-            "explanation": "True. It respects the unique constitutional status of these regions.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_15",
-            "statement": "State Government cannot modify BNSS provisions while applying.",
-            "correct": false,
-            "explanation": "False. They can make specified modifications.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_16",
-            "statement": "Subsection-2 mentions three specific chapters.",
-            "correct": true,
-            "explanation": "True. Chapters IX, XI, and XII are specifically mentioned.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_17",
-            "statement": "Urban areas get the same exemption as tribal areas.",
-            "correct": false,
-            "explanation": "False. Only tribal areas and Nagaland get this exemption.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_18",
-            "statement": "The exemption is permanent and cannot be changed.",
-            "correct": false,
-            "explanation": "False. State Government can notify to apply provisions anytime.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_19",
-            "statement": "Consequential modifications can be specified in the notification.",
-            "correct": true,
-            "explanation": "True. The notification can include such modifications.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_20",
-            "statement": "Subsection-2 appears in Section-1 of BNSS.",
-            "correct": true,
-            "explanation": "True. It is Subsection-2 of Section-1.",
-            "subsection": "2"
-          }
-        ],
-        "fillblank_pool": [
-          {
-            "id": "ss2_fb_1",
-            "question": "Subsection-2 grants exemption to __________ and tribal areas.",
-            "answer": "Nagaland",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_2",
-            "question": "Only Chapters IX, XI, and __________ apply automatically to these areas.",
-            "answer": "XII",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_3",
-            "question": "The concerned __________ Government can notify to apply other provisions.",
-            "answer": "State",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_4",
-            "question": "State Government must issue a __________ to apply provisions.",
-            "answer": "notification",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_5",
-            "question": "Provisions can be applied with supplemental, incidental, or __________ modifications.",
-            "answer": "consequential",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_6",
-            "question": "Chapter __________ is one of the three that automatically apply.",
-            "answer": "IX/XI/XII",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_7",
-            "question": "State Government can apply provisions to whole or __________ of the area.",
-            "answer": "part",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_8",
-            "question": "The exemption is for the State of __________ and tribal areas.",
-            "answer": "Nagaland",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_9",
-            "question": "Most provisions of BNSS do not __________ to these exempt areas.",
-            "answer": "apply",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_10",
-            "question": "__________ modifications can be specified in the notification.",
-            "answer": "Supplemental/Incidental/Consequential",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_11",
-            "question": "Besides Nagaland, __________ areas also get exemption.",
-            "answer": "tribal",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_12",
-            "question": "Chapter XI and XII along with Chapter __________ apply automatically.",
-            "answer": "IX",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_13",
-            "question": "Subsection-__________ deals with exemptions for special areas.",
-            "answer": "2",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_14",
-            "question": "The provisions 'other than' Chapters IX, XI, XII __________ not apply.",
-            "answer": "shall",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_15",
-            "question": "State Government has the power to apply __________ provisions.",
-            "answer": "such/other",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_16",
-            "question": "Modifications must be __________ in the notification.",
-            "answer": "specified",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_17",
-            "question": "The exemption recognizes the __________ status of these regions.",
-            "answer": "special",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_18",
-            "question": "Provisions relating to three chapters __________ apply.",
-            "answer": "shall",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_19",
-            "question": "State Government can apply provisions as the __________ may be.",
-            "answer": "case",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_20",
-            "question": "The concerned __________ Government means the State Government of that area.",
-            "answer": "State",
-            "subsection": "2"
-          }
-        ],
-        "matching_pool": [
-          {
-            "id": "ss2_match_1",
-            "columnA": ["Exempt state", "Exempt areas", "Applying authority", "Chapters that apply", "Required document"],
-            "columnB": ["Notification", "Nagaland", "State Government", "Tribal areas", "IX, XI, XII"],
-            "correct_matches": [1, 3, 2, 4, 0],
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_match_2",
-            "columnA": ["Supplemental", "Incidental", "Consequential", "Whole or part", "Shall not apply"],
-            "columnB": ["Related modifications", "Resulting modifications", "Most provisions", "Application scope", "Additional modifications"],
-            "correct_matches": [4, 0, 1, 3, 2],
-            "subsection": "2"
-          }
-        ],
-        "word_arrangement_pool": [
-          {
-            "id": "ss2_wa_1",
-            "jumbled": ["provisions", "The", "of", "this", "Sanhita", "not", "apply", "shall", "to", "Nagaland"],
-            "correct": "The provisions of this Sanhita shall not apply to Nagaland.",
-            "hint": "Start with 'The provisions...'",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_wa_2",
-            "jumbled": ["Government", "State", "may", "notification", "by", "apply", "provisions", "such"],
-            "correct": "State Government may by notification apply such provisions.",
-            "hint": "Who has the power?",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_wa_3",
-            "jumbled": ["IX", "XI", "XII", "Chapters", "and", "apply", "automatically"],
-            "correct": "Chapters IX, XI and XII apply automatically.",
-            "hint": "Which chapters?",
-            "subsection": "2"
-          }
-        ]
-      }
-    }
-  }
-} "1"
+            "subsection": "1"
           },
           {
             "keywords": ["what is complete title", "full title", "complete name", "pura naam"],
@@ -1110,566 +564,569 @@
         ]
       },
       "subsection_2": {
-  "id": "ss2",
-  "title": "Special Provisions for Nagaland and Tribal Areas",
-  "keywords_for_identification": [
-    "subsection 2", "subsection-2", "subsection two", "ss2", "ss 2",
-    "upkhanda 2", "dusra upkhanda", "second subsection",
-    "nagaland", "tribal areas", "adivasi kshetra", "exemption", "chhoot",
-    "special provision", "vishesh pravdhan", "chapter 9", "chapter 11", "chapter 12"
-  ],
-  "general_qa": [
-    {
-      "keywords": ["nagaland", "tribal areas", "exempt", "chhoot", "apply nahi hota"],
-      "answer": "Subsection-2 states that most provisions of BNSS do not apply to Nagaland and tribal areas, except Chapters IX, XI, and XII. However, State Governments can notify to apply other provisions with modifications.",
-      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-QA1.mp3",
-      "subsection": "2"
-    },
-    {
-      "keywords": ["which chapters apply", "chapter 9", "chapter 11", "chapter 12", "kaun se adhyay"],
-      "answer": "Only Chapters IX, XI, and XII of BNSS automatically apply to Nagaland and tribal areas. All other chapters do not apply unless specifically notified by the State Government.",
-      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-QA2.mp3",
-      "subsection": "2"
-    },
-    {
-      "keywords": ["state government power", "notification", "suchna", "rajya sarkar"],
-      "answer": "State Governments have the power to apply any provisions of BNSS to Nagaland or tribal areas through official notifications. They can also add supplemental, incidental, or consequential modifications as needed.",
-      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-QA3.mp3",
-      "subsection": "2"
-    },
-    {
-      "keywords": ["modifications", "changes", "badlav", "parivartan"],
-      "answer": "When applying BNSS provisions to Nagaland or tribal areas, State Governments can make supplemental (additional), incidental (related), or consequential (resulting) modifications to suit local conditions.",
-      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-QA4.mp3",
-      "subsection": "2"
+        "id": "ss2",
+        "title": "Special Provisions for Nagaland and Tribal Areas",
+        "keywords_for_identification": [
+          "subsection 2", "subsection-2", "subsection two", "ss2", "ss 2",
+          "upkhanda 2", "dusra upkhanda", "second subsection",
+          "nagaland", "tribal areas", "adivasi kshetra", "exemption", "chhoot",
+          "special provision", "vishesh pravdhan", "chapter 9", "chapter 11", "chapter 12"
+        ],
+        "general_qa": [
+          {
+            "keywords": ["nagaland", "tribal areas", "exempt", "chhoot", "apply nahi hota"],
+            "answer": "Subsection-2 states that most provisions of BNSS do not apply to Nagaland and tribal areas, except Chapters IX, XI, and XII. However, State Governments can notify to apply other provisions with modifications.",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-QA1.mp3",
+            "subsection": "2"
+          },
+          {
+            "keywords": ["which chapters apply", "chapter 9", "chapter 11", "chapter 12", "kaun se adhyay"],
+            "answer": "Only Chapters IX, XI, and XII of BNSS automatically apply to Nagaland and tribal areas. All other chapters do not apply unless specifically notified by the State Government.",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-QA2.mp3",
+            "subsection": "2"
+          },
+          {
+            "keywords": ["state government power", "notification", "suchna", "rajya sarkar"],
+            "answer": "State Governments have the power to apply any provisions of BNSS to Nagaland or tribal areas through official notifications. They can also add supplemental, incidental, or consequential modifications as needed.",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-QA3.mp3",
+            "subsection": "2"
+          },
+          {
+            "keywords": ["modifications", "changes", "badlav", "parivartan"],
+            "answer": "When applying BNSS provisions to Nagaland or tribal areas, State Governments can make supplemental (additional), incidental (related), or consequential (resulting) modifications to suit local conditions.",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-QA4.mp3",
+            "subsection": "2"
+          }
+        ],
+        "main": {
+          "keywords": ["overview subsection 2", "tell me about subsection 2", "explain subsection 2", "batao subsection 2", "samjhao subsection 2"],
+          "content": [
+            {
+              "text": "Subsection-2: Special Provisions for Nagaland and Tribal Areas<br><br>• This subsection exempts Nagaland and tribal areas from most provisions of BNSS.<br>• Only Chapters IX, XI, and XII apply to these areas by default.<br>• State Governments can choose to apply other provisions with modifications.",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-MAIN.mp3"
+            }
+          ]
+        },
+        "what": {
+          "keywords": ["what subsection 2", "kya subsection 2", "what does subsection 2 say"],
+          "content": [
+            {
+              "text": "Subsection-2 states that most provisions of BNSS do not apply to Nagaland and tribal areas, except Chapters IX, XI, and XII. State Governments can notify to apply other provisions with modifications. Example: Like giving special autonomy to certain regions based on their unique needs.",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-WHAT.mp3"
+            }
+          ]
+        },
+        "why": {
+          "keywords": ["why subsection 2", "kyun subsection 2", "reason subsection 2"],
+          "content": [
+            {
+              "text": "Subsection-2 exists to respect the special constitutional status of Nagaland and tribal areas. These regions have unique cultural, social, and legal traditions that need protection. Example: Like Article 371A which grants special provisions to Nagaland, this subsection ensures their autonomy while maintaining national legal framework.",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-WHY.mp3"
+            }
+          ]
+        },
+        "where": {
+          "keywords": ["where subsection 2", "kahan subsection 2", "which areas subsection 2"],
+          "content": [
+            {
+              "text": "Subsection-2 applies to: (a) The State of Nagaland, and (b) Tribal areas as defined under the Constitution. These are specially protected regions with distinct legal status. Example: Scheduled Areas under Fifth Schedule and Tribal Areas under Sixth Schedule of the Indian Constitution.",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-WHERE.mp3"
+            }
+          ]
+        },
+        "when": {
+          "keywords": ["when subsection 2", "kab subsection 2", "time subsection 2"],
+          "content": [
+            {
+              "text": "Subsection-2 came into effect with BNSS in 2023. State Governments can issue notifications at any time to apply provisions to these areas. There's no fixed timeline - it depends on when the State Government decides. Example: A State can notify today, tomorrow, or years later based on their assessment.",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-WHEN.mp3"
+            }
+          ]
+        },
+        "which": {
+          "keywords": ["which subsection 2", "kaun sa subsection 2", "which chapters subsection 2"],
+          "content": [
+            {
+              "text": "Subsection-2 identifies: (1) Which areas are exempt: Nagaland and tribal areas. (2) Which chapters DO apply: Chapters IX, XI, and XII. (3) Which provisions DON'T apply: All other chapters. Example: If BNSS has 20 chapters, only 3 automatically apply to these regions; remaining 17 are optional.",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-WHICH.mp3"
+            }
+          ]
+        },
+        "how": {
+          "keywords": ["how subsection 2", "kaise subsection 2", "mechanism subsection 2"],
+          "content": [
+            {
+              "text": "Subsection-2 works through a notification system:<br>Step 1: State Government decides which provisions to apply<br>Step 2: Issues official notification<br>Step 3: Can add supplemental or consequential modifications<br>Step 4: Provisions become applicable as per notification. Example: Like a menu where the State picks what legal provisions suit their region best.",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-HOW.mp3"
+            }
+          ]
+        },
+        "mcq_pool": [
+          {
+            "id": "ss2_mcq_1",
+            "question": "Subsection-2 grants special exemption to which state?",
+            "options": ["Assam", "Nagaland", "Manipur", "Mizoram"],
+            "correct": 1,
+            "explanation": "Subsection-2 specifically mentions the State of Nagaland as exempt from most BNSS provisions.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_2",
+            "question": "Which type of areas are exempt along with Nagaland?",
+            "options": ["Urban areas", "Tribal areas", "Metropolitan areas", "Industrial areas"],
+            "correct": 1,
+            "explanation": "Tribal areas are given the same exemption as Nagaland.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_3",
+            "question": "How many chapters of BNSS automatically apply to these exempt areas?",
+            "options": ["Two", "Three", "Four", "Five"],
+            "correct": 1,
+            "explanation": "Three chapters (IX, XI, and XII) automatically apply to Nagaland and tribal areas.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_4",
+            "question": "Which chapter is mentioned as automatically applicable?",
+            "options": ["Chapter VIII", "Chapter IX", "Chapter X", "Chapter XIII"],
+            "correct": 1,
+            "explanation": "Chapter IX is one of the three chapters that apply to these areas.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_5",
+            "question": "Who can notify to apply other BNSS provisions to these areas?",
+            "options": ["Central Government", "State Government", "Supreme Court", "Parliament"],
+            "correct": 1,
+            "explanation": "The concerned State Government has the power to issue such notifications.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_6",
+            "question": "What can State Governments add while applying provisions?",
+            "options": ["Punishments only", "Modifications", "New chapters", "Foreign laws"],
+            "correct": 1,
+            "explanation": "State Governments can add supplemental, incidental, or consequential modifications.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_7",
+            "question": "The exemption under Subsection-2 applies to how much of Nagaland?",
+            "options": ["Only cities", "Only villages", "Whole state", "Only capital"],
+            "correct": 2,
+            "explanation": "The exemption applies to the entire State of Nagaland.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_8",
+            "question": "Can State Government apply provisions to only part of the area?",
+            "options": ["No, must be full", "Yes, whole or part", "Only full state", "Not mentioned"],
+            "correct": 1,
+            "explanation": "State Government can apply to 'whole or part' of the area.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_9",
+            "question": "What type of modifications can be made?",
+            "options": ["Only supplemental", "Only incidental", "Only consequential", "All three types"],
+            "correct": 3,
+            "explanation": "Supplemental, incidental, or consequential modifications can be made.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_10",
+            "question": "Which chapter besides IX and XI also applies automatically?",
+            "options": ["Chapter X", "Chapter XII", "Chapter XIII", "Chapter XIV"],
+            "correct": 1,
+            "explanation": "Chapter XII is the third chapter that automatically applies.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_11",
+            "question": "The word 'Sanhita' in Subsection-2 refers to:",
+            "options": ["BNSS", "Constitution", "IPC", "CrPC"],
+            "correct": 0,
+            "explanation": "'This Sanhita' refers to BNSS (Bharatiya Nagarik Suraksha Sanhita).",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_12",
+            "question": "What must State Government issue to apply provisions?",
+            "options": ["Order", "Notification", "Judgment", "Circular"],
+            "correct": 1,
+            "explanation": "State Government must issue a notification.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_13",
+            "question": "Are all BNSS provisions exempt for these areas?",
+            "options": ["Yes, all exempt", "No, 3 chapters apply", "Only half exempt", "Not mentioned"],
+            "correct": 1,
+            "explanation": "No, Chapters IX, XI, and XII automatically apply; only other provisions are exempt.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_14",
+            "question": "The exemption is based on what factor?",
+            "options": ["Population", "Geography", "Special status", "Economy"],
+            "correct": 2,
+            "explanation": "The exemption recognizes the special constitutional and cultural status of these areas.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_15",
+            "question": "Can Central Government apply provisions to these areas?",
+            "options": ["Yes, only Central", "No, only State", "Both can", "Not mentioned"],
+            "correct": 1,
+            "explanation": "Only the concerned State Government can issue such notifications.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_16",
+            "question": "What does 'supplemental modifications' mean?",
+            "options": ["Remove provisions", "Add additional provisions", "Change completely", "Delete sections"],
+            "correct": 1,
+            "explanation": "Supplemental means additional provisions that supplement the main law.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_17",
+            "question": "Which subsection deals with exemptions?",
+            "options": ["Subsection-1", "Subsection-2", "Subsection-3", "Subsection-4"],
+            "correct": 1,
+            "explanation": "Subsection-2 of Section-1 deals with exemptions for Nagaland and tribal areas.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_18",
+            "question": "The provisions 'other than' which chapters are exempt?",
+            "options": ["I, II, III", "IX, XI, XII", "V, VI, VII", "All chapters"],
+            "correct": 1,
+            "explanation": "Provisions 'other than' Chapters IX, XI, XII are exempt.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_19",
+            "question": "How is the exemption implemented?",
+            "options": ["Automatically", "By default for most provisions", "Never", "By President"],
+            "correct": 1,
+            "explanation": "The exemption is automatic by default; State must notify to apply provisions.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_20",
+            "question": "What is the main purpose of Subsection-2?",
+            "options": ["Punish crimes", "Grant exemptions", "Define terms", "Create courts"],
+            "correct": 1,
+            "explanation": "The main purpose is to grant exemptions to special areas while allowing flexibility.",
+            "subsection": "2"
+          }
+        ],
+        "truefalse_pool": [
+          {
+            "id": "ss2_tf_1",
+            "statement": "Subsection-2 exempts Nagaland from most BNSS provisions.",
+            "correct": true,
+            "explanation": "This is correct. Most provisions do not apply to Nagaland.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_2",
+            "statement": "All provisions of BNSS apply to tribal areas.",
+            "correct": false,
+            "explanation": "False. Most provisions do not apply; only Chapters IX, XI, XII apply automatically.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_3",
+            "statement": "Chapter IX applies to Nagaland and tribal areas.",
+            "correct": true,
+            "explanation": "Correct. Chapter IX is one of the three chapters that automatically apply.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_4",
+            "statement": "Only Central Government can notify to apply provisions to these areas.",
+            "correct": false,
+            "explanation": "False. The concerned State Government has this power.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_5",
+            "statement": "State Government can make modifications while applying provisions.",
+            "correct": true,
+            "explanation": "True. They can make supplemental, incidental, or consequential modifications.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_6",
+            "statement": "Chapter XI does not apply to tribal areas.",
+            "correct": false,
+            "explanation": "False. Chapter XI is one of the three chapters that automatically apply.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_7",
+            "statement": "The exemption applies to the entire State of Nagaland.",
+            "correct": true,
+            "explanation": "True. The exemption covers the whole State of Nagaland.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_8",
+            "statement": "Chapter XII is exempt from applying to these areas.",
+            "correct": false,
+            "explanation": "False. Chapter XII is one of the three chapters that do apply.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_9",
+            "statement": "State Government must apply provisions to the whole area only.",
+            "correct": false,
+            "explanation": "False. They can apply to 'whole or part' of the area.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_10",
+            "statement": "Tribal areas have the same exemption status as Nagaland.",
+            "correct": true,
+            "explanation": "True. Both are treated similarly under Subsection-2.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_11",
+            "statement": "No chapters of BNSS apply to Nagaland by default.",
+            "correct": false,
+            "explanation": "False. Three chapters (IX, XI, XII) apply by default.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_12",
+            "statement": "Notification is required to apply exempt provisions.",
+            "correct": true,
+            "explanation": "True. State Government must issue a notification.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_13",
+            "statement": "Subsection-2 is about the law's name.",
+            "correct": false,
+            "explanation": "False. Subsection-1 is about the name; Subsection-2 is about exemptions.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_14",
+            "statement": "The exemption recognizes special status of certain areas.",
+            "correct": true,
+            "explanation": "True. It respects the unique constitutional status of these regions.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_15",
+            "statement": "State Government cannot modify BNSS provisions while applying.",
+            "correct": false,
+            "explanation": "False. They can make specified modifications.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_16",
+            "statement": "Subsection-2 mentions three specific chapters.",
+            "correct": true,
+            "explanation": "True. Chapters IX, XI, and XII are specifically mentioned.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_17",
+            "statement": "Urban areas get the same exemption as tribal areas.",
+            "correct": false,
+            "explanation": "False. Only tribal areas and Nagaland get this exemption.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_18",
+            "statement": "The exemption is permanent and cannot be changed.",
+            "correct": false,
+            "explanation": "False. State Government can notify to apply provisions anytime.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_19",
+            "statement": "Consequential modifications can be specified in the notification.",
+            "correct": true,
+            "explanation": "True. The notification can include such modifications.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_20",
+            "statement": "Subsection-2 appears in Section-1 of BNSS.",
+            "correct": true,
+            "explanation": "True. It is Subsection-2 of Section-1.",
+            "subsection": "2"
+          }
+        ],
+        "fillblank_pool": [
+          {
+            "id": "ss2_fb_1",
+            "question": "Subsection-2 grants exemption to __________ and tribal areas.",
+            "answer": "Nagaland",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_2",
+            "question": "Only Chapters IX, XI, and __________ apply automatically to these areas.",
+            "answer": "XII",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_3",
+            "question": "The concerned __________ Government can notify to apply other provisions.",
+            "answer": "State",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_4",
+            "question": "State Government must issue a __________ to apply provisions.",
+            "answer": "notification",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_5",
+            "question": "Provisions can be applied with supplemental, incidental, or __________ modifications.",
+            "answer": "consequential",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_6",
+            "question": "Chapter __________ is one of the three that automatically apply.",
+            "answer": "IX",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_7",
+            "question": "State Government can apply provisions to whole or __________ of the area.",
+            "answer": "part",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_8",
+            "question": "The exemption is for the State of __________ and tribal areas.",
+            "answer": "Nagaland",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_9",
+            "question": "Most provisions of BNSS do not __________ to these exempt areas.",
+            "answer": "apply",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_10",
+            "question": "__________ modifications can be specified in the notification.",
+            "answer": "Supplemental",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_11",
+            "question": "Besides Nagaland, __________ areas also get exemption.",
+            "answer": "tribal",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_12",
+            "question": "Chapter XI and XII along with Chapter __________ apply automatically.",
+            "answer": "IX",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_13",
+            "question": "Subsection-__________ deals with exemptions for special areas.",
+            "answer": "2",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_14",
+            "question": "The provisions 'other than' Chapters IX, XI, XII __________ not apply.",
+            "answer": "shall",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_15",
+            "question": "State Government has the power to apply __________ provisions.",
+            "answer": "such",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_16",
+            "question": "Modifications must be __________ in the notification.",
+            "answer": "specified",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_17",
+            "question": "The exemption recognizes the __________ status of these regions.",
+            "answer": "special",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_18",
+            "question": "Provisions relating to three chapters __________ apply.",
+            "answer": "shall",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_19",
+            "question": "State Government can apply provisions as the __________ may be.",
+            "answer": "case",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_20",
+            "question": "The concerned __________ Government means the State Government of that area.",
+            "answer": "State",
+            "subsection": "2"
+          }
+        ],
+        "matching_pool": [
+          {
+            "id": "ss2_match_1",
+            "columnA": ["Exempt state", "Exempt areas", "Applying authority", "Chapters that apply", "Required document"],
+            "columnB": ["Notification", "Nagaland", "State Government", "Tribal areas", "IX, XI, XII"],
+            "correct_matches": [1, 3, 2, 4, 0],
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_match_2",
+            "columnA": ["Supplemental", "Incidental", "Consequential", "Whole or part", "Shall not apply"],
+            "columnB": ["Related modifications", "Resulting modifications", "Most provisions", "Application scope", "Additional modifications"],
+            "correct_matches": [4, 0, 1, 3, 2],
+            "subsection": "2"
+          }
+        ],
+        "word_arrangement_pool": [
+          {
+            "id": "ss2_wa_1",
+            "jumbled": ["provisions", "The", "of", "this", "Sanhita", "not", "apply", "shall", "to", "Nagaland"],
+            "correct": "The provisions of this Sanhita shall not apply to Nagaland.",
+            "hint": "Start with 'The provisions...'",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_wa_2",
+            "jumbled": ["Government", "State", "may", "notification", "by", "apply", "provisions", "such"],
+            "correct": "State Government may by notification apply such provisions.",
+            "hint": "Who has the power?",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_wa_3",
+            "jumbled": ["IX", "XI", "XII", "Chapters", "and", "apply", "automatically"],
+            "correct": "Chapters IX, XI and XII apply automatically.",
+            "hint": "Which chapters?",
+            "subsection": "2"
+          }
+        ]
+      }
     }
-  ],
-  "main": {
-    "keywords": ["overview subsection 2", "tell me about subsection 2", "explain subsection 2", "batao subsection 2", "samjhao subsection 2"],
-    "content": [
-      {
-        "text": "Subsection-2: Special Provisions for Nagaland and Tribal Areas<br><br>• This subsection exempts Nagaland and tribal areas from most provisions of BNSS.<br>• Only Chapters IX, XI, and XII apply to these areas by default.<br>• State Governments can choose to apply other provisions with modifications.",
-        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-MAIN.mp3"
-      }
-    ]
-  },
-  "what": {
-    "keywords": ["what subsection 2", "kya subsection 2", "what does subsection 2 say"],
-    "content": [
-      {
-        "text": "Subsection-2 states that most provisions of BNSS do not apply to Nagaland and tribal areas, except Chapters IX, XI, and XII. State Governments can notify to apply other provisions with modifications. Example: Like giving special autonomy to certain regions based on their unique needs.",
-        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-WHAT.mp3"
-      }
-    ]
-  },
-  "why": {
-    "keywords": ["why subsection 2", "kyun subsection 2", "reason subsection 2"],
-    "content": [
-      {
-        "text": "Subsection-2 exists to respect the special constitutional status of Nagaland and tribal areas. These regions have unique cultural, social, and legal traditions that need protection. Example: Like Article 371A which grants special provisions to Nagaland, this subsection ensures their autonomy while maintaining national legal framework.",
-        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-WHY.mp3"
-      }
-    ]
-  },
-  "where": {
-    "keywords": ["where subsection 2", "kahan subsection 2", "which areas subsection 2"],
-    "content": [
-      {
-        "text": "Subsection-2 applies to: (a) The State of Nagaland, and (b) Tribal areas as defined under the Constitution. These are specially protected regions with distinct legal status. Example: Scheduled Areas under Fifth Schedule and Tribal Areas under Sixth Schedule of the Indian Constitution.",
-        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-WHERE.mp3"
-      }
-    ]
-  },
-  "when": {
-    "keywords": ["when subsection 2", "kab subsection 2", "time subsection 2"],
-    "content": [
-      {
-        "text": "Subsection-2 came into effect with BNSS in 2023. State Governments can issue notifications at any time to apply provisions to these areas. There's no fixed timeline - it depends on when the State Government decides. Example: A State can notify today, tomorrow, or years later based on their assessment.",
-        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-WHEN.mp3"
-      }
-    ]
-  },
-  "which": {
-    "keywords": ["which subsection 2", "kaun sa subsection 2", "which chapters subsection 2"],
-    "content": [
-      {
-        "text": "Subsection-2 identifies: (1) Which areas are exempt: Nagaland and tribal areas. (2) Which chapters DO apply: Chapters IX, XI, and XII. (3) Which provisions DON'T apply: All other chapters. Example: If BNSS has 20 chapters, only 3 automatically apply to these regions; remaining 17 are optional.",
-        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-WHICH.mp3"
-      }
-    ]
-  },
-  "how": {
-    "keywords": ["how subsection 2", "kaise subsection 2", "mechanism subsection 2"],
-    "content": [
-      {
-        "text": "Subsection-2 works through a notification system:<br>Step 1: State Government decides which provisions to apply<br>Step 2: Issues official notification<br>Step 3: Can add supplemental or consequential modifications<br>Step 4: Provisions become applicable as per notification. Example: Like a menu where the State picks what legal provisions suit their region best.",
-        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-HOW.mp3"
-      }
-    ]
-  },
-  "mcq_pool": [
-    {
-      "id": "ss2_mcq_1",
-      "question": "Subsection-2 grants special exemption to which state?",
-      "options": ["Assam", "Nagaland", "Manipur", "Mizoram"],
-      "correct": 1,
-      "explanation": "Subsection-2 specifically mentions the State of Nagaland as exempt from most BNSS provisions.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_mcq_2",
-      "question": "Which type of areas are exempt along with Nagaland?",
-      "options": ["Urban areas", "Tribal areas", "Metropolitan areas", "Industrial areas"],
-      "correct": 1,
-      "explanation": "Tribal areas are given the same exemption as Nagaland.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_mcq_3",
-      "question": "How many chapters of BNSS automatically apply to these exempt areas?",
-      "options": ["Two", "Three", "Four", "Five"],
-      "correct": 1,
-      "explanation": "Three chapters (IX, XI, and XII) automatically apply to Nagaland and tribal areas.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_mcq_4",
-      "question": "Which chapter is mentioned as automatically applicable?",
-      "options": ["Chapter VIII", "Chapter IX", "Chapter X", "Chapter XIII"],
-      "correct": 1,
-      "explanation": "Chapter IX is one of the three chapters that apply to these areas.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_mcq_5",
-      "question": "Who can notify to apply other BNSS provisions to these areas?",
-      "options": ["Central Government", "State Government", "Supreme Court", "Parliament"],
-      "correct": 1,
-      "explanation": "The concerned State Government has the power to issue such notifications.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_mcq_6",
-      "question": "What can State Governments add while applying provisions?",
-      "options": ["Punishments only", "Modifications", "New chapters", "Foreign laws"],
-      "correct": 1,
-      "explanation": "State Governments can add supplemental, incidental, or consequential modifications.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_mcq_7",
-      "question": "The exemption under Subsection-2 applies to how much of Nagaland?",
-      "options": ["Only cities", "Only villages", "Whole state", "Only capital"],
-      "correct": 2,
-      "explanation": "The exemption applies to the entire State of Nagaland.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_mcq_8",
-      "question": "Can State Government apply provisions to only part of the area?",
-      "options": ["No, must be full", "Yes, whole or part", "Only full state", "Not mentioned"],
-      "correct": 1,
-      "explanation": "State Government can apply to 'whole or part' of the area.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_mcq_9",
-      "question": "What type of modifications can be made?",
-      "options": ["Only supplemental", "Only incidental", "Only consequential", "All three types"],
-      "correct": 3,
-      "explanation": "Supplemental, incidental, or consequential modifications can be made.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_mcq_10",
-      "question": "Which chapter besides IX and XI also applies automatically?",
-      "options": ["Chapter X", "Chapter XII", "Chapter XIII", "Chapter XIV"],
-      "correct": 1,
-      "explanation": "Chapter XII is the third chapter that automatically applies.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_mcq_11",
-      "question": "The word 'Sanhita' in Subsection-2 refers to:",
-      "options": ["BNSS", "Constitution", "IPC", "CrPC"],
-      "correct": 0,
-      "explanation": "'This Sanhita' refers to BNSS (Bharatiya Nagarik Suraksha Sanhita).",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_mcq_12",
-      "question": "What must State Government issue to apply provisions?",
-      "options": ["Order", "Notification", "Judgment", "Circular"],
-      "correct": 1,
-      "explanation": "State Government must issue a notification.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_mcq_13",
-      "question": "Are all BNSS provisions exempt for these areas?",
-      "options": ["Yes, all exempt", "No, 3 chapters apply", "Only half exempt", "Not mentioned"],
-      "correct": 1,
-      "explanation": "No, Chapters IX, XI, and XII automatically apply; only other provisions are exempt.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_mcq_14",
-      "question": "The exemption is based on what factor?",
-      "options": ["Population", "Geography", "Special status", "Economy"],
-      "correct": 2,
-      "explanation": "The exemption recognizes the special constitutional and cultural status of these areas.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_mcq_15",
-      "question": "Can Central Government apply provisions to these areas?",
-      "options": ["Yes, only Central", "No, only State", "Both can", "Not mentioned"],
-      "correct": 1,
-      "explanation": "Only the concerned State Government can issue such notifications.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_mcq_16",
-      "question": "What does 'supplemental modifications' mean?",
-      "options": ["Remove provisions", "Add additional provisions", "Change completely", "Delete sections"],
-      "correct": 1,
-      "explanation": "Supplemental means additional provisions that supplement the main law.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_mcq_17",
-      "question": "Which subsection deals with exemptions?",
-      "options": ["Subsection-1", "Subsection-2", "Subsection-3", "Subsection-4"],
-      "correct": 1,
-      "explanation": "Subsection-2 of Section-1 deals with exemptions for Nagaland and tribal areas.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_mcq_18",
-      "question": "The provisions 'other than' which chapters are exempt?",
-      "options": ["I, II, III", "IX, XI, XII", "V, VI, VII", "All chapters"],
-      "correct": 1,
-      "explanation": "Provisions 'other than' Chapters IX, XI, XII are exempt.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_mcq_19",
-      "question": "How is the exemption implemented?",
-      "options": ["Automatically", "By default for most provisions", "Never", "By President"],
-      "correct": 1,
-      "explanation": "The exemption is automatic by default; State must notify to apply provisions.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_mcq_20",
-      "question": "What is the main purpose of Subsection-2?",
-      "options": ["Punish crimes", "Grant exemptions", "Define terms", "Create courts"],
-      "correct": 1,
-      "explanation": "The main purpose is to grant exemptions to special areas while allowing flexibility.",
-      "subsection": "2"
-    }
-  ],
-  "truefalse_pool": [
-    {
-      "id": "ss2_tf_1",
-      "statement": "Subsection-2 exempts Nagaland from most BNSS provisions.",
-      "correct": true,
-      "explanation": "This is correct. Most provisions do not apply to Nagaland.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_tf_2",
-      "statement": "All provisions of BNSS apply to tribal areas.",
-      "correct": false,
-      "explanation": "False. Most provisions do not apply; only Chapters IX, XI, XII apply automatically.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_tf_3",
-      "statement": "Chapter IX applies to Nagaland and tribal areas.",
-      "correct": true,
-      "explanation": "Correct. Chapter IX is one of the three chapters that automatically apply.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_tf_4",
-      "statement": "Only Central Government can notify to apply provisions to these areas.",
-      "correct": false,
-      "explanation": "False. The concerned State Government has this power.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_tf_5",
-      "statement": "State Government can make modifications while applying provisions.",
-      "correct": true,
-      "explanation": "True. They can make supplemental, incidental, or consequential modifications.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_tf_6",
-      "statement": "Chapter XI does not apply to tribal areas.",
-      "correct": false,
-      "explanation": "False. Chapter XI is one of the three chapters that automatically apply.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_tf_7",
-      "statement": "The exemption applies to the entire State of Nagaland.",
-      "correct": true,
-      "explanation": "True. The exemption covers the whole State of Nagaland.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_tf_8",
-      "statement": "Chapter XII is exempt from applying to these areas.",
-      "correct": false,
-      "explanation": "False. Chapter XII is one of the three chapters that do apply.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_tf_9",
-      "statement": "State Government must apply provisions to the whole area only.",
-      "correct": false,
-      "explanation": "False. They can apply to 'whole or part' of the area.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_tf_10",
-      "statement": "Tribal areas have the same exemption status as Nagaland.",
-      "correct": true,
-      "explanation": "True. Both are treated similarly under Subsection-2.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_tf_11",
-      "statement": "No chapters of BNSS apply to Nagaland by default.",
-      "correct": false,
-      "explanation": "False. Three chapters (IX, XI, XII) apply by default.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_tf_12",
-      "statement": "Notification is required to apply exempt provisions.",
-      "correct": true,
-      "explanation": "True. State Government must issue a notification.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_tf_13",
-      "statement": "Subsection-2 is about the law's name.",
-      "correct": false,
-      "explanation": "False. Subsection-1 is about the name; Subsection-2 is about exemptions.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_tf_14",
-      "statement": "The exemption recognizes special status of certain areas.",
-      "correct": true,
-      "explanation": "True. It respects the unique constitutional status of these regions.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_tf_15",
-      "statement": "State Government cannot modify BNSS provisions while applying.",
-      "correct": false,
-      "explanation": "False. They can make specified modifications.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_tf_16",
-      "statement": "Subsection-2 mentions three specific chapters.",
-      "correct": true,
-      "explanation": "True. Chapters IX, XI, and XII are specifically mentioned.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_tf_17",
-      "statement": "Urban areas get the same exemption as tribal areas.",
-      "correct": false,
-      "explanation": "False. Only tribal areas and Nagaland get this exemption.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_tf_18",
-      "statement": "The exemption is permanent and cannot be changed.",
-      "correct": false,
-      "explanation": "False. State Government can notify to apply provisions anytime.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_tf_19",
-      "statement": "Consequential modifications can be specified in the notification.",
-      "correct": true,
-      "explanation": "True. The notification can include such modifications.",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_tf_20",
-      "statement": "Subsection-2 appears in Section-1 of BNSS.",
-      "correct": true,
-      "explanation": "True. It is Subsection-2 of Section-1.",
-      "subsection": "2"
-    }
-  ],
-  "fillblank_pool": [
-    {
-      "id": "ss2_fb_1",
-      "question": "Subsection-2 grants exemption to __________ and tribal areas.",
-      "answer": "Nagaland",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_fb_2",
-      "question": "Only Chapters IX, XI, and __________ apply automatically to these areas.",
-      "answer": "XII",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_fb_3",
-      "question": "The concerned __________ Government can notify to apply other provisions.",
-      "answer": "State",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_fb_4",
-      "question": "State Government must issue a __________ to apply provisions.",
-      "answer": "notification",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_fb_5",
-      "question": "Provisions can be applied with supplemental, incidental, or __________ modifications.",
-      "answer": "consequential",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_fb_6",
-      "question": "Chapter __________ is one of the three that automatically apply.",
-      "answer": "IX",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_fb_7",
-      "question": "State Government can apply provisions to whole or __________ of the area.",
-      "answer": "part",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_fb_8",
-      "question": "The exemption is for the State of __________ and tribal areas.",
-      "answer": "Nagaland",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_fb_9",
-      "question": "Most provisions of BNSS do not __________ to these exempt areas.",
-      "answer": "apply",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_fb_10",
-      "question": "__________ modifications can be specified in the notification.",
-      "answer": "Supplemental",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_fb_11",
-      "question": "Besides Nagaland, __________ areas also get exemption.",
-      "answer": "tribal",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_fb_12",
-      "question": "Chapter XI and XII along with Chapter __________ apply automatically.",
-      "answer": "IX",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_fb_13",
-      "question": "Subsection-__________ deals with exemptions for special areas.",
-      "answer": "2",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_fb_14",
-      "question": "The provisions 'other than' Chapters IX, XI, XII __________ not apply.",
-      "answer": "shall",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_fb_15",
-      "question": "State Government has the power to apply __________ provisions.",
-      "answer": "such",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_fb_16",
-      "question": "Modifications must be __________ in the notification.",
-      "answer": "specified",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_fb_17",
-      "question": "The exemption recognizes the __________ status of these regions.",
-      "answer": "special",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_fb_18",
-      "question": "Provisions relating to three chapters __________ apply.",
-      "answer": "shall",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_fb_19",
-      "question": "State Government can apply provisions as the __________ may be.",
-      "answer": "case",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_fb_20",
-      "question": "The concerned __________ Government means the State Government of that area.",
-      "answer": "State",
-      "subsection": "2"
-    }
-  ],
-  "matching_pool": [
-    {
-      "id": "ss2_match_1",
-      "columnA": ["Exempt state", "Exempt areas", "Applying authority", "Chapters that apply", "Required document"],
-      "columnB": ["Notification", "Nagaland", "State Government", "Tribal areas", "IX, XI, XII"],
-      "correct_matches": [1, 3, 2, 4, 0],
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_match_2",
-      "columnA": ["Supplemental", "Incidental", "Consequential", "Whole or part", "Shall not apply"],
-      "columnB": ["Related modifications", "Resulting modifications", "Most provisions", "Application scope", "Additional modifications"],
-      "correct_matches": [4, 0, 1, 3, 2],
-      "subsection": "2"
-    }
-  ],
-  "word_arrangement_pool": [
-    {
-      "id": "ss2_wa_1",
-      "jumbled": ["provisions", "The", "of", "this", "Sanhita", "not", "apply", "shall", "to", "Nagaland"],
-      "correct": "The provisions of this Sanhita shall not apply to Nagaland.",
-      "hint": "Start with 'The provisions...'",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_wa_2",
-      "jumbled": ["Government", "State", "may", "notification", "by", "apply", "provisions", "such"],
-      "correct": "State Government may by notification apply such provisions.",
-      "hint": "Who has the power?",
-      "subsection": "2"
-    },
-    {
-      "id": "ss2_wa_3",
-      "jumbled": ["IX", "XI", "XII", "Chapters", "and", "apply", "automatically"],
-      "correct": "Chapters IX, XI and XII apply automatically.",
-      "hint": "Which chapters?",
-      "subsection": "2"
-    }
-  ]
+  }
 }
