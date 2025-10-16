@@ -593,7 +593,7 @@
           "content": [
             {
               "text": "Subsection-2 works through a notification system:<br>Step 1: State Government decides which provisions to apply<br>Step 2: Issues official notification<br>Step 3: Can add supplemental or consequential modifications<br>Step 4: Provisions become applicable as per notification. Example: Like a menu where the State picks what legal provisions suit their region best.",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-HOW.mp3"
+              "a udioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-HOW.mp3"
             }
           ]
         },
@@ -1062,10 +1062,542 @@
             "subsection": "2"
           }
         ]
+      },
+      "explanation_to_subsection_2": {
+  "id": "ss2_explanation",
+  "title": "Definition of Tribal Areas",
+  "keywords_for_identification": [
+    "explanation", "explanation to subsection 2", "explanation ss2",
+    "tribal areas definition", "what are tribal areas", "adivasi kshetra paribhasha",
+    "sixth schedule", "assam tribal areas", "21st january 1972",
+    "shillong municipality", "constitution paragraph 20"
+  ],
+  "main": {
+    "keywords": ["overview explanation", "tell me about explanation", "explain explanation", "batao explanation", "samjhao explanation"],
+    "content": [
+      {
+        "text": "Explanation to Subsection-2: Definition of Tribal Areas<br><br>• Defines what 'tribal areas' means for the purpose of Subsection-2.<br>• Refers to territories included in Assam's tribal areas as of January 21, 1972.<br>• Excludes the municipality of Shillong from this definition.<br>• Based on Paragraph 20 of the Sixth Schedule to the Constitution.",
+        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-EXP-MAIN.mp3"
       }
+    ]
+  },
+  "what": {
+    "keywords": ["what explanation", "kya explanation", "what does explanation say"],
+    "content": [
+      {
+        "text": "The Explanation states: 'Tribal areas' means the territories which were part of Assam's tribal areas immediately before January 21, 1972, as mentioned in Paragraph 20 of the Sixth Schedule to the Constitution, except areas within Shillong municipality. Example: Like defining a specific geographic region using a historical reference date.",
+        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-EXP-WHAT.mp3"
+      }
+    ]
+  },
+  "why": {
+    "keywords": ["why explanation", "kyun explanation", "reason explanation"],
+    "content": [
+      {
+        "text": "This Explanation exists to provide legal clarity on which areas qualify as 'tribal areas' under Subsection-2. It prevents confusion by fixing a specific date (January 21, 1972) and constitutional reference. Example: Like defining 'minor' as 'person below 18 years' - it removes ambiguity about who qualifies for special provisions.",
+        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-EXP-WHY.mp3"
+      }
+    ]
+  },
+  "where": {
+    "keywords": ["where explanation", "kahan explanation", "location explanation"],
+    "content": [
+      {
+        "text": "The Explanation applies to territories that were: (a) Part of Assam's tribal areas before January 21, 1972, (b) Mentioned in Paragraph 20 of Sixth Schedule, and (c) NOT within Shillong municipality limits. Example: Areas like parts of Meghalaya that were tribal areas of Assam before 1972, excluding Shillong city.",
+        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-EXP-WHERE.mp3"
+      }
+    ]
+  },
+  "when": {
+    "keywords": ["when explanation", "kab explanation", "time explanation"],
+    "content": [
+      {
+        "text": "The Explanation uses January 21, 1972 as the cut-off date. This is historically significant because it was when Meghalaya became a full state. Territories included as tribal areas 'immediately before' this date qualify. Example: If an area was tribal area on January 20, 1972, it qualifies; if designated after January 21, 1972, it doesn't.",
+        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-EXP-WHEN.mp3"
+      }
+    ]
+  },
+  "which": {
+    "keywords": ["which explanation", "kaun sa explanation", "which areas explanation"],
+    "content": [
+      {
+        "text": "The Explanation identifies: (1) Which areas qualify: Former Assam tribal areas as of Jan 21, 1972. (2) Which constitutional provision: Paragraph 20 of Sixth Schedule. (3) Which areas are excluded: Shillong municipality. Example: Of all tribal areas, only those meeting these three criteria qualify for Subsection-2 exemption.",
+        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-EXP-WHICH.mp3"
+      }
+    ]
+  },
+  "how": {
+    "keywords": ["how explanation", "kaise explanation", "mechanism explanation"],
+    "content": [
+      {
+        "text": "The Explanation works by establishing three criteria:<br>Step 1: Check if area was tribal area of Assam<br>Step 2: Verify status immediately before Jan 21, 1972<br>Step 3: Confirm it's referenced in Sixth Schedule Para 20<br>Step 4: Ensure it's NOT within Shillong municipality<br>All four must be satisfied. Example: Like a checklist - only areas meeting all conditions qualify as 'tribal areas' under BNSS.",
+        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-EXP-HOW.mp3"
+      }
+    ]
+  },
+  "mcq_pool": [
+    {
+      "id": "ss2_exp_mcq_1",
+      "question": "The Explanation defines which term?",
+      "options": ["Nagaland", "Tribal areas", "State Government", "Notification"],
+      "correct": 1,
+      "explanation": "The Explanation specifically defines 'tribal areas'.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_mcq_2",
+      "question": "What is the reference date mentioned in the Explanation?",
+      "options": ["January 21, 1971", "January 21, 1972", "January 26, 1972", "January 21, 1973"],
+      "correct": 1,
+      "explanation": "January 21, 1972 is the specific date mentioned.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_mcq_3",
+      "question": "Which state's tribal areas are referenced?",
+      "options": ["Meghalaya", "Assam", "Manipur", "Nagaland"],
+      "correct": 1,
+      "explanation": "The Explanation refers to tribal areas of Assam.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_mcq_4",
+      "question": "Which municipality is specifically excluded?",
+      "options": ["Guwahati", "Dispur", "Shillong", "Imphal"],
+      "correct": 2,
+      "explanation": "Shillong municipality is explicitly excluded from the definition.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_mcq_5",
+      "question": "Which constitutional schedule is referenced?",
+      "options": ["Fifth Schedule", "Sixth Schedule", "Seventh Schedule", "Eighth Schedule"],
+      "correct": 1,
+      "explanation": "The Sixth Schedule to the Constitution is referenced.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_mcq_6",
+      "question": "Which paragraph of the Sixth Schedule is mentioned?",
+      "options": ["Paragraph 19", "Paragraph 20", "Paragraph 21", "Paragraph 22"],
+      "correct": 1,
+      "explanation": "Paragraph 20 of the Sixth Schedule is specifically mentioned.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_mcq_7",
+      "question": "The territories must have been tribal areas when?",
+      "options": ["After Jan 21, 1972", "On Jan 21, 1972", "Immediately before Jan 21, 1972", "Anytime"],
+      "correct": 2,
+      "explanation": "They must have been tribal areas 'immediately before' January 21, 1972.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_mcq_8",
+      "question": "What type of clause is this?",
+      "options": ["Proviso", "Explanation", "Exception", "Illustration"],
+      "correct": 1,
+      "explanation": "This is an Explanation clause that defines a term.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_mcq_9",
+      "question": "Areas within Shillong municipality are:",
+      "options": ["Included", "Excluded", "Partially included", "Not mentioned"],
+      "correct": 1,
+      "explanation": "Areas within Shillong municipality are explicitly excluded.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_mcq_10",
+      "question": "The Explanation is attached to which subsection?",
+      "options": ["Subsection-1", "Subsection-2", "Subsection-3", "None"],
+      "correct": 1,
+      "explanation": "It's the Explanation to Subsection-2.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_mcq_11",
+      "question": "Why is January 21, 1972 significant?",
+      "options": ["Independence Day", "Republic Day", "Meghalaya became full state", "BNSS enacted"],
+      "correct": 2,
+      "explanation": "This was when Meghalaya became a full-fledged state.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_mcq_12",
+      "question": "The definition applies to which section?",
+      "options": ["Entire BNSS", "Only this section", "Only Subsection-2", "Only Chapter IX"],
+      "correct": 1,
+      "explanation": "The Explanation says 'In this section', meaning it applies to this section only.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_mcq_13",
+      "question": "What does the Explanation clarify?",
+      "options": ["Who can notify", "What tribal areas means", "When to apply", "How to modify"],
+      "correct": 1,
+      "explanation": "It clarifies the meaning of 'tribal areas'.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_mcq_14",
+      "question": "The Explanation refers to territories of:",
+      "options": ["All India", "Specific Assam areas", "All tribal areas", "All North-East"],
+      "correct": 1,
+      "explanation": "It specifically refers to certain Assam tribal areas as of 1972.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_mcq_15",
+      "question": "Which document is the ultimate reference?",
+      "options": ["BNSS", "IPC", "Constitution", "CrPC"],
+      "correct": 2,
+      "explanation": "The Constitution (Sixth Schedule) is the ultimate reference.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_mcq_16",
+      "question": "The phrase 'immediately before' means:",
+      "options": ["Long before", "Just before", "After", "During"],
+      "correct": 1,
+      "explanation": "'Immediately before' means just before the specified date.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_mcq_17",
+      "question": "How many conditions must be met for an area to qualify?",
+      "options": ["One", "Two", "Three", "Four"],
+      "correct": 3,
+      "explanation": "Four conditions: Assam tribal area, before Jan 21 1972, Sixth Schedule Para 20, not Shillong.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_mcq_18",
+      "question": "The local limits mentioned refer to:",
+      "options": ["Entire state", "Shillong municipality", "All cities", "Rural areas"],
+      "correct": 1,
+      "explanation": "'Local limits' refers specifically to Shillong municipality boundaries.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_mcq_19",
+      "question": "The Explanation uses which type of definition?",
+      "options": ["General", "Specific with date", "Broad", "Flexible"],
+      "correct": 1,
+      "explanation": "It uses a specific definition with an exact date reference.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_mcq_20",
+      "question": "Who referred to the tribal areas originally?",
+      "options": ["BNSS", "Constitution", "Parliament", "Court"],
+      "correct": 1,
+      "explanation": "The Constitution (Sixth Schedule) originally referred to these tribal areas.",
+      "subsection": "2-explanation"
+    }
+  ],
+  "truefalse_pool": [
+    {
+      "id": "ss2_exp_tf_1",
+      "statement": "The Explanation defines 'tribal areas'.",
+      "correct": true,
+      "explanation": "Yes, this is the purpose of the Explanation.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_tf_2",
+      "statement": "The reference date is January 21, 1973.",
+      "correct": false,
+      "explanation": "False. The date is January 21, 1972.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_tf_3",
+      "statement": "Shillong municipality is included in 'tribal areas'.",
+      "correct": false,
+      "explanation": "False. Shillong municipality is explicitly excluded.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_tf_4",
+      "statement": "The Explanation refers to the Sixth Schedule.",
+      "correct": true,
+      "explanation": "True. It refers to Paragraph 20 of the Sixth Schedule.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_tf_5",
+      "statement": "Tribal areas of Meghalaya are referenced.",
+      "correct": false,
+      "explanation": "False. It refers to tribal areas of Assam (as of 1972).",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_tf_6",
+      "statement": "Paragraph 20 of Sixth Schedule is mentioned.",
+      "correct": true,
+      "explanation": "True. This is specifically referenced.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_tf_7",
+      "statement": "The Explanation applies to the entire BNSS.",
+      "correct": false,
+      "explanation": "False. It says 'In this section', meaning only Section 1.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_tf_8",
+      "statement": "January 21, 1972 was when Meghalaya became a state.",
+      "correct": true,
+      "explanation": "True. This is the historical significance of the date.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_tf_9",
+      "statement": "All tribal areas of India are covered.",
+      "correct": false,
+      "explanation": "False. Only specific Assam tribal areas from 1972 are covered.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_tf_10",
+      "statement": "The Explanation provides legal clarity.",
+      "correct": true,
+      "explanation": "True. It clarifies what 'tribal areas' means in this context.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_tf_11",
+      "statement": "The territories must have been tribal areas after 1972.",
+      "correct": false,
+      "explanation": "False. They must have been tribal areas 'immediately before' 1972.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_tf_12",
+      "statement": "The Constitution is the ultimate reference.",
+      "correct": true,
+      "explanation": "True. The Sixth Schedule to the Constitution is referenced.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_tf_13",
+      "statement": "Shillong was excluded because it's urban.",
+      "correct": true,
+      "explanation": "True. Municipality areas are excluded from tribal area definition.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_tf_14",
+      "statement": "This is an Explanation clause.",
+      "correct": true,
+      "explanation": "True. It's formally labeled as 'Explanation'.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_tf_15",
+      "statement": "The Explanation has no legal significance.",
+      "correct": false,
+      "explanation": "False. Explanations are legally significant definitional clauses.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_tf_16",
+      "statement": "'Immediately before' means just before the date.",
+      "correct": true,
+      "explanation": "True. It means right before January 21, 1972.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_tf_17",
+      "statement": "The Explanation defines 'State Government'.",
+      "correct": false,
+      "explanation": "False. It defines 'tribal areas', not 'State Government'.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_tf_18",
+      "statement": "Four conditions must be met for an area to qualify.",
+      "correct": true,
+      "explanation": "True. Assam area, before Jan 21 1972, Sixth Schedule, not Shillong.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_tf_19",
+      "statement": "The Explanation is attached to Subsection-1.",
+      "correct": false,
+      "explanation": "False. It's attached to Subsection-2.",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_tf_20",
+      "statement": "The definition uses a historical cut-off date.",
+      "correct": true,
+      "explanation": "True. January 21, 1972 is used as the historical reference point.",
+      "subsection": "2-explanation"
+    }
+  ],
+  "fillblank_pool": [
+    {
+      "id": "ss2_exp_fb_1",
+      "question": "The Explanation defines the term '__________ areas'.",
+      "answer": "tribal",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_fb_2",
+      "question": "The reference date is January __________, 1972.",
+      "answer": "21",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_fb_3",
+      "question": "The territories were part of __________ tribal areas.",
+      "answer": "Assam",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_fb_4",
+      "question": "The municipality of __________ is excluded.",
+      "answer": "Shillong",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_fb_5",
+      "question": "The Explanation refers to the __________ Schedule to the Constitution.",
+      "answer": "Sixth",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_fb_6",
+      "question": "Paragraph __________ of the Sixth Schedule is mentioned.",
+      "answer": "20",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_fb_7",
+      "question": "Territories must have been tribal areas __________ before January 21, 1972.",
+      "answer": "immediately",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_fb_8",
+      "question": "This is the __________ to Subsection-2.",
+      "answer": "Explanation",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_fb_9",
+      "question": "Areas within the __________ limits of Shillong municipality are excluded.",
+      "answer": "local",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_fb_10",
+      "question": "The definition applies 'In this __________'.",
+      "answer": "section",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_fb_11",
+      "question": "January 21, __________ is the cut-off date.",
+      "answer": "1972",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_fb_12",
+      "question": "The territories were referred to in __________ 20 of the Sixth Schedule.",
+      "answer": "paragraph",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_fb_13",
+      "question": "The Explanation clarifies what '__________ areas' means.",
+      "answer": "tribal",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_fb_14",
+      "question": "The reference is to the __________ to the Constitution.",
+      "answer": "Sixth Schedule",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_fb_15",
+      "question": "Shillong __________ is specifically excluded.",
+      "answer": "municipality",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_fb_16",
+      "question": "The territories 'which __________ before' the date are included.",
+      "answer": "immediately",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_fb_17",
+      "question": "Territories were included in tribal areas of __________.",
+      "answer": "Assam",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_fb_18",
+      "question": "The year mentioned is __________.",
+      "answer": "1972",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_fb_19",
+      "question": "__________ 20 of Sixth Schedule is the constitutional reference.",
+      "answer": "Paragraph",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_fb_20",
+      "question": "The Explanation uses __________ as the reference document.",
+      "answer": "Constitution",
+      "subsection": "2-explanation"
+    }
+  ],
+  "matching_pool": [
+    {
+      "id": "ss2_exp_match_1",
+      "columnA": ["Reference date", "Excluded area", "State referenced", "Constitutional reference", "What's defined"],
+      "columnB": ["Tribal areas", "Shillong", "January 21, 1972", "Assam", "Sixth Schedule Para 20"],
+      "correct_matches": [2, 1, 3, 4, 0],
+      "subsection": "2-explanation"
+    }
+  ],
+  "word_arrangement_pool": [
+    {
+      "id": "ss2_exp_wa_1",
+      "jumbled": ["tribal", "Explanation", "In", "section", "this", "areas", "means"],
+      "correct": "Explanation: In this section, tribal areas means",
+      "hint": "Start with 'Explanation'",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_wa_2",
+      "jumbled": ["before", "January", "1972", "21st", "immediately", "the", "day", "of"],
+      "correct": "immediately before the 21st day of January, 1972",
+      "hint": "Arrange the date properly",
+      "subsection": "2-explanation"
+    },
+    {
+      "id": "ss2_exp_wa_3",
+      "jumbled": ["municipality", "of", "Shillong", "the", "within", "limits", "local"],
+      "correct": "within the local limits of the municipality of Shillong",
+      "hint": "Where is excluded?",
+      "subsection": "2-explanation"
+    }
+  ]
+}
     }
   }
 }
+
 
 
 
