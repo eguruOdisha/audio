@@ -1,6 +1,546 @@
 {
   "section1": {
     "title": "Short title, extent and commencement",
+    "bare_act": {
+      "id": "s1_bare_act",
+      "title": "Section 1 - Complete Bare Act",
+      "keywords_for_identification": [
+        "section 1 bare act", "section 1 full text", "complete section 1",
+        "bare act section 1", "original text section 1", "exact wording section 1",
+        "धारा 1 मूल पाठ", "dhara 1 bare act", "section 1 ka asli text"
+      ],
+      "main": {
+        "keywords": [
+          "show bare act section 1", "full text section 1", "complete section 1",
+          "section 1 bare act dikhaiye", "original section 1", "exact section 1"
+        ],
+        "content": [
+          {
+            "text": "Section 1: Short title, extent and commencement<br><br><strong>(1)</strong> This Act may be called the Bharatiya Nagarik Suraksha Sanhita, 2023.<br><br><strong>(2)</strong> The provisions of this Sanhita, other than those relating to Chapters IX, XI and XII thereof, shall not apply---<br>(a) to the State of Nagaland;<br>(b) to the tribal areas,<br>but the concerned State Government may, by notification, apply such provisions or any of them to the whole or part of the State of Nagaland or such tribal areas, as the case may be, with such supplemental, incidental or consequential modifications, as may be specified in the notification.<br><br><strong>Explanation.</strong>---In this section, 'tribal areas' means the territories which immediately before the 21st day of January, 1972, were included in the tribal areas of Assam, as referred to in paragraph 20 of the Sixth Schedule to the Constitution, other than those within the local limits of the municipality of Shillong.<br><br><strong>(3)</strong> It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint.<br><br><strong>Footnote:</strong> 1st July, 2024, [except the provisions of the entry relation to Section 106(2) in the first Schedule], vide notification No. S.O. 848(E), dated, 23rd day of February, 2024, see Gazette of India, Extraordinary, Part II, sec. 3(ii).",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-BAREACT-MAIN.mp3"
+          }
+        ]
+      },
+      "what": {
+        "keywords": ["what bare act section 1", "kya bare act section 1"],
+        "content": [
+          {
+            "text": "The bare act of Section 1 contains three subsections: (1) Declares the official name 'Bharatiya Nagarik Suraksha Sanhita, 2023', (2) Provides exemptions for Nagaland and tribal areas from most provisions except Chapters IX, XI, XII, and (3) States the commencement date to be notified by Central Government. Example: This is the complete legal text as enacted by Parliament.",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-BAREACT-WHAT.mp3"
+          }
+        ]
+      },
+      "why": {
+        "keywords": ["why bare act section 1", "kyun bare act section 1"],
+        "content": [
+          {
+            "text": "The bare act text is important because it provides the exact legal language used in the statute. Courts and legal professionals rely on this precise wording for interpretation and application. Example: Like reading the original Constitution rather than a summary - the exact words matter in law.",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-BAREACT-WHY.mp3"
+          }
+        ]
+      },
+      "where": {
+        "keywords": ["where bare act section 1", "kahan bare act section 1"],
+        "content": [
+          {
+            "text": "This bare act text appears at the very beginning of the Bharatiya Nagarik Suraksha Sanhita, 2023. It is Section 1 of the Act, found in the official gazette notification. Example: Located on the first pages of the official BNSS publication.",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-BAREACT-WHERE.mp3"
+          }
+        ]
+      },
+      "when": {
+        "keywords": ["when bare act section 1", "kab bare act section 1"],
+        "content": [
+          {
+            "text": "Section 1 was enacted in 2023 as part of BNSS. Subsection (3) states the Act came into force on 1st July, 2024, as notified by the Central Government. Example: The law was passed in 2023 but became operational from July 1, 2024.",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-BAREACT-WHEN.mp3"
+          }
+        ]
+      },
+      "which": {
+        "keywords": ["which bare act section 1", "kaun sa bare act section 1"],
+        "content": [
+          {
+            "text": "This is Section 1 of BNSS 2023, titled 'Short title, extent and commencement'. It is the foundational section containing three subsections that establish the law's identity, territorial extent, and effective date. Example: Among all sections of BNSS, this is the introductory section that sets the stage.",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-BAREACT-WHICH.mp3"
+          }
+        ]
+      },
+      "how": {
+        "keywords": ["how bare act section 1", "kaise bare act section 1"],
+        "content": [
+          {
+            "text": "Section 1 operates through three mechanisms: (1) Subsection-1 declares the name declaratively, (2) Subsection-2 creates exemptions with flexibility for State Governments to apply provisions through notification, (3) Subsection-3 delegates commencement power to Central Government. Example: It establishes identity, scope, and timing all in one section.",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-BAREACT-HOW.mp3"
+          }
+        ]
+      },
+      "mcq_pool": [
+        {
+          "id": "s1_bareact_mcq_1",
+          "question": "How many subsections does Section 1 contain?",
+          "options": ["Two", "Three", "Four", "Five"],
+          "correct": 1,
+          "explanation": "Section 1 contains three subsections numbered (1), (2), and (3).",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_mcq_2",
+          "question": "When did BNSS 2023 come into force?",
+          "options": ["1st January 2024", "1st July 2024", "23rd February 2024", "21st January 1972"],
+          "correct": 1,
+          "explanation": "BNSS came into force on 1st July, 2024 as per the footnote.",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_mcq_3",
+          "question": "What date is mentioned in the Explanation regarding tribal areas?",
+          "options": ["1st July 2024", "23rd February 2024", "21st January 1972", "1st January 2023"],
+          "correct": 2,
+          "explanation": "The Explanation refers to 21st January, 1972 for defining tribal areas.",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_mcq_4",
+          "question": "Which municipality is excluded from the tribal areas definition?",
+          "options": ["Guwahati", "Shillong", "Imphal", "Kohima"],
+          "correct": 1,
+          "explanation": "The municipality of Shillong is excluded from the tribal areas definition.",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_mcq_5",
+          "question": "Who appoints the commencement date of the Act?",
+          "options": ["President", "Supreme Court", "Central Government", "State Government"],
+          "correct": 2,
+          "explanation": "The Central Government appoints the commencement date by notification.",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_mcq_6",
+          "question": "The notification number for commencement was:",
+          "options": ["S.O. 106(2)", "S.O. 848(E)", "S.O. 1972", "S.O. 2023"],
+          "correct": 1,
+          "explanation": "The notification number was S.O. 848(E).",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_mcq_7",
+          "question": "Which provision was excepted from commencement on 1st July 2024?",
+          "options": ["Section 1", "Section 106(2)", "Chapter IX", "Chapter XII"],
+          "correct": 1,
+          "explanation": "Provisions relating to Section 106(2) in the first Schedule were excepted.",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_mcq_8",
+          "question": "Tribal areas referred to paragraph 20 of which Schedule?",
+          "options": ["Fifth Schedule", "Sixth Schedule", "Seventh Schedule", "Eighth Schedule"],
+          "correct": 1,
+          "explanation": "It refers to the Sixth Schedule to the Constitution.",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_mcq_9",
+          "question": "The notification date was:",
+          "options": ["1st July 2024", "21st January 1972", "23rd February 2024", "1st January 2023"],
+          "correct": 2,
+          "explanation": "The notification was dated 23rd day of February, 2024.",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_mcq_10",
+          "question": "Where was the notification published?",
+          "options": ["Times of India", "Official Gazette", "State Gazette", "Supreme Court Reports"],
+          "correct": 1,
+          "explanation": "It was published in the Official Gazette of India, Extraordinary, Part II, sec. 3(ii).",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_mcq_11",
+          "question": "Which state of India is specifically mentioned by name in Section 1(2)?",
+          "options": ["Assam", "Mizoram", "Nagaland", "Manipur"],
+          "correct": 2,
+          "explanation": "Nagaland is specifically mentioned in Section 1(2)(a).",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_mcq_12",
+          "question": "The word 'Sanhita' in the bare act means:",
+          "options": ["Act", "Code", "Law", "Rule"],
+          "correct": 1,
+          "explanation": "Sanhita translates to Code.",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_mcq_13",
+          "question": "How many chapters are mentioned as applicable to exempt areas?",
+          "options": ["Two", "Three", "Four", "Five"],
+          "correct": 1,
+          "explanation": "Three chapters (IX, XI, and XII) are mentioned.",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_mcq_14",
+          "question": "The bare act includes how many explanations?",
+          "options": ["None", "One", "Two", "Three"],
+          "correct": 1,
+          "explanation": "There is one Explanation after Subsection (2).",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_mcq_15",
+          "question": "Tribal areas were previously part of which state?",
+          "options": ["Bengal", "Assam", "Bihar", "Orissa"],
+          "correct": 1,
+          "explanation": "They were included in the tribal areas of Assam.",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_mcq_16",
+          "question": "What type of modifications can State Government specify?",
+          "options": ["Only supplemental", "Only incidental", "Only consequential", "All three types"],
+          "correct": 3,
+          "explanation": "Supplemental, incidental, or consequential modifications can be specified.",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_mcq_17",
+          "question": "The title of Section 1 is:",
+          "options": ["Name and extent", "Short title, extent and commencement", "Title and application", "Commencement"],
+          "correct": 1,
+          "explanation": "The title is 'Short title, extent and commencement'.",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_mcq_18",
+          "question": "The bare act uses 'may be called' in which subsection?",
+          "options": ["Subsection 1", "Subsection 2", "Subsection 3", "Explanation"],
+          "correct": 0,
+          "explanation": "Subsection (1) states 'may be called'.",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_mcq_19",
+          "question": "How many footnotes are included in Section 1?",
+          "options": ["None", "One", "Two", "Three"],
+          "correct": 1,
+          "explanation": "There is one footnote about the commencement date.",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_mcq_20",
+          "question": "The phrase 'as the case may be' appears in which subsection?",
+          "options": ["Subsection 1", "Subsection 2", "Subsection 3", "Explanation"],
+          "correct": 1,
+          "explanation": "It appears in Subsection (2).",
+          "subsection": "bare_act"
+        }
+      ],
+      "truefalse_pool": [
+        {
+          "id": "s1_bareact_tf_1",
+          "statement": "Section 1 contains three subsections.",
+          "correct": true,
+          "explanation": "Yes, it has subsections (1), (2), and (3).",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_tf_2",
+          "statement": "BNSS came into force on 1st January 2024.",
+          "correct": false,
+          "explanation": "It came into force on 1st July 2024.",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_tf_3",
+          "statement": "Shillong municipality is excluded from tribal areas definition.",
+          "correct": true,
+          "explanation": "Correct. The Explanation specifically excludes Shillong municipality.",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_tf_4",
+          "statement": "State Government appoints the commencement date.",
+          "correct": false,
+          "explanation": "Central Government appoints the commencement date.",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_tf_5",
+          "statement": "The Explanation refers to 21st January 1972.",
+          "correct": true,
+          "explanation": "Yes, this date is mentioned in the Explanation.",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_tf_6",
+          "statement": "Nagaland is specifically mentioned in Section 1.",
+          "correct": true,
+          "explanation": "Nagaland is mentioned in Subsection (2)(a).",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_tf_7",
+          "statement": "Section 106(2) came into force on 1st July 2024.",
+          "correct": false,
+          "explanation": "Provisions relating to Section 106(2) were excepted from commencement.",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_tf_8",
+          "statement": "The notification was published in Official Gazette.",
+          "correct": true,
+          "explanation": "Yes, it was published in the Official Gazette of India.",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_tf_9",
+          "statement": "Section 1 has no Explanation.",
+          "correct": false,
+          "explanation": "There is one Explanation in Section 1.",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_tf_10",
+          "statement": "Chapters IX, XI, and XII apply to exempt areas.",
+          "correct": true,
+          "explanation": "Correct. These three chapters apply to Nagaland and tribal areas.",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_tf_11",
+          "statement": "Tribal areas referred to the Fifth Schedule.",
+          "correct": false,
+          "explanation": "They refer to paragraph 20 of the Sixth Schedule.",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_tf_12",
+          "statement": "The notification number was S.O. 848(E).",
+          "correct": true,
+          "explanation": "Yes, this is the correct notification number.",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_tf_13",
+          "statement": "Section 1 is titled 'Name of the Act'.",
+          "correct": false,
+          "explanation": "It's titled 'Short title, extent and commencement'.",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_tf_14",
+          "statement": "The notification was dated 23rd February 2024.",
+          "correct": true,
+          "explanation": "Yes, this is the correct date.",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_tf_15",
+          "statement": "Only Central Government can apply provisions to exempt areas.",
+          "correct": false,
+          "explanation": "The concerned State Government can apply provisions.",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_tf_16",
+          "statement": "The bare act includes footnotes.",
+          "correct": true,
+          "explanation": "Yes, there is a footnote about the commencement date.",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_tf_17",
+          "statement": "Tribal areas were part of Bengal before 1972.",
+          "correct": false,
+          "explanation": "They were part of Assam, not Bengal.",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_tf_18",
+          "statement": "State Government can make consequential modifications.",
+          "correct": true,
+          "explanation": "Yes, supplemental, incidental, or consequential modifications are allowed.",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_tf_19",
+          "statement": "The Act was called BNSS 2024.",
+          "correct": false,
+          "explanation": "It's called BNSS 2023.",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_tf_20",
+          "statement": "The bare act is the exact legal text as enacted.",
+          "correct": true,
+          "explanation": "Yes, bare act refers to the original statutory text.",
+          "subsection": "bare_act"
+        }
+      ],
+      "fillblank_pool": [
+        {
+          "id": "s1_bareact_fb_1",
+          "question": "This Act may be called the Bharatiya Nagarik Suraksha Sanhita, __________.",
+          "answer": "2023",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_fb_2",
+          "question": "Section 1 contains __________ subsections.",
+          "answer": "three",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_fb_3",
+          "question": "BNSS came into force on 1st __________, 2024.",
+          "answer": "July",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_fb_4",
+          "question": "The municipality of __________ is excluded from tribal areas.",
+          "answer": "Shillong",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_fb_5",
+          "question": "The __________ Government appoints the commencement date.",
+          "answer": "Central",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_fb_6",
+          "question": "The Explanation refers to 21st January, __________.",
+          "answer": "1972",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_fb_7",
+          "question": "The notification number was S.O. __________.",
+          "answer": "848(E)",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_fb_8",
+          "question": "Chapters IX, __________, and XII apply to exempt areas.",
+          "answer": "XI",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_fb_9",
+          "question": "The notification was dated 23rd __________, 2024.",
+          "answer": "February",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_fb_10",
+          "question": "Tribal areas refer to paragraph 20 of the __________ Schedule.",
+          "answer": "Sixth",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_fb_11",
+          "question": "Section 1 is titled 'Short title, extent and __________'.",
+          "answer": "commencement",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_fb_12",
+          "question": "State Government can make __________ modifications.",
+          "answer": "supplemental/incidental/consequential",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_fb_13",
+          "question": "The provisions relating to Section __________ were excepted.",
+          "answer": "106(2)",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_fb_14",
+          "question": "The State of __________ is mentioned in Subsection (2)(a).",
+          "answer": "Nagaland",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_fb_15",
+          "question": "Tribal areas were part of __________ before 1972.",
+          "answer": "Assam",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_fb_16",
+          "question": "The notification was published in the Official __________.",
+          "answer": "Gazette",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_fb_17",
+          "question": "Section 1 has one __________ after Subsection (2).",
+          "answer": "Explanation",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_fb_18",
+          "question": "The Act uses the phrase 'may be __________' in Subsection (1).",
+          "answer": "called",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_fb_19",
+          "question": "The __________ Government can apply provisions to exempt areas.",
+          "answer": "State",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_fb_20",
+          "question": "The bare act is the __________ legal text as enacted.",
+          "answer": "exact/original",
+          "subsection": "bare_act"
+        }
+      ],
+      "matching_pool": [
+        {
+          "id": "s1_bareact_match_1",
+          "columnA": ["Commencement date", "Notification number", "Excluded municipality", "Reference date", "Appointing authority"],
+          "columnB": ["23rd February 2024", "Shillong", "S.O. 848(E)", "1st July 2024", "Central Government"],
+          "correct_matches": [3, 2, 1, 0, 4],
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_match_2",
+          "columnA": ["Subsection 1", "Subsection 2", "Subsection 3", "Explanation", "Footnote"],
+          "columnB": ["Commencement", "Tribal areas definition", "Law's name", "Exemptions", "Exception details"],
+          "correct_matches": [2, 3, 0, 1, 4],
+          "subsection": "bare_act"
+        }
+      ],
+      "word_arrangement_pool": [
+        {
+          "id": "s1_bareact_wa_1",
+          "jumbled": ["may", "called", "Act", "This", "be", "the", "Bharatiya", "Nagarik", "Suraksha", "Sanhita", "2023"],
+          "correct": "This Act may be called the Bharatiya Nagarik Suraksha Sanhita, 2023.",
+          "hint": "Start with 'This Act...'",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_wa_2",
+          "jumbled": ["shall", "force", "into", "come", "It", "on", "such", "date"],
+          "correct": "It shall come into force on such date.",
+          "hint": "When does it start?",
+          "subsection": "bare_act"
+        },
+        {
+          "id": "s1_bareact_wa_3",
+          "jumbled": ["Government", "Central", "by", "notification", "the", "appoint", "may"],
+          "correct": "The Central Government may appoint by notification.",
+          "hint": "Who has the power?",
+          "subsection": "bare_act"
+        }
+      ]
+    },
     "subsections": {
       "subsection_1": {
         "id": "ss1",
@@ -2672,6 +3212,7 @@
     }
   }
 }
+
 
 
 
