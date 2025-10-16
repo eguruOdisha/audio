@@ -1593,7 +1593,1082 @@
       "subsection": "2-explanation"
     }
   ]
-}
+},
+  "subsection_3": {
+        "id": "ss3",
+        "title": "Date of Commencement",
+        "keywords_for_identification": [
+          "subsection 3", "subsection-3", "subsection three", "ss3", "ss 3",
+          "upkhanda 3", "tisra upkhanda", "third subsection",
+          "commencement", "enforcement", "force", "laagu hona", "prabhav mein",
+          "when law starts", "effective date", "notification date"
+        ],
+        "main": {
+          "keywords": ["overview subsection 3", "tell me about subsection 3", "explain subsection 3", "batao subsection 3", "samjhao subsection 3"],
+          "content": [
+            {
+              "text": "Subsection-3: Date of Commencement<br><br>• This law comes into force on the date notified by Central Government.<br>• The notification must be published in the Official Gazette.<br>• Different provisions may come into force on different dates.<br>• Actual enforcement date: 1st July, 2024 (with one exception).",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS3-MAIN.mp3"
+            }
+          ]
+        },
+        "what": {
+          "keywords": ["what subsection 3", "kya subsection 3", "what is subsection 3"],
+          "content": [
+            {
+              "text": "Subsection-3 states: This law shall come into force on the date appointed by Central Government through official notification in the Gazette. The actual date notified was 1st July, 2024. Example: Like announcing 'School will start from Monday' - this subsection announces when the law officially begins.",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS3-WHAT.mp3"
+            }
+          ]
+        },
+        "why": {
+          "keywords": ["why subsection 3", "kyun subsection 3", "reason subsection 3"],
+          "content": [
+            {
+              "text": "Subsection-3 exists because laws need a clear start date for implementation. It allows time for preparation: training officials, setting up systems, and informing the public. Example: Like giving advance notice before new traffic rules - authorities need time to prepare before enforcing the law.",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS3-WHY.mp3"
+            }
+          ]
+        },
+        "where": {
+          "keywords": ["where subsection 3", "kahan subsection 3", "location subsection 3"],
+          "content": [
+            {
+              "text": "Subsection-3 applies throughout India where BNSS is applicable (except exempt areas under Subsection-2). The notification is published in the Official Gazette of India. Example: The commencement date is uniform across all non-exempt territories of India.",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS3-WHERE.mp3"
+            }
+          ]
+        },
+        "when": {
+          "keywords": ["when subsection 3", "kab subsection 3", "time subsection 3"],
+          "content": [
+            {
+              "text": "Subsection-3 became relevant on 23rd February, 2024 when the notification was issued. The law came into force on 1st July, 2024. Timeline: Law passed in 2023 → Notification issued 23-Feb-2024 → Enforcement began 01-Jul-2024. Example: Four months between notification and actual implementation.",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS3-WHEN.mp3"
+            }
+          ]
+        },
+        "which": {
+          "keywords": ["which subsection 3", "kaun sa subsection 3"],
+          "content": [
+            {
+              "text": "Subsection-3 is the commencement clause - the provision that activates the law. It is the third and final subsection of Section 1. Exception: Provisions related to Section 106(2) in First Schedule had different timing. Example: 99% of BNSS started on 1st July 2024; one specific provision had separate timing.",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS3-WHICH.mp3"
+            }
+          ]
+        },
+        "how": {
+          "keywords": ["how subsection 3", "kaise subsection 3"],
+          "content": [
+            {
+              "text": "Subsection-3 works through this mechanism:<br>Step 1: Central Government decides readiness date<br>Step 2: Issues notification (S.O. 848(E) dated 23-Feb-2024)<br>Step 3: Publishes in Official Gazette<br>Step 4: Law becomes enforceable on appointed date (01-Jul-2024). Example: Like flipping a switch - one specific moment when the law 'turns on'.",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS3-HOW.mp3"
+            }
+          ]
+        },
+        "mcq_pool": [
+          {
+            "id": "ss3_mcq_1",
+            "question": "Who appoints the date for BNSS to come into force?",
+            "options": ["State Government", "Central Government", "Supreme Court", "Parliament"],
+            "correct": 1,
+            "explanation": "Central Government has the power to appoint the commencement date.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_mcq_2",
+            "question": "Where must the commencement notification be published?",
+            "options": ["Newspapers", "Official Gazette", "Internet", "TV channels"],
+            "correct": 1,
+            "explanation": "The notification must be published in the Official Gazette.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_mcq_3",
+            "question": "On what date did BNSS come into force?",
+            "options": ["1st January, 2024", "1st July, 2024", "23rd February, 2024", "1st January, 2023"],
+            "correct": 1,
+            "explanation": "BNSS came into force on 1st July, 2024.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_mcq_4",
+            "question": "When was the commencement notification issued?",
+            "options": ["1st July, 2024", "23rd February, 2024", "1st January, 2024", "1st January, 2023"],
+            "correct": 1,
+            "explanation": "The notification was issued on 23rd February, 2024.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_mcq_5",
+            "question": "What is the notification number for commencement?",
+            "options": ["S.O. 848(E)", "S.O. 748(E)", "S.O. 948(E)", "S.O. 648(E)"],
+            "correct": 0,
+            "explanation": "The notification number is S.O. 848(E).",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_mcq_6",
+            "question": "Which section had an exception in commencement?",
+            "options": ["Section 105(2)", "Section 106(2)", "Section 107(2)", "Section 108(2)"],
+            "correct": 1,
+            "explanation": "Section 106(2) related provisions in First Schedule had an exception.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_mcq_7",
+            "question": "In which Schedule was the exception mentioned?",
+            "options": ["Second Schedule", "Third Schedule", "First Schedule", "Fourth Schedule"],
+            "correct": 2,
+            "explanation": "The exception was in the First Schedule.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_mcq_8",
+            "question": "What does 'come into force' mean?",
+            "options": ["Law is passed", "Law becomes enforceable", "Law is written", "Law is discussed"],
+            "correct": 1,
+            "explanation": "'Come into force' means the law becomes legally enforceable.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_mcq_9",
+            "question": "The commencement date is appointed by which method?",
+            "options": ["Oral announcement", "Notification", "Press release", "Email"],
+            "correct": 1,
+            "explanation": "It is appointed by official notification.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_mcq_10",
+            "question": "Can different provisions come into force on different dates?",
+            "options": ["No, never", "Yes, possible", "Only with court permission", "Not mentioned"],
+            "correct": 1,
+            "explanation": "Yes, different provisions can have different commencement dates (as shown by the exception).",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_mcq_11",
+            "question": "Which subsection deals with commencement?",
+            "options": ["Subsection-1", "Subsection-2", "Subsection-3", "Subsection-4"],
+            "correct": 2,
+            "explanation": "Subsection-3 deals with the date of commencement.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_mcq_12",
+            "question": "In which year did BNSS come into force?",
+            "options": ["2022", "2023", "2024", "2025"],
+            "correct": 2,
+            "explanation": "BNSS came into force in 2024.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_mcq_13",
+            "question": "The notification was published in which part of Gazette?",
+            "options": ["Part I", "Part II, sec. 3(ii)", "Part III", "Part IV"],
+            "correct": 1,
+            "explanation": "It was published in Part II, section 3(ii) of the Gazette.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_mcq_14",
+            "question": "What type of Gazette was used?",
+            "options": ["Ordinary", "Extraordinary", "Special", "Weekly"],
+            "correct": 1,
+            "explanation": "The Gazette of India, Extraordinary was used.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_mcq_15",
+            "question": "How many months between notification and enforcement?",
+            "options": ["2 months", "3 months", "About 4 months", "6 months"],
+            "correct": 2,
+            "explanation": "About 4 months elapsed (23rd Feb to 1st July).",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_mcq_16",
+            "question": "The word 'appoint' in subsection-3 means:",
+            "options": ["Hire someone", "Fix/decide a date", "Cancel", "Postpone"],
+            "correct": 1,
+            "explanation": "'Appoint' here means to fix or decide upon a date.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_mcq_17",
+            "question": "What does 'shall come into force' indicate?",
+            "options": ["Optional", "Mandatory future action", "Past action", "Suggestion"],
+            "correct": 1,
+            "explanation": "'Shall' indicates a mandatory future action.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_mcq_18",
+            "question": "The exception clause used which punctuation?",
+            "options": ["Round brackets", "Square brackets", "Curly brackets", "No brackets"],
+            "correct": 1,
+            "explanation": "Square brackets [ ] were used for the exception.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_mcq_19",
+            "question": "Which month did BNSS become operational?",
+            "options": ["January", "February", "July", "December"],
+            "correct": 2,
+            "explanation": "BNSS became operational in July 2024.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_mcq_20",
+            "question": "The commencement applies to how much of BNSS?",
+            "options": ["25%", "50%", "Almost all except one provision", "None"],
+            "correct": 2,
+            "explanation": "Almost all provisions came into force except Section 106(2) related entries.",
+            "subsection": "3"
+          }
+        ],
+        "truefalse_pool": [
+          {
+            "id": "ss3_tf_1",
+            "statement": "Central Government appoints the commencement date of BNSS.",
+            "correct": true,
+            "explanation": "True. Central Government has this power under Subsection-3.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_tf_2",
+            "statement": "BNSS came into force on 1st January, 2024.",
+            "correct": false,
+            "explanation": "False. It came into force on 1st July, 2024.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_tf_3",
+            "statement": "The notification must be published in the Official Gazette.",
+            "correct": true,
+            "explanation": "True. This is a mandatory requirement.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_tf_4",
+            "statement": "All provisions of BNSS came into force on the same date.",
+            "correct": false,
+            "explanation": "False. Provisions related to Section 106(2) in First Schedule had an exception.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_tf_5",
+            "statement": "The commencement notification was issued on 23rd February, 2024.",
+            "correct": true,
+            "explanation": "True. This is the date mentioned in the footnote.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_tf_6",
+            "statement": "State Governments appoint the commencement date.",
+            "correct": false,
+            "explanation": "False. Only Central Government has this power.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_tf_7",
+            "statement": "The notification number is S.O. 848(E).",
+            "correct": true,
+            "explanation": "True. This is the correct notification number.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_tf_8",
+            "statement": "BNSS came into force in 2023.",
+            "correct": false,
+            "explanation": "False. It came into force in 2024, though enacted in 2023.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_tf_9",
+            "statement": "Subsection-3 is about the law's title.",
+            "correct": false,
+            "explanation": "False. Subsection-1 is about title; Subsection-3 is about commencement.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_tf_10",
+            "statement": "The exception related to Section 106(2) in the First Schedule.",
+            "correct": true,
+            "explanation": "True. This is specifically mentioned in the footnote.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_tf_11",
+            "statement": "No notification is needed for BNSS to come into force.",
+            "correct": false,
+            "explanation": "False. A notification in the Official Gazette is mandatory.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_tf_12",
+            "statement": "The law came into force immediately after being passed.",
+            "correct": false,
+            "explanation": "False. There was a gap between enactment (2023) and enforcement (July 2024).",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_tf_13",
+            "statement": "'Come into force' means the law becomes enforceable.",
+            "correct": true,
+            "explanation": "True. This is the correct legal meaning.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_tf_14",
+            "statement": "The notification was published in an Extraordinary Gazette.",
+            "correct": true,
+            "explanation": "True. It was in the Gazette of India, Extraordinary.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_tf_15",
+            "statement": "Subsection-3 is the last subsection of Section 1.",
+            "correct": true,
+            "explanation": "True. It is the third and final subsection.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_tf_16",
+            "statement": "Different provisions can have different commencement dates.",
+            "correct": true,
+            "explanation": "True. The exception proves this is possible.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_tf_17",
+            "statement": "The commencement date was 23rd February, 2024.",
+            "correct": false,
+            "explanation": "False. That was the notification date; commencement was 1st July, 2024.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_tf_18",
+            "statement": "The notification allows time for implementation preparation.",
+            "correct": true,
+            "explanation": "True. The gap between notification and enforcement allows preparation time.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_tf_19",
+            "statement": "BNSS became operational in July 2024.",
+            "correct": true,
+            "explanation": "True. It came into force on 1st July, 2024.",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_tf_20",
+            "statement": "The commencement provision is in Subsection-2.",
+            "correct": false,
+            "explanation": "False. It is in Subsection-3.",
+            "subsection": "3"
+          }
+        ],
+        "fillblank_pool": [
+          {
+            "id": "ss3_fb_1",
+            "question": "This law shall come into force on such date as the __________ Government may appoint.",
+            "answer": "Central",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_fb_2",
+            "question": "The date must be appointed by notification in the Official __________.",
+            "answer": "Gazette",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_fb_3",
+            "question": "BNSS came into force on __________ July, 2024.",
+            "answer": "1st",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_fb_4",
+            "question": "The commencement notification was issued on 23rd __________, 2024.",
+            "answer": "February",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_fb_5",
+            "question": "The notification number was S.O. __________(E).",
+            "answer": "848",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_fb_6",
+            "question": "The exception related to Section __________(2) in the First Schedule.",
+            "answer": "106",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_fb_7",
+            "question": "The exception was in the __________ Schedule.",
+            "answer": "First",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_fb_8",
+            "question": "The notification was published in Part II, sec. __________(ii).",
+            "answer": "3",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_fb_9",
+            "question": "It shall __________ into force on the appointed date.",
+            "answer": "come",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_fb_10",
+            "question": "The Gazette used was the Gazette of India, __________.",
+            "answer": "Extraordinary",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_fb_11",
+            "question": "BNSS came into force in the year __________.",
+            "answer": "2024",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_fb_12",
+            "question": "Subsection-__________ deals with commencement.",
+            "answer": "3",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_fb_13",
+            "question": "Central Government may __________ the date by notification.",
+            "answer": "appoint",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_fb_14",
+            "question": "The commencement date is appointed in the __________ Gazette.",
+            "answer": "Official",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_fb_15",
+            "question": "Almost all provisions came into force __________ one exception.",
+            "answer": "except",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_fb_16",
+            "question": "The notification date was in the month of __________.",
+            "answer": "February",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_fb_17",
+            "question": "The enforcement date was in the month of __________.",
+            "answer": "July",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_fb_18",
+            "question": "'Come into force' means the law becomes __________.",
+            "answer": "enforceable",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_fb_19",
+            "question": "The notification was dated 23rd day of __________, 2024.",
+            "answer": "February",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_fb_20",
+            "question": "About __________ months passed between notification and enforcement.",
+            "answer": "four",
+            "subsection": "3"
+          }
+        ],
+        "matching_pool": [
+          {
+            "id": "ss3_match_1",
+            "columnA": ["Appointing authority", "Notification date", "Enforcement date", "Notification number", "Exception provision"],
+            "columnB": ["S.O. 848(E)", "Central Government", "1st July, 2024", "Section 106(2)", "23rd February, 2024"],
+            "correct_matches": [1, 4, 2, 0, 3],
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_match_2",
+            "columnA": ["Publication medium", "Gazette type", "Gazette part", "Schedule with exception", "Year of enforcement"],
+            "columnB": ["2024", "Official Gazette", "Part II, sec. 3(ii)", "First Schedule", "Extraordinary"],
+            "correct_matches": [1, 4, 2, 3, 0],
+            "subsection": "3"
+          }
+        ],
+        "word_arrangement_pool": [
+          {
+            "id": "ss3_wa_1",
+            "jumbled": ["shall", "It", "into", "force", "come", "on", "date", "such", "as", "appointed"],
+            "correct": "It shall come into force on such date as appointed.",
+            "hint": "Start with 'It shall...'",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_wa_2",
+            "jumbled": ["Central", "may", "Government", "by", "notification", "appoint", "the", "date"],
+            "correct": "Central Government may appoint the date by notification.",
+            "hint": "Who has the power?",
+            "subsection": "3"
+          },
+          {
+            "id": "ss3_wa_3",
+            "jumbled": ["force", "1st", "into", "came", "BNSS", "July", "2024", "on"],
+            "correct": "BNSS came into force on 1st July 2024.",
+            "hint": "When did it happen?",
+            "subsection": "3"
+          }
+        ]
+      },
+      "footnote_1": {
+        "id": "footnote1",
+        "title": "Commencement Date Notification Details",
+        "keywords_for_identification": [
+          "footnote", "footnote 1", "footnote-1", "foot note",
+          "notification details", "so 848", "gazette notification",
+          "july 2024", "february 2024", "section 106"
+        ],
+        "main": {
+          "keywords": ["overview footnote", "tell me about footnote", "explain footnote", "batao footnote", "samjhao footnote"],
+          "content": [
+            {
+              "text": "Footnote-1: Commencement Notification Details<br><br>• Notification No.: S.O. 848(E)<br>• Date of Notification: 23rd February, 2024<br>• Date of Enforcement: 1st July, 2024<br>• Exception: Provisions related to Section 106(2) in First Schedule<br>• Published in: Gazette of India, Extraordinary, Part II, sec. 3(ii)",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-FN1-MAIN.mp3"
+            }
+          ]
+        },
+        "what": {
+          "keywords": ["what footnote", "kya footnote", "what is footnote"],
+          "content": [
+            {
+              "text": "Footnote-1 provides the specific details of how and when BNSS came into force. It references notification S.O. 848(E) dated 23rd February 2024, which appointed 1st July 2024 as the enforcement date, with one exception. Example: Like fine print that gives the complete reference details for verification.",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-FN1-WHAT.mp3"
+            }
+          ]
+        },
+        "why": {
+          "keywords": ["why footnote", "kyun footnote", "reason footnote"],
+          "content": [
+            {
+              "text": "Footnote-1 exists to provide official documentation and verification details. Legal documents need precise references so anyone can verify the information in official records. Example: Like citing sources in research - it allows readers to check the original notification in the Gazette.",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-FN1-WHY.mp3"
+            }
+          ]
+        },
+        "where": {
+          "keywords": ["where footnote", "kahan footnote", "location footnote"],
+          "content": [
+            {
+              "text": "Footnote-1 appears at the bottom of Section 1, linked to Subsection-3. The actual notification can be found in the Gazette of India, Extraordinary, Part II, section 3(ii). Example: Physical location: bottom of page; Reference location: Official Gazette archives.",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-FN1-WHERE.mp3"
+            }
+          ]
+        },
+        "when": {
+          "keywords": ["when footnote", "kab footnote", "time footnote"],
+          "content": [
+            {
+              "text": "Footnote-1 references two key dates: Notification issued on 23rd February 2024, and enforcement began on 1st July 2024. Timeline: Law enacted 2023 → Notification Feb 2024 → Enforcement July 2024. Example: About 4 months gap for implementation preparation.",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-FN1-WHEN.mp3"
+            }
+          ]
+        },
+        "which": {
+          "keywords": ["which footnote", "kaun sa footnote"],
+          "content": [
+            {
+              "text": "Footnote-1 is the first (and only) footnote to Section 1. It identifies: (1) Which notification: S.O. 848(E), (2) Which exception: Section 106(2) in First Schedule, (3) Which publication: Gazette of India, Extraordinary. Example: Among all documentation, this footnote pinpoints the exact official reference.",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-FN1-WHICH.mp3"
+            }
+          ]
+        },
+        "how": {
+          "keywords": ["how footnote", "kaise footnote"],
+          "content": [
+            {
+              "text": "Footnote-1 works as a documentation reference:<br>Step 1: Links to Subsection-3's date mention<br>Step 2: Provides notification number (S.O. 848(E))<br>Step 3: States exact dates (issued 23-Feb, effective 1-Jul)<br>Step 4: Notes exception in square brackets<br>Step 5: Gives Gazette publication details. Example: Like a detailed citation that allows verification of every claim.",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-FN1-HOW.mp3"
+            }
+          ]
+        },
+        "mcq_pool": [
+          {
+            "id": "fn1_mcq_1",
+            "question": "What is the notification number mentioned in Footnote-1?",
+            "options": ["S.O. 748(E)", "S.O. 848(E)", "S.O. 948(E)", "S.O. 648(E)"],
+            "correct": 1,
+            "explanation": "The notification number is S.O. 848(E).",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_mcq_2",
+            "question": "On which date was the notification issued?",
+            "options": ["1st July, 2024", "23rd February, 2024", "1st January, 2024", "23rd July, 2024"],
+            "correct": 1,
+            "explanation": "The notification was issued on 23rd February, 2024.",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_mcq_3",
+            "question": "What date did BNSS come into force according to the footnote?",
+            "options": ["23rd February, 2024", "1st June, 2024", "1st July, 2024", "1st August, 2024"],
+            "correct": 2,
+            "explanation": "BNSS came into force on 1st July, 2024.",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_mcq_4",
+            "question": "Which section's provisions had an exception?",
+            "options": ["Section 105(2)", "Section 106(2)", "Section 107(2)", "Section 108(2)"],
+            "correct": 1,
+            "explanation": "Section 106(2) related provisions had an exception.",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_mcq_5",
+            "question": "In which schedule was the exception?",
+            "options": ["Second Schedule", "Third Schedule", "First Schedule", "Fourth Schedule"],
+            "correct": 2,
+            "explanation": "The exception was in the First Schedule.",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_mcq_6",
+            "question": "Where was the notification published?",
+            "options": ["Newspapers", "Gazette of India", "Internet only", "State Gazette"],
+            "correct": 1,
+            "explanation": "It was published in the Gazette of India.",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_mcq_7",
+            "question": "What type of Gazette was used?",
+            "options": ["Ordinary", "Extraordinary", "Weekly", "Monthly"],
+            "correct": 1,
+            "explanation": "The Gazette of India, Extraordinary was used.",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_mcq_8",
+            "question": "In which part of the Gazette was it published?",
+            "options": ["Part I", "Part II, sec. 3(ii)", "Part III", "Part IV"],
+            "correct": 1,
+            "explanation": "It was published in Part II, section 3(ii).",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_mcq_9",
+            "question": "The exception is marked with which punctuation?",
+            "options": ["Round brackets ( )", "Square brackets [ ]", "Curly brackets { }", "Angle brackets < >"],
+            "correct": 1,
+            "explanation": "The exception is marked with square brackets [ ].",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_mcq_10",
+            "question": "What does 'vide' mean in the footnote?",
+            "options": ["Video", "See/refer to", "Void", "Valid"],
+            "correct": 1,
+            "explanation": "'Vide' is a Latin term meaning 'see' or 'refer to'.",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_mcq_11",
+            "question": "Which year is mentioned in the footnote?",
+            "options": ["2022", "2023", "2024", "2025"],
+            "correct": 2,
+            "explanation": "The year 2024 is mentioned for both notification and enforcement dates.",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_mcq_12",
+            "question": "What is the purpose of Footnote-1?",
+            "options": ["Define terms", "Provide reference details", "List punishments", "Explain procedures"],
+            "correct": 1,
+            "explanation": "The footnote provides official reference and documentation details.",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_mcq_13",
+            "question": "The notification number starts with:",
+            "options": ["S.O.", "N.O.", "G.O.", "R.O."],
+            "correct": 0,
+            "explanation": "The notification starts with S.O. (Statutory Order).",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_mcq_14",
+            "question": "How many days are mentioned in the footnote date?",
+            "options": ["1st", "23rd", "Both 1st and 23rd", "Neither"],
+            "correct": 2,
+            "explanation": "Both 1st (July) and 23rd (February) are mentioned.",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_mcq_15",
+            "question": "The footnote is linked to which subsection?",
+            "options": ["Subsection-1", "Subsection-2", "Subsection-3", "No subsection"],
+            "correct": 2,
+            "explanation": "Footnote-1 is linked to Subsection-3.",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_mcq_16",
+            "question": "What does S.O. likely stand for?",
+            "options": ["Special Order", "Statutory Order", "State Order", "Supreme Order"],
+            "correct": 1,
+            "explanation": "S.O. stands for Statutory Order.",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_mcq_17",
+            "question": "The exception clause is about provisions relating to:",
+            "options": ["Section 105", "Section 106", "Section 107", "Section 108"],
+            "correct": 1,
+            "explanation": "The exception relates to Section 106(2).",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_mcq_18",
+            "question": "Which month was the notification issued?",
+            "options": ["January", "February", "July", "December"],
+            "correct": 1,
+            "explanation": "The notification was issued in February.",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_mcq_19",
+            "question": "Which month did enforcement begin?",
+            "options": ["January", "February", "July", "December"],
+            "correct": 2,
+            "explanation": "Enforcement began in July.",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_mcq_20",
+            "question": "The footnote provides details for:",
+            "options": ["Law's name", "Exemptions", "Commencement", "Definitions"],
+            "correct": 2,
+            "explanation": "The footnote provides commencement notification details.",
+            "subsection": "footnote"
+          }
+        ],
+        "truefalse_pool": [
+          {
+            "id": "fn1_tf_1",
+            "statement": "Footnote-1 mentions notification number S.O. 848(E).",
+            "correct": true,
+            "explanation": "True. This is the correct notification number.",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_tf_2",
+            "statement": "The notification was issued on 1st July, 2024.",
+            "correct": false,
+            "explanation": "False. It was issued on 23rd February, 2024; enforcement was on 1st July.",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_tf_3",
+            "statement": "BNSS came into force on 1st July, 2024.",
+            "correct": true,
+            "explanation": "True. This is the enforcement date mentioned in the footnote.",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_tf_4",
+            "statement": "All provisions of BNSS came into force on 1st July, 2024.",
+            "correct": false,
+            "explanation": "False. Provisions related to Section 106(2) in First Schedule were excepted.",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_tf_5",
+            "statement": "The notification was published in the Gazette of India, Extraordinary.",
+            "correct": true,
+            "explanation": "True. This is the correct publication.",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_tf_6",
+            "statement": "The exception relates to Section 107(2).",
+            "correct": false,
+            "explanation": "False. The exception relates to Section 106(2).",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_tf_7",
+            "statement": "The footnote is linked to Subsection-3.",
+            "correct": true,
+            "explanation": "True. Footnote-1 provides details for the date mentioned in Subsection-3.",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_tf_8",
+            "statement": "The exception was in the Second Schedule.",
+            "correct": false,
+            "explanation": "False. It was in the First Schedule.",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_tf_9",
+            "statement": "The notification was published in Part II, sec. 3(ii) of the Gazette.",
+            "correct": true,
+            "explanation": "True. This is the correct Gazette section.",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_tf_10",
+            "statement": "The notification number contains the letter E in brackets.",
+            "correct": true,
+            "explanation": "True. The notification is S.O. 848(E).",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_tf_11",
+            "statement": "The notification date and enforcement date are the same.",
+            "correct": false,
+            "explanation": "False. Notification was on 23rd Feb; enforcement on 1st July.",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_tf_12",
+            "statement": "'Vide' means 'see' or 'refer to'.",
+            "correct": true,
+            "explanation": "True. 'Vide' is a Latin term meaning 'see'.",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_tf_13",
+            "statement": "The exception is marked with square brackets.",
+            "correct": true,
+            "explanation": "True. Square brackets [ ] are used for the exception.",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_tf_14",
+            "statement": "The footnote appears at the top of Section 1.",
+            "correct": false,
+            "explanation": "False. Footnotes appear at the bottom.",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_tf_15",
+            "statement": "Both February and July dates are in 2024.",
+            "correct": true,
+            "explanation": "True. Both dates fall in the year 2024.",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_tf_16",
+            "statement": "The footnote provides verification details.",
+            "correct": true,
+            "explanation": "True. It allows anyone to verify the notification in official records.",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_tf_17",
+            "statement": "S.O. stands for Special Order.",
+            "correct": false,
+            "explanation": "False. S.O. stands for Statutory Order.",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_tf_18",
+            "statement": "About 4 months elapsed between notification and enforcement.",
+            "correct": true,
+            "explanation": "True. From 23rd February to 1st July is about 4 months.",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_tf_19",
+            "statement": "The footnote mentions multiple notification numbers.",
+            "correct": false,
+            "explanation": "False. Only one notification number (S.O. 848(E)) is mentioned.",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_tf_20",
+            "statement": "The Gazette used was an ordinary edition.",
+            "correct": false,
+            "explanation": "False. It was an Extraordinary edition of the Gazette.",
+            "subsection": "footnote"
+          }
+        ],
+        "fillblank_pool": [
+          {
+            "id": "fn1_fb_1",
+            "question": "The notification number is S.O. __________(E).",
+            "answer": "848",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_fb_2",
+            "question": "The notification was dated __________day of February, 2024.",
+            "answer": "23rd",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_fb_3",
+            "question": "BNSS came into force on __________ July, 2024.",
+            "answer": "1st",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_fb_4",
+            "question": "The exception relates to Section __________(2).",
+            "answer": "106",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_fb_5",
+            "question": "The exception was in the __________ Schedule.",
+            "answer": "First",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_fb_6",
+            "question": "The notification was published in the Gazette of India, __________.",
+            "answer": "Extraordinary",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_fb_7",
+            "question": "It was published in Part __________, sec. 3(ii).",
+            "answer": "II",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_fb_8",
+            "question": "The Latin word __________ means 'see' or 'refer to'.",
+            "answer": "vide",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_fb_9",
+            "question": "The exception is marked with __________ brackets.",
+            "answer": "square",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_fb_10",
+            "question": "S.O. stands for __________ Order.",
+            "answer": "Statutory",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_fb_11",
+            "question": "The notification was issued in the month of __________.",
+            "answer": "February",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_fb_12",
+            "question": "The enforcement began in the month of __________.",
+            "answer": "July",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_fb_13",
+            "question": "Both dates mentioned are in the year __________.",
+            "answer": "2024",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_fb_14",
+            "question": "Footnote-1 is linked to Subsection-__________.",
+            "answer": "3",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_fb_15",
+            "question": "The notification provides __________ details.",
+            "answer": "reference/verification",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_fb_16",
+            "question": "The notification was published in the __________ Gazette.",
+            "answer": "Official",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_fb_17",
+            "question": "See Gazette of India means __________ notification number S.O. 848(E).",
+            "answer": "vide",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_fb_18",
+            "question": "The exception clause uses the word '__________' to indicate the exception.",
+            "answer": "except",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_fb_19",
+            "question": "About __________ months passed between notification and enforcement.",
+            "answer": "four",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_fb_20",
+            "question": "The entry in the First Schedule relates to Section 106(__________)",
+            "answer": "2",
+            "subsection": "footnote"
+          }
+        ],
+        "matching_pool": [
+          {
+            "id": "fn1_match_1",
+            "columnA": ["Notification number", "Notification date", "Enforcement date", "Exception section", "Publication"],
+            "columnB": ["Section 106(2)", "Gazette of India, Extraordinary", "1st July, 2024", "23rd February, 2024", "S.O. 848(E)"],
+            "correct_matches": [4, 3, 2, 0, 1],
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_match_2",
+            "columnA": ["Schedule with exception", "Gazette part", "Latin term", "Bracket type", "Order type"],
+            "columnB": ["Part II, sec. 3(ii)", "Square brackets", "Statutory", "Vide", "First Schedule"],
+            "correct_matches": [4, 0, 3, 1, 2],
+            "subsection": "footnote"
+          }
+        ],
+        "word_arrangement_pool": [
+          {
+            "id": "fn1_wa_1",
+            "jumbled": ["1st", "July", "2024", "on", "force", "into", "came", "BNSS"],
+            "correct": "BNSS came into force on 1st July 2024.",
+            "hint": "When did it happen?",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_wa_2",
+            "jumbled": ["notification", "dated", "23rd", "February", "2024", "S.O.", "848(E)"],
+            "correct": "Notification S.O. 848(E) dated 23rd February 2024.",
+            "hint": "Start with notification number",
+            "subsection": "footnote"
+          },
+          {
+            "id": "fn1_wa_3",
+            "jumbled": ["except", "Section", "106(2)", "provisions", "relating", "to", "in", "First", "Schedule"],
+            "correct": "Except provisions relating to Section 106(2) in First Schedule.",
+            "hint": "What was excepted?",
+            "subsection": "footnote"
+          }
+        ]
+      }
     }
   }
 }
