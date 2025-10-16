@@ -534,32 +534,6 @@
           "nagaland", "tribal areas", "adivasi kshetra", "exemption", "chhoot",
           "special provision", "vishesh pravdhan", "chapter 9", "chapter 11", "chapter 12"
         ],
-        "general_qa": [
-          {
-            "keywords": ["nagaland", "tribal areas", "exempt", "chhoot", "apply nahi hota"],
-            "answer": "Subsection-2 states that most provisions of BNSS do not apply to Nagaland and tribal areas, except Chapters IX, XI, and XII. However, State Governments can notify to apply other provisions with modifications.",
-            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-QA1.mp3",
-            "subsection": "2"
-          },
-          {
-            "keywords": ["which chapters apply", "chapter 9", "chapter 11", "chapter 12", "kaun se adhyay"],
-            "answer": "Only Chapters IX, XI, and XII of BNSS automatically apply to Nagaland and tribal areas. All other chapters do not apply unless specifically notified by the State Government.",
-            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-QA2.mp3",
-            "subsection": "2"
-          },
-          {
-            "keywords": ["state government power", "notification", "suchna", "rajya sarkar"],
-            "answer": "State Governments have the power to apply any provisions of BNSS to Nagaland or tribal areas through official notifications. They can also add supplemental, incidental, or consequential modifications as needed.",
-            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-QA3.mp3",
-            "subsection": "2"
-          },
-          {
-            "keywords": ["modifications", "changes", "badlav", "parivartan"],
-            "answer": "When applying BNSS provisions to Nagaland or tribal areas, State Governments can make supplemental (additional), incidental (related), or consequential (resulting) modifications to suit local conditions.",
-            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-QA4.mp3",
-            "subsection": "2"
-          }
-        ],
         "main": {
           "keywords": ["overview subsection 2", "tell me about subsection 2", "explain subsection 2", "batao subsection 2", "samjhao subsection 2"],
           "content": [
@@ -1092,5 +1066,6 @@
     }
   }
 }
+
 
 
