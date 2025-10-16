@@ -1,6 +1,117 @@
 {
   "section1": {
     "title": "Short title, extent and commencement",
+    "id": "s1",
+    "keywords_for_identification": [
+      "section 1", "section-1", "section one", "s1", "s 1",
+      "khanda 1", "pehla khanda", "first section",
+      "short title", "extent", "commencement", "applicability"
+    ],
+    
+    "section_level": {
+      "main": {
+        "keywords": [
+          "overview section 1", "tell me about section 1", "explain section 1",
+          "batao section 1", "samjhao section 1", "section 1 ka overview"
+        ],
+        "content": [
+          {
+            "text": "Section-1: Short title, extent and commencement<br><br>• This section establishes the foundational framework of BNSS 2023.<br>• It contains multiple subsections covering the law's name, territorial application, special provisions, and commencement date.<br>• This is the gateway section that defines the law's identity and scope.",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-MAIN.mp3"
+          }
+        ]
+      },
+      
+      "what": {
+        "keywords": [
+          "what section 1", "kya section 1", "what is section 1",
+          "what does section 1 say", "section 1 kya kehta hai"
+        ],
+        "content": [
+          {
+            "text": "Section-1 establishes: (1) The official name of the law - 'Bharatiya Nagarik Suraksha Sanhita, 2023', (2) Special provisions for Nagaland and tribal areas, (3) Territorial extent across India, and (4) The date when the law comes into force. Example: Like the cover page of a book that tells you the title, edition, and publication details.",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-WHAT.mp3"
+          }
+        ]
+      },
+      
+      "why": {
+        "keywords": [
+          "why section 1", "kyun section 1", "reason section 1",
+          "purpose section 1", "section 1 ka uddeshya"
+        ],
+        "content": [
+          {
+            "text": "Section-1 exists to provide the foundational legal framework. It ensures: (1) The law has an official identity, (2) Its territorial boundaries are clear, (3) Special regions are protected, and (4) Everyone knows when it becomes effective. Example: Like foundations of a building - without Section-1, the entire legal structure would lack clarity and legitimacy.",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-WHY.mp3"
+          }
+        ]
+      },
+      
+      "where": {
+        "keywords": [
+          "where section 1", "kahan section 1", "location section 1",
+          "applicability section 1", "section 1 kahan lagu"
+        ],
+        "content": [
+          {
+            "text": "Section-1 applies throughout India, with special provisions: (1) Full application in most of India, (2) Limited application in Nagaland (only Chapters IX, XI, XII), (3) Limited application in tribal areas (only Chapters IX, XI, XII), (4) State Governments can extend provisions to exempt areas. Example: Like a national policy with regional flexibility for special areas.",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-WHERE.mp3"
+          }
+        ]
+      },
+      
+      "when": {
+        "keywords": [
+          "when section 1", "kab section 1", "time section 1",
+          "effective date section 1", "section 1 kab se lagu"
+        ],
+        "content": [
+          {
+            "text": "Section-1 addresses timing in multiple ways: (1) The law was named in 2023, (2) It came into effect on a date notified by the Central Government, (3) State Governments can notify application to exempt areas at any time. Example: Like a train schedule - the main departure is fixed, but connections to special destinations can be added later.",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-WHEN.mp3"
+          }
+        ]
+      },
+      
+      "which": {
+        "keywords": [
+          "which section 1", "kaun sa section 1", "which provisions section 1"
+        ],
+        "content": [
+          {
+            "text": "Section-1 identifies: (1) Which law - BNSS 2023, (2) Which areas - All of India with exemptions, (3) Which chapters apply to exempt areas - IX, XI, XII, (4) Which government can extend provisions - State Government. Example: Like an index that tells you exactly what, where, and how things are organized.",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-WHICH.mp3"
+          }
+        ]
+      },
+      
+      "how": {
+        "keywords": [
+          "how section 1", "kaise section 1", "mechanism section 1",
+          "how works section 1", "section 1 kaise kaam karta hai"
+        ],
+        "content": [
+          {
+            "text": "Section-1 works through a hierarchical structure:<br>Step 1: Declares the law's name (Subsection-1)<br>Step 2: Establishes exemptions for special areas (Subsection-2)<br>Step 3: Defines territorial extent (Subsection-3)<br>Step 4: Sets commencement date (Subsection-4)<br>Example: Like a software installation - first it identifies itself, then checks system compatibility, defines installation scope, and finally activates.",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-HOW.mp3"
+          }
+        ]
+      },
+      
+      "who": {
+        "keywords": [
+          "who section 1", "kaun section 1", "responsible section 1",
+          "authorities section 1", "section 1 mein kaun"
+        ],
+        "content": [
+          {
+            "text": "Section-1 involves multiple authorities: (1) Central Government - notifies commencement date and extent, (2) State Governments - can notify application to exempt areas, (3) Parliament - enacted this section, (4) Citizens - subject to this law. Example: Like a company structure - headquarters sets policy, regional offices implement with modifications for local needs.",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-WHO.mp3"
+          }
+        ]
+      }
+    },
     "subsections": {
       "subsection_1": {
         "id": "ss1",
@@ -1066,6 +1177,7 @@
     }
   }
 }
+
 
 
 
