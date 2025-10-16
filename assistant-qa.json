@@ -12,30 +12,6 @@
         ],
         "general_qa": [
           {
-            "keywords": ["what is law called", "name of law", "law name", "title", "kya naam hai", "kanoon ka naam"],
-            "answer": "This law is called the 'Bharatiya Nagarik Suraksha Sanhita, 2023'.",
-            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-C1-P1.mp3",
-            "subsection": "1"
-          },
-          {
-            "keywords": ["what is complete title", "full title", "complete name", "pura naam"],
-            "answer": "The complete title of this law is: 'Bharatiya Nagarik Suraksha Sanhita, 2023'.",
-            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-C1-P1.mp3",
-            "subsection": "1"
-          },
-          {
-            "keywords": ["when enacted", "year", "which year", "kab banaya", "kaun sa saal"],
-            "answer": "This law was enacted in the year 2023.",
-            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-C1-P1.mp3",
-            "subsection": "1"
-          },
-          {
-            "keywords": ["what does bharatiya nagarik suraksha sanhita mean", "meaning", "kya matlab hai"],
-            "answer": "Bharatiya Nagarik Suraksha Sanhita means 'Indian Citizen Security Code' in English. It is a comprehensive law for the protection and security of Indian citizens.",
-            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-C1-P1.mp3",
-            "subsection": "1"
-          },
-          {
             "keywords": ["help", "what can you do", "features", "capabilities", "kya kar sakte ho"],
             "answer": "🤖 Welcome! I'm your BNSS Learning Assistant!\n\n📚 I can help you with Section-1:\n• Subsection-1: Law's Official Name\n• Subsection-2: Special Provisions for Nagaland and Tribal Areas\n\n✨ MY CAPABILITIES:\n\n1️⃣ ANSWER QUESTIONS (Hindi/English)\n   • What/When/Where/Why/How questions\n   • Yes/No questions\n   • Short answer questions\n\n2️⃣ PRACTICE TESTS (Unlimited Questions!)\n   • MCQ tests (specify any number: \"5 MCQs\", \"10 MCQs\")\n   • True/False tests (any quantity)\n   • Fill in the blanks (any quantity)\n   • Matching exercises\n   • Word arrangement practice\n\n3️⃣ INTELLIGENT FEATURES\n   • Never repeats questions you've seen\n   • Tracks your progress\n   • Custom test lengths\n\n💬 EXAMPLE PROMPTS:\n   • \"Give me 5 MCQs about subsection 1\"\n   • \"Tell me about subsection 2\"\n   • \"I need 10 true/false questions\"\n   • \"Explain Nagaland exemption\"\n\n🌐 LANGUAGE: Ask in Hindi or English!\n\n📝 TYPE YOUR QUESTION BELOW! 👇",
             "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-C1-P1.mp3",
@@ -1130,3 +1106,4 @@
     }
   }
 }
+
