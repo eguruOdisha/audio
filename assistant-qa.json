@@ -9,27 +9,27 @@
       {
         "keywords": ["what is complete title", "full title", "complete name", "pura naam"],
         "answer": "The complete title of this law is: 'Bharatiya Nagarik Suraksha Sanhita, 2023'.",
-        "audioUrl": "eguruOdisha/audio/raw/main/BNSS-TTS-C1-P1.mp3"
+        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-C1-P1.mp3"
       },
       {
         "keywords": ["when enacted", "year", "which year", "kab banaya", "kaun sa saal"],
         "answer": "This law was enacted in the year 2023.",
-        "audioUrl": "eguruOdisha/audio/raw/main/BNSS-TTS-C1-P1.mp3"
+        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-C1-P1.mp3"
       },
       {
         "keywords": ["what does bharatiya nagarik suraksha sanhita mean", "meaning", "kya matlab hai"],
         "answer": "Bharatiya Nagarik Suraksha Sanhita means 'Indian Citizen Security Code' in English. It is a comprehensive law for the protection and security of Indian citizens.",
-        "audioUrl": "eguruOdisha/audio/raw/main/BNSS-TTS-C1-P1.mp3"
+        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-C1-P1.mp3"
       },
       {
         "keywords": ["help", "what can you do", "features", "capabilities", "kya kar sakte ho"],
         "answer": "🤖 Welcome! I'm your BNSS Learning Assistant!\n\n📚 I can help you with Section-1, Sentence-1:\n\"This law is called the 'Bharatiya Nagarik Suraksha Sanhita, 2023'\"\n\n✨ MY CAPABILITIES:\n\n1️⃣ ANSWER QUESTIONS (Hindi/English)\n   • What/When/Where/Why/How questions\n   • Yes/No questions\n   • Short answer questions\n\n2️⃣ PRACTICE TESTS (Unlimited Questions!)\n   • MCQ tests (specify any number: \"5 MCQs\", \"10 MCQs\")\n   • True/False tests (any quantity)\n   • Fill in the blanks (any quantity)\n   • Matching exercises\n   • Word arrangement practice\n\n3️⃣ INTELLIGENT FEATURES\n   • Never repeats questions you've seen\n   • Tracks your progress\n   • Custom test lengths\n\n💬 EXAMPLE PROMPTS:\n   • \"Give me 5 MCQs\"\n   • \"I need 10 true/false questions\"\n   • \"Show me 3 fill in the blanks\"\n   • \"Word arrangement exercise\"\n\n🌐 LANGUAGE: Ask in Hindi or English!\n\n📝 TYPE YOUR QUESTION BELOW! 👇",
-        "audioUrl": "eguruOdisha/audio/raw/main/BNSS-TTS-C1-P1.mp3"
+        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-C1-P1.mp3"
       },
       {
         "keywords": ["quick revision", "summary", "revision", "jaldi yaad karo"],
         "answer": "⚡ QUICK REVISION - BNSS Section-1, Sentence-1\n\n📌 KEY POINTS TO REMEMBER:\n\n1. LAW NAME: Bharatiya Nagarik Suraksha Sanhita, 2023\n2. SHORT FORM: BNSS 2023\n3. YEAR: 2023\n4. MEANING: Indian Citizen Security Code\n\n🔑 MEMORY TECHNIQUE:\nB - Bharatiya (Indian)\nN - Nagarik (Citizen)\nS - Suraksha (Security)\nS - Sanhita (Code)\n+ 2023 (Year)\n\n💭 REMEMBER: \"This law is CALLED the BNSS 2023\"\n\n✅ You're ready! Practice more questions for better retention! 🌟",
-        "audioUrl": "eguruOdisha/audio/raw/main/BNSS-TTS-C1-P1.mp3"
+        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-C1-P1.mp3"
       }
     ],
     "mcq_pool": [
@@ -419,8 +419,71 @@
         "correct": "This law is called the Bharatiya Nagarik Suraksha Sanhita, 2023.",
         "hint": "Arrange in proper sequence"
       }
-    ]
+    ],
+    "subsection_1": {
+      "main": {
+        "keywords": ["overview", "tell me about", "explain", "batao", "bata do", "samjhao", "kya hai", "bare mein", "jankari", "information", "details", "vivran"],
+        "content": [
+          {
+            "text": "Subsection-1: Law's Official Name<br><br>• This law is called the 'Bharatiya Nagarik Suraksha Sanhita, 2023'.<br>• The complete title establishes the legal identity of this code.<br>• It consists of four Hindi words followed by the year 2023.",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS1-MAIN.mp3"
+          }
+        ]
+      },
+      "what": {
+        "keywords": ["what", "kya", "kya hai", "naam kya", "what is", "what called", "kya kehlata", "kis naam se", "official name"],
+        "content": [
+          {
+            "text": "Subsection-1 states: This law is officially called 'Bharatiya Nagarik Suraksha Sanhita, 2023'. Example: Just like saying 'My name is John' - this subsection declares the law's official name.",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS1-WHAT.mp3"
+          }
+        ]
+      },
+      "why": {
+        "keywords": ["why", "kyun", "kyon", "kyu", "reason", "karan", "purpose", "uddeshya", "why called", "kyun rakha", "why this name", "yeh naam kyun"],
+        "content": [
+          {
+            "text": "Subsection-1 exists to officially declare the law's name for legal recognition. Without this subsection, the law would have no formal identity. Example: Like a birth certificate that officially names a child, this subsection officially names the law.",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS1-WHY.mp3"
+          }
+        ]
+      },
+      "where": {
+        "keywords": ["where", "kahan", "kahaan", "kaha", "where used", "kahan use", "location", "jagah", "sthan", "place"],
+        "content": [
+          {
+            "text": "Subsection-1 appears at the very beginning of the BNSS 2023 document. It is the first subsection of Section 1. Example: Found on the opening page of the official BNSS text, before any other provisions.",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS1-WHERE.mp3"
+          }
+        ]
+      },
+      "when": {
+        "keywords": ["when", "kab", "when enacted", "kab banaya", "when passed", "kab pass", "time", "samay", "year", "saal", "when official"],
+        "content": [
+          {
+            "text": "Subsection-1 came into effect in 2023 when the law was enacted. This naming provision became official with the passage of the Act. Example: Since 2023, this subsection has been the legal reference point for the law's name.",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS1-WHEN.mp3"
+          }
+        ]
+      },
+      "which": {
+        "keywords": ["which", "kaun sa", "konsa", "kaunsa", "which law", "kaun sa kanoon", "which type", "kis prakar", "type", "category"],
+        "content": [
+          {
+            "text": "Subsection-1 is the naming clause of BNSS 2023. It is the first and foundational subsection of Section 1. Example: Among all subsections, this is the one that specifically addresses the law's title.",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS1-WHICH.mp3"
+          }
+        ]
+      },
+      "how": {
+        "keywords": ["how", "kaise", "kese", "kaisay", "how does", "kaise karta", "method", "tarika", "prakriya", "how helps", "kaise madad"],
+        "content": [
+          {
+            "text": "Subsection-1 works by providing a simple declarative statement: 'This law is called...'<br>It establishes legal nomenclature through direct declaration. Example: Legal professionals cite this subsection when referencing the law's official name in documents.",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS1-HOW.mp3"
+          }
+        ]
+      }
+    }
   }
 }
-
-
