@@ -1,14 +1,6 @@
 {
   "section1": {
     "title": "Short title, extent and commencement",
-    "id": "s1",
-    "keywords_for_identification": [
-      "section 1", "section-1", "section one", "s1", "s 1",
-      "khanda 1", "pehla khanda", "first section",
-      "short title", "extent", "commencement", "applicability"
-    ],
-    
-    "section_level": {
       "main": {
         "keywords": [
           "overview section 1", "tell me about section 1", "explain section 1",
@@ -1177,6 +1169,7 @@
     }
   }
 }
+
 
 
 
