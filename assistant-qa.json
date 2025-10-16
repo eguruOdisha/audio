@@ -1,493 +1,1151 @@
 {
-  "section1_sentence1": {
-    "general_qa": [
-      {
-        "keywords": ["what is law called", "name of law", "law name", "title", "kya naam hai", "kanoon ka naam"],
-        "answer": "This law is called the 'Bharatiya Nagarik Suraksha Sanhita, 2023'.",
-        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-C1-P1.mp3"
-      },
-      {
-        "keywords": ["what is complete title", "full title", "complete name", "pura naam"],
-        "answer": "The complete title of this law is: 'Bharatiya Nagarik Suraksha Sanhita, 2023'.",
-        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-C1-P1.mp3"
-      },
-      {
-        "keywords": ["when enacted", "year", "which year", "kab banaya", "kaun sa saal"],
-        "answer": "This law was enacted in the year 2023.",
-        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-C1-P1.mp3"
-      },
-      {
-        "keywords": ["what does bharatiya nagarik suraksha sanhita mean", "meaning", "kya matlab hai"],
-        "answer": "Bharatiya Nagarik Suraksha Sanhita means 'Indian Citizen Security Code' in English. It is a comprehensive law for the protection and security of Indian citizens.",
-        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-C1-P1.mp3"
-      },
-      {
-        "keywords": ["help", "what can you do", "features", "capabilities", "kya kar sakte ho"],
-        "answer": "🤖 Welcome! I'm your BNSS Learning Assistant!\n\n📚 I can help you with Section-1, Sentence-1:\n\"This law is called the 'Bharatiya Nagarik Suraksha Sanhita, 2023'\"\n\n✨ MY CAPABILITIES:\n\n1️⃣ ANSWER QUESTIONS (Hindi/English)\n   • What/When/Where/Why/How questions\n   • Yes/No questions\n   • Short answer questions\n\n2️⃣ PRACTICE TESTS (Unlimited Questions!)\n   • MCQ tests (specify any number: \"5 MCQs\", \"10 MCQs\")\n   • True/False tests (any quantity)\n   • Fill in the blanks (any quantity)\n   • Matching exercises\n   • Word arrangement practice\n\n3️⃣ INTELLIGENT FEATURES\n   • Never repeats questions you've seen\n   • Tracks your progress\n   • Custom test lengths\n\n💬 EXAMPLE PROMPTS:\n   • \"Give me 5 MCQs\"\n   • \"I need 10 true/false questions\"\n   • \"Show me 3 fill in the blanks\"\n   • \"Word arrangement exercise\"\n\n🌐 LANGUAGE: Ask in Hindi or English!\n\n📝 TYPE YOUR QUESTION BELOW! 👇",
-        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-C1-P1.mp3"
-      },
-      {
-        "keywords": ["quick revision", "summary", "revision", "jaldi yaad karo"],
-        "answer": "⚡ QUICK REVISION - BNSS Section-1, Sentence-1\n\n📌 KEY POINTS TO REMEMBER:\n\n1. LAW NAME: Bharatiya Nagarik Suraksha Sanhita, 2023\n2. SHORT FORM: BNSS 2023\n3. YEAR: 2023\n4. MEANING: Indian Citizen Security Code\n\n🔑 MEMORY TECHNIQUE:\nB - Bharatiya (Indian)\nN - Nagarik (Citizen)\nS - Suraksha (Security)\nS - Sanhita (Code)\n+ 2023 (Year)\n\n💭 REMEMBER: \"This law is CALLED the BNSS 2023\"\n\n✅ You're ready! Practice more questions for better retention! 🌟",
-        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-C1-P1.mp3"
-      }
-    ],
-    "mcq_pool": [
-      {
-        "id": "mcq_1",
-        "question": "What is this law called?",
-        "options": ["Indian Penal Code, 2023", "Bharatiya Nagarik Suraksha Sanhita, 2023", "Criminal Procedure Code, 2023", "Indian Evidence Act, 2023"],
-        "correct": 1,
-        "explanation": "The law is officially called 'Bharatiya Nagarik Suraksha Sanhita, 2023'."
-      },
-      {
-        "id": "mcq_2",
-        "question": "In which year was this law named?",
-        "options": ["2022", "2024", "2023", "2021"],
-        "correct": 2,
-        "explanation": "The law was named in the year 2023."
-      },
-      {
-        "id": "mcq_3",
-        "question": "The term 'Bharatiya' in the law's name means:",
-        "options": ["British", "Indian", "Foreign", "Colonial"],
-        "correct": 1,
-        "explanation": "'Bharatiya' means 'Indian' in English."
-      },
-      {
-        "id": "mcq_4",
-        "question": "What does 'Nagarik' mean in English?",
-        "options": ["Soldier", "Police", "Citizen", "Judge"],
-        "correct": 2,
-        "explanation": "'Nagarik' translates to 'Citizen' in English."
-      },
-      {
-        "id": "mcq_5",
-        "question": "The word 'Suraksha' in the title means:",
-        "options": ["Punishment", "Security/Protection", "Justice", "Rights"],
-        "correct": 1,
-        "explanation": "'Suraksha' means 'Security' or 'Protection'."
-      },
-      {
-        "id": "mcq_6",
-        "question": "'Sanhita' in the law's name translates to:",
-        "options": ["Act", "Rule", "Code", "Law"],
-        "correct": 2,
-        "explanation": "'Sanhita' means 'Code' in English."
-      },
-      {
-        "id": "mcq_7",
-        "question": "How many words are in the law's name (excluding the year)?",
-        "options": ["Two", "Three", "Four", "Five"],
-        "correct": 2,
-        "explanation": "There are four words: Bharatiya, Nagarik, Suraksha, Sanhita."
-      },
-      {
-        "id": "mcq_8",
-        "question": "The short form of this law is:",
-        "options": ["IPC", "BNSS", "CrPC", "IEA"],
-        "correct": 1,
-        "explanation": "The short form is BNSS (Bharatiya Nagarik Suraksha Sanhita)."
-      },
-      {
-        "id": "mcq_9",
-        "question": "This law is related to:",
-        "options": ["Traffic Rules", "Citizen Security", "Tax Collection", "Education"],
-        "correct": 1,
-        "explanation": "The law is about Citizen Security (Nagarik Suraksha)."
-      },
-      {
-        "id": "mcq_10",
-        "question": "The complete title includes which year?",
-        "options": ["2020", "2021", "2022", "2023"],
-        "correct": 3,
-        "explanation": "The complete title includes the year 2023."
-      },
-      {
-        "id": "mcq_11",
-        "question": "Which language is the law's name in?",
-        "options": ["English", "Hindi", "Sanskrit", "Urdu"],
-        "correct": 1,
-        "explanation": "The law's name is in Hindi."
-      },
-      {
-        "id": "mcq_12",
-        "question": "The first word in the law's name is:",
-        "options": ["Nagarik", "Bharatiya", "Suraksha", "Sanhita"],
-        "correct": 1,
-        "explanation": "The first word is 'Bharatiya'."
-      },
-      {
-        "id": "mcq_13",
-        "question": "The last word before the year is:",
-        "options": ["Bharatiya", "Nagarik", "Suraksha", "Sanhita"],
-        "correct": 3,
-        "explanation": "The last word before 2023 is 'Sanhita'."
-      },
-      {
-        "id": "mcq_14",
-        "question": "This law is also known as:",
-        "options": ["BNS", "BNSS", "BSS", "BNS 2023"],
-        "correct": 1,
-        "explanation": "It's commonly abbreviated as BNSS."
-      },
-      {
-        "id": "mcq_15",
-        "question": "The law's title contains how many numbers?",
-        "options": ["None", "One", "Two", "Three"],
-        "correct": 1,
-        "explanation": "The title contains one number: 2023."
-      },
-      {
-        "id": "mcq_16",
-        "question": "What type of document is this?",
-        "options": ["Constitution", "Law/Code", "Agreement", "Treaty"],
-        "correct": 1,
-        "explanation": "It's a Law/Code (Sanhita)."
-      },
-      {
-        "id": "mcq_17",
-        "question": "The second word in the law's name is:",
-        "options": ["Bharatiya", "Nagarik", "Suraksha", "Sanhita"],
-        "correct": 1,
-        "explanation": "The second word is 'Nagarik'."
-      },
-      {
-        "id": "mcq_18",
-        "question": "The third word in the law's name is:",
-        "options": ["Bharatiya", "Nagarik", "Suraksha", "Sanhita"],
-        "correct": 2,
-        "explanation": "The third word is 'Suraksha'."
-      },
-      {
-        "id": "mcq_19",
-        "question": "This law is meant for:",
-        "options": ["Only government officials", "All Indian citizens", "Only police", "Only judges"],
-        "correct": 1,
-        "explanation": "It's for all Indian citizens (Bharatiya Nagarik)."
-      },
-      {
-        "id": "mcq_20",
-        "question": "The year 2023 appears at the:",
-        "options": ["Beginning", "Middle", "End", "Not mentioned"],
-        "correct": 2,
-        "explanation": "The year 2023 appears at the end of the title."
-      }
-    ],
-    "truefalse_pool": [
-      {
-        "id": "tf_1",
-        "statement": "This law is called the 'Bharatiya Nagarik Suraksha Sanhita, 2023'.",
-        "correct": true,
-        "explanation": "This is the exact official name of the law."
-      },
-      {
-        "id": "tf_2",
-        "statement": "The law was named in 2022.",
-        "correct": false,
-        "explanation": "The law was named in 2023, not 2022."
-      },
-      {
-        "id": "tf_3",
-        "statement": "The name of this law includes the year 2023.",
-        "correct": true,
-        "explanation": "Yes, 2023 is part of the official name."
-      },
-      {
-        "id": "tf_4",
-        "statement": "This law is called the 'Indian Penal Code, 2023'.",
-        "correct": false,
-        "explanation": "It's called BNSS, not IPC."
-      },
-      {
-        "id": "tf_5",
-        "statement": "'Bharatiya Nagarik Suraksha Sanhita' is part of the law's name.",
-        "correct": true,
-        "explanation": "This is the main part of the law's name."
-      },
-      {
-        "id": "tf_6",
-        "statement": "The year 2023 appears in the law's official name.",
-        "correct": true,
-        "explanation": "2023 is included in the official title."
-      },
-      {
-        "id": "tf_7",
-        "statement": "This law has no official name.",
-        "correct": false,
-        "explanation": "The law has an official name: BNSS 2023."
-      },
-      {
-        "id": "tf_8",
-        "statement": "The law's name is only in English.",
-        "correct": false,
-        "explanation": "The law's name is in Hindi."
-      },
-      {
-        "id": "tf_9",
-        "statement": "BNSS stands for Bharatiya Nagarik Suraksha Sanhita.",
-        "correct": true,
-        "explanation": "BNSS is the correct abbreviation."
-      },
-      {
-        "id": "tf_10",
-        "statement": "The word 'Nagarik' means 'Police' in English.",
-        "correct": false,
-        "explanation": "'Nagarik' means 'Citizen', not 'Police'."
-      },
-      {
-        "id": "tf_11",
-        "statement": "'Suraksha' means 'Security' or 'Protection'.",
-        "correct": true,
-        "explanation": "This is the correct meaning of 'Suraksha'."
-      },
-      {
-        "id": "tf_12",
-        "statement": "The law was enacted in 2020.",
-        "correct": false,
-        "explanation": "The law was enacted in 2023."
-      },
-      {
-        "id": "tf_13",
-        "statement": "'Sanhita' translates to 'Code' in English.",
-        "correct": true,
-        "explanation": "'Sanhita' means 'Code'."
-      },
-      {
-        "id": "tf_14",
-        "statement": "This law contains exactly three words.",
-        "correct": false,
-        "explanation": "It contains four words plus the year."
-      },
-      {
-        "id": "tf_15",
-        "statement": "The law's name begins with 'Bharatiya'.",
-        "correct": true,
-        "explanation": "'Bharatiya' is the first word."
-      },
-      {
-        "id": "tf_16",
-        "statement": "This is a law about traffic regulations.",
-        "correct": false,
-        "explanation": "It's about citizen security, not traffic."
-      },
-      {
-        "id": "tf_17",
-        "statement": "The law's title ends with the year 2023.",
-        "correct": true,
-        "explanation": "The title ends with 2023."
-      },
-      {
-        "id": "tf_18",
-        "statement": "'Bharatiya' means 'British' in English.",
-        "correct": false,
-        "explanation": "'Bharatiya' means 'Indian', not 'British'."
-      },
-      {
-        "id": "tf_19",
-        "statement": "This law is called a 'Sanhita' (Code).",
-        "correct": true,
-        "explanation": "Yes, it's officially called a Sanhita."
-      },
-      {
-        "id": "tf_20",
-        "statement": "The law has no year mentioned in its title.",
-        "correct": false,
-        "explanation": "The year 2023 is mentioned in the title."
-      }
-    ],
-    "fillblank_pool": [
-      {
-        "id": "fb_1",
-        "question": "This law is called the \"__________, 2023\".",
-        "answer": "Bharatiya Nagarik Suraksha Sanhita"
-      },
-      {
-        "id": "fb_2",
-        "question": "This law is called the \"Bharatiya Nagarik Suraksha Sanhita, __________\".",
-        "answer": "2023"
-      },
-      {
-        "id": "fb_3",
-        "question": "The complete name of this law is __________.",
-        "answer": "Bharatiya Nagarik Suraksha Sanhita, 2023"
-      },
-      {
-        "id": "fb_4",
-        "question": "The year mentioned in the law's name is __________.",
-        "answer": "2023"
-      },
-      {
-        "id": "fb_5",
-        "question": "This __________ is called the \"Bharatiya Nagarik Suraksha Sanhita, 2023\".",
-        "answer": "law"
-      },
-      {
-        "id": "fb_6",
-        "question": "The complete title is \"__________ __________ __________ __________, 2023\".",
-        "answer": "Bharatiya Nagarik Suraksha Sanhita"
-      },
-      {
-        "id": "fb_7",
-        "question": "This law is __________ the \"Bharatiya Nagarik Suraksha Sanhita, 2023\".",
-        "answer": "called"
-      },
-      {
-        "id": "fb_8",
-        "question": "The law's name includes the term \"__________ Nagarik Suraksha Sanhita\".",
-        "answer": "Bharatiya"
-      },
-      {
-        "id": "fb_9",
-        "question": "The short form of this law is __________.",
-        "answer": "BNSS"
-      },
-      {
-        "id": "fb_10",
-        "question": "'Nagarik' means __________ in English.",
-        "answer": "Citizen"
-      },
-      {
-        "id": "fb_11",
-        "question": "'Suraksha' translates to __________ in English.",
-        "answer": "Security/Protection"
-      },
-      {
-        "id": "fb_12",
-        "question": "'Sanhita' means __________ in English.",
-        "answer": "Code"
-      },
-      {
-        "id": "fb_13",
-        "question": "The first word in the law's name is __________.",
-        "answer": "Bharatiya"
-      },
-      {
-        "id": "fb_14",
-        "question": "The second word in the law's name is __________.",
-        "answer": "Nagarik"
-      },
-      {
-        "id": "fb_15",
-        "question": "The third word in the law's name is __________.",
-        "answer": "Suraksha"
-      },
-      {
-        "id": "fb_16",
-        "question": "The fourth word in the law's name is __________.",
-        "answer": "Sanhita"
-      },
-      {
-        "id": "fb_17",
-        "question": "'Bharatiya' means __________ in English.",
-        "answer": "Indian"
-      },
-      {
-        "id": "fb_18",
-        "question": "This law was enacted in the year __________.",
-        "answer": "2023"
-      },
-      {
-        "id": "fb_19",
-        "question": "The law is about __________ Security.",
-        "answer": "Citizen"
-      },
-      {
-        "id": "fb_20",
-        "question": "BNSS stands for Bharatiya __________ Suraksha __________.",
-        "answer": "Nagarik, Sanhita"
-      }
-    ],
-    "matching_pool": [
-      {
-        "id": "match_1",
-        "columnA": ["Law's name", "Year", "Complete title", "First word", "Verb used"],
-        "columnB": ["2023", "Bharatiya Nagarik Suraksha Sanhita, 2023", "Bharatiya Nagarik Suraksha Sanhita", "Bharatiya", "Called"],
-        "correct_matches": [1, 0, 1, 3, 4]
-      }
-    ],
-    "word_arrangement_pool": [
-      {
-        "id": "wa_1",
-        "jumbled": ["2023", "Sanhita", "This", "Bharatiya", "is", "Nagarik", "law", "the", "called", "Suraksha"],
-        "correct": "This law is called the Bharatiya Nagarik Suraksha Sanhita, 2023.",
-        "hint": "Start with 'This law...'"
-      },
-      {
-        "id": "wa_2",
-        "jumbled": ["called", "the", "law", "Bharatiya", "This", "is", "Nagarik", "Sanhita", "Suraksha", "2023"],
-        "correct": "This law is called the Bharatiya Nagarik Suraksha Sanhita, 2023.",
-        "hint": "Arrange in proper sequence"
-      }
-    ],
-    "subsection_1": {
-      "main": {
-        "keywords": ["overview", "tell me about", "explain", "batao", "bata do", "samjhao", "kya hai", "bare mein", "jankari", "information", "details", "vivran"],
-        "content": [
+  "section1": {
+    "title": "Short title, extent and commencement",
+    "subsections": {
+      "subsection_1": {
+        "id": "ss1",
+        "title": "Law's Official Name",
+        "keywords_for_identification": [
+          "subsection 1", "subsection-1", "subsection one", "ss1", "ss 1",
+          "upkhanda 1", "pehla upkhanda", "first subsection",
+          "law name", "title of law", "what is called", "naam kya hai"
+        ],
+        "general_qa": [
           {
-            "text": "Subsection-1: Law's Official Name<br><br>• This law is called the 'Bharatiya Nagarik Suraksha Sanhita, 2023'.<br>• The complete title establishes the legal identity of this code.<br>• It consists of four Hindi words followed by the year 2023.",
-            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS1-MAIN.mp3"
+            "keywords": ["what is law called", "name of law", "law name", "title", "kya naam hai", "kanoon ka naam"],
+            "answer": "This law is called the 'Bharatiya Nagarik Suraksha Sanhita, 2023'.",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-C1-P1.mp3",
+            "subsection": "2"
+          },
+          {
+            "keywords": ["state government power", "notification", "suchna", "rajya sarkar"],
+            "answer": "State Governments have the power to apply any provisions of BNSS to Nagaland or tribal areas through official notifications. They can also add supplemental, incidental, or consequential modifications as needed.",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-QA3.mp3",
+            "subsection": "2"
+          },
+          {
+            "keywords": ["modifications", "changes", "badlav", "parivartan"],
+            "answer": "When applying BNSS provisions to Nagaland or tribal areas, State Governments can make supplemental (additional), incidental (related), or consequential (resulting) modifications to suit local conditions.",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-QA4.mp3",
+            "subsection": "2"
+          }
+        ],
+        "main": {
+          "keywords": ["overview subsection 2", "tell me about subsection 2", "explain subsection 2", "batao subsection 2", "samjhao subsection 2"],
+          "content": [
+            {
+              "text": "Subsection-2: Special Provisions for Nagaland and Tribal Areas<br><br>• This subsection exempts Nagaland and tribal areas from most provisions of BNSS.<br>• Only Chapters IX, XI, and XII apply to these areas by default.<br>• State Governments can choose to apply other provisions with modifications.",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-MAIN.mp3"
+            }
+          ]
+        },
+        "what": {
+          "keywords": ["what subsection 2", "kya subsection 2", "what does subsection 2 say"],
+          "content": [
+            {
+              "text": "Subsection-2 states that most provisions of BNSS do not apply to Nagaland and tribal areas, except Chapters IX, XI, and XII. State Governments can notify to apply other provisions with modifications. Example: Like giving special autonomy to certain regions based on their unique needs.",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-WHAT.mp3"
+            }
+          ]
+        },
+        "why": {
+          "keywords": ["why subsection 2", "kyun subsection 2", "reason subsection 2"],
+          "content": [
+            {
+              "text": "Subsection-2 exists to respect the special constitutional status of Nagaland and tribal areas. These regions have unique cultural, social, and legal traditions that need protection. Example: Like Article 371A which grants special provisions to Nagaland, this subsection ensures their autonomy while maintaining national legal framework.",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-WHY.mp3"
+            }
+          ]
+        },
+        "where": {
+          "keywords": ["where subsection 2", "kahan subsection 2", "which areas subsection 2"],
+          "content": [
+            {
+              "text": "Subsection-2 applies to: (a) The State of Nagaland, and (b) Tribal areas as defined under the Constitution. These are specially protected regions with distinct legal status. Example: Scheduled Areas under Fifth Schedule and Tribal Areas under Sixth Schedule of the Indian Constitution.",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-WHERE.mp3"
+            }
+          ]
+        },
+        "when": {
+          "keywords": ["when subsection 2", "kab subsection 2", "time subsection 2"],
+          "content": [
+            {
+              "text": "Subsection-2 came into effect with BNSS in 2023. State Governments can issue notifications at any time to apply provisions to these areas. There's no fixed timeline - it depends on when the State Government decides. Example: A State can notify today, tomorrow, or years later based on their assessment.",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-WHEN.mp3"
+            }
+          ]
+        },
+        "which": {
+          "keywords": ["which subsection 2", "kaun sa subsection 2", "which chapters subsection 2"],
+          "content": [
+            {
+              "text": "Subsection-2 identifies: (1) Which areas are exempt: Nagaland and tribal areas. (2) Which chapters DO apply: Chapters IX, XI, and XII. (3) Which provisions DON'T apply: All other chapters. Example: If BNSS has 20 chapters, only 3 automatically apply to these regions; remaining 17 are optional.",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-WHICH.mp3"
+            }
+          ]
+        },
+        "how": {
+          "keywords": ["how subsection 2", "kaise subsection 2", "mechanism subsection 2"],
+          "content": [
+            {
+              "text": "Subsection-2 works through a notification system:<br>Step 1: State Government decides which provisions to apply<br>Step 2: Issues official notification<br>Step 3: Can add supplemental or consequential modifications<br>Step 4: Provisions become applicable as per notification. Example: Like a menu where the State picks what legal provisions suit their region best.",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-HOW.mp3"
+            }
+          ]
+        },
+        "mcq_pool": [
+          {
+            "id": "ss2_mcq_1",
+            "question": "Subsection-2 grants special exemption to which state?",
+            "options": ["Assam", "Nagaland", "Manipur", "Mizoram"],
+            "correct": 1,
+            "explanation": "Subsection-2 specifically mentions the State of Nagaland as exempt from most BNSS provisions.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_2",
+            "question": "Which type of areas are exempt along with Nagaland?",
+            "options": ["Urban areas", "Tribal areas", "Metropolitan areas", "Industrial areas"],
+            "correct": 1,
+            "explanation": "Tribal areas are given the same exemption as Nagaland.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_3",
+            "question": "How many chapters of BNSS automatically apply to these exempt areas?",
+            "options": ["Two", "Three", "Four", "Five"],
+            "correct": 1,
+            "explanation": "Three chapters (IX, XI, and XII) automatically apply to Nagaland and tribal areas.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_4",
+            "question": "Which chapter is mentioned as automatically applicable?",
+            "options": ["Chapter VIII", "Chapter IX", "Chapter X", "Chapter XIII"],
+            "correct": 1,
+            "explanation": "Chapter IX is one of the three chapters that apply to these areas.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_5",
+            "question": "Who can notify to apply other BNSS provisions to these areas?",
+            "options": ["Central Government", "State Government", "Supreme Court", "Parliament"],
+            "correct": 1,
+            "explanation": "The concerned State Government has the power to issue such notifications.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_6",
+            "question": "What can State Governments add while applying provisions?",
+            "options": ["Punishments only", "Modifications", "New chapters", "Foreign laws"],
+            "correct": 1,
+            "explanation": "State Governments can add supplemental, incidental, or consequential modifications.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_7",
+            "question": "The exemption under Subsection-2 applies to how much of Nagaland?",
+            "options": ["Only cities", "Only villages", "Whole state", "Only capital"],
+            "correct": 2,
+            "explanation": "The exemption applies to the entire State of Nagaland.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_8",
+            "question": "Can State Government apply provisions to only part of the area?",
+            "options": ["No, must be full", "Yes, whole or part", "Only full state", "Not mentioned"],
+            "correct": 1,
+            "explanation": "State Government can apply to 'whole or part' of the area.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_9",
+            "question": "What type of modifications can be made?",
+            "options": ["Only supplemental", "Only incidental", "Only consequential", "All three types"],
+            "correct": 3,
+            "explanation": "Supplemental, incidental, or consequential modifications can be made.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_10",
+            "question": "Which chapter besides IX and XI also applies automatically?",
+            "options": ["Chapter X", "Chapter XII", "Chapter XIII", "Chapter XIV"],
+            "correct": 1,
+            "explanation": "Chapter XII is the third chapter that automatically applies.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_11",
+            "question": "The word 'Sanhita' in Subsection-2 refers to:",
+            "options": ["BNSS", "Constitution", "IPC", "CrPC"],
+            "correct": 0,
+            "explanation": "'This Sanhita' refers to BNSS (Bharatiya Nagarik Suraksha Sanhita).",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_12",
+            "question": "What must State Government issue to apply provisions?",
+            "options": ["Order", "Notification", "Judgment", "Circular"],
+            "correct": 1,
+            "explanation": "State Government must issue a notification.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_13",
+            "question": "Are all BNSS provisions exempt for these areas?",
+            "options": ["Yes, all exempt", "No, 3 chapters apply", "Only half exempt", "Not mentioned"],
+            "correct": 1,
+            "explanation": "No, Chapters IX, XI, and XII automatically apply; only other provisions are exempt.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_14",
+            "question": "The exemption is based on what factor?",
+            "options": ["Population", "Geography", "Special status", "Economy"],
+            "correct": 2,
+            "explanation": "The exemption recognizes the special constitutional and cultural status of these areas.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_15",
+            "question": "Can Central Government apply provisions to these areas?",
+            "options": ["Yes, only Central", "No, only State", "Both can", "Not mentioned"],
+            "correct": 1,
+            "explanation": "Only the concerned State Government can issue such notifications.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_16",
+            "question": "What does 'supplemental modifications' mean?",
+            "options": ["Remove provisions", "Add additional provisions", "Change completely", "Delete sections"],
+            "correct": 1,
+            "explanation": "Supplemental means additional provisions that supplement the main law.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_17",
+            "question": "Which subsection deals with exemptions?",
+            "options": ["Subsection-1", "Subsection-2", "Subsection-3", "Subsection-4"],
+            "correct": 1,
+            "explanation": "Subsection-2 of Section-1 deals with exemptions for Nagaland and tribal areas.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_18",
+            "question": "The provisions 'other than' which chapters are exempt?",
+            "options": ["I, II, III", "IX, XI, XII", "V, VI, VII", "All chapters"],
+            "correct": 1,
+            "explanation": "Provisions 'other than' Chapters IX, XI, XII are exempt.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_19",
+            "question": "How is the exemption implemented?",
+            "options": ["Automatically", "By default for most provisions", "Never", "By President"],
+            "correct": 1,
+            "explanation": "The exemption is automatic by default; State must notify to apply provisions.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_mcq_20",
+            "question": "What is the main purpose of Subsection-2?",
+            "options": ["Punish crimes", "Grant exemptions", "Define terms", "Create courts"],
+            "correct": 1,
+            "explanation": "The main purpose is to grant exemptions to special areas while allowing flexibility.",
+            "subsection": "2"
+          }
+        ],
+        "truefalse_pool": [
+          {
+            "id": "ss2_tf_1",
+            "statement": "Subsection-2 exempts Nagaland from most BNSS provisions.",
+            "correct": true,
+            "explanation": "This is correct. Most provisions do not apply to Nagaland.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_2",
+            "statement": "All provisions of BNSS apply to tribal areas.",
+            "correct": false,
+            "explanation": "False. Most provisions do not apply; only Chapters IX, XI, XII apply automatically.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_3",
+            "statement": "Chapter IX applies to Nagaland and tribal areas.",
+            "correct": true,
+            "explanation": "Correct. Chapter IX is one of the three chapters that automatically apply.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_4",
+            "statement": "Only Central Government can notify to apply provisions to these areas.",
+            "correct": false,
+            "explanation": "False. The concerned State Government has this power.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_5",
+            "statement": "State Government can make modifications while applying provisions.",
+            "correct": true,
+            "explanation": "True. They can make supplemental, incidental, or consequential modifications.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_6",
+            "statement": "Chapter XI does not apply to tribal areas.",
+            "correct": false,
+            "explanation": "False. Chapter XI is one of the three chapters that automatically apply.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_7",
+            "statement": "The exemption applies to the entire State of Nagaland.",
+            "correct": true,
+            "explanation": "True. The exemption covers the whole State of Nagaland.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_8",
+            "statement": "Chapter XII is exempt from applying to these areas.",
+            "correct": false,
+            "explanation": "False. Chapter XII is one of the three chapters that do apply.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_9",
+            "statement": "State Government must apply provisions to the whole area only.",
+            "correct": false,
+            "explanation": "False. They can apply to 'whole or part' of the area.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_10",
+            "statement": "Tribal areas have the same exemption status as Nagaland.",
+            "correct": true,
+            "explanation": "True. Both are treated similarly under Subsection-2.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_11",
+            "statement": "No chapters of BNSS apply to Nagaland by default.",
+            "correct": false,
+            "explanation": "False. Three chapters (IX, XI, XII) apply by default.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_12",
+            "statement": "Notification is required to apply exempt provisions.",
+            "correct": true,
+            "explanation": "True. State Government must issue a notification.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_13",
+            "statement": "Subsection-2 is about the law's name.",
+            "correct": false,
+            "explanation": "False. Subsection-1 is about the name; Subsection-2 is about exemptions.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_14",
+            "statement": "The exemption recognizes special status of certain areas.",
+            "correct": true,
+            "explanation": "True. It respects the unique constitutional status of these regions.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_15",
+            "statement": "State Government cannot modify BNSS provisions while applying.",
+            "correct": false,
+            "explanation": "False. They can make specified modifications.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_16",
+            "statement": "Subsection-2 mentions three specific chapters.",
+            "correct": true,
+            "explanation": "True. Chapters IX, XI, and XII are specifically mentioned.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_17",
+            "statement": "Urban areas get the same exemption as tribal areas.",
+            "correct": false,
+            "explanation": "False. Only tribal areas and Nagaland get this exemption.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_18",
+            "statement": "The exemption is permanent and cannot be changed.",
+            "correct": false,
+            "explanation": "False. State Government can notify to apply provisions anytime.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_19",
+            "statement": "Consequential modifications can be specified in the notification.",
+            "correct": true,
+            "explanation": "True. The notification can include such modifications.",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_tf_20",
+            "statement": "Subsection-2 appears in Section-1 of BNSS.",
+            "correct": true,
+            "explanation": "True. It is Subsection-2 of Section-1.",
+            "subsection": "2"
+          }
+        ],
+        "fillblank_pool": [
+          {
+            "id": "ss2_fb_1",
+            "question": "Subsection-2 grants exemption to __________ and tribal areas.",
+            "answer": "Nagaland",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_2",
+            "question": "Only Chapters IX, XI, and __________ apply automatically to these areas.",
+            "answer": "XII",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_3",
+            "question": "The concerned __________ Government can notify to apply other provisions.",
+            "answer": "State",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_4",
+            "question": "State Government must issue a __________ to apply provisions.",
+            "answer": "notification",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_5",
+            "question": "Provisions can be applied with supplemental, incidental, or __________ modifications.",
+            "answer": "consequential",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_6",
+            "question": "Chapter __________ is one of the three that automatically apply.",
+            "answer": "IX/XI/XII",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_7",
+            "question": "State Government can apply provisions to whole or __________ of the area.",
+            "answer": "part",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_8",
+            "question": "The exemption is for the State of __________ and tribal areas.",
+            "answer": "Nagaland",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_9",
+            "question": "Most provisions of BNSS do not __________ to these exempt areas.",
+            "answer": "apply",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_10",
+            "question": "__________ modifications can be specified in the notification.",
+            "answer": "Supplemental/Incidental/Consequential",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_11",
+            "question": "Besides Nagaland, __________ areas also get exemption.",
+            "answer": "tribal",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_12",
+            "question": "Chapter XI and XII along with Chapter __________ apply automatically.",
+            "answer": "IX",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_13",
+            "question": "Subsection-__________ deals with exemptions for special areas.",
+            "answer": "2",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_14",
+            "question": "The provisions 'other than' Chapters IX, XI, XII __________ not apply.",
+            "answer": "shall",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_15",
+            "question": "State Government has the power to apply __________ provisions.",
+            "answer": "such/other",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_16",
+            "question": "Modifications must be __________ in the notification.",
+            "answer": "specified",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_17",
+            "question": "The exemption recognizes the __________ status of these regions.",
+            "answer": "special",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_18",
+            "question": "Provisions relating to three chapters __________ apply.",
+            "answer": "shall",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_19",
+            "question": "State Government can apply provisions as the __________ may be.",
+            "answer": "case",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_fb_20",
+            "question": "The concerned __________ Government means the State Government of that area.",
+            "answer": "State",
+            "subsection": "2"
+          }
+        ],
+        "matching_pool": [
+          {
+            "id": "ss2_match_1",
+            "columnA": ["Exempt state", "Exempt areas", "Applying authority", "Chapters that apply", "Required document"],
+            "columnB": ["Notification", "Nagaland", "State Government", "Tribal areas", "IX, XI, XII"],
+            "correct_matches": [1, 3, 2, 4, 0],
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_match_2",
+            "columnA": ["Supplemental", "Incidental", "Consequential", "Whole or part", "Shall not apply"],
+            "columnB": ["Related modifications", "Resulting modifications", "Most provisions", "Application scope", "Additional modifications"],
+            "correct_matches": [4, 0, 1, 3, 2],
+            "subsection": "2"
+          }
+        ],
+        "word_arrangement_pool": [
+          {
+            "id": "ss2_wa_1",
+            "jumbled": ["provisions", "The", "of", "this", "Sanhita", "not", "apply", "shall", "to", "Nagaland"],
+            "correct": "The provisions of this Sanhita shall not apply to Nagaland.",
+            "hint": "Start with 'The provisions...'",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_wa_2",
+            "jumbled": ["Government", "State", "may", "notification", "by", "apply", "provisions", "such"],
+            "correct": "State Government may by notification apply such provisions.",
+            "hint": "Who has the power?",
+            "subsection": "2"
+          },
+          {
+            "id": "ss2_wa_3",
+            "jumbled": ["IX", "XI", "XII", "Chapters", "and", "apply", "automatically"],
+            "correct": "Chapters IX, XI and XII apply automatically.",
+            "hint": "Which chapters?",
+            "subsection": "2"
+          }
+        ]
+      }
+    }
+  }
+} "1"
+          },
+          {
+            "keywords": ["what is complete title", "full title", "complete name", "pura naam"],
+            "answer": "The complete title of this law is: 'Bharatiya Nagarik Suraksha Sanhita, 2023'.",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-C1-P1.mp3",
+            "subsection": "1"
+          },
+          {
+            "keywords": ["when enacted", "year", "which year", "kab banaya", "kaun sa saal"],
+            "answer": "This law was enacted in the year 2023.",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-C1-P1.mp3",
+            "subsection": "1"
+          },
+          {
+            "keywords": ["what does bharatiya nagarik suraksha sanhita mean", "meaning", "kya matlab hai"],
+            "answer": "Bharatiya Nagarik Suraksha Sanhita means 'Indian Citizen Security Code' in English. It is a comprehensive law for the protection and security of Indian citizens.",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-C1-P1.mp3",
+            "subsection": "1"
+          },
+          {
+            "keywords": ["help", "what can you do", "features", "capabilities", "kya kar sakte ho"],
+            "answer": "🤖 Welcome! I'm your BNSS Learning Assistant!\n\n📚 I can help you with Section-1:\n• Subsection-1: Law's Official Name\n• Subsection-2: Special Provisions for Nagaland and Tribal Areas\n\n✨ MY CAPABILITIES:\n\n1️⃣ ANSWER QUESTIONS (Hindi/English)\n   • What/When/Where/Why/How questions\n   • Yes/No questions\n   • Short answer questions\n\n2️⃣ PRACTICE TESTS (Unlimited Questions!)\n   • MCQ tests (specify any number: \"5 MCQs\", \"10 MCQs\")\n   • True/False tests (any quantity)\n   • Fill in the blanks (any quantity)\n   • Matching exercises\n   • Word arrangement practice\n\n3️⃣ INTELLIGENT FEATURES\n   • Never repeats questions you've seen\n   • Tracks your progress\n   • Custom test lengths\n\n💬 EXAMPLE PROMPTS:\n   • \"Give me 5 MCQs about subsection 1\"\n   • \"Tell me about subsection 2\"\n   • \"I need 10 true/false questions\"\n   • \"Explain Nagaland exemption\"\n\n🌐 LANGUAGE: Ask in Hindi or English!\n\n📝 TYPE YOUR QUESTION BELOW! 👇",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-C1-P1.mp3",
+            "subsection": "1"
+          },
+          {
+            "keywords": ["quick revision", "summary", "revision", "jaldi yaad karo"],
+            "answer": "⚡ QUICK REVISION - BNSS Section-1, Subsection-1\n\n📌 KEY POINTS TO REMEMBER:\n\n1. LAW NAME: Bharatiya Nagarik Suraksha Sanhita, 2023\n2. SHORT FORM: BNSS 2023\n3. YEAR: 2023\n4. MEANING: Indian Citizen Security Code\n\n🔑 MEMORY TECHNIQUE:\nB - Bharatiya (Indian)\nN - Nagarik (Citizen)\nS - Suraksha (Security)\nS - Sanhita (Code)\n+ 2023 (Year)\n\n💭 REMEMBER: \"This law is CALLED the BNSS 2023\"\n\n✅ You're ready! Practice more questions for better retention! 🌟",
+            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-C1-P1.mp3",
+            "subsection": "1"
+          }
+        ],
+        "main": {
+          "keywords": ["overview subsection 1", "tell me about subsection 1", "explain subsection 1", "batao subsection 1", "samjhao subsection 1"],
+          "content": [
+            {
+              "text": "Subsection-1: Law's Official Name<br><br>• This law is called the 'Bharatiya Nagarik Suraksha Sanhita, 2023'.<br>• The complete title establishes the legal identity of this code.<br>• It consists of four Hindi words followed by the year 2023.",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS1-MAIN.mp3"
+            }
+          ]
+        },
+        "what": {
+          "keywords": ["what subsection 1", "kya subsection 1", "what is subsection 1"],
+          "content": [
+            {
+              "text": "Subsection-1 states: This law is officially called 'Bharatiya Nagarik Suraksha Sanhita, 2023'. Example: Just like saying 'My name is John' - this subsection declares the law's official name.",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS1-WHAT.mp3"
+            }
+          ]
+        },
+        "why": {
+          "keywords": ["why subsection 1", "kyun subsection 1", "reason subsection 1"],
+          "content": [
+            {
+              "text": "Subsection-1 exists to officially declare the law's name for legal recognition. Without this subsection, the law would have no formal identity. Example: Like a birth certificate that officially names a child, this subsection officially names the law.",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS1-WHY.mp3"
+            }
+          ]
+        },
+        "where": {
+          "keywords": ["where subsection 1", "kahan subsection 1", "location subsection 1"],
+          "content": [
+            {
+              "text": "Subsection-1 appears at the very beginning of the BNSS 2023 document. It is the first subsection of Section 1. Example: Found on the opening page of the official BNSS text, before any other provisions.",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS1-WHERE.mp3"
+            }
+          ]
+        },
+        "when": {
+          "keywords": ["when subsection 1", "kab subsection 1", "time subsection 1"],
+          "content": [
+            {
+              "text": "Subsection-1 came into effect in 2023 when the law was enacted. This naming provision became official with the passage of the Act. Example: Since 2023, this subsection has been the legal reference point for the law's name.",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS1-WHEN.mp3"
+            }
+          ]
+        },
+        "which": {
+          "keywords": ["which subsection 1", "kaun sa subsection 1"],
+          "content": [
+            {
+              "text": "Subsection-1 is the naming clause of BNSS 2023. It is the first and foundational subsection of Section 1. Example: Among all subsections, this is the one that specifically addresses the law's title.",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS1-WHICH.mp3"
+            }
+          ]
+        },
+        "how": {
+          "keywords": ["how subsection 1", "kaise subsection 1"],
+          "content": [
+            {
+              "text": "Subsection-1 works by providing a simple declarative statement: 'This law is called...'<br>It establishes legal nomenclature through direct declaration. Example: Legal professionals cite this subsection when referencing the law's official name in documents.",
+              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS1-HOW.mp3"
+            }
+          ]
+        },
+        "mcq_pool": [
+          {
+            "id": "ss1_mcq_1",
+            "question": "What is this law called?",
+            "options": ["Indian Penal Code, 2023", "Bharatiya Nagarik Suraksha Sanhita, 2023", "Criminal Procedure Code, 2023", "Indian Evidence Act, 2023"],
+            "correct": 1,
+            "explanation": "The law is officially called 'Bharatiya Nagarik Suraksha Sanhita, 2023'.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_mcq_2",
+            "question": "In which year was this law named?",
+            "options": ["2022", "2024", "2023", "2021"],
+            "correct": 2,
+            "explanation": "The law was named in the year 2023.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_mcq_3",
+            "question": "The term 'Bharatiya' in the law's name means:",
+            "options": ["British", "Indian", "Foreign", "Colonial"],
+            "correct": 1,
+            "explanation": "'Bharatiya' means 'Indian' in English.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_mcq_4",
+            "question": "What does 'Nagarik' mean in English?",
+            "options": ["Soldier", "Police", "Citizen", "Judge"],
+            "correct": 2,
+            "explanation": "'Nagarik' translates to 'Citizen' in English.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_mcq_5",
+            "question": "The word 'Suraksha' in the title means:",
+            "options": ["Punishment", "Security/Protection", "Justice", "Rights"],
+            "correct": 1,
+            "explanation": "'Suraksha' means 'Security' or 'Protection'.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_mcq_6",
+            "question": "'Sanhita' in the law's name translates to:",
+            "options": ["Act", "Rule", "Code", "Law"],
+            "correct": 2,
+            "explanation": "'Sanhita' means 'Code' in English.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_mcq_7",
+            "question": "How many words are in the law's name (excluding the year)?",
+            "options": ["Two", "Three", "Four", "Five"],
+            "correct": 2,
+            "explanation": "There are four words: Bharatiya, Nagarik, Suraksha, Sanhita.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_mcq_8",
+            "question": "The short form of this law is:",
+            "options": ["IPC", "BNSS", "CrPC", "IEA"],
+            "correct": 1,
+            "explanation": "The short form is BNSS (Bharatiya Nagarik Suraksha Sanhita).",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_mcq_9",
+            "question": "This law is related to:",
+            "options": ["Traffic Rules", "Citizen Security", "Tax Collection", "Education"],
+            "correct": 1,
+            "explanation": "The law is about Citizen Security (Nagarik Suraksha).",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_mcq_10",
+            "question": "The complete title includes which year?",
+            "options": ["2020", "2021", "2022", "2023"],
+            "correct": 3,
+            "explanation": "The complete title includes the year 2023.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_mcq_11",
+            "question": "Which language is the law's name in?",
+            "options": ["English", "Hindi", "Sanskrit", "Urdu"],
+            "correct": 1,
+            "explanation": "The law's name is in Hindi.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_mcq_12",
+            "question": "The first word in the law's name is:",
+            "options": ["Nagarik", "Bharatiya", "Suraksha", "Sanhita"],
+            "correct": 1,
+            "explanation": "The first word is 'Bharatiya'.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_mcq_13",
+            "question": "The last word before the year is:",
+            "options": ["Bharatiya", "Nagarik", "Suraksha", "Sanhita"],
+            "correct": 3,
+            "explanation": "The last word before 2023 is 'Sanhita'.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_mcq_14",
+            "question": "This law is also known as:",
+            "options": ["BNS", "BNSS", "BSS", "BNS 2023"],
+            "correct": 1,
+            "explanation": "It's commonly abbreviated as BNSS.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_mcq_15",
+            "question": "The law's title contains how many numbers?",
+            "options": ["None", "One", "Two", "Three"],
+            "correct": 1,
+            "explanation": "The title contains one number: 2023.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_mcq_16",
+            "question": "What type of document is this?",
+            "options": ["Constitution", "Law/Code", "Agreement", "Treaty"],
+            "correct": 1,
+            "explanation": "It's a Law/Code (Sanhita).",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_mcq_17",
+            "question": "The second word in the law's name is:",
+            "options": ["Bharatiya", "Nagarik", "Suraksha", "Sanhita"],
+            "correct": 1,
+            "explanation": "The second word is 'Nagarik'.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_mcq_18",
+            "question": "The third word in the law's name is:",
+            "options": ["Bharatiya", "Nagarik", "Suraksha", "Sanhita"],
+            "correct": 2,
+            "explanation": "The third word is 'Suraksha'.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_mcq_19",
+            "question": "This law is meant for:",
+            "options": ["Only government officials", "All Indian citizens", "Only police", "Only judges"],
+            "correct": 1,
+            "explanation": "It's for all Indian citizens (Bharatiya Nagarik).",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_mcq_20",
+            "question": "The year 2023 appears at the:",
+            "options": ["Beginning", "Middle", "End", "Not mentioned"],
+            "correct": 2,
+            "explanation": "The year 2023 appears at the end of the title.",
+            "subsection": "1"
+          }
+        ],
+        "truefalse_pool": [
+          {
+            "id": "ss1_tf_1",
+            "statement": "This law is called the 'Bharatiya Nagarik Suraksha Sanhita, 2023'.",
+            "correct": true,
+            "explanation": "This is the exact official name of the law.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_tf_2",
+            "statement": "The law was named in 2022.",
+            "correct": false,
+            "explanation": "The law was named in 2023, not 2022.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_tf_3",
+            "statement": "The name of this law includes the year 2023.",
+            "correct": true,
+            "explanation": "Yes, 2023 is part of the official name.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_tf_4",
+            "statement": "This law is called the 'Indian Penal Code, 2023'.",
+            "correct": false,
+            "explanation": "It's called BNSS, not IPC.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_tf_5",
+            "statement": "'Bharatiya Nagarik Suraksha Sanhita' is part of the law's name.",
+            "correct": true,
+            "explanation": "This is the main part of the law's name.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_tf_6",
+            "statement": "The year 2023 appears in the law's official name.",
+            "correct": true,
+            "explanation": "2023 is included in the official title.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_tf_7",
+            "statement": "This law has no official name.",
+            "correct": false,
+            "explanation": "The law has an official name: BNSS 2023.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_tf_8",
+            "statement": "The law's name is only in English.",
+            "correct": false,
+            "explanation": "The law's name is in Hindi.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_tf_9",
+            "statement": "BNSS stands for Bharatiya Nagarik Suraksha Sanhita.",
+            "correct": true,
+            "explanation": "BNSS is the correct abbreviation.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_tf_10",
+            "statement": "The word 'Nagarik' means 'Police' in English.",
+            "correct": false,
+            "explanation": "'Nagarik' means 'Citizen', not 'Police'.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_tf_11",
+            "statement": "'Suraksha' means 'Security' or 'Protection'.",
+            "correct": true,
+            "explanation": "This is the correct meaning of 'Suraksha'.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_tf_12",
+            "statement": "The law was enacted in 2020.",
+            "correct": false,
+            "explanation": "The law was enacted in 2023.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_tf_13",
+            "statement": "'Sanhita' translates to 'Code' in English.",
+            "correct": true,
+            "explanation": "'Sanhita' means 'Code'.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_tf_14",
+            "statement": "This law contains exactly three words.",
+            "correct": false,
+            "explanation": "It contains four words plus the year.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_tf_15",
+            "statement": "The law's name begins with 'Bharatiya'.",
+            "correct": true,
+            "explanation": "'Bharatiya' is the first word.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_tf_16",
+            "statement": "This is a law about traffic regulations.",
+            "correct": false,
+            "explanation": "It's about citizen security, not traffic.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_tf_17",
+            "statement": "The law's title ends with the year 2023.",
+            "correct": true,
+            "explanation": "The title ends with 2023.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_tf_18",
+            "statement": "'Bharatiya' means 'British' in English.",
+            "correct": false,
+            "explanation": "'Bharatiya' means 'Indian', not 'British'.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_tf_19",
+            "statement": "This law is called a 'Sanhita' (Code).",
+            "correct": true,
+            "explanation": "Yes, it's officially called a Sanhita.",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_tf_20",
+            "statement": "The law has no year mentioned in its title.",
+            "correct": false,
+            "explanation": "The year 2023 is mentioned in the title.",
+            "subsection": "1"
+          }
+        ],
+        "fillblank_pool": [
+          {
+            "id": "ss1_fb_1",
+            "question": "This law is called the \"__________, 2023\".",
+            "answer": "Bharatiya Nagarik Suraksha Sanhita",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_fb_2",
+            "question": "This law is called the \"Bharatiya Nagarik Suraksha Sanhita, __________\".",
+            "answer": "2023",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_fb_3",
+            "question": "The complete name of this law is __________.",
+            "answer": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_fb_4",
+            "question": "The year mentioned in the law's name is __________.",
+            "answer": "2023",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_fb_5",
+            "question": "This __________ is called the \"Bharatiya Nagarik Suraksha Sanhita, 2023\".",
+            "answer": "law",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_fb_6",
+            "question": "The complete title is \"__________ __________ __________ __________, 2023\".",
+            "answer": "Bharatiya Nagarik Suraksha Sanhita",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_fb_7",
+            "question": "This law is __________ the \"Bharatiya Nagarik Suraksha Sanhita, 2023\".",
+            "answer": "called",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_fb_8",
+            "question": "The law's name includes the term \"__________ Nagarik Suraksha Sanhita\".",
+            "answer": "Bharatiya",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_fb_9",
+            "question": "The short form of this law is __________.",
+            "answer": "BNSS",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_fb_10",
+            "question": "'Nagarik' means __________ in English.",
+            "answer": "Citizen",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_fb_11",
+            "question": "'Suraksha' translates to __________ in English.",
+            "answer": "Security/Protection",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_fb_12",
+            "question": "'Sanhita' means __________ in English.",
+            "answer": "Code",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_fb_13",
+            "question": "The first word in the law's name is __________.",
+            "answer": "Bharatiya",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_fb_14",
+            "question": "The second word in the law's name is __________.",
+            "answer": "Nagarik",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_fb_15",
+            "question": "The third word in the law's name is __________.",
+            "answer": "Suraksha",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_fb_16",
+            "question": "The fourth word in the law's name is __________.",
+            "answer": "Sanhita",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_fb_17",
+            "question": "'Bharatiya' means __________ in English.",
+            "answer": "Indian",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_fb_18",
+            "question": "This law was enacted in the year __________.",
+            "answer": "2023",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_fb_19",
+            "question": "The law is about __________ Security.",
+            "answer": "Citizen",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_fb_20",
+            "question": "BNSS stands for Bharatiya __________ Suraksha __________.",
+            "answer": "Nagarik, Sanhita",
+            "subsection": "1"
+          }
+        ],
+        "matching_pool": [
+          {
+            "id": "ss1_match_1",
+            "columnA": ["Law's name", "Year", "Complete title", "First word", "Verb used"],
+            "columnB": ["2023", "Bharatiya Nagarik Suraksha Sanhita, 2023", "Bharatiya Nagarik Suraksha Sanhita", "Bharatiya", "Called"],
+            "correct_matches": [1, 0, 1, 3, 4],
+            "subsection": "1"
+          }
+        ],
+        "word_arrangement_pool": [
+          {
+            "id": "ss1_wa_1",
+            "jumbled": ["2023", "Sanhita", "This", "Bharatiya", "is", "Nagarik", "law", "the", "called", "Suraksha"],
+            "correct": "This law is called the Bharatiya Nagarik Suraksha Sanhita, 2023.",
+            "hint": "Start with 'This law...'",
+            "subsection": "1"
+          },
+          {
+            "id": "ss1_wa_2",
+            "jumbled": ["called", "the", "law", "Bharatiya", "This", "is", "Nagarik", "Sanhita", "Suraksha", "2023"],
+            "correct": "This law is called the Bharatiya Nagarik Suraksha Sanhita, 2023.",
+            "hint": "Arrange in proper sequence",
+            "subsection": "1"
           }
         ]
       },
-      "what": {
-        "keywords": ["what", "kya", "kya hai", "naam kya", "what is", "what called", "kya kehlata", "kis naam se", "official name"],
-        "content": [
-          {
-            "text": "Subsection-1 states: This law is officially called 'Bharatiya Nagarik Suraksha Sanhita, 2023'. Example: Just like saying 'My name is John' - this subsection declares the law's official name.",
-            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS1-WHAT.mp3"
-          }
-        ]
-      },
-      "why": {
-        "keywords": ["why", "kyun", "kyon", "kyu", "reason", "karan", "purpose", "uddeshya", "why called", "kyun rakha", "why this name", "yeh naam kyun"],
-        "content": [
-          {
-            "text": "Subsection-1 exists to officially declare the law's name for legal recognition. Without this subsection, the law would have no formal identity. Example: Like a birth certificate that officially names a child, this subsection officially names the law.",
-            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS1-WHY.mp3"
-          }
-        ]
-      },
-      "where": {
-        "keywords": ["where", "kahan", "kahaan", "kaha", "where used", "kahan use", "location", "jagah", "sthan", "place"],
-        "content": [
-          {
-            "text": "Subsection-1 appears at the very beginning of the BNSS 2023 document. It is the first subsection of Section 1. Example: Found on the opening page of the official BNSS text, before any other provisions.",
-            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS1-WHERE.mp3"
-          }
-        ]
-      },
-      "when": {
-        "keywords": ["when", "kab", "when enacted", "kab banaya", "when passed", "kab pass", "time", "samay", "year", "saal", "when official"],
-        "content": [
-          {
-            "text": "Subsection-1 came into effect in 2023 when the law was enacted. This naming provision became official with the passage of the Act. Example: Since 2023, this subsection has been the legal reference point for the law's name.",
-            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS1-WHEN.mp3"
-          }
-        ]
-      },
-      "which": {
-        "keywords": ["which", "kaun sa", "konsa", "kaunsa", "which law", "kaun sa kanoon", "which type", "kis prakar", "type", "category"],
-        "content": [
-          {
-            "text": "Subsection-1 is the naming clause of BNSS 2023. It is the first and foundational subsection of Section 1. Example: Among all subsections, this is the one that specifically addresses the law's title.",
-            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS1-WHICH.mp3"
-          }
-        ]
-      },
-      "how": {
-        "keywords": ["how", "kaise", "kese", "kaisay", "how does", "kaise karta", "method", "tarika", "prakriya", "how helps", "kaise madad"],
-        "content": [
-          {
-            "text": "Subsection-1 works by providing a simple declarative statement: 'This law is called...'<br>It establishes legal nomenclature through direct declaration. Example: Legal professionals cite this subsection when referencing the law's official name in documents.",
-            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS1-HOW.mp3"
-          }
-        ]
-      }
+      "subsection_2": {
+  "id": "ss2",
+  "title": "Special Provisions for Nagaland and Tribal Areas",
+  "keywords_for_identification": [
+    "subsection 2", "subsection-2", "subsection two", "ss2", "ss 2",
+    "upkhanda 2", "dusra upkhanda", "second subsection",
+    "nagaland", "tribal areas", "adivasi kshetra", "exemption", "chhoot",
+    "special provision", "vishesh pravdhan", "chapter 9", "chapter 11", "chapter 12"
+  ],
+  "general_qa": [
+    {
+      "keywords": ["nagaland", "tribal areas", "exempt", "chhoot", "apply nahi hota"],
+      "answer": "Subsection-2 states that most provisions of BNSS do not apply to Nagaland and tribal areas, except Chapters IX, XI, and XII. However, State Governments can notify to apply other provisions with modifications.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-QA1.mp3",
+      "subsection": "2"
     },
-"subsection_2": {
+    {
+      "keywords": ["which chapters apply", "chapter 9", "chapter 11", "chapter 12", "kaun se adhyay"],
+      "answer": "Only Chapters IX, XI, and XII of BNSS automatically apply to Nagaland and tribal areas. All other chapters do not apply unless specifically notified by the State Government.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-QA2.mp3",
+      "subsection": "2"
+    },
+    {
+      "keywords": ["state government power", "notification", "suchna", "rajya sarkar"],
+      "answer": "State Governments have the power to apply any provisions of BNSS to Nagaland or tribal areas through official notifications. They can also add supplemental, incidental, or consequential modifications as needed.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-QA3.mp3",
+      "subsection": "2"
+    },
+    {
+      "keywords": ["modifications", "changes", "badlav", "parivartan"],
+      "answer": "When applying BNSS provisions to Nagaland or tribal areas, State Governments can make supplemental (additional), incidental (related), or consequential (resulting) modifications to suit local conditions.",
+      "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-QA4.mp3",
+      "subsection": "2"
+    }
+  ],
   "main": {
-    "keywords": ["overview", "tell me about", "explain", "batao", "bata do", "samjhao", "kya hai", "bare mein", "jankari", "information", "details", "vivran", "subsection 2", "upkhanda 2"],
+    "keywords": ["overview subsection 2", "tell me about subsection 2", "explain subsection 2", "batao subsection 2", "samjhao subsection 2"],
     "content": [
       {
         "text": "Subsection-2: Special Provisions for Nagaland and Tribal Areas<br><br>• This subsection exempts Nagaland and tribal areas from most provisions of BNSS.<br>• Only Chapters IX, XI, and XII apply to these areas by default.<br>• State Governments can choose to apply other provisions with modifications.",
@@ -496,7 +1154,7 @@
     ]
   },
   "what": {
-    "keywords": ["what", "kya", "kya hai", "what does it say", "kya kehta hai", "content kya hai"],
+    "keywords": ["what subsection 2", "kya subsection 2", "what does subsection 2 say"],
     "content": [
       {
         "text": "Subsection-2 states that most provisions of BNSS do not apply to Nagaland and tribal areas, except Chapters IX, XI, and XII. State Governments can notify to apply other provisions with modifications. Example: Like giving special autonomy to certain regions based on their unique needs.",
@@ -505,7 +1163,7 @@
     ]
   },
   "why": {
-    "keywords": ["why", "kyun", "kyon", "kyu", "reason", "karan", "purpose", "uddeshya", "why exemption", "kyun chhoot"],
+    "keywords": ["why subsection 2", "kyun subsection 2", "reason subsection 2"],
     "content": [
       {
         "text": "Subsection-2 exists to respect the special constitutional status of Nagaland and tribal areas. These regions have unique cultural, social, and legal traditions that need protection. Example: Like Article 371A which grants special provisions to Nagaland, this subsection ensures their autonomy while maintaining national legal framework.",
@@ -514,7 +1172,7 @@
     ]
   },
   "where": {
-    "keywords": ["where", "kahan", "kahaan", "kaha", "which areas", "kaun se ilaake", "location", "jagah", "sthan"],
+    "keywords": ["where subsection 2", "kahan subsection 2", "which areas subsection 2"],
     "content": [
       {
         "text": "Subsection-2 applies to: (a) The State of Nagaland, and (b) Tribal areas as defined under the Constitution. These are specially protected regions with distinct legal status. Example: Scheduled Areas under Fifth Schedule and Tribal Areas under Sixth Schedule of the Indian Constitution.",
@@ -523,7 +1181,7 @@
     ]
   },
   "when": {
-    "keywords": ["when", "kab", "when apply", "kab lagu", "time", "samay", "when can notify"],
+    "keywords": ["when subsection 2", "kab subsection 2", "time subsection 2"],
     "content": [
       {
         "text": "Subsection-2 came into effect with BNSS in 2023. State Governments can issue notifications at any time to apply provisions to these areas. There's no fixed timeline - it depends on when the State Government decides. Example: A State can notify today, tomorrow, or years later based on their assessment.",
@@ -532,7 +1190,7 @@
     ]
   },
   "which": {
-    "keywords": ["which", "kaun sa", "konsa", "kaunsa", "which chapters", "kaun se adhyay", "which provisions"],
+    "keywords": ["which subsection 2", "kaun sa subsection 2", "which chapters subsection 2"],
     "content": [
       {
         "text": "Subsection-2 identifies: (1) Which areas are exempt: Nagaland and tribal areas. (2) Which chapters DO apply: Chapters IX, XI, and XII. (3) Which provisions DON'T apply: All other chapters. Example: If BNSS has 20 chapters, only 3 automatically apply to these regions; remaining 17 are optional.",
@@ -541,437 +1199,477 @@
     ]
   },
   "how": {
-    "keywords": ["how", "kaise", "kese", "kaisay", "how works", "kaise kaam karta", "mechanism", "process", "prakriya"],
+    "keywords": ["how subsection 2", "kaise subsection 2", "mechanism subsection 2"],
     "content": [
       {
         "text": "Subsection-2 works through a notification system:<br>Step 1: State Government decides which provisions to apply<br>Step 2: Issues official notification<br>Step 3: Can add supplemental or consequential modifications<br>Step 4: Provisions become applicable as per notification. Example: Like a menu where the State picks what legal provisions suit their region best.",
         "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-HOW.mp3"
       }
     ]
-  }
-},
-"subsection_2_qa": [
-  {
-    "keywords": ["nagaland", "tribal areas", "exempt", "chhoot", "apply nahi hota"],
-    "answer": "Subsection-2 states that most provisions of BNSS do not apply to Nagaland and tribal areas, except Chapters IX, XI, and XII. However, State Governments can notify to apply other provisions with modifications.",
-    "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-QA1.mp3"
   },
-  {
-    "keywords": ["which chapters apply", "chapter 9", "chapter 11", "chapter 12", "kaun se adhyay"],
-    "answer": "Only Chapters IX, XI, and XII of BNSS automatically apply to Nagaland and tribal areas. All other chapters do not apply unless specifically notified by the State Government.",
-    "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-QA2.mp3"
-  },
-  {
-    "keywords": ["state government power", "notification", "suchna", "rajya sarkar"],
-    "answer": "State Governments have the power to apply any provisions of BNSS to Nagaland or tribal areas through official notifications. They can also add supplemental, incidental, or consequential modifications as needed.",
-    "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-QA3.mp3"
-  },
-  {
-    "keywords": ["modifications", "changes", "badlav", "parivartan"],
-    "answer": "When applying BNSS provisions to Nagaland or tribal areas, State Governments can make supplemental (additional), incidental (related), or consequential (resulting) modifications to suit local conditions.",
-    "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-QA4.mp3"
-  }
-],
-"subsection_2_mcq_pool": [
-  {
-    "id": "ss2_mcq_1",
-    "question": "Subsection-2 grants special exemption to which state?",
-    "options": ["Assam", "Nagaland", "Manipur", "Mizoram"],
-    "correct": 1,
-    "explanation": "Subsection-2 specifically mentions the State of Nagaland as exempt from most BNSS provisions."
-  },
-  {
-    "id": "ss2_mcq_2",
-    "question": "Which type of areas are exempt along with Nagaland?",
-    "options": ["Urban areas", "Tribal areas", "Metropolitan areas", "Industrial areas"],
-    "correct": 1,
-    "explanation": "Tribal areas are given the same exemption as Nagaland."
-  },
-  {
-    "id": "ss2_mcq_3",
-    "question": "How many chapters of BNSS automatically apply to these exempt areas?",
-    "options": ["Two", "Three", "Four", "Five"],
-    "correct": 1,
-    "explanation": "Three chapters (IX, XI, and XII) automatically apply to Nagaland and tribal areas."
-  },
-  {
-    "id": "ss2_mcq_4",
-    "question": "Which chapter is mentioned as automatically applicable?",
-    "options": ["Chapter VIII", "Chapter IX", "Chapter X", "Chapter XIII"],
-    "correct": 1,
-    "explanation": "Chapter IX is one of the three chapters that apply to these areas."
-  },
-  {
-    "id": "ss2_mcq_5",
-    "question": "Who can notify to apply other BNSS provisions to these areas?",
-    "options": ["Central Government", "State Government", "Supreme Court", "Parliament"],
-    "correct": 1,
-    "explanation": "The concerned State Government has the power to issue such notifications."
-  },
-  {
-    "id": "ss2_mcq_6",
-    "question": "What can State Governments add while applying provisions?",
-    "options": ["Punishments only", "Modifications", "New chapters", "Foreign laws"],
-    "correct": 1,
-    "explanation": "State Governments can add supplemental, incidental, or consequential modifications."
-  },
-  {
-    "id": "ss2_mcq_7",
-    "question": "The exemption under Subsection-2 applies to how much of Nagaland?",
-    "options": ["Only cities", "Only villages", "Whole state", "Only capital"],
-    "correct": 2,
-    "explanation": "The exemption applies to the entire State of Nagaland."
-  },
-  {
-    "id": "ss2_mcq_8",
-    "question": "Can State Government apply provisions to only part of the area?",
-    "options": ["No, must be full", "Yes, whole or part", "Only full state", "Not mentioned"],
-    "correct": 1,
-    "explanation": "State Government can apply to 'whole or part' of the area."
-  },
-  {
-    "id": "ss2_mcq_9",
-    "question": "What type of modifications can be made?",
-    "options": ["Only supplemental", "Only incidental", "Only consequential", "All three types"],
-    "correct": 3,
-    "explanation": "Supplemental, incidental, or consequential modifications can be made."
-  },
-  {
-    "id": "ss2_mcq_10",
-    "question": "Which chapter besides IX and XI also applies automatically?",
-    "options": ["Chapter X", "Chapter XII", "Chapter XIII", "Chapter XIV"],
-    "correct": 1,
-    "explanation": "Chapter XII is the third chapter that automatically applies."
-  },
-  {
-    "id": "ss2_mcq_11",
-    "question": "The word 'Sanhita' in Subsection-2 refers to:",
-    "options": ["BNSS", "Constitution", "IPC", "CrPC"],
-    "correct": 0,
-    "explanation": "'This Sanhita' refers to BNSS (Bharatiya Nagarik Suraksha Sanhita)."
-  },
-  {
-    "id": "ss2_mcq_12",
-    "question": "What must State Government issue to apply provisions?",
-    "options": ["Order", "Notification", "Judgment", "Circular"],
-    "correct": 1,
-    "explanation": "State Government must issue a notification."
-  },
-  {
-    "id": "ss2_mcq_13",
-    "question": "Are all BNSS provisions exempt for these areas?",
-    "options": ["Yes, all exempt", "No, 3 chapters apply", "Only half exempt", "Not mentioned"],
-    "correct": 1,
-    "explanation": "No, Chapters IX, XI, and XII automatically apply; only other provisions are exempt."
-  },
-  {
-    "id": "ss2_mcq_14",
-    "question": "The exemption is based on what factor?",
-    "options": ["Population", "Geography", "Special status", "Economy"],
-    "correct": 2,
-    "explanation": "The exemption recognizes the special constitutional and cultural status of these areas."
-  },
-  {
-    "id": "ss2_mcq_15",
-    "question": "Can Central Government apply provisions to these areas?",
-    "options": ["Yes, only Central", "No, only State", "Both can", "Not mentioned"],
-    "correct": 1,
-    "explanation": "Only the concerned State Government can issue such notifications."
-  },
-  {
-    "id": "ss2_mcq_16",
-    "question": "What does 'supplemental modifications' mean?",
-    "options": ["Remove provisions", "Add additional provisions", "Change completely", "Delete sections"],
-    "correct": 1,
-    "explanation": "Supplemental means additional provisions that supplement the main law."
-  },
-  {
-    "id": "ss2_mcq_17",
-    "question": "Which subsection deals with exemptions?",
-    "options": ["Subsection-1", "Subsection-2", "Subsection-3", "Subsection-4"],
-    "correct": 1,
-    "explanation": "Subsection-2 of Section-1 deals with exemptions for Nagaland and tribal areas."
-  },
-  {
-    "id": "ss2_mcq_18",
-    "question": "The provisions 'other than' which chapters are exempt?",
-    "options": ["I, II, III", "IX, XI, XII", "V, VI, VII", "All chapters"],
-    "correct": 1,
-    "explanation": "Provisions 'other than' Chapters IX, XI, XII are exempt."
-  },
-  {
-    "id": "ss2_mcq_19",
-    "question": "How is the exemption implemented?",
-    "options": ["Automatically", "By default for most provisions", "Never", "By President"],
-    "correct": 1,
-    "explanation": "The exemption is automatic by default; State must notify to apply provisions."
-  },
-  {
-    "id": "ss2_mcq_20",
-    "question": "What is the main purpose of Subsection-2?",
-    "options": ["Punish crimes", "Grant exemptions", "Define terms", "Create courts"],
-    "correct": 1,
-    "explanation": "The main purpose is to grant exemptions to special areas while allowing flexibility."
-  }
-],
-"subsection_2_truefalse_pool": [
-  {
-    "id": "ss2_tf_1",
-    "statement": "Subsection-2 exempts Nagaland from most BNSS provisions.",
-    "correct": true,
-    "explanation": "This is correct. Most provisions do not apply to Nagaland."
-  },
-  {
-    "id": "ss2_tf_2",
-    "statement": "All provisions of BNSS apply to tribal areas.",
-    "correct": false,
-    "explanation": "False. Most provisions do not apply; only Chapters IX, XI, XII apply automatically."
-  },
-  {
-    "id": "ss2_tf_3",
-    "statement": "Chapter IX applies to Nagaland and tribal areas.",
-    "correct": true,
-    "explanation": "Correct. Chapter IX is one of the three chapters that automatically apply."
-  },
-  {
-    "id": "ss2_tf_4",
-    "statement": "Only Central Government can notify to apply provisions to these areas.",
-    "correct": false,
-    "explanation": "False. The concerned State Government has this power."
-  },
-  {
-    "id": "ss2_tf_5",
-    "statement": "State Government can make modifications while applying provisions.",
-    "correct": true,
-    "explanation": "True. They can make supplemental, incidental, or consequential modifications."
-  },
-  {
-    "id": "ss2_tf_6",
-    "statement": "Chapter XI does not apply to tribal areas.",
-    "correct": false,
-    "explanation": "False. Chapter XI is one of the three chapters that automatically apply."
-  },
-  {
-    "id": "ss2_tf_7",
-    "statement": "The exemption applies to the entire State of Nagaland.",
-    "correct": true,
-    "explanation": "True. The exemption covers the whole State of Nagaland."
-  },
-  {
-    "id": "ss2_tf_8",
-    "statement": "Chapter XII is exempt from applying to these areas.",
-    "correct": false,
-    "explanation": "False. Chapter XII is one of the three chapters that do apply."
-  },
-  {
-    "id": "ss2_tf_9",
-    "statement": "State Government must apply provisions to the whole area only.",
-    "correct": false,
-    "explanation": "False. They can apply to 'whole or part' of the area."
-  },
-  {
-    "id": "ss2_tf_10",
-    "statement": "Tribal areas have the same exemption status as Nagaland.",
-    "correct": true,
-    "explanation": "True. Both are treated similarly under Subsection-2."
-  },
-  {
-    "id": "ss2_tf_11",
-    "statement": "No chapters of BNSS apply to Nagaland by default.",
-    "correct": false,
-    "explanation": "False. Three chapters (IX, XI, XII) apply by default."
-  },
-  {
-    "id": "ss2_tf_12",
-    "statement": "Notification is required to apply exempt provisions.",
-    "correct": true,
-    "explanation": "True. State Government must issue a notification."
-  },
-  {
-    "id": "ss2_tf_13",
-    "statement": "Subsection-2 is about the law's name.",
-    "correct": false,
-    "explanation": "False. Subsection-1 is about the name; Subsection-2 is about exemptions."
-  },
-  {
-    "id": "ss2_tf_14",
-    "statement": "The exemption recognizes special status of certain areas.",
-    "correct": true,
-    "explanation": "True. It respects the unique constitutional status of these regions."
-  },
-  {
-    "id": "ss2_tf_15",
-    "statement": "State Government cannot modify BNSS provisions while applying.",
-    "correct": false,
-    "explanation": "False. They can make specified modifications."
-  },
-  {
-    "id": "ss2_tf_16",
-    "statement": "Subsection-2 mentions three specific chapters.",
-    "correct": true,
-    "explanation": "True. Chapters IX, XI, and XII are specifically mentioned."
-  },
-  {
-    "id": "ss2_tf_17",
-    "statement": "Urban areas get the same exemption as tribal areas.",
-    "correct": false,
-    "explanation": "False. Only tribal areas and Nagaland get this exemption."
-  },
-  {
-    "id": "ss2_tf_18",
-    "statement": "The exemption is permanent and cannot be changed.",
-    "correct": false,
-    "explanation": "False. State Government can notify to apply provisions anytime."
-  },
-  {
-    "id": "ss2_tf_19",
-    "statement": "Consequential modifications can be specified in the notification.",
-    "correct": true,
-    "explanation": "True. The notification can include such modifications."
-  },
-  {
-    "id": "ss2_tf_20",
-    "statement": "Subsection-2 appears in Section-1 of BNSS.",
-    "correct": true,
-    "explanation": "True. It is Subsection-2 of Section-1."
-  }
-],
-"subsection_2_fillblank_pool": [
-  {
-    "id": "ss2_fb_1",
-    "question": "Subsection-2 grants exemption to __________ and tribal areas.",
-    "answer": "Nagaland"
-  },
-  {
-    "id": "ss2_fb_2",
-    "question": "Only Chapters IX, XI, and __________ apply automatically to these areas.",
-    "answer": "XII"
-  },
-  {
-    "id": "ss2_fb_3",
-    "question": "The concerned __________ Government can notify to apply other provisions.",
-    "answer": "State"
-  },
-  {
-    "id": "ss2_fb_4",
-    "question": "State Government must issue a __________ to apply provisions.",
-    "answer": "notification"
-  },
-  {
-    "id": "ss2_fb_5",
-    "question": "Provisions can be applied with supplemental, incidental, or __________ modifications.",
-    "answer": "consequential"
-  },
-  {
-    "id": "ss2_fb_6",
-    "question": "Chapter __________ is one of the three that automatically apply.",
-    "answer": "IX/XI/XII"
-  },
-  {
-    "id": "ss2_fb_7",
-    "question": "State Government can apply provisions to whole or __________ of the area.",
-    "answer": "part"
-  },
-  {
-    "id": "ss2_fb_8",
-    "question": "The exemption is for the State of __________ and tribal areas.",
-    "answer": "Nagaland"
-  },
-  {
-    "id": "ss2_fb_9",
-    "question": "Most provisions of BNSS do not __________ to these exempt areas.",
-    "answer": "apply"
-  },
-  {
-    "id": "ss2_fb_10",
-    "question": "__________ modifications can be specified in the notification.",
-    "answer": "Supplemental/Incidental/Consequential"
-  },
-  {
-    "id": "ss2_fb_11",
-    "question": "Besides Nagaland, __________ areas also get exemption.",
-    "answer": "tribal"
-  },
-  {
-    "id": "ss2_fb_12",
-    "question": "Chapter XI and XII along with Chapter __________ apply automatically.",
-    "answer": "IX"
-  },
-  {
-    "id": "ss2_fb_13",
-    "question": "Subsection-__________ deals with exemptions for special areas.",
-    "answer": "2"
-  },
-  {
-    "id": "ss2_fb_14",
-    "question": "The provisions 'other than' Chapters IX, XI, XII __________ not apply.",
-    "answer": "shall"
-  },
-  {
-    "id": "ss2_fb_15",
-    "question": "State Government has the power to apply __________ provisions.",
-    "answer": "such/other"
-  },
-  {
-    "id": "ss2_fb_16",
-    "question": "Modifications must be __________ in the notification.",
-    "answer": "specified"
-  },
-  {
-    "id": "ss2_fb_17",
-    "question": "The exemption recognizes the __________ status of these regions.",
-    "answer": "special"
-  },
-  {
-    "id": "ss2_fb_18",
-    "question": "Provisions relating to three chapters __________ apply.",
-    "answer": "shall"
-  },
-  {
-    "id": "ss2_fb_19",
-    "question": "State Government can apply provisions as the __________ may be.",
-    "answer": "case"
-  },
-  {
-    "id": "ss2_fb_20",
-    "question": "The concerned __________ Government means the State Government of that area.",
-    "answer": "State"
-  }
-],
-"subsection_2_matching_pool": [
-  {
-    "id": "ss2_match_1",
-    "columnA": ["Exempt state", "Exempt areas", "Applying authority", "Chapters that apply", "Required document"],
-    "columnB": ["Notification", "Nagaland", "State Government", "Tribal areas", "IX, XI, XII"],
-    "correct_matches": [1, 3, 2, 4, 0]
-  },
-  {
-    "id": "ss2_match_2",
-    "columnA": ["Supplemental", "Incidental", "Consequential", "Whole or part", "Shall not apply"],
-    "columnB": ["Related modifications", "Resulting modifications", "Most provisions", "Application scope", "Additional modifications"],
-    "correct_matches": [4, 0, 1, 3, 2]
-  }
-],
-"subsection_2_word_arrangement_pool": [
-  {
-    "id": "ss2_wa_1",
-    "jumbled": ["provisions", "The", "of", "this", "Sanhita", "not", "apply", "shall", "to", "Nagaland"],
-    "correct": "The provisions of this Sanhita shall not apply to Nagaland.",
-    "hint": "Start with 'The provisions...'"
-  },
-  {
-    "id": "ss2_wa_2",
-    "jumbled": ["Government", "State", "may", "notification", "by", "apply", "provisions", "such"],
-    "correct": "State Government may by notification apply such provisions.",
-    "hint": "Who has the power?"
-  },
-  {
-    "id": "ss2_wa_3",
-    "jumbled": ["IX", "XI", "XII", "Chapters", "and", "apply", "automatically"],
-    "correct": "Chapters IX, XI and XII apply automatically.",
-    "hint": "Which chapters?"
-  }
-]   
-  }
+  "mcq_pool": [
+    {
+      "id": "ss2_mcq_1",
+      "question": "Subsection-2 grants special exemption to which state?",
+      "options": ["Assam", "Nagaland", "Manipur", "Mizoram"],
+      "correct": 1,
+      "explanation": "Subsection-2 specifically mentions the State of Nagaland as exempt from most BNSS provisions.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_mcq_2",
+      "question": "Which type of areas are exempt along with Nagaland?",
+      "options": ["Urban areas", "Tribal areas", "Metropolitan areas", "Industrial areas"],
+      "correct": 1,
+      "explanation": "Tribal areas are given the same exemption as Nagaland.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_mcq_3",
+      "question": "How many chapters of BNSS automatically apply to these exempt areas?",
+      "options": ["Two", "Three", "Four", "Five"],
+      "correct": 1,
+      "explanation": "Three chapters (IX, XI, and XII) automatically apply to Nagaland and tribal areas.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_mcq_4",
+      "question": "Which chapter is mentioned as automatically applicable?",
+      "options": ["Chapter VIII", "Chapter IX", "Chapter X", "Chapter XIII"],
+      "correct": 1,
+      "explanation": "Chapter IX is one of the three chapters that apply to these areas.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_mcq_5",
+      "question": "Who can notify to apply other BNSS provisions to these areas?",
+      "options": ["Central Government", "State Government", "Supreme Court", "Parliament"],
+      "correct": 1,
+      "explanation": "The concerned State Government has the power to issue such notifications.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_mcq_6",
+      "question": "What can State Governments add while applying provisions?",
+      "options": ["Punishments only", "Modifications", "New chapters", "Foreign laws"],
+      "correct": 1,
+      "explanation": "State Governments can add supplemental, incidental, or consequential modifications.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_mcq_7",
+      "question": "The exemption under Subsection-2 applies to how much of Nagaland?",
+      "options": ["Only cities", "Only villages", "Whole state", "Only capital"],
+      "correct": 2,
+      "explanation": "The exemption applies to the entire State of Nagaland.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_mcq_8",
+      "question": "Can State Government apply provisions to only part of the area?",
+      "options": ["No, must be full", "Yes, whole or part", "Only full state", "Not mentioned"],
+      "correct": 1,
+      "explanation": "State Government can apply to 'whole or part' of the area.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_mcq_9",
+      "question": "What type of modifications can be made?",
+      "options": ["Only supplemental", "Only incidental", "Only consequential", "All three types"],
+      "correct": 3,
+      "explanation": "Supplemental, incidental, or consequential modifications can be made.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_mcq_10",
+      "question": "Which chapter besides IX and XI also applies automatically?",
+      "options": ["Chapter X", "Chapter XII", "Chapter XIII", "Chapter XIV"],
+      "correct": 1,
+      "explanation": "Chapter XII is the third chapter that automatically applies.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_mcq_11",
+      "question": "The word 'Sanhita' in Subsection-2 refers to:",
+      "options": ["BNSS", "Constitution", "IPC", "CrPC"],
+      "correct": 0,
+      "explanation": "'This Sanhita' refers to BNSS (Bharatiya Nagarik Suraksha Sanhita).",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_mcq_12",
+      "question": "What must State Government issue to apply provisions?",
+      "options": ["Order", "Notification", "Judgment", "Circular"],
+      "correct": 1,
+      "explanation": "State Government must issue a notification.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_mcq_13",
+      "question": "Are all BNSS provisions exempt for these areas?",
+      "options": ["Yes, all exempt", "No, 3 chapters apply", "Only half exempt", "Not mentioned"],
+      "correct": 1,
+      "explanation": "No, Chapters IX, XI, and XII automatically apply; only other provisions are exempt.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_mcq_14",
+      "question": "The exemption is based on what factor?",
+      "options": ["Population", "Geography", "Special status", "Economy"],
+      "correct": 2,
+      "explanation": "The exemption recognizes the special constitutional and cultural status of these areas.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_mcq_15",
+      "question": "Can Central Government apply provisions to these areas?",
+      "options": ["Yes, only Central", "No, only State", "Both can", "Not mentioned"],
+      "correct": 1,
+      "explanation": "Only the concerned State Government can issue such notifications.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_mcq_16",
+      "question": "What does 'supplemental modifications' mean?",
+      "options": ["Remove provisions", "Add additional provisions", "Change completely", "Delete sections"],
+      "correct": 1,
+      "explanation": "Supplemental means additional provisions that supplement the main law.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_mcq_17",
+      "question": "Which subsection deals with exemptions?",
+      "options": ["Subsection-1", "Subsection-2", "Subsection-3", "Subsection-4"],
+      "correct": 1,
+      "explanation": "Subsection-2 of Section-1 deals with exemptions for Nagaland and tribal areas.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_mcq_18",
+      "question": "The provisions 'other than' which chapters are exempt?",
+      "options": ["I, II, III", "IX, XI, XII", "V, VI, VII", "All chapters"],
+      "correct": 1,
+      "explanation": "Provisions 'other than' Chapters IX, XI, XII are exempt.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_mcq_19",
+      "question": "How is the exemption implemented?",
+      "options": ["Automatically", "By default for most provisions", "Never", "By President"],
+      "correct": 1,
+      "explanation": "The exemption is automatic by default; State must notify to apply provisions.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_mcq_20",
+      "question": "What is the main purpose of Subsection-2?",
+      "options": ["Punish crimes", "Grant exemptions", "Define terms", "Create courts"],
+      "correct": 1,
+      "explanation": "The main purpose is to grant exemptions to special areas while allowing flexibility.",
+      "subsection": "2"
+    }
+  ],
+  "truefalse_pool": [
+    {
+      "id": "ss2_tf_1",
+      "statement": "Subsection-2 exempts Nagaland from most BNSS provisions.",
+      "correct": true,
+      "explanation": "This is correct. Most provisions do not apply to Nagaland.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_tf_2",
+      "statement": "All provisions of BNSS apply to tribal areas.",
+      "correct": false,
+      "explanation": "False. Most provisions do not apply; only Chapters IX, XI, XII apply automatically.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_tf_3",
+      "statement": "Chapter IX applies to Nagaland and tribal areas.",
+      "correct": true,
+      "explanation": "Correct. Chapter IX is one of the three chapters that automatically apply.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_tf_4",
+      "statement": "Only Central Government can notify to apply provisions to these areas.",
+      "correct": false,
+      "explanation": "False. The concerned State Government has this power.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_tf_5",
+      "statement": "State Government can make modifications while applying provisions.",
+      "correct": true,
+      "explanation": "True. They can make supplemental, incidental, or consequential modifications.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_tf_6",
+      "statement": "Chapter XI does not apply to tribal areas.",
+      "correct": false,
+      "explanation": "False. Chapter XI is one of the three chapters that automatically apply.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_tf_7",
+      "statement": "The exemption applies to the entire State of Nagaland.",
+      "correct": true,
+      "explanation": "True. The exemption covers the whole State of Nagaland.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_tf_8",
+      "statement": "Chapter XII is exempt from applying to these areas.",
+      "correct": false,
+      "explanation": "False. Chapter XII is one of the three chapters that do apply.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_tf_9",
+      "statement": "State Government must apply provisions to the whole area only.",
+      "correct": false,
+      "explanation": "False. They can apply to 'whole or part' of the area.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_tf_10",
+      "statement": "Tribal areas have the same exemption status as Nagaland.",
+      "correct": true,
+      "explanation": "True. Both are treated similarly under Subsection-2.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_tf_11",
+      "statement": "No chapters of BNSS apply to Nagaland by default.",
+      "correct": false,
+      "explanation": "False. Three chapters (IX, XI, XII) apply by default.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_tf_12",
+      "statement": "Notification is required to apply exempt provisions.",
+      "correct": true,
+      "explanation": "True. State Government must issue a notification.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_tf_13",
+      "statement": "Subsection-2 is about the law's name.",
+      "correct": false,
+      "explanation": "False. Subsection-1 is about the name; Subsection-2 is about exemptions.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_tf_14",
+      "statement": "The exemption recognizes special status of certain areas.",
+      "correct": true,
+      "explanation": "True. It respects the unique constitutional status of these regions.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_tf_15",
+      "statement": "State Government cannot modify BNSS provisions while applying.",
+      "correct": false,
+      "explanation": "False. They can make specified modifications.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_tf_16",
+      "statement": "Subsection-2 mentions three specific chapters.",
+      "correct": true,
+      "explanation": "True. Chapters IX, XI, and XII are specifically mentioned.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_tf_17",
+      "statement": "Urban areas get the same exemption as tribal areas.",
+      "correct": false,
+      "explanation": "False. Only tribal areas and Nagaland get this exemption.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_tf_18",
+      "statement": "The exemption is permanent and cannot be changed.",
+      "correct": false,
+      "explanation": "False. State Government can notify to apply provisions anytime.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_tf_19",
+      "statement": "Consequential modifications can be specified in the notification.",
+      "correct": true,
+      "explanation": "True. The notification can include such modifications.",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_tf_20",
+      "statement": "Subsection-2 appears in Section-1 of BNSS.",
+      "correct": true,
+      "explanation": "True. It is Subsection-2 of Section-1.",
+      "subsection": "2"
+    }
+  ],
+  "fillblank_pool": [
+    {
+      "id": "ss2_fb_1",
+      "question": "Subsection-2 grants exemption to __________ and tribal areas.",
+      "answer": "Nagaland",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_fb_2",
+      "question": "Only Chapters IX, XI, and __________ apply automatically to these areas.",
+      "answer": "XII",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_fb_3",
+      "question": "The concerned __________ Government can notify to apply other provisions.",
+      "answer": "State",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_fb_4",
+      "question": "State Government must issue a __________ to apply provisions.",
+      "answer": "notification",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_fb_5",
+      "question": "Provisions can be applied with supplemental, incidental, or __________ modifications.",
+      "answer": "consequential",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_fb_6",
+      "question": "Chapter __________ is one of the three that automatically apply.",
+      "answer": "IX",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_fb_7",
+      "question": "State Government can apply provisions to whole or __________ of the area.",
+      "answer": "part",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_fb_8",
+      "question": "The exemption is for the State of __________ and tribal areas.",
+      "answer": "Nagaland",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_fb_9",
+      "question": "Most provisions of BNSS do not __________ to these exempt areas.",
+      "answer": "apply",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_fb_10",
+      "question": "__________ modifications can be specified in the notification.",
+      "answer": "Supplemental",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_fb_11",
+      "question": "Besides Nagaland, __________ areas also get exemption.",
+      "answer": "tribal",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_fb_12",
+      "question": "Chapter XI and XII along with Chapter __________ apply automatically.",
+      "answer": "IX",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_fb_13",
+      "question": "Subsection-__________ deals with exemptions for special areas.",
+      "answer": "2",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_fb_14",
+      "question": "The provisions 'other than' Chapters IX, XI, XII __________ not apply.",
+      "answer": "shall",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_fb_15",
+      "question": "State Government has the power to apply __________ provisions.",
+      "answer": "such",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_fb_16",
+      "question": "Modifications must be __________ in the notification.",
+      "answer": "specified",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_fb_17",
+      "question": "The exemption recognizes the __________ status of these regions.",
+      "answer": "special",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_fb_18",
+      "question": "Provisions relating to three chapters __________ apply.",
+      "answer": "shall",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_fb_19",
+      "question": "State Government can apply provisions as the __________ may be.",
+      "answer": "case",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_fb_20",
+      "question": "The concerned __________ Government means the State Government of that area.",
+      "answer": "State",
+      "subsection": "2"
+    }
+  ],
+  "matching_pool": [
+    {
+      "id": "ss2_match_1",
+      "columnA": ["Exempt state", "Exempt areas", "Applying authority", "Chapters that apply", "Required document"],
+      "columnB": ["Notification", "Nagaland", "State Government", "Tribal areas", "IX, XI, XII"],
+      "correct_matches": [1, 3, 2, 4, 0],
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_match_2",
+      "columnA": ["Supplemental", "Incidental", "Consequential", "Whole or part", "Shall not apply"],
+      "columnB": ["Related modifications", "Resulting modifications", "Most provisions", "Application scope", "Additional modifications"],
+      "correct_matches": [4, 0, 1, 3, 2],
+      "subsection": "2"
+    }
+  ],
+  "word_arrangement_pool": [
+    {
+      "id": "ss2_wa_1",
+      "jumbled": ["provisions", "The", "of", "this", "Sanhita", "not", "apply", "shall", "to", "Nagaland"],
+      "correct": "The provisions of this Sanhita shall not apply to Nagaland.",
+      "hint": "Start with 'The provisions...'",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_wa_2",
+      "jumbled": ["Government", "State", "may", "notification", "by", "apply", "provisions", "such"],
+      "correct": "State Government may by notification apply such provisions.",
+      "hint": "Who has the power?",
+      "subsection": "2"
+    },
+    {
+      "id": "ss2_wa_3",
+      "jumbled": ["IX", "XI", "XII", "Chapters", "and", "apply", "automatically"],
+      "correct": "Chapters IX, XI and XII apply automatically.",
+      "hint": "Which chapters?",
+      "subsection": "2"
+    }
+  ]
 }
-
