@@ -1640,7 +1640,7 @@
     ]
   },
    "concept_with_example": {
-      "keywords": ["concept", "concept with example", "example", "samjhao", "concept explain", "with example"],
+      "keywords": ["concept subsection 2 explanation", "concept with example", "example", "samjhao", "concept explain", "with example"],
       "content": [
         {
           "text": "Explanation - Meaning of 'Tribal Areas'<br><br><strong>1. The term 'tribal areas' has a specific meaning in this section.</strong><br>Example: Just like 'minor' means a person below 18 years, 'tribal areas' has a fixed legal meaning, not just any tribal village.<br><br><strong>2. It means those areas that were part of Assam's tribal regions before January 21, 1972.</strong><br>Example: Like saying 'old currency' means notes printed before 2016, 'tribal areas' means specific regions that existed before a particular date.<br><br><strong>3. These areas are mentioned in paragraph 20 of the Sixth Schedule of the Indian Constitution.</strong><br>Example: Just like your roll number is written in the school register, these areas are officially listed in the Constitution's Sixth Schedule.<br><br><strong>4. However, the city area of Shillong municipality is NOT included in 'tribal areas'.</strong><br>Example: Like saying 'all students get fee waiver except monitors', here all tribal areas are included except Shillong city.",
@@ -2180,7 +2180,7 @@
           ]
         },
     "concept_with_example": {
-      "keywords": ["concept", "concept with example", "example", "samjhao", "concept explain", "with example"],
+      "keywords": ["concept subsection 3", "concept with example", "example", "samjhao", "concept explain", "with example"],
       "content": [
         {
           "text": "Sub-section (3) - When This Law Started Working<br><br><strong>1. This law did not start immediately after being passed.</strong><br>Example: Like when Parliament passes a budget in February but it starts from April, this law also had a gap between passing and starting.<br><br><strong>2. It started working on a date chosen by the Central Government.</strong><br>Example: Like your summer vacation dates are decided by your school principal, the starting date of this law was decided by the Central Government.<br><br><strong>3. The Central Government had to announce this date through a notification in the Official Gazette (Government's official publication).</strong><br>Example: Just like important school announcements come in the school diary, government announcements come in the Official Gazette.",
@@ -2726,7 +2726,7 @@
           ]
         },
         "concept_with_example": {
-      "keywords": ["concept", "concept with example", "example", "samjhao", "concept explain", "with example"],
+      "keywords": ["concept footnote", "concept with example", "example", "samjhao", "concept explain", "with example"],
       "content": [
         {
           "text": "Footnote - Actual Starting Date<br><br><strong>1. The Central Government announced the starting date through notification number S.O. 848(E).</strong><br>Example: Like your exam admit card has a number (like 2024/EXAM/12345), this notification has a number: S.O. 848(E).<br><br><strong>2. This notification was issued on February 23, 2024.</strong><br>Example: Like your exam date sheet is released on a specific date, this notification came out on February 23, 2024.<br><br><strong>3. According to this notification, the law came into force on July 1, 2024.</strong><br>Example: Like school reopening after summer vacation on July 1st, this law started working from July 1, 2024.<br><br><strong>4. However, one part was kept out - the provisions related to Section 106(2) in the First Schedule did not start on this date.</strong><br>Example: Like school reopens on July 1st but the science lab opens a week later, most of BNSS started on July 1st but Section 106(2) didn't start then.<br><br><strong>5. This notification was published in the Gazette of India, Extraordinary edition, Part II, Section 3(ii).</strong><br>Example: Like important news comes in a special edition newspaper, this notification was published in a special 'Extraordinary' edition of the government's official publication, in a specific section (Part II, Section 3(ii)).",
@@ -3257,6 +3257,7 @@
     }
   }
 }
+
 
 
 
