@@ -559,6 +559,15 @@
             }
           ]
         },
+         "concept_with_example": {
+    "keywords": ["concept subsection 1", "concept with example subsection 1", "example subsection 1", "udaharan subsection 1", "concept samjhao"],
+    "content": [
+      {
+        "text": "Concept with Example - Subsection 1:<br><br><strong>Concept 1: Law's Name</strong><br>This law is called the 'Bharatiya Nagarik Suraksha Sanhita, 2023'.<br>• <strong>Example:</strong> Just like your name is Raj or Priya, this law's name is BNSS, 2023.<br><br><strong>Concept 2: English Translation</strong><br>In English, it means 'Indian Citizen Security Code, 2023'.<br>• <strong>Example:</strong> Like 'Vidyalaya' means 'School' in English, BNSS means 'Indian Citizen Security Code'.",
+        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS1-CONCEPT.mp3"
+      }
+    ]
+  },
         "what": {
           "keywords": ["what subsection 1", "kya subsection 1", "what is subsection 1"],
           "content": [
@@ -3212,6 +3221,7 @@
     }
   }
 }
+
 
 
 
