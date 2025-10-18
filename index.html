@@ -907,9 +907,17 @@ html, body {
     background: linear-gradient(135deg, #f44336, #d32f2f) !important;
     animation: blink 1s infinite;
 }
+#background-audio {
+    position: fixed;
+    top: -9999px;
+    left: -9999px;
+    opacity: 0;
+    pointer-events: none;
+}
     </style>
 </head>
 <body>
+<audio id="background-audio" preload="auto"></audio>
     <div class="welcome-modal" id="welcomeModal">
         <div class="welcome-content">
            
@@ -3159,9 +3167,8 @@ function resetTest() {
     }
 }
 
-// ✅ NEW TTS FUNCTIONS - ADD THESE
 function startHindiTTS() {
-    console.log('🔊 Starting Hindi TTS automatically');
+    console.log('🔊 Starting Hindi TTS with background support');
     
     if (!('speechSynthesis' in window)) {
         console.error('❌ TTS not supported');
@@ -3175,6 +3182,12 @@ function startHindiTTS() {
     }
     
     console.log('📝 Text length:', text.length);
+    
+    // Request wake lock to keep screen active
+    requestWakeLock();
+    
+    // Enable background audio mode
+    enableBackgroundAudio();
     
     if (window.currentAudio) {
         window.currentAudio.pause();
@@ -3222,6 +3235,7 @@ function startHindiTTS() {
         utterance.onstart = () => {
             console.log('✅ TTS STARTED');
             window.isHindiTTSPlaying = true;
+            keepSpeechAlive(); // Keep speech alive in background
             if (btn) {
                 btn.innerHTML = '<span style="font-size: 18px;">⏸️</span> Stop Reading';
                 btn.classList.add('playing');
@@ -3231,6 +3245,8 @@ function startHindiTTS() {
         utterance.onend = () => {
             console.log('✅ TTS ENDED');
             window.isHindiTTSPlaying = false;
+            releaseWakeLock(); // Release wake lock
+            stopBackgroundAudio(); // Stop background audio
             if (btn) {
                 btn.innerHTML = '<span style="font-size: 18px;">🔊</span> Read in Hindi';
                 btn.classList.remove('playing');
@@ -3241,6 +3257,8 @@ function startHindiTTS() {
         utterance.onerror = (event) => {
             console.error('❌ TTS ERROR:', event.error);
             window.isHindiTTSPlaying = false;
+            releaseWakeLock();
+            stopBackgroundAudio();
             if (btn) {
                 btn.innerHTML = '<span style="font-size: 18px;">🔊</span> Read in Hindi';
                 btn.classList.remove('playing');
@@ -3271,6 +3289,10 @@ function stopHindiTTS() {
     window.speechSynthesis.cancel();
     window.isHindiTTSPlaying = false;
     
+    // Release wake lock and stop background audio
+    releaseWakeLock();
+    stopBackgroundAudio();
+    
     const btn = document.getElementById('hindiTTSBtn');
     if (btn) {
         btn.innerHTML = '<span style="font-size: 18px;">🔊</span> Read in Hindi';
@@ -3279,12 +3301,128 @@ function stopHindiTTS() {
     }
 }
 
+// ✅ WAKE LOCK API - Keeps screen/audio active
+let wakeLock = null;
+
+async function requestWakeLock() {
+    try {
+        if ('wakeLock' in navigator) {
+            wakeLock = await navigator.wakeLock.request('screen');
+            console.log('✅ Wake Lock activated');
+            
+            wakeLock.addEventListener('release', () => {
+                console.log('🔓 Wake Lock released');
+            });
+        } else {
+            console.log('⚠️ Wake Lock API not supported');
+        }
+    } catch (err) {
+        console.error('❌ Wake Lock error:', err);
+    }
+}
+
+function releaseWakeLock() {
+    if (wakeLock !== null) {
+        wakeLock.release()
+            .then(() => {
+                wakeLock = null;
+                console.log('✅ Wake Lock released manually');
+            })
+            .catch(err => {
+                console.error('❌ Wake Lock release error:', err);
+            });
+    }
+}
+
+// ✅ BACKGROUND AUDIO - Silent audio to keep audio context alive
+let backgroundAudioInterval = null;
+
+function enableBackgroundAudio() {
+    const audioElement = document.getElementById('background-audio');
+    
+    if (!audioElement) {
+        console.error('❌ Background audio element not found');
+        return;
+    }
+    
+    // Create a silent audio data URL (1 second of silence)
+    const silentAudio = 'data:audio/wav;base64,UklGRigAAABXQVZFZm10IBIAAAABAAEARKwAAIhYAQACABAAAABkYXRhAgAAAAEA';
+    
+    audioElement.src = silentAudio;
+    audioElement.loop = true;
+    audioElement.volume = 0.01; // Very low volume
+    
+    // Play silent audio
+    audioElement.play().then(() => {
+        console.log('✅ Background audio enabled');
+    }).catch(err => {
+        console.error('❌ Background audio error:', err);
+    });
+    
+    // Keep speech synthesis alive with periodic resume
+    backgroundAudioInterval = setInterval(() => {
+        if (window.isHindiTTSPlaying && window.speechSynthesis.paused) {
+            console.log('🔄 Resuming speech synthesis');
+            window.speechSynthesis.resume();
+        }
+    }, 5000); // Check every 5 seconds
+}
+
+function stopBackgroundAudio() {
+    const audioElement = document.getElementById('background-audio');
+    
+    if (audioElement) {
+        audioElement.pause();
+        audioElement.currentTime = 0;
+        console.log('⏹️ Background audio stopped');
+    }
+    
+    if (backgroundAudioInterval) {
+        clearInterval(backgroundAudioInterval);
+        backgroundAudioInterval = null;
+        console.log('⏹️ Background audio interval cleared');
+    }
+}
+
+// ✅ KEEP SPEECH ALIVE - Prevents speech from stopping
+function keepSpeechAlive() {
+    // Resume speech if it gets paused
+    document.addEventListener('visibilitychange', handleVisibilityChange);
+    
+    // Resume on page focus
+    window.addEventListener('focus', handlePageFocus);
+}
+
+function handleVisibilityChange() {
+    if (document.hidden && window.isHindiTTSPlaying) {
+        console.log('📱 Page hidden, keeping speech alive');
+        setTimeout(() => {
+            if (window.speechSynthesis.paused) {
+                window.speechSynthesis.resume();
+            }
+        }, 100);
+    }
+}
+
+function handlePageFocus() {
+    if (window.isHindiTTSPlaying && window.speechSynthesis.paused) {
+        console.log('🔄 Page focused, resuming speech');
+        window.speechSynthesis.resume();
+    }
+}
+
+// ✅ RE-REQUEST WAKE LOCK on visibility change
+document.addEventListener('visibilitychange', async () => {
+    if (!document.hidden && window.isHindiTTSPlaying) {
+        await requestWakeLock();
+    }
+});
+
 // Replace the existing window load event with this enhanced version
 window.addEventListener('load', function() {
     console.log('🔊 Initializing speech synthesis...');
     
     if ('speechSynthesis' in window) {
-        // Force voice loading
         const loadVoices = () => {
             const voices = window.speechSynthesis.getVoices();
             console.log('✅ Speech voices loaded:', voices.length);
@@ -3298,17 +3436,20 @@ window.addEventListener('load', function() {
             }
         };
         
-        // Try loading immediately
         loadVoices();
-        
-        // Also listen for the event
         window.speechSynthesis.onvoiceschanged = loadVoices;
-        
-        // Force trigger after a delay (for some browsers)
         setTimeout(loadVoices, 100);
     } else {
         console.log('❌ Speech synthesis not supported');
     }
+    
+    // Enable audio context on user interaction
+    document.addEventListener('touchstart', function() {
+        const audioContext = new (window.AudioContext || window.webkitAudioContext)();
+        audioContext.resume().then(() => {
+            console.log('✅ Audio context resumed');
+        });
+    }, { once: true });
 });
 </script>
 
