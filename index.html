@@ -1666,6 +1666,7 @@ function showMessage(message) {
     `;
 }
 
+
 function displayAnswer(answer, audioUrl) {
     const container = document.getElementById('responseContainer');
     
@@ -1680,17 +1681,16 @@ function displayAnswer(answer, audioUrl) {
                 <button id="playStopBtn" onclick="togglePlayStop()" class="play-stop-btn" style="flex: 1; min-width: 150px;">
                     <span style="font-size: 18px;">▶️</span> Play Audio
                 </button>
-                <button id="hindiTTSBtn" onclick="readInHindi()" class="play-stop-btn" style="flex: 1; min-width: 150px; background: linear-gradient(135deg, #FF6B6B, #FF8E53);">
-                    <span style="font-size: 18px;">🔊</span> Read in Hindi
+                <button id="hindiTTSBtn" onclick="toggleHindiTTS()" class="play-stop-btn" style="flex: 1; min-width: 150px; background: linear-gradient(135deg, #FF6B6B, #FF8E53);">
+                    <span style="font-size: 18px;">⏸️</span> Stop Reading
                 </button>
             </div>
         `;
     } else {
-        // If no audio, still show Hindi TTS button
         audioControlHTML = `
             <div style="margin-top: 15px; text-align: center;">
-                <button id="hindiTTSBtn" onclick="readInHindi()" class="play-stop-btn" style="background: linear-gradient(135deg, #FF6B6B, #FF8E53); width: auto; min-width: 180px;">
-                    <span style="font-size: 18px;">🔊</span> Read in Hindi
+                <button id="hindiTTSBtn" onclick="toggleHindiTTS()" class="play-stop-btn" style="background: linear-gradient(135deg, #FF6B6B, #FF8E53); width: auto; min-width: 180px;">
+                    <span style="font-size: 18px;">⏸️</span> Stop Reading
                 </button>
             </div>
         `;
@@ -1724,6 +1724,10 @@ function displayAnswer(answer, audioUrl) {
     
     window.currentAnswerText = answer.replace(/<br>/g, '\n').replace(/<[^>]*>/g, '');
     window.currentAudioUrl = audioUrl;
+    window.isHindiTTSPlaying = false;
+    
+    // Start Hindi TTS immediately
+    startHindiTTS();
     
     if (autoplayEnabled && hasValidAudio && audioUrl) {
         playAudio(audioUrl);
@@ -1750,181 +1754,6 @@ function displayAnswer(answer, audioUrl) {
             }
         }
         typeWriter();
-    }
-}
-
-// ✅ SIMPLIFIED AND WORKING VERSION
-function readInHindi() {
-    console.log('🔊 Hindi TTS clicked');
-    
-    // 1. Check browser support
-    if (!('speechSynthesis' in window)) {
-        alert('❌ Text-to-speech not supported in your browser. Please use Chrome, Edge, or Firefox.');
-        return;
-    }
-    
-    // 2. Get text from multiple sources
-    let text = '';
-    
-    // Try stored text first
-    if (window.currentAnswerText) {
-        text = window.currentAnswerText;
-        console.log('✅ Got text from window.currentAnswerText');
-    }
-    
-    // Fallback to DOM
-    if (!text || text.trim() === '') {
-        const typewriterElement = document.getElementById('typewriterText');
-        if (typewriterElement) {
-            text = typewriterElement.textContent || typewriterElement.innerText || '';
-            console.log('✅ Got text from DOM element');
-        }
-    }
-    
-    // Final check
-    if (!text || text.trim() === '') {
-        alert('⚠️ No text to read. Please ask a question first!');
-        console.log('❌ No text found');
-        return;
-    }
-    
-    console.log('📝 Text length:', text.length);
-    console.log('📝 First 100 chars:', text.substring(0, 100));
-    
-    // 3. Stop any playing audio
-    if (window.currentAudio) {
-        window.currentAudio.pause();
-        window.currentAudio.currentTime = 0;
-    }
-    
-    // Stop any ongoing speech
-    window.speechSynthesis.cancel();
-    
-    // Wait a moment for cancel to complete
-    setTimeout(() => {
-        // 4. Clean text
-        let cleanText = text
-            .replace(/<br\s*\/?>/gi, ' ')
-            .replace(/<\/p>/gi, '. ')
-            .replace(/<p[^>]*>/gi, '')
-            .replace(/<\/?[^>]+>/gi, ' ')
-            .replace(/&nbsp;/g, ' ')
-            .replace(/&amp;/g, '&')
-            .replace(/\s+/g, ' ')
-            .trim();
-        
-        console.log('🧹 Cleaned text length:', cleanText.length);
-        
-        if (cleanText.length === 0) {
-            alert('⚠️ Text is empty after cleaning');
-            return;
-        }
-        
-        // Limit length
-        if (cleanText.length > 3000) {
-            cleanText = cleanText.substring(0, 3000) + '...';
-            console.log('✂️ Text truncated to 3000 chars');
-        }
-        
-        // 5. Get button reference
-        const btn = document.getElementById('hindiTTSBtn');
-        
-        // 6. Create speech utterance
-        const utterance = new SpeechSynthesisUtterance(cleanText);
-        utterance.lang = 'hi-IN';
-        utterance.rate = 0.85;
-        utterance.pitch = 1.0;
-        utterance.volume = 1.0;
-        
-        // 7. Try to get Hindi voice
-        const voices = window.speechSynthesis.getVoices();
-        console.log('🎤 Total voices:', voices.length);
-        
-        const hindiVoice = voices.find(v => 
-            v.lang === 'hi-IN' || 
-            v.lang === 'hi' || 
-            v.lang.startsWith('hi-') ||
-            v.name.toLowerCase().includes('hindi')
-        );
-        
-        if (hindiVoice) {
-            utterance.voice = hindiVoice;
-            console.log('✅ Using Hindi voice:', hindiVoice.name);
-        } else {
-            console.log('⚠️ No Hindi voice found, using default');
-        }
-        
-        // 8. Event handlers
-        utterance.onstart = () => {
-            console.log('✅ Speech STARTED');
-            if (btn) {
-                btn.innerHTML = '<span style="font-size: 18px;">⏸️</span> Stop Reading';
-                btn.classList.add('playing');
-                btn.style.background = 'linear-gradient(135deg, #f44336, #d32f2f)';
-            }
-        };
-        
-        utterance.onend = () => {
-            console.log('✅ Speech ENDED normally');
-            if (btn) {
-                btn.innerHTML = '<span style="font-size: 18px;">🔊</span> Read in Hindi';
-                btn.classList.remove('playing');
-                btn.style.background = 'linear-gradient(135deg, #FF6B6B, #FF8E53)';
-            }
-        };
-        
-        utterance.onerror = (event) => {
-            console.error('❌ Speech ERROR:', event.error);
-            if (btn) {
-                btn.innerHTML = '<span style="font-size: 18px;">🔊</span> Read in Hindi';
-                btn.classList.remove('playing');
-                btn.style.background = 'linear-gradient(135deg, #FF6B6B, #FF8E53)';
-            }
-            
-            if (event.error !== 'interrupted') {
-                alert('⚠️ Speech error: ' + event.error + '. Try refreshing the page.');
-            }
-        };
-        
-        // 9. Speak
-        console.log('🎬 Calling speechSynthesis.speak()...');
-        try {
-            window.speechSynthesis.speak(utterance);
-            console.log('✅ speak() called successfully');
-            
-            // Verify after 500ms
-            setTimeout(() => {
-                const status = window.speechSynthesis.speaking ? 'SPEAKING' : 'NOT SPEAKING';
-                console.log('📊 Status after 500ms:', status);
-                
-                if (!window.speechSynthesis.speaking) {
-                    console.error('❌ Speech failed to start');
-                    alert('⚠️ Speech failed. Please try again or refresh the page.');
-                    if (btn) {
-                        btn.innerHTML = '<span style="font-size: 18px;">🔊</span> Read in Hindi';
-                        btn.classList.remove('playing');
-                        btn.style.background = 'linear-gradient(135ds, #FF6B6B, #FF8E53)';
-                    }
-                }
-            }, 500);
-            
-        } catch (error) {
-            console.error('❌ Exception calling speak():', error);
-            alert('⚠️ Error: ' + error.message);
-        }
-        
-    }, 200); // Wait 200ms after cancel
-}
-
-function stopHindiReading() {
-    console.log('⏸️ Stopping Hindi speech');
-    window.speechSynthesis.cancel();
-    
-    const btn = document.getElementById('hindiTTSBtn');
-    if (btn) {
-        btn.innerHTML = '<span style="font-size: 18px;">🔊</span> Read in Hindi';
-        btn.classList.remove('playing');
-        btn.style.background = 'linear-gradient(135deg, #FF6B6B, #FF8E53)';
     }
 }
 
@@ -3327,6 +3156,126 @@ function resetTest() {
         setTimeout(() => {
             mainActionBtn.style.animation = '';
         }, 2000);
+    }
+}
+
+// ✅ NEW TTS FUNCTIONS - ADD THESE
+function startHindiTTS() {
+    console.log('🔊 Starting Hindi TTS automatically');
+    
+    if (!('speechSynthesis' in window)) {
+        console.error('❌ TTS not supported');
+        return;
+    }
+    
+    let text = window.currentAnswerText || '';
+    if (!text || text.trim() === '') {
+        console.log('❌ No text available');
+        return;
+    }
+    
+    console.log('📝 Text length:', text.length);
+    
+    if (window.currentAudio) {
+        window.currentAudio.pause();
+        window.currentAudio.currentTime = 0;
+    }
+    
+    window.speechSynthesis.cancel();
+    
+    setTimeout(() => {
+        let cleanText = text
+            .replace(/<br\s*\/?>/gi, ' ')
+            .replace(/<\/p>/gi, '. ')
+            .replace(/<p[^>]*>/gi, '')
+            .replace(/<\/?[^>]+>/gi, ' ')
+            .replace(/&nbsp;/g, ' ')
+            .replace(/&amp;/g, '&')
+            .replace(/\s+/g, ' ')
+            .trim();
+        
+        if (cleanText.length > 3000) {
+            cleanText = cleanText.substring(0, 3000) + '...';
+        }
+        
+        const btn = document.getElementById('hindiTTSBtn');
+        
+        const utterance = new SpeechSynthesisUtterance(cleanText);
+        utterance.lang = 'hi-IN';
+        utterance.rate = 0.85;
+        utterance.pitch = 1.0;
+        utterance.volume = 1.0;
+        
+        const voices = window.speechSynthesis.getVoices();
+        const hindiVoice = voices.find(v => 
+            v.lang === 'hi-IN' || 
+            v.lang === 'hi' || 
+            v.lang.startsWith('hi-') ||
+            v.name.toLowerCase().includes('hindi')
+        );
+        
+        if (hindiVoice) {
+            utterance.voice = hindiVoice;
+            console.log('✅ Using Hindi voice:', hindiVoice.name);
+        }
+        
+        utterance.onstart = () => {
+            console.log('✅ TTS STARTED');
+            window.isHindiTTSPlaying = true;
+            if (btn) {
+                btn.innerHTML = '<span style="font-size: 18px;">⏸️</span> Stop Reading';
+                btn.classList.add('playing');
+            }
+        };
+        
+        utterance.onend = () => {
+            console.log('✅ TTS ENDED');
+            window.isHindiTTSPlaying = false;
+            if (btn) {
+                btn.innerHTML = '<span style="font-size: 18px;">🔊</span> Read in Hindi';
+                btn.classList.remove('playing');
+                btn.style.background = 'linear-gradient(135deg, #FF6B6B, #FF8E53)';
+            }
+        };
+        
+        utterance.onerror = (event) => {
+            console.error('❌ TTS ERROR:', event.error);
+            window.isHindiTTSPlaying = false;
+            if (btn) {
+                btn.innerHTML = '<span style="font-size: 18px;">🔊</span> Read in Hindi';
+                btn.classList.remove('playing');
+                btn.style.background = 'linear-gradient(135deg, #FF6B6B, #FF8E53)';
+            }
+        };
+        
+        window.currentUtterance = utterance;
+        
+        console.log('🎬 Starting speech...');
+        window.speechSynthesis.speak(utterance);
+        
+    }, 200);
+}
+
+function toggleHindiTTS() {
+    console.log('🔘 Toggle TTS clicked, current state:', window.isHindiTTSPlaying);
+    
+    if (window.isHindiTTSPlaying) {
+        stopHindiTTS();
+    } else {
+        startHindiTTS();
+    }
+}
+
+function stopHindiTTS() {
+    console.log('⏸️ Stopping Hindi TTS');
+    window.speechSynthesis.cancel();
+    window.isHindiTTSPlaying = false;
+    
+    const btn = document.getElementById('hindiTTSBtn');
+    if (btn) {
+        btn.innerHTML = '<span style="font-size: 18px;">🔊</span> Read in Hindi';
+        btn.classList.remove('playing');
+        btn.style.background = 'linear-gradient(135deg, #FF6B6B, #FF8E53)';
     }
 }
 
