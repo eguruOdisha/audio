@@ -1706,6 +1706,9 @@ function displayAnswer(answer, audioUrl) {
     
     const containsHTML = /<br>|<\/br>|<p>|<\/p>|<div>|<\/div>|<ul>|<\/ul>|<li>|<\/li>|<strong>|<\/strong>|<b>|<\/b>|<i>|<\/i>/i.test(answer);
     
+    // Create unique ID for this answer
+    const answerId = 'answer-text-' + Date.now();
+    
     container.innerHTML = `
         <div style="background: white; border-radius: 10px; padding: 20px; margin: 0; box-shadow: 0 3px 15px rgba(0,0,0,0.1);">
             <div style="color: #667eea; font-weight: bold; font-size: 16px; margin-bottom: 15px; padding-bottom: 10px; border-bottom: 2px solid #667eea;">
@@ -1714,14 +1717,17 @@ function displayAnswer(answer, audioUrl) {
             <div id="typewriterText" style="color: #000; font-size: 15px; line-height: 1.6; ${containsHTML ? '' : 'white-space: pre-wrap;'} text-align: justify;">
             </div>
             
+            <!-- Hidden div for translation with full text -->
+            <div id="${answerId}" style="display: none;">${answer.replace(/<br>/g, '\n').replace(/<[^>]*>/g, '')}</div>
+            
             <div style="margin-top: 15px; display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; padding: 10px 0; border-top: 1px solid #e0e0e0;">
-                <button onclick="openTranslation('or')" style="background: linear-gradient(135deg, #FF6B6B, #FF8E53); color: white; border: none; padding: 8px 16px; border-radius: 20px; font-size: 12px; font-weight: 600; cursor: pointer; transition: all 0.3s ease; box-shadow: 0 2px 8px rgba(255, 107, 107, 0.3);">
+                <button onclick="translateTextInNewTab('${answerId}', 'or')" style="background: linear-gradient(135deg, #FF6B6B, #FF8E53); color: white; border: none; padding: 8px 16px; border-radius: 20px; font-size: 12px; font-weight: 600; cursor: pointer; transition: all 0.3s ease; box-shadow: 0 2px 8px rgba(255, 107, 107, 0.3);">
                     🌐 ଓଡ଼ିଆ (Odia)
                 </button>
-                <button onclick="openTranslation('bn')" style="background: linear-gradient(135deg, #4ECDC4, #44A08D); color: white; border: none; padding: 8px 16px; border-radius: 20px; font-size: 12px; font-weight: 600; cursor: pointer; transition: all 0.3s ease; box-shadow: 0 2px 8px rgba(78, 205, 196, 0.3);">
+                <button onclick="translateTextInNewTab('${answerId}', 'bn')" style="background: linear-gradient(135deg, #4ECDC4, #44A08D); color: white; border: none; padding: 8px 16px; border-radius: 20px; font-size: 12px; font-weight: 600; cursor: pointer; transition: all 0.3s ease; box-shadow: 0 2px 8px rgba(78, 205, 196, 0.3);">
                     🌐 বাংলা (Bengali)
                 </button>
-                <button onclick="openTranslation('hi')" style="background: linear-gradient(135deg, #667eea, #764ba2); color: white; border: none; padding: 8px 16px; border-radius: 20px; font-size: 12px; font-weight: 600; cursor: pointer; transition: all 0.3s ease; box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);">
+                <button onclick="translateTextInNewTab('${answerId}', 'hi')" style="background: linear-gradient(135deg, #667eea, #764ba2); color: white; border: none; padding: 8px 16px; border-radius: 20px; font-size: 12px; font-weight: 600; cursor: pointer; transition: all 0.3s ease; box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);">
                     🌐 हिंदी (Hindi)
                 </button>
             </div>
