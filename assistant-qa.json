@@ -564,7 +564,7 @@
     "content": [
       {
         "text": "Concept with Example - Subsection 1:<br><br><strong>Concept 1: Law's Name (कानून का नाम)</strong><br>This law is called the 'Bharatiya Nagarik Suraksha Sanhita, 2023'.<br>यह कानून 'भारतीय नागरिक सुरक्षा संहिता, 2023' कहलाता है।<br>• <strong>Example (उदाहरण):</strong> Just like your name is Raj or Priya, this law's name is BNSS, 2023.<br>जैसे आपका नाम राज या प्रिया है, वैसे ही इस कानून का नाम BNSS, 2023 है।<br><br><strong>Concept 2: English Translation (अंग्रेजी अनुवाद)</strong><br>In English, it means 'Indian Citizen Security Code, 2023'.<br>अंग्रेजी में, इसका अर्थ है 'इंडियन सिटीजन सिक्योरिटी कोड, 2023'।<br>• <strong>Example (उदाहरण):</strong> Like 'Vidyalaya' means 'School' in English, BNSS means 'Indian Citizen Security Code'.<br>जैसे 'विद्यालय' का अंग्रेजी में मतलब 'स्कूल' होता है, वैसे ही BNSS का मतलब 'इंडियन सिटीजन सिक्योरिटी कोड' है।",
-        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS1-CONCEPT.mp3"
+        "audioUrl": "BNSS-TTS-S1-SS1-CONCEPT.mp3"
       }
     ]
   },
@@ -3257,6 +3257,7 @@
     }
   }
 }
+
 
 
 
