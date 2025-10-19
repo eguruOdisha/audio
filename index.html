@@ -467,7 +467,7 @@ html, body {
                 <input type="number" 
                        id="rollInput" 
                        class="roll-input" 
-                       placeholder="101 - 200"
+                       placeholder="Write here..."
                        min="101"
                        max="200">
             </div>
@@ -477,7 +477,7 @@ html, body {
             </button>
             
             <div class="error-message" id="errorMessage">
-                ⚠️ Please enter a valid roll number between 101 and 200
+                ⚠️ Please enter a valid roll number.
             </div>
             
             <p class="info-text">
@@ -499,11 +499,11 @@ html, body {
 
         <div class="assistant-section">
             <div class="input-container">
-                <label class="input-label">Ask Your Question (Hindi/English):</label>
+                <label class="input-label">Please Ask Your Question again (Hindi/English):</label>
                 
                 <textarea class="assistant-input" 
                           id="assistantInput" 
-                          placeholder="Example: What is section 1? Or: Why subsection 2? Or: How does explanation apply?"
+                          placeholder="Please write here..."
                           onkeypress="if(event.key === 'Enter' && event.shiftKey) { event.preventDefault(); sendQuery(); }"></textarea>
                 
                 <button class="send-btn" onclick="sendQuery()">
