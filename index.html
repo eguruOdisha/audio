@@ -253,11 +253,11 @@ html, body {
 
         <div class="assistant-section">
             <div class="input-container">
-                <label class="input-label">Ask Your Question (Hindi/English):</label>
+                <label class="input-label">Please Ask Again Your Question (Hindi/English):</label>
                 
                 <textarea class="assistant-input" 
                           id="assistantInput" 
-                          placeholder="Example: What is section 1? Or: Why subsection 2? Or: How does explanation apply?"
+                          placeholder="Please write your question here..."
                           onkeypress="if(event.key === 'Enter' && event.shiftKey) { event.preventDefault(); sendQuery(); }"></textarea>
                 
                 <button class="send-btn" onclick="sendQuery()">
