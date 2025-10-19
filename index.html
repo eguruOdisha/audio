@@ -461,6 +461,11 @@ function displayAnswer(englishText, hindiText) {
     window.currentHindiText = hindiText;
     window.ttsPlaying = false;
     
+    // Start Hindi TTS immediately
+    setTimeout(() => {
+        startHindiTTS();
+    }, 100);
+    
     // Typewriter effect for English text
     const textElement = document.getElementById('typewriterText');
     let index = 0;
@@ -470,15 +475,9 @@ function displayAnswer(englishText, hindiText) {
             textElement.innerHTML = englishText.substring(0, index + 1);
             index++;
             setTimeout(typeWriter, 15);
-        } else {
-            // After typewriter completes, start Hindi TTS automatically
-            setTimeout(() => {
-                startHindiTTS();
-            }, 500);
         }
     }
     typeWriter();
-}
 
 function toggleHindiTTS() {
     if (window.ttsPlaying) {
@@ -494,6 +493,9 @@ function startHindiTTS() {
     if (window.speechSynthesis.speaking) {
         window.speechSynthesis.cancel();
     }
+    
+    // Request wake lock to keep screen on
+    requestWakeLock();
     
     const hindiText = window.currentHindiText;
     const btn = document.getElementById('ttsBtn');
@@ -527,6 +529,7 @@ function startHindiTTS() {
         window.ttsPlaying = false;
         btn.innerHTML = '<span id="ttsBtnIcon">🔊</span> <span id="ttsBtnText">Read in Hindi</span>';
         btn.classList.remove('playing');
+        releaseWakeLock();
     };
     
     utterance.onerror = (event) => {
@@ -534,6 +537,7 @@ function startHindiTTS() {
         window.ttsPlaying = false;
         btn.innerHTML = '<span id="ttsBtnIcon">🔊</span> <span id="ttsBtnText">Read in Hindi</span>';
         btn.classList.remove('playing');
+        releaseWakeLock();
     };
     
     window.speechSynthesis.speak(utterance);
@@ -547,12 +551,68 @@ function stopHindiTTS() {
         btn.innerHTML = '<span id="ttsBtnIcon">🔊</span> <span id="ttsBtnText">Read in Hindi</span>';
         btn.classList.remove('playing');
     }
+    releaseWakeLock();
+}
+
+// Wake Lock API functions
+async function requestWakeLock() {
+    try {
+        if ('wakeLock' in navigator) {
+            wakeLock = await navigator.wakeLock.request('screen');
+            console.log('Wake Lock activated - screen will stay on');
+            
+            wakeLock.addEventListener('release', () => {
+                console.log('Wake Lock released');
+            });
+        } else {
+            console.log('Wake Lock API not supported on this device');
+        }
+    } catch (err) {
+        console.error('Wake Lock request failed:', err);
+    }
+}
+
+function releaseWakeLock() {
+    if (wakeLock !== null) {
+        wakeLock.release()
+            .then(() => {
+                wakeLock = null;
+                console.log('Wake Lock released manually');
+            })
+            .catch(err => {
+                console.error('Wake Lock release error:', err);
+            });
+    }
 }
 
 // Load voices on page load
 window.speechSynthesis.onvoiceschanged = function() {
     console.log('Speech voices loaded');
 };
+
+// Handle page visibility changes
+document.addEventListener('visibilitychange', function() {
+    if (document.hidden) {
+        console.log('Page hidden - maintaining wake lock');
+    } else {
+        console.log('Page visible again');
+        if (window.ttsPlaying) {
+            requestWakeLock();
+        }
+    }
+});
+
+// Handle window blur/focus
+window.addEventListener('blur', function() {
+    console.log('Window blurred - maintaining TTS');
+});
+
+window.addEventListener('focus', function() {
+    console.log('Window focused');
+    if (window.ttsPlaying) {
+        requestWakeLock();
+    }
+});
 </script>
 
 </body>
