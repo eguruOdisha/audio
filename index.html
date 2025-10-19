@@ -367,23 +367,9 @@ In English, it means 'Indian Citizen Security Code, 2023'.
             .trim();
     },
     
-    // Extract ONLY Hindi text for TTS
-    getHindiText: function() {
-        const lines = this.content.split('\n');
-        let hindiText = '';
-        
-        for (let line of lines) {
-            // Check if line contains Hindi characters
-            if (line.match(/[ा-ॿ]/)) {
-                // Extract only the Hindi part (remove English)
-                const hindiMatch = line.match(/[ा-ॿ][^a-zA-Z]*/g);
-                if (hindiMatch) {
-                    hindiText += hindiMatch.join(' ') + ' ';
-                }
-            }
-        }
-        
-        return hindiText.trim();
+    // Get full text (English + Hindi) for TTS
+    getFullText: function() {
+        return this.content;
     }
 };
 
@@ -440,7 +426,7 @@ function displayAnswer() {
             <div id="typewriterText" style="color: #000; font-size: 15px; line-height: 1.8; text-align: justify;">
             </div>
             
-            <div id="${answerId}" style="display: none;">${knowledgeBase.getHindiText()}</div>
+            <div id="${answerId}" style="display: none;">${knowledgeBase.getFullText()}</div>
             
             <div style="margin-top: 20px; text-align: center; padding-top: 15px; border-top: 1px solid #e0e0e0;">
                 <button id="hindiTTSBtn" onclick="toggleHindiTTS()" class="play-stop-btn">
@@ -450,8 +436,8 @@ function displayAnswer() {
         </div>
     `;
     
-    // Store ONLY Hindi text for TTS
-    window.currentAnswerText = knowledgeBase.getHindiText();
+    // Store the full text (with Hindi) for TTS
+    window.currentAnswerText = knowledgeBase.getFullText();
     window.isHindiTTSPlaying = false;
     
     // Typewriter effect for display text
@@ -679,29 +665,7 @@ document.addEventListener('visibilitychange', async () => {
 });
 
 window.addEventListener('load', function() {
-    console.log('🚀 Page loaded successfully!');
     console.log('🔊 Initializing speech synthesis...');
-    
-    // Test if JavaScript is working
-    try {
-        const testDiv = document.createElement('div');
-        console.log('✅ DOM manipulation working');
-    } catch (e) {
-        console.error('❌ DOM Error:', e);
-        alert('JavaScript Error: ' + e.message);
-    }
-    
-    // Test knowledge base
-    try {
-        const englishText = knowledgeBase.getEnglishText();
-        const hindiText = knowledgeBase.getHindiText();
-        console.log('✅ Knowledge base loaded');
-        console.log('📝 English text length:', englishText.length);
-        console.log('🇮🇳 Hindi text length:', hindiText.length);
-    } catch (e) {
-        console.error('❌ Knowledge base error:', e);
-        alert('Knowledge Base Error: ' + e.message);
-    }
     
     if ('speechSynthesis' in window) {
         const loadVoices = () => {
@@ -719,17 +683,12 @@ window.addEventListener('load', function() {
         loadVoices();
         window.speechSynthesis.onvoiceschanged = loadVoices;
         setTimeout(loadVoices, 100);
-    } else {
-        console.log('❌ Speech synthesis not supported');
     }
     
     document.addEventListener('touchstart', function() {
         const audioContext = new (window.AudioContext || window.webkitAudioContext)();
         audioContext.resume();
     }, { once: true });
-    
-    // Show ready message
-    console.log('✅ Assistant is ready!');
 });
 </script>
 
