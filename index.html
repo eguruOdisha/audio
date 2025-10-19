@@ -196,6 +196,26 @@ html, body {
     animation: blink 1s infinite;
 }
 
+.translate-btn {
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.translate-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+}
+
 @keyframes blink {
     0%, 100% { opacity: 1; }
     50% { opacity: 0.7; }
@@ -454,6 +474,23 @@ function displayAnswer(englishText, hindiText) {
             <div style="margin-top: 20px; display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
                 ${ttsButtonHTML}
             </div>
+            
+            <div style="margin-top: 15px; padding-top: 15px; border-top: 2px solid #e0e0e0;">
+                <p style="text-align: center; color: #667eea; font-weight: bold; margin-bottom: 10px; font-size: 14px;">
+                    Translate to:
+                </p>
+                <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+                    <button onclick="translateToLanguage('hi')" class="translate-btn" style="background: linear-gradient(135deg, #FF9800, #F57C00);">
+                        🇮🇳 Hindi
+                    </button>
+                    <button onclick="translateToLanguage('or')" class="translate-btn" style="background: linear-gradient(135deg, #2196F3, #1976D2);">
+                        🇮🇳 Odia
+                    </button>
+                    <button onclick="translateToLanguage('bn')" class="translate-btn" style="background: linear-gradient(135deg, #4CAF50, #388E3C);">
+                        🇮🇳 Bengali
+                    </button>
+                </div>
+            </div>
         </div>
     `;
     
@@ -504,7 +541,7 @@ function startHindiTTS() {
     
     const utterance = new SpeechSynthesisUtterance(hindiText);
     utterance.lang = 'hi-IN';
-    utterance.rate = 0.9;
+    utterance.rate = 0.7;
     utterance.pitch = 1.0;
     utterance.volume = 1.0;
     
@@ -591,6 +628,28 @@ function releaseWakeLock() {
                 console.error('Wake Lock release error:', err);
             });
     }
+}
+
+// Translation function
+function translateToLanguage(langCode) {
+    const textElement = document.getElementById('typewriterText');
+    if (!textElement) {
+        alert('No text available to translate');
+        return;
+    }
+    
+    const textToTranslate = textElement.innerText || textElement.textContent;
+    
+    if (!textToTranslate) {
+        alert('No text available to translate');
+        return;
+    }
+    
+    // Google Translate URL
+    const googleTranslateUrl = `https://translate.google.com/?sl=en&tl=${langCode}&text=${encodeURIComponent(textToTranslate)}&op=translate`;
+    
+    // Open in new tab
+    window.open(googleTranslateUrl, '_blank');
 }
 
 // Load voices on page load
