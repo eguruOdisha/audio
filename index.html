@@ -478,7 +478,9 @@ function displayAnswer(englishText, hindiText) {
         }
     }
     typeWriter();
+}
 
+// TTS Functions - MOVED TO GLOBAL SCOPE
 function toggleHindiTTS() {
     if (window.ttsPlaying) {
         stopHindiTTS();
@@ -521,22 +523,28 @@ function startHindiTTS() {
     
     utterance.onstart = () => {
         window.ttsPlaying = true;
-        btn.innerHTML = '<span id="ttsBtnIcon">⏸️</span> <span id="ttsBtnText">Stop Reading</span>';
-        btn.classList.add('playing');
+        if (btn) {
+            btn.innerHTML = '<span id="ttsBtnIcon">⏸️</span> <span id="ttsBtnText">Stop Reading</span>';
+            btn.classList.add('playing');
+        }
     };
     
     utterance.onend = () => {
         window.ttsPlaying = false;
-        btn.innerHTML = '<span id="ttsBtnIcon">🔊</span> <span id="ttsBtnText">Read in Hindi</span>';
-        btn.classList.remove('playing');
+        if (btn) {
+            btn.innerHTML = '<span id="ttsBtnIcon">🔊</span> <span id="ttsBtnText">Read in Hindi</span>';
+            btn.classList.remove('playing');
+        }
         releaseWakeLock();
     };
     
     utterance.onerror = (event) => {
         console.error('TTS Error:', event.error);
         window.ttsPlaying = false;
-        btn.innerHTML = '<span id="ttsBtnIcon">🔊</span> <span id="ttsBtnText">Read in Hindi</span>';
-        btn.classList.remove('playing');
+        if (btn) {
+            btn.innerHTML = '<span id="ttsBtnIcon">🔊</span> <span id="ttsBtnText">Read in Hindi</span>';
+            btn.classList.remove('playing');
+        }
         releaseWakeLock();
     };
     
