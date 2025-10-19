@@ -182,6 +182,7 @@ html, body {
     align-items: center;
     gap: 8px;
     box-shadow: 0 4px 12px rgba(255, 107, 107, 0.3);
+    margin: 5px;
 }
 
 .play-stop-btn:hover {
@@ -220,7 +221,6 @@ html, body {
     </style>
 </head>
 <body>
-<audio id="background-audio" preload="auto"></audio>
 
     <div class="container">
         <div class="header">
@@ -251,7 +251,6 @@ html, body {
 
 <script>
 let assistantQAData = null;
-let currentAudio = null;
 let isPlaying = false;
 
 // WH Question mapping
@@ -271,7 +270,7 @@ const CATEGORY_KEYWORDS = {
     'subsection_2': ['subsection 2', 'subsection-2', 'ss2', 'ss-2', 'second subsection', 'nagaland', 'tribal'],
     'explanation_to_subsection_2': ['explanation', 'explanation 2', 'tribal areas definition', 'explain subsection 2'],
     'subsection_3': ['subsection 3', 'subsection-3', 'ss3', 'ss-3', 'third subsection', 'commencement', 'force'],
-    'footnote_1': ['footnote', 'footnote 1', 'notifications', 'july 2024']
+    'footnote_1': ['footnote', 'footnote 1', 'notification', 'july 2024']
 };
 
 // Load data from GitHub
@@ -358,18 +357,18 @@ function getAnswerText(category, whType) {
 
     // Get WH response or default to 'main'
     const whKey = whType || 'main';
-    if (targetObj[whKey] && targetObj[whKey].text) {
+    if (targetObj[whKey] && targetObj[whKey].english && targetObj[whKey].hindi) {
         return {
-            text: targetObj[whKey].text,
-            audioUrl: targetObj[whKey].audioUrl || null
+            english: targetObj[whKey].english,
+            hindi: targetObj[whKey].hindi
         };
     }
 
     // Fallback to 'main' if WH key not found
-    if (targetObj.main && targetObj.main.text) {
+    if (targetObj.main && targetObj.main.english && targetObj.main.hindi) {
         return {
-            text: targetObj.main.text,
-            audioUrl: targetObj.main.audioUrl || null
+            english: targetObj.main.english,
+            hindi: targetObj.main.hindi
         };
     }
 
@@ -409,14 +408,14 @@ function sendQuery() {
         if (whQuestion && category) {
             const answer = getAnswerText(category, whQuestion);
             if (answer) {
-                displayAnswer(answer.text, answer.audioUrl);
+                displayAnswer(answer.english, answer.hindi);
                 return;
             }
         } else if (category) {
             // No specific WH question, show main content
             const answer = getAnswerText(category, null);
             if (answer) {
-                displayAnswer(answer.text, answer.audioUrl);
+                displayAnswer(answer.english, answer.hindi);
                 return;
             }
         }
@@ -429,22 +428,15 @@ function sendQuery() {
                 </p>
             </div>
         `;
-    }, 1000);
+    }, 800);
 }
 
-function displayAnswer(answerText, audioUrl) {
+function displayAnswer(englishText, hindiText) {
     const container = document.getElementById('responseContainer');
-    const answerId = 'answer-text-' + Date.now();
-    
-    const audioButtonHTML = audioUrl ? `
-        <button id="playBtn" onclick="playAudioAnswer('${audioUrl}')" class="play-stop-btn">
-            <span>▶️</span> Play Audio
-        </button>
-    ` : '';
     
     const ttsButtonHTML = `
-        <button id="ttsBtn" onclick="startTextToSpeech('${answerId}')" class="play-stop-btn" style="background: linear-gradient(135deg, #FF6B6B, #FF8E53);">
-            <span>🔊</span> Read in Hindi
+        <button id="ttsBtn" onclick="toggleHindiTTS()" class="play-stop-btn" style="background: linear-gradient(135deg, #FF6B6B, #FF8E53);">
+            <span id="ttsBtnIcon">🔊</span> <span id="ttsBtnText">Read in Hindi</span>
         </button>
     `;
     
@@ -456,102 +448,104 @@ function displayAnswer(answerText, audioUrl) {
             <div id="typewriterText" style="color: #333; font-size: 15px; line-height: 1.8; text-align: justify;">
             </div>
             
-            <div id="${answerId}" style="display: none;">${answerText.replace(/<br>/g, '\n').replace(/<[^>]*>/g, '')}</div>
+            <div id="hindiText" style="display: none;">${hindiText}</div>
             
             <div style="margin-top: 20px; display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-                ${audioButtonHTML}
                 ${ttsButtonHTML}
             </div>
         </div>
     `;
     
-    // Typewriter effect
+    // Store hindi text for TTS
+    window.currentHindiText = hindiText;
+    window.ttsPlaying = false;
+    
+    // Typewriter effect for English text
     const textElement = document.getElementById('typewriterText');
     let index = 0;
     
     function typeWriter() {
-        if (index < answerText.length) {
-            textElement.innerHTML = answerText.substring(0, index + 1);
+        if (index < englishText.length) {
+            textElement.innerHTML = englishText.substring(0, index + 1);
             index++;
             setTimeout(typeWriter, 15);
+        } else {
+            // After typewriter completes, start Hindi TTS automatically
+            setTimeout(() => {
+                startHindiTTS();
+            }, 500);
         }
     }
     typeWriter();
 }
 
-function playAudioAnswer(audioUrl) {
-    const btn = document.getElementById('playBtn');
-    
-    if (isPlaying && currentAudio) {
-        currentAudio.pause();
-        currentAudio.currentTime = 0;
-        isPlaying = false;
-        btn.innerHTML = '<span>▶️</span> Play Audio';
-        btn.classList.remove('playing');
-        return;
+function toggleHindiTTS() {
+    if (window.ttsPlaying) {
+        stopHindiTTS();
+    } else {
+        startHindiTTS();
     }
-    
-    currentAudio = new Audio(audioUrl);
-    currentAudio.addEventListener('ended', () => {
-        isPlaying = false;
-        btn.innerHTML = '<span>▶️</span> Play Audio';
-        btn.classList.remove('playing');
-    });
-    
-    currentAudio.play().catch(error => {
-        console.error('Audio playback failed:', error);
-        alert('Audio playback failed. Please check your internet connection.');
-    });
-    
-    isPlaying = true;
-    btn.innerHTML = '<span>⏸️</span> Stop Audio';
-    btn.classList.add('playing');
 }
 
-function startTextToSpeech(elementId) {
-    const element = document.getElementById(elementId);
-    if (!element) return;
-    
-    const text = element.textContent || element.innerText;
-    if (!text) return;
-    
-    const btn = document.getElementById('ttsBtn');
+function startHindiTTS() {
+    if (!window.currentHindiText) return;
     
     if (window.speechSynthesis.speaking) {
         window.speechSynthesis.cancel();
-        btn.innerHTML = '<span>🔊</span> Read in Hindi';
-        btn.classList.remove('playing');
-        return;
     }
     
-    const utterance = new SpeechSynthesisUtterance(text);
+    const hindiText = window.currentHindiText;
+    const btn = document.getElementById('ttsBtn');
+    
+    const utterance = new SpeechSynthesisUtterance(hindiText);
     utterance.lang = 'hi-IN';
     utterance.rate = 0.9;
     utterance.pitch = 1.0;
     utterance.volume = 1.0;
     
+    // Get Hindi voice
     const voices = window.speechSynthesis.getVoices();
-    const hindiVoice = voices.find(v => v.lang === 'hi-IN' || v.lang.startsWith('hi'));
+    const hindiVoice = voices.find(v => 
+        v.lang === 'hi-IN' || 
+        v.lang === 'hi' || 
+        v.lang.startsWith('hi-') ||
+        v.name.toLowerCase().includes('hindi')
+    );
+    
     if (hindiVoice) {
         utterance.voice = hindiVoice;
     }
     
     utterance.onstart = () => {
-        btn.innerHTML = '<span>⏸️</span> Stop Reading';
+        window.ttsPlaying = true;
+        btn.innerHTML = '<span id="ttsBtnIcon">⏸️</span> <span id="ttsBtnText">Stop Reading</span>';
         btn.classList.add('playing');
     };
     
     utterance.onend = () => {
-        btn.innerHTML = '<span>🔊</span> Read in Hindi';
+        window.ttsPlaying = false;
+        btn.innerHTML = '<span id="ttsBtnIcon">🔊</span> <span id="ttsBtnText">Read in Hindi</span>';
         btn.classList.remove('playing');
     };
     
-    utterance.onerror = () => {
-        btn.innerHTML = '<span>🔊</span> Read in Hindi';
+    utterance.onerror = (event) => {
+        console.error('TTS Error:', event.error);
+        window.ttsPlaying = false;
+        btn.innerHTML = '<span id="ttsBtnIcon">🔊</span> <span id="ttsBtnText">Read in Hindi</span>';
         btn.classList.remove('playing');
     };
     
     window.speechSynthesis.speak(utterance);
+}
+
+function stopHindiTTS() {
+    window.speechSynthesis.cancel();
+    window.ttsPlaying = false;
+    const btn = document.getElementById('ttsBtn');
+    if (btn) {
+        btn.innerHTML = '<span id="ttsBtnIcon">🔊</span> <span id="ttsBtnText">Read in Hindi</span>';
+        btn.classList.remove('playing');
+    }
 }
 
 // Load voices on page load
