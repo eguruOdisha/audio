@@ -168,72 +168,36 @@ html, body {
     display: block;
 }
 
-.audio-control-section {
-    background: transparent;
-    padding: 0;
-    margin: 0 15px 5px 15px;
-    border-radius: 0;
-    border: none;
-}
-
-.audio-toggle {
-    display: flex;
-    align-items: center;
-    gap: 4px;
-    margin-bottom: 0;
-}
-
-.audio-checkbox {
-    width: 12px;
-    height: 12px;
-    cursor: pointer;
-}
-
-.audio-label {
-    color: #667eea;
-    font-weight: 400;
-    font-size: 10px;
-    cursor: pointer;
-    line-height: 1;
-}
-
 .play-stop-btn {
-    background: linear-gradient(135deg, #4CAF50, #45a049);
+    background: linear-gradient(135deg, #FF6B6B, #FF8E53);
     color: white;
     border: none;
-    padding: 6px 8px;
-    border-radius: 20px;
-    font-size: 12px;
-    font-weight: 500;
+    padding: 12px 24px;
+    border-radius: 25px;
+    font-size: 14px;
+    font-weight: 600;
     cursor: pointer;
     transition: all 0.3s ease;
     display: flex;
     align-items: center;
-    gap: 4px;
-    box-shadow: 0 4px 8px rgba(76, 175, 80, 0.4);
-    width: 100%;
-    justify-content: center;
+    gap: 8px;
+    box-shadow: 0 4px 15px rgba(255, 107, 107, 0.4);
+    margin: 0 auto;
 }
 
 .play-stop-btn:hover {
     transform: translateY(-2px);
-    box-shadow: 0 6px 20px rgba(76, 175, 80, 0.5);
+    box-shadow: 0 6px 20px rgba(255, 107, 107, 0.5);
 }
 
 .play-stop-btn.playing {
     background: linear-gradient(135deg, #f44336, #d32f2f);
-    box-shadow: 0 4px 15px rgba(244, 67, 54, 0.4);
     animation: blink 1s infinite;
 }
 
 @keyframes blink {
     0%, 100% { opacity: 1; }
     50% { opacity: 0.7; }
-}
-
-.play-stop-btn:disabled {
-    opacity: 0.5;
-    cursor: not-allowed;
 }
 
 @keyframes fadeIn {
@@ -255,32 +219,6 @@ html, body {
     pointer-events: none;
 }
 
-@keyframes pulse {
-    0%, 100% { 
-        transform: scale(1); 
-        box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4);
-    }
-    50% { 
-        transform: scale(1.02); 
-        box-shadow: 0 8px 30px rgba(102, 126, 234, 0.6);
-    }
-}
-
-#hindiTTSBtn {
-    transition: all 0.3s ease;
-}
-
-#hindiTTSBtn:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 6px 20px rgba(255, 107, 107, 0.6) !important;
-}
-
-#hindiTTSBtn.playing {
-    background: linear-gradient(135deg, #f44336, #d32f2f) !important;
-    animation: blink 1s infinite;
-}
-
-/* Desktop Styles */
 @media (min-width: 769px) {
     .container {
         max-width: 100%;
@@ -383,19 +321,11 @@ html, body {
 
         <div class="assistant-section">
             <div class="input-container">
-                <label class="input-label">💬 Ask Your Question (Hindi/English):</label>
-                
-                <!-- Audio Control Section - Above input -->
-                <div class="audio-control-section">
-                    <div class="audio-toggle">
-                        <input type="checkbox" id="autoplayCheckbox" class="audio-checkbox" checked onchange="toggleAutoplay()">
-                        <label for="autoplayCheckbox" class="audio-label">🔊 Auto-play audio answers</label>
-                    </div>
-                </div>
+                <label class="input-label">💬 Ask Your Question About BNSS Section-1:</label>
                 
                 <textarea class="assistant-input" 
                           id="assistantInput" 
-                          placeholder="Please write here....."
+                          placeholder="Ask anything about BNSS Section-1 Subsection 1 (e.g., 'What is the law's name?', 'Explain concept 1', 'Tell me about English translation')..."
                           onkeypress="if(event.key === 'Enter' && event.shiftKey) { event.preventDefault(); sendQuery(); }"></textarea>
                 
                 <button class="send-btn" onclick="sendQuery()">
@@ -408,48 +338,54 @@ html, body {
     </div>
 
 <script>
-let currentAudio = null;
-let autoplayEnabled = true;
 let wakeLock = null;
 let backgroundAudioInterval = null;
-let assistantQAData = null;
 
-// Load assistant data from GitHub
-async function loadAssistantData() {
-    try {
-        console.log('🔄 Loading assistant data...');
-        const timestamp = new Date().getTime();
-        const response = await fetch(`https://raw.githubusercontent.com/eguruOdisha/audio/main/assistant-qa.json?t=${timestamp}`, {
-            method: 'GET',
-            headers: {
-                'Accept': 'application/json',
-            },
-            cache: 'no-cache'
-        });
+// The knowledge base - your BNSS content
+const knowledgeBase = {
+    content: `Concept with Example - Subsection 1:
+
+Concept 1: Law's Name (कानून का नाम)
+This law is called the 'Bharatiya Nagarik Suraksha Sanhita, 2023'.
+यह कानून 'भारतीय नागरिक सुरक्षा संहिता, 2023' कहलाता है।
+• Example (उदाहरण): Just like your name is Raj or Priya, this law's name is BNSS, 2023.
+जैसे आपका नाम राज या प्रिया है, वैसे ही इस कानून का नाम BNSS, 2023 है।
+
+Concept 2: English Translation (अंग्रेजी अनुवाद)
+In English, it means 'Indian Citizen Security Code, 2023'.
+अंग्रेजी में, इसका अर्थ है 'इंडियन सिटीजन सिक्योरिटी कोड, 2023'।
+• Example (उदाहरण): Like 'Vidyalaya' means 'School' in English, BNSS means 'Indian Citizen Security Code'.
+जैसे 'विद्यालय' का अंग्रेजी में मतलब 'स्कूल' होता है, वैसे ही BNSS का मतलब 'इंडियन सिटीजन सिक्योरिटी कोड' है।`,
+    
+    // Extract only English text for display
+    getEnglishText: function() {
+        return this.content
+            .split('\n')
+            .filter(line => !line.match(/[ा-ॿ]/)) // Remove lines with Hindi characters
+            .join('\n')
+            .replace(/\(.*?\)/g, '') // Remove parenthetical translations
+            .trim();
+    },
+    
+    // Extract ONLY Hindi text for TTS
+    getHindiText: function() {
+        const lines = this.content.split('\n');
+        let hindiText = '';
         
-        if (!response.ok) {
-            throw new Error(`HTTP error! status: ${response.status}`);
+        for (let line of lines) {
+            // Check if line contains Hindi characters
+            if (line.match(/[ा-ॿ]/)) {
+                // Extract only the Hindi part (remove English)
+                const hindiMatch = line.match(/[ा-ॿ][^a-zA-Z]*/g);
+                if (hindiMatch) {
+                    hindiText += hindiMatch.join(' ') + ' ';
+                }
+            }
         }
         
-        const data = await response.json();
-        assistantQAData = data;
-        console.log('✅ Assistant data loaded successfully');
-        console.log('📊 Data structure:', Object.keys(assistantQAData));
-        
-    } catch (error) {
-        console.error('❌ Failed to load assistant data:', error);
-        assistantQAData = null;
-        alert('⚠️ Failed to load database. Please refresh the page.');
+        return hindiText.trim();
     }
-}
-
-// Load data immediately
-loadAssistantData();
-
-function toggleAutoplay() {
-    autoplayEnabled = document.getElementById('autoplayCheckbox').checked;
-    console.log('Autoplay:', autoplayEnabled ? 'Enabled' : 'Disabled');
-}
+};
 
 function sendQuery() {
     try {
@@ -461,15 +397,6 @@ function sendQuery() {
             return;
         }
         
-        if (!assistantQAData) {
-            alert('⚠️ Database not loaded yet. Please wait a moment and try again.');
-            return;
-        }
-        
-        const normalizedQuery = query.toLowerCase().replace(/\s+/g, ' ');
-        console.log('🔍 Query:', query);
-        console.log('🔍 Normalized:', normalizedQuery);
-        
         inputElement.value = '';
         
         const container = document.getElementById('responseContainer');
@@ -480,26 +407,9 @@ function sendQuery() {
             container.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
         }, 100);
         
-        // Search for answer in JSON data
+        // Display answer after a short delay for UX
         setTimeout(() => {
-            const response = findAnswerInJSON(normalizedQuery);
-            if (response) {
-                displayAnswer(response.text, response.audioUrl);
-            } else {
-                // If no match found, open Google search
-                const encodedQuery = encodeURIComponent(query);
-                const googleSearchUrl = `https://www.google.com/search?q=${encodedQuery}+BNSS`;
-                window.open(googleSearchUrl, '_blank');
-                
-                container.innerHTML = `
-                    <div style="background: linear-gradient(135deg, #fff3cd 0%, #ffe69c 100%); border-left: 5px solid #ffc107; border-radius: 12px; padding: 20px; margin: 15px;">
-                        <p style="color: #856404; font-size: 15px; margin: 0; text-align: center;">
-                            ℹ️ I couldn't find a specific answer in my database.<br>
-                            Opening Google search for: <strong>"${query}"</strong>
-                        </p>
-                    </div>
-                `;
-            }
+            displayAnswer();
         }, 1000);
         
     } catch (error) {
@@ -508,347 +418,61 @@ function sendQuery() {
     }
 }
 
-function findAnswerInJSON(query) {
-    if (!assistantQAData || !assistantQAData.section1) {
-        return null;
-    }
-    
-    console.log('🔍 Searching in JSON for:', query);
-    
-    // Check for Bare Act
-    if (query.match(/bare\s*act|bare\s*section/i) && !query.match(/concept/i)) {
-        console.log('✅ Bare Act matched');
-        return findCategoryExplanation('bare_act');
-    }
-    
-    // Check for Subsection 1
-    if (query.match(/subsection\s*1/i) && !query.match(/concept/i)) {
-        console.log('✅ Subsection 1 matched');
-        return findCategoryExplanation('subsection_1');
-    }
-    
-    // Check for Subsection 2 (without explanation)
-    if (query.match(/subsection\s*2/i) && !query.match(/concept|explanation/i)) {
-        console.log('✅ Subsection 2 matched');
-        return findCategoryExplanation('subsection_2');
-    }
-    
-    // Check for Explanation to Subsection 2
-    if (query.match(/explanation.*subsection\s*2|subsection\s*2.*explanation/i) && !query.match(/concept/i)) {
-        console.log('✅ Explanation to Subsection 2 matched');
-        return findCategoryExplanation('explanation_subsection_2');
-    }
-    
-    // Check for Subsection 3
-    if (query.match(/subsection\s*3/i) && !query.match(/concept/i)) {
-        console.log('✅ Subsection 3 matched');
-        return findCategoryExplanation('subsection_3');
-    }
-    
-    // Check for Footnote
-    if (query.match(/footnote|foot\s*note/i) && !query.match(/concept/i)) {
-        console.log('✅ Footnote matched');
-        return findCategoryExplanation('footnote');
-    }
-    
-    // Check for Concept + Bare Act
-    if (query.match(/concept/) && query.match(/bare\s*act|bare\s*section/i)) {
-        console.log('✅ Concept + Bare Act matched');
-        return findConceptContent('bare_act');
-    }
-    
-    // Check for Concept + Subsection 1
-    if (query.match(/concept/) && query.match(/subsection\s*1/i)) {
-        console.log('✅ Concept + Subsection 1 matched');
-        return findConceptContent('subsection_1');
-    }
-    
-    // Check for Concept + Subsection 2 (without explanation)
-    if (query.match(/concept/) && query.match(/subsection\s*2/i) && !query.match(/explanation/i)) {
-        console.log('✅ Concept + Subsection 2 matched');
-        return findConceptContent('subsection_2');
-    }
-    
-    // Check for Concept + Explanation to Subsection 2
-    if (query.match(/concept/) && query.match(/explanation.*subsection\s*2|subsection\s*2.*explanation/i)) {
-        console.log('✅ Concept + Explanation to Subsection 2 matched');
-        return findConceptContent('explanation_to_subsection_2');
-    }
-    
-    // Check for Concept + Subsection 3
-    if (query.match(/concept/) && query.match(/subsection\s*3/i)) {
-        console.log('✅ Concept + Subsection 3 matched');
-        return findConceptContent('subsection_3');
-    }
-    
-    // Check for Concept + Footnote
-    if (query.match(/concept/) && query.match(/footnote|foot\s*note/i)) {
-        console.log('✅ Concept + Footnote matched');
-        return findConceptContent('footnote_1');
-    }
-    
-    console.log('❌ No match found in JSON');
-    return null;
-}
-
-function findCategoryExplanation(category) {
-    if (!assistantQAData || !assistantQAData.section1) {
-        console.error('❌ assistantQAData not loaded');
-        return null;
-    }
-    
-    console.log('🔍 Searching for explanation:', category);
-    
-    // Check in subsections first
-    if (assistantQAData.section1.subsections && assistantQAData.section1.subsections[category]) {
-        const subsection = assistantQAData.section1.subsections[category];
-        if (subsection.explanation && subsection.explanation.content && subsection.explanation.content.length > 0) {
-            console.log('✅ Found explanation in subsection');
-            return subsection.explanation.content[0];
-        }
-    }
-    
-    // Check direct properties
-    if (assistantQAData.section1[category]) {
-        const section = assistantQAData.section1[category];
-        if (section.explanation && section.explanation.content && section.explanation.content.length > 0) {
-            console.log('✅ Found explanation at section level');
-            return section.explanation.content[0];
-        }
-    }
-    
-    console.error('❌ No explanation found for', category);
-    return null;
-}
-
-function findConceptContent(category) {
-    if (!assistantQAData || !assistantQAData.section1) {
-        console.error('❌ assistantQAData not loaded');
-        return null;
-    }
-    
-    console.log('🔍 Searching for concept content:', category);
-    
-    if (category === 'explanation_to_subsection_2') {
-        if (assistantQAData.section1.explanation_to_subsection_2) {
-            const explanation = assistantQAData.section1.explanation_to_subsection_2;
-            
-            if (explanation.concept_with_example && 
-                explanation.concept_with_example.content && 
-                explanation.concept_with_example.content.length > 0) {
-                
-                console.log('✅ Found concept content in explanation_to_subsection_2');
-                return explanation.concept_with_example.content[0];
-            }
-        }
-    }
-    
-    if (category === 'footnote_1') {
-        if (assistantQAData.section1.footnote_1) {
-            const footnote = assistantQAData.section1.footnote_1;
-            
-            if (footnote.concept_with_example && 
-                footnote.concept_with_example.content && 
-                footnote.concept_with_example.content.length > 0) {
-                
-                console.log('✅ Found concept content in footnote_1');
-                return footnote.concept_with_example.content[0];
-            }
-        }
-    }
-    
-    if (assistantQAData.section1.subsections && 
-        assistantQAData.section1.subsections[category]) {
-        
-        const subsection = assistantQAData.section1.subsections[category];
-        
-        if (subsection.concept_with_example && 
-            subsection.concept_with_example.content && 
-            subsection.concept_with_example.content.length > 0) {
-            
-            console.log('✅ Found concept content in subsection');
-            return subsection.concept_with_example.content[0];
-        }
-    }
-    
-    if (assistantQAData.section1[category]) {
-        const section = assistantQAData.section1[category];
-        
-        if (section.concept_with_example && 
-            section.concept_with_example.content && 
-            section.concept_with_example.content.length > 0) {
-            
-            console.log('✅ Found concept content at section1 level');
-            return section.concept_with_example.content[0];
-        }
-    }
-    
-    console.error('❌ No concept content found for', category);
-    return null;
-}
-
-function displayAnswer(answer, audioUrl) {
+function displayAnswer() {
     const container = document.getElementById('responseContainer');
     
-    const hasValidAudio = audioUrl && 
-                          audioUrl.trim() !== '' && 
-                          (audioUrl.startsWith('http://') || audioUrl.startsWith('https://') || audioUrl.startsWith('blob:'));
+    // Get English-only text for display
+    const displayText = knowledgeBase.getEnglishText();
     
-    let audioControlHTML = '';
-    if (hasValidAudio) {
-        audioControlHTML = `
-            <div style="margin-top: 15px; display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-                <button id="playStopBtn" onclick="togglePlayStop()" class="play-stop-btn" style="flex: 1; min-width: 150px;">
-                    <span style="font-size: 18px;">▶️</span> Play Audio
-                </button>
-                <button id="hindiTTSBtn" onclick="toggleHindiTTS()" class="play-stop-btn" style="flex: 1; min-width: 150px; background: linear-gradient(135deg, #FF6B6B, #FF8E53);">
-                    <span style="font-size: 18px;">⏸️</span> Stop Reading
-                </button>
-            </div>
-        `;
-    } else {
-        audioControlHTML = `
-            <div style="margin-top: 15px; text-align: center;">
-                <button id="hindiTTSBtn" onclick="toggleHindiTTS()" class="play-stop-btn" style="background: linear-gradient(135deg, #FF6B6B, #FF8E53); width: auto; min-width: 180px;">
-                    <span style="font-size: 18px;">⏸️</span> Stop Reading
-                </button>
-            </div>
-        `;
-    }
-    
-    const containsHTML = /<br>|<\/br>|<p>|<\/p>|<div>|<\/div>|<ul>|<\/ul>|<li>|<\/li>|<strong>|<\/strong>|<b>|<\/b>|<i>|<\/i>/i.test(answer);
+    // Format the text with HTML
+    const formattedText = displayText
+        .replace(/Concept \d+:/g, '<br><br><strong>$&</strong>')
+        .replace(/• Example:/g, '<br>• <strong>Example:</strong>')
+        .replace(/\n/g, '<br>');
     
     const answerId = 'answer-text-' + Date.now();
     
     container.innerHTML = `
-        <div style="background: white; border-radius: 10px; padding: 20px; margin: 0; box-shadow: 0 3px 15px rgba(0,0,0,0.1);">
+        <div style="background: white; border-radius: 10px; padding: 20px; margin: 15px; box-shadow: 0 3px 15px rgba(0,0,0,0.1);">
             <div style="color: #667eea; font-weight: bold; font-size: 16px; margin-bottom: 15px; padding-bottom: 10px; border-bottom: 2px solid #667eea;">
-                📝 Answer:
+                📝 BNSS Section-1, Subsection 1:
             </div>
-            <div id="typewriterText" style="color: #000; font-size: 15px; line-height: 1.6; ${containsHTML ? '' : 'white-space: pre-wrap;'} text-align: justify;">
-            </div>
-            
-            <div id="${answerId}" style="display: none;">${answer.replace(/<br>/g, '\n').replace(/<[^>]*>/g, '')}</div>
-            
-            <div style="margin-top: 15px; display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; padding: 10px 0; border-top: 1px solid #e0e0e0;">
-                <button onclick="translateTextInNewTab('${answerId}', 'or')" style="background: linear-gradient(135deg, #FF6B6B, #FF8E53); color: white; border: none; padding: 8px 16px; border-radius: 20px; font-size: 12px; font-weight: 600; cursor: pointer; transition: all 0.3s ease; box-shadow: 0 2px 8px rgba(255, 107, 107, 0.3);">
-                    🌐 ଓଡ଼ିଆ (Odia)
-                </button>
-                <button onclick="translateTextInNewTab('${answerId}', 'bn')" style="background: linear-gradient(135deg, #4ECDC4, #44A08D); color: white; border: none; padding: 8px 16px; border-radius: 20px; font-size: 12px; font-weight: 600; cursor: pointer; transition: all 0.3s ease; box-shadow: 0 2px 8px rgba(78, 205, 196, 0.3);">
-                    🌐 বাংলা (Bengali)
-                </button>
-                <button onclick="translateTextInNewTab('${answerId}', 'hi')" style="background: linear-gradient(135deg, #667eea, #764ba2); color: white; border: none; padding: 8px 16px; border-radius: 20px; font-size: 12px; font-weight: 600; cursor: pointer; transition: all 0.3s ease; box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);">
-                    🌐 हिंदी (Hindi)
-                </button>
+            <div id="typewriterText" style="color: #000; font-size: 15px; line-height: 1.8; text-align: justify;">
             </div>
             
-            ${audioControlHTML}
+            <div id="${answerId}" style="display: none;">${knowledgeBase.getHindiText()}</div>
+            
+            <div style="margin-top: 20px; text-align: center; padding-top: 15px; border-top: 1px solid #e0e0e0;">
+                <button id="hindiTTSBtn" onclick="toggleHindiTTS()" class="play-stop-btn">
+                    <span style="font-size: 18px;">🔊</span> Read Aloud in Hindi
+                </button>
+            </div>
         </div>
     `;
     
-    window.currentAnswerText = answer.replace(/<br>/g, '\n').replace(/<[^>]*>/g, '');
-    window.currentAudioUrl = audioUrl;
+    // Store ONLY Hindi text for TTS
+    window.currentAnswerText = knowledgeBase.getHindiText();
     window.isHindiTTSPlaying = false;
     
-    // Start Hindi TTS immediately
-    startHindiTTS();
-    
-    if (autoplayEnabled && hasValidAudio && audioUrl) {
-        playAudio(audioUrl);
-    }
-    
+    // Typewriter effect for display text
     const textElement = document.getElementById('typewriterText');
     let index = 0;
     
-    if (containsHTML) {
-        function typeWriterHTML() {
-            if (index < answer.length) {
-                textElement.innerHTML = answer.substring(0, index + 1);
-                index++;
-                setTimeout(typeWriterHTML, 15);
-            }
+    function typeWriter() {
+        if (index < formattedText.length) {
+            textElement.innerHTML = formattedText.substring(0, index + 1);
+            index++;
+            setTimeout(typeWriter, 15);
         }
-        typeWriterHTML();
-    } else {
-        function typeWriter() {
-            if (index < answer.length) {
-                textElement.textContent += answer.charAt(index);
-                index++;
-                setTimeout(typeWriter, 20);
-            }
-        }
-        typeWriter();
     }
-}
-
-function playAudio(audioUrl) {
-    if (!audioUrl) return;
-    
-    if (currentAudio) {
-        currentAudio.pause();
-        currentAudio.currentTime = 0;
-    }
-    
-    currentAudio = new Audio(audioUrl);
-    
-    currentAudio.addEventListener('ended', () => {
-        updatePlayButton(false);
-    });
-    
-    currentAudio.addEventListener('play', () => {
-        updatePlayButton(true);
-    });
-    
-    currentAudio.play().catch(error => {
-        console.error('Audio playback failed:', error);
-        alert('⚠️ Audio playback failed. Please check your internet connection.');
-    });
-}
-
-function togglePlayStop() {
-    if (!currentAudio) return;
-    
-    if (currentAudio.paused) {
-        currentAudio.play();
-    } else {
-        currentAudio.pause();
-        updatePlayButton(false);
-    }
-}
-
-function updatePlayButton(isPlaying) {
-    const playBtn = document.getElementById('playStopBtn');
-    if (!playBtn) return;
-    
-    if (isPlaying) {
-        playBtn.innerHTML = '<span style="font-size: 18px;">⏸️</span> Stop Audio';
-        playBtn.classList.add('playing');
-    } else {
-        playBtn.innerHTML = '<span style="font-size: 18px;">▶️</span> Play Audio';
-        playBtn.classList.remove('playing');
-    }
-}
-
-function translateTextInNewTab(elementId, targetLanguage) {
-    const element = document.getElementById(elementId);
-    if (!element) return;
-    
-    const text = element.textContent || element.innerText;
-    if (!text || !text.trim()) return;
-    
-    const encodedText = encodeURIComponent(text.trim());
-    const languageCodes = { 'or': 'or', 'bn': 'bn', 'hi': 'hi' };
-    const langCode = languageCodes[targetLanguage];
-    
-    const googleTranslateUrl = `https://translate.google.com/?sl=en&tl=${langCode}&text=${encodedText}`;
-    window.open(googleTranslateUrl, '_blank');
+    typeWriter();
 }
 
 function startHindiTTS() {
-    console.log('🔊 Starting Hindi TTS with background support');
+    console.log('🔊 Starting Hindi TTS');
     
     if (!('speechSynthesis' in window)) {
-        console.error('❌ TTS not supported');
+        alert('❌ Text-to-speech not supported in your browser');
         return;
     }
     
@@ -858,19 +482,13 @@ function startHindiTTS() {
         return;
     }
     
-    console.log('📝 Text length:', text.length);
-    
     requestWakeLock();
     enableBackgroundAudio();
-    
-    if (window.currentAudio) {
-        window.currentAudio.pause();
-        window.currentAudio.currentTime = 0;
-    }
     
     window.speechSynthesis.cancel();
     
     setTimeout(() => {
+        // Clean the text for TTS
         let cleanText = text
             .replace(/<br\s*\/?>/gi, ' ')
             .replace(/<\/p>/gi, '. ')
@@ -880,10 +498,6 @@ function startHindiTTS() {
             .replace(/&amp;/g, '&')
             .replace(/\s+/g, ' ')
             .trim();
-        
-        if (cleanText.length > 3000) {
-            cleanText = cleanText.substring(0, 3000) + '...';
-        }
         
         const btn = document.getElementById('hindiTTSBtn');
         
@@ -904,6 +518,8 @@ function startHindiTTS() {
         if (hindiVoice) {
             utterance.voice = hindiVoice;
             console.log('✅ Using Hindi voice:', hindiVoice.name);
+        } else {
+            console.log('⚠️ No Hindi voice found, using default');
         }
         
         utterance.onstart = () => {
@@ -922,9 +538,8 @@ function startHindiTTS() {
             releaseWakeLock();
             stopBackgroundAudio();
             if (btn) {
-                btn.innerHTML = '<span style="font-size: 18px;">🔊</span> Read in Hindi';
+                btn.innerHTML = '<span style="font-size: 18px;">🔊</span> Read Aloud in Hindi';
                 btn.classList.remove('playing');
-                btn.style.background = 'linear-gradient(135deg, #FF6B6B, #FF8E53)';
             }
         };
         
@@ -934,9 +549,8 @@ function startHindiTTS() {
             releaseWakeLock();
             stopBackgroundAudio();
             if (btn) {
-                btn.innerHTML = '<span style="font-size: 18px;">🔊</span> Read in Hindi';
+                btn.innerHTML = '<span style="font-size: 18px;">🔊</span> Read Aloud in Hindi';
                 btn.classList.remove('playing');
-                btn.style.background = 'linear-gradient(135deg, #FF6B6B, #FF8E53)';
             }
         };
         
@@ -968,9 +582,8 @@ function stopHindiTTS() {
     
     const btn = document.getElementById('hindiTTSBtn');
     if (btn) {
-        btn.innerHTML = '<span style="font-size: 18px;">🔊</span> Read in Hindi';
+        btn.innerHTML = '<span style="font-size: 18px;">🔊</span> Read Aloud in Hindi';
         btn.classList.remove('playing');
-        btn.style.background = 'linear-gradient(135deg, #FF6B6B, #FF8E53)';
     }
 }
 
@@ -983,8 +596,6 @@ async function requestWakeLock() {
             wakeLock.addEventListener('release', () => {
                 console.log('🔓 Wake Lock released');
             });
-        } else {
-            console.log('⚠️ Wake Lock API not supported');
         }
     } catch (err) {
         console.error('❌ Wake Lock error:', err);
@@ -997,9 +608,6 @@ function releaseWakeLock() {
             .then(() => {
                 wakeLock = null;
                 console.log('✅ Wake Lock released manually');
-            })
-            .catch(err => {
-                console.error('❌ Wake Lock release error:', err);
             });
     }
 }
@@ -1007,10 +615,7 @@ function releaseWakeLock() {
 function enableBackgroundAudio() {
     const audioElement = document.getElementById('background-audio');
     
-    if (!audioElement) {
-        console.error('❌ Background audio element not found');
-        return;
-    }
+    if (!audioElement) return;
     
     const silentAudio = 'data:audio/wav;base64,UklGRigAAABXQVZFZm10IBIAAAABAAEARKwAAIhYAQACABAAAABkYXRhAgAAAAEA';
     
@@ -1018,9 +623,7 @@ function enableBackgroundAudio() {
     audioElement.loop = true;
     audioElement.volume = 0.01;
     
-    audioElement.play().then(() => {
-        console.log('✅ Background audio enabled');
-    }).catch(err => {
+    audioElement.play().catch(err => {
         console.error('❌ Background audio error:', err);
     });
     
@@ -1038,13 +641,11 @@ function stopBackgroundAudio() {
     if (audioElement) {
         audioElement.pause();
         audioElement.currentTime = 0;
-        console.log('⏹️ Background audio stopped');
     }
     
     if (backgroundAudioInterval) {
         clearInterval(backgroundAudioInterval);
         backgroundAudioInterval = null;
-        console.log('⏹️ Background audio interval cleared');
     }
 }
 
@@ -1078,7 +679,29 @@ document.addEventListener('visibilitychange', async () => {
 });
 
 window.addEventListener('load', function() {
+    console.log('🚀 Page loaded successfully!');
     console.log('🔊 Initializing speech synthesis...');
+    
+    // Test if JavaScript is working
+    try {
+        const testDiv = document.createElement('div');
+        console.log('✅ DOM manipulation working');
+    } catch (e) {
+        console.error('❌ DOM Error:', e);
+        alert('JavaScript Error: ' + e.message);
+    }
+    
+    // Test knowledge base
+    try {
+        const englishText = knowledgeBase.getEnglishText();
+        const hindiText = knowledgeBase.getHindiText();
+        console.log('✅ Knowledge base loaded');
+        console.log('📝 English text length:', englishText.length);
+        console.log('🇮🇳 Hindi text length:', hindiText.length);
+    } catch (e) {
+        console.error('❌ Knowledge base error:', e);
+        alert('Knowledge Base Error: ' + e.message);
+    }
     
     if ('speechSynthesis' in window) {
         const loadVoices = () => {
@@ -1090,7 +713,6 @@ window.addEventListener('load', function() {
                     v.lang.startsWith('hi') || v.name.toLowerCase().includes('hindi')
                 );
                 console.log('🇮🇳 Hindi voices available:', hindiVoices.length);
-                hindiVoices.forEach(v => console.log('  -', v.name, '|', v.lang));
             }
         };
         
@@ -1103,10 +725,11 @@ window.addEventListener('load', function() {
     
     document.addEventListener('touchstart', function() {
         const audioContext = new (window.AudioContext || window.webkitAudioContext)();
-        audioContext.resume().then(() => {
-            console.log('✅ Audio context resumed');
-        });
+        audioContext.resume();
     }, { once: true });
+    
+    // Show ready message
+    console.log('✅ Assistant is ready!');
 });
 </script>
 
