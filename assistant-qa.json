@@ -679,7 +679,29 @@ document.addEventListener('visibilitychange', async () => {
 });
 
 window.addEventListener('load', function() {
+    console.log('🚀 Page loaded successfully!');
     console.log('🔊 Initializing speech synthesis...');
+    
+    // Test if JavaScript is working
+    try {
+        const testDiv = document.createElement('div');
+        console.log('✅ DOM manipulation working');
+    } catch (e) {
+        console.error('❌ DOM Error:', e);
+        alert('JavaScript Error: ' + e.message);
+    }
+    
+    // Test knowledge base
+    try {
+        const englishText = knowledgeBase.getEnglishText();
+        const hindiText = knowledgeBase.getHindiText();
+        console.log('✅ Knowledge base loaded');
+        console.log('📝 English text length:', englishText.length);
+        console.log('🇮🇳 Hindi text length:', hindiText.length);
+    } catch (e) {
+        console.error('❌ Knowledge base error:', e);
+        alert('Knowledge Base Error: ' + e.message);
+    }
     
     if ('speechSynthesis' in window) {
         const loadVoices = () => {
@@ -697,12 +719,17 @@ window.addEventListener('load', function() {
         loadVoices();
         window.speechSynthesis.onvoiceschanged = loadVoices;
         setTimeout(loadVoices, 100);
+    } else {
+        console.log('❌ Speech synthesis not supported');
     }
     
     document.addEventListener('touchstart', function() {
         const audioContext = new (window.AudioContext || window.webkitAudioContext)();
         audioContext.resume();
     }, { once: true });
+    
+    // Show ready message
+    console.log('✅ Assistant is ready!');
 });
 </script>
 
