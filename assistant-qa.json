@@ -1,3273 +1,710 @@
-{
-  "section1": {
-    "title": "Short title, extent and commencement",
-    "bare_act": {
-      "id": "s1_bare_act",
-      "title": "Section 1 - Complete Bare Act",
-      "keywords_for_identification": [
-        "section 1 bare act", "section 1 full text", "complete section 1",
-        "bare act section 1", "original text section 1", "exact wording section 1",
-        "धारा 1 मूल पाठ", "dhara 1 bare act", "section 1 ka asli text"
-      ],
-      "main": {
-        "keywords": [
-          "show bare act section 1", "full text section 1", "complete section 1",
-          "section 1 bare act dikhaiye", "original section 1", "exact section 1"
-        ],
-        "content": [
-          {
-            "text": "Section 1: Short title, extent and commencement<br><br><strong>(1)</strong> This Act may be called the Bharatiya Nagarik Suraksha Sanhita, 2023.<br><br><strong>(2)</strong> The provisions of this Sanhita, other than those relating to Chapters IX, XI and XII thereof, shall not apply---<br>(a) to the State of Nagaland;<br>(b) to the tribal areas,<br>but the concerned State Government may, by notification, apply such provisions or any of them to the whole or part of the State of Nagaland or such tribal areas, as the case may be, with such supplemental, incidental or consequential modifications, as may be specified in the notification.<br><br><strong>Explanation.</strong>---In this section, 'tribal areas' means the territories which immediately before the 21st day of January, 1972, were included in the tribal areas of Assam, as referred to in paragraph 20 of the Sixth Schedule to the Constitution, other than those within the local limits of the municipality of Shillong.<br><br><strong>(3)</strong> It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint.<br><br><strong>Footnote:</strong> 1st July, 2024, [except the provisions of the entry relation to Section 106(2) in the first Schedule], vide notification No. S.O. 848(E), dated, 23rd day of February, 2024, see Gazette of India, Extraordinary, Part II, sec. 3(ii).",
-            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-BAREACT-MAIN.mp3"
-          }
-        ]
-      },
-      "what": {
-        "keywords": ["what bare act section 1", "kya bare act section 1"],
-        "content": [
-          {
-            "text": "The bare act of Section 1 contains three subsections: (1) Declares the official name 'Bharatiya Nagarik Suraksha Sanhita, 2023', (2) Provides exemptions for Nagaland and tribal areas from most provisions except Chapters IX, XI, XII, and (3) States the commencement date to be notified by Central Government. Example: This is the complete legal text as enacted by Parliament.",
-            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-BAREACT-WHAT.mp3"
-          }
-        ]
-      },
-      "why": {
-        "keywords": ["why bare act section 1", "kyun bare act section 1"],
-        "content": [
-          {
-            "text": "The bare act text is important because it provides the exact legal language used in the statute. Courts and legal professionals rely on this precise wording for interpretation and application. Example: Like reading the original Constitution rather than a summary - the exact words matter in law.",
-            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-BAREACT-WHY.mp3"
-          }
-        ]
-      },
-      "where": {
-        "keywords": ["where bare act section 1", "kahan bare act section 1"],
-        "content": [
-          {
-            "text": "This bare act text appears at the very beginning of the Bharatiya Nagarik Suraksha Sanhita, 2023. It is Section 1 of the Act, found in the official gazette notification. Example: Located on the first pages of the official BNSS publication.",
-            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-BAREACT-WHERE.mp3"
-          }
-        ]
-      },
-      "when": {
-        "keywords": ["when bare act section 1", "kab bare act section 1"],
-        "content": [
-          {
-            "text": "Section 1 was enacted in 2023 as part of BNSS. Subsection (3) states the Act came into force on 1st July, 2024, as notified by the Central Government. Example: The law was passed in 2023 but became operational from July 1, 2024.",
-            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-BAREACT-WHEN.mp3"
-          }
-        ]
-      },
-      "which": {
-        "keywords": ["which bare act section 1", "kaun sa bare act section 1"],
-        "content": [
-          {
-            "text": "This is Section 1 of BNSS 2023, titled 'Short title, extent and commencement'. It is the foundational section containing three subsections that establish the law's identity, territorial extent, and effective date. Example: Among all sections of BNSS, this is the introductory section that sets the stage.",
-            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-BAREACT-WHICH.mp3"
-          }
-        ]
-      },
-      "how": {
-        "keywords": ["how bare act section 1", "kaise bare act section 1"],
-        "content": [
-          {
-            "text": "Section 1 operates through three mechanisms: (1) Subsection-1 declares the name declaratively, (2) Subsection-2 creates exemptions with flexibility for State Governments to apply provisions through notification, (3) Subsection-3 delegates commencement power to Central Government. Example: It establishes identity, scope, and timing all in one section.",
-            "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-BAREACT-HOW.mp3"
-          }
-        ]
-      },
-      "mcq_pool": [
-        {
-          "id": "s1_bareact_mcq_1",
-          "question": "How many subsections does Section 1 contain?",
-          "options": ["Two", "Three", "Four", "Five"],
-          "correct": 1,
-          "explanation": "Section 1 contains three subsections numbered (1), (2), and (3).",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_mcq_2",
-          "question": "When did BNSS 2023 come into force?",
-          "options": ["1st January 2024", "1st July 2024", "23rd February 2024", "21st January 1972"],
-          "correct": 1,
-          "explanation": "BNSS came into force on 1st July, 2024 as per the footnote.",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_mcq_3",
-          "question": "What date is mentioned in the Explanation regarding tribal areas?",
-          "options": ["1st July 2024", "23rd February 2024", "21st January 1972", "1st January 2023"],
-          "correct": 2,
-          "explanation": "The Explanation refers to 21st January, 1972 for defining tribal areas.",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_mcq_4",
-          "question": "Which municipality is excluded from the tribal areas definition?",
-          "options": ["Guwahati", "Shillong", "Imphal", "Kohima"],
-          "correct": 1,
-          "explanation": "The municipality of Shillong is excluded from the tribal areas definition.",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_mcq_5",
-          "question": "Who appoints the commencement date of the Act?",
-          "options": ["President", "Supreme Court", "Central Government", "State Government"],
-          "correct": 2,
-          "explanation": "The Central Government appoints the commencement date by notification.",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_mcq_6",
-          "question": "The notification number for commencement was:",
-          "options": ["S.O. 106(2)", "S.O. 848(E)", "S.O. 1972", "S.O. 2023"],
-          "correct": 1,
-          "explanation": "The notification number was S.O. 848(E).",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_mcq_7",
-          "question": "Which provision was excepted from commencement on 1st July 2024?",
-          "options": ["Section 1", "Section 106(2)", "Chapter IX", "Chapter XII"],
-          "correct": 1,
-          "explanation": "Provisions relating to Section 106(2) in the first Schedule were excepted.",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_mcq_8",
-          "question": "Tribal areas referred to paragraph 20 of which Schedule?",
-          "options": ["Fifth Schedule", "Sixth Schedule", "Seventh Schedule", "Eighth Schedule"],
-          "correct": 1,
-          "explanation": "It refers to the Sixth Schedule to the Constitution.",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_mcq_9",
-          "question": "The notification date was:",
-          "options": ["1st July 2024", "21st January 1972", "23rd February 2024", "1st January 2023"],
-          "correct": 2,
-          "explanation": "The notification was dated 23rd day of February, 2024.",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_mcq_10",
-          "question": "Where was the notification published?",
-          "options": ["Times of India", "Official Gazette", "State Gazette", "Supreme Court Reports"],
-          "correct": 1,
-          "explanation": "It was published in the Official Gazette of India, Extraordinary, Part II, sec. 3(ii).",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_mcq_11",
-          "question": "Which state of India is specifically mentioned by name in Section 1(2)?",
-          "options": ["Assam", "Mizoram", "Nagaland", "Manipur"],
-          "correct": 2,
-          "explanation": "Nagaland is specifically mentioned in Section 1(2)(a).",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_mcq_12",
-          "question": "The word 'Sanhita' in the bare act means:",
-          "options": ["Act", "Code", "Law", "Rule"],
-          "correct": 1,
-          "explanation": "Sanhita translates to Code.",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_mcq_13",
-          "question": "How many chapters are mentioned as applicable to exempt areas?",
-          "options": ["Two", "Three", "Four", "Five"],
-          "correct": 1,
-          "explanation": "Three chapters (IX, XI, and XII) are mentioned.",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_mcq_14",
-          "question": "The bare act includes how many explanations?",
-          "options": ["None", "One", "Two", "Three"],
-          "correct": 1,
-          "explanation": "There is one Explanation after Subsection (2).",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_mcq_15",
-          "question": "Tribal areas were previously part of which state?",
-          "options": ["Bengal", "Assam", "Bihar", "Orissa"],
-          "correct": 1,
-          "explanation": "They were included in the tribal areas of Assam.",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_mcq_16",
-          "question": "What type of modifications can State Government specify?",
-          "options": ["Only supplemental", "Only incidental", "Only consequential", "All three types"],
-          "correct": 3,
-          "explanation": "Supplemental, incidental, or consequential modifications can be specified.",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_mcq_17",
-          "question": "The title of Section 1 is:",
-          "options": ["Name and extent", "Short title, extent and commencement", "Title and application", "Commencement"],
-          "correct": 1,
-          "explanation": "The title is 'Short title, extent and commencement'.",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_mcq_18",
-          "question": "The bare act uses 'may be called' in which subsection?",
-          "options": ["Subsection 1", "Subsection 2", "Subsection 3", "Explanation"],
-          "correct": 0,
-          "explanation": "Subsection (1) states 'may be called'.",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_mcq_19",
-          "question": "How many footnotes are included in Section 1?",
-          "options": ["None", "One", "Two", "Three"],
-          "correct": 1,
-          "explanation": "There is one footnote about the commencement date.",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_mcq_20",
-          "question": "The phrase 'as the case may be' appears in which subsection?",
-          "options": ["Subsection 1", "Subsection 2", "Subsection 3", "Explanation"],
-          "correct": 1,
-          "explanation": "It appears in Subsection (2).",
-          "subsection": "bare_act"
-        }
-      ],
-      "truefalse_pool": [
-        {
-          "id": "s1_bareact_tf_1",
-          "statement": "Section 1 contains three subsections.",
-          "correct": true,
-          "explanation": "Yes, it has subsections (1), (2), and (3).",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_tf_2",
-          "statement": "BNSS came into force on 1st January 2024.",
-          "correct": false,
-          "explanation": "It came into force on 1st July 2024.",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_tf_3",
-          "statement": "Shillong municipality is excluded from tribal areas definition.",
-          "correct": true,
-          "explanation": "Correct. The Explanation specifically excludes Shillong municipality.",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_tf_4",
-          "statement": "State Government appoints the commencement date.",
-          "correct": false,
-          "explanation": "Central Government appoints the commencement date.",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_tf_5",
-          "statement": "The Explanation refers to 21st January 1972.",
-          "correct": true,
-          "explanation": "Yes, this date is mentioned in the Explanation.",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_tf_6",
-          "statement": "Nagaland is specifically mentioned in Section 1.",
-          "correct": true,
-          "explanation": "Nagaland is mentioned in Subsection (2)(a).",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_tf_7",
-          "statement": "Section 106(2) came into force on 1st July 2024.",
-          "correct": false,
-          "explanation": "Provisions relating to Section 106(2) were excepted from commencement.",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_tf_8",
-          "statement": "The notification was published in Official Gazette.",
-          "correct": true,
-          "explanation": "Yes, it was published in the Official Gazette of India.",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_tf_9",
-          "statement": "Section 1 has no Explanation.",
-          "correct": false,
-          "explanation": "There is one Explanation in Section 1.",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_tf_10",
-          "statement": "Chapters IX, XI, and XII apply to exempt areas.",
-          "correct": true,
-          "explanation": "Correct. These three chapters apply to Nagaland and tribal areas.",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_tf_11",
-          "statement": "Tribal areas referred to the Fifth Schedule.",
-          "correct": false,
-          "explanation": "They refer to paragraph 20 of the Sixth Schedule.",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_tf_12",
-          "statement": "The notification number was S.O. 848(E).",
-          "correct": true,
-          "explanation": "Yes, this is the correct notification number.",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_tf_13",
-          "statement": "Section 1 is titled 'Name of the Act'.",
-          "correct": false,
-          "explanation": "It's titled 'Short title, extent and commencement'.",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_tf_14",
-          "statement": "The notification was dated 23rd February 2024.",
-          "correct": true,
-          "explanation": "Yes, this is the correct date.",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_tf_15",
-          "statement": "Only Central Government can apply provisions to exempt areas.",
-          "correct": false,
-          "explanation": "The concerned State Government can apply provisions.",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_tf_16",
-          "statement": "The bare act includes footnotes.",
-          "correct": true,
-          "explanation": "Yes, there is a footnote about the commencement date.",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_tf_17",
-          "statement": "Tribal areas were part of Bengal before 1972.",
-          "correct": false,
-          "explanation": "They were part of Assam, not Bengal.",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_tf_18",
-          "statement": "State Government can make consequential modifications.",
-          "correct": true,
-          "explanation": "Yes, supplemental, incidental, or consequential modifications are allowed.",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_tf_19",
-          "statement": "The Act was called BNSS 2024.",
-          "correct": false,
-          "explanation": "It's called BNSS 2023.",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_tf_20",
-          "statement": "The bare act is the exact legal text as enacted.",
-          "correct": true,
-          "explanation": "Yes, bare act refers to the original statutory text.",
-          "subsection": "bare_act"
-        }
-      ],
-      "fillblank_pool": [
-        {
-          "id": "s1_bareact_fb_1",
-          "question": "This Act may be called the Bharatiya Nagarik Suraksha Sanhita, __________.",
-          "answer": "2023",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_fb_2",
-          "question": "Section 1 contains __________ subsections.",
-          "answer": "three",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_fb_3",
-          "question": "BNSS came into force on 1st __________, 2024.",
-          "answer": "July",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_fb_4",
-          "question": "The municipality of __________ is excluded from tribal areas.",
-          "answer": "Shillong",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_fb_5",
-          "question": "The __________ Government appoints the commencement date.",
-          "answer": "Central",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_fb_6",
-          "question": "The Explanation refers to 21st January, __________.",
-          "answer": "1972",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_fb_7",
-          "question": "The notification number was S.O. __________.",
-          "answer": "848(E)",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_fb_8",
-          "question": "Chapters IX, __________, and XII apply to exempt areas.",
-          "answer": "XI",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_fb_9",
-          "question": "The notification was dated 23rd __________, 2024.",
-          "answer": "February",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_fb_10",
-          "question": "Tribal areas refer to paragraph 20 of the __________ Schedule.",
-          "answer": "Sixth",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_fb_11",
-          "question": "Section 1 is titled 'Short title, extent and __________'.",
-          "answer": "commencement",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_fb_12",
-          "question": "State Government can make __________ modifications.",
-          "answer": "supplemental/incidental/consequential",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_fb_13",
-          "question": "The provisions relating to Section __________ were excepted.",
-          "answer": "106(2)",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_fb_14",
-          "question": "The State of __________ is mentioned in Subsection (2)(a).",
-          "answer": "Nagaland",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_fb_15",
-          "question": "Tribal areas were part of __________ before 1972.",
-          "answer": "Assam",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_fb_16",
-          "question": "The notification was published in the Official __________.",
-          "answer": "Gazette",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_fb_17",
-          "question": "Section 1 has one __________ after Subsection (2).",
-          "answer": "Explanation",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_fb_18",
-          "question": "The Act uses the phrase 'may be __________' in Subsection (1).",
-          "answer": "called",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_fb_19",
-          "question": "The __________ Government can apply provisions to exempt areas.",
-          "answer": "State",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_fb_20",
-          "question": "The bare act is the __________ legal text as enacted.",
-          "answer": "exact/original",
-          "subsection": "bare_act"
-        }
-      ],
-      "matching_pool": [
-        {
-          "id": "s1_bareact_match_1",
-          "columnA": ["Commencement date", "Notification number", "Excluded municipality", "Reference date", "Appointing authority"],
-          "columnB": ["23rd February 2024", "Shillong", "S.O. 848(E)", "1st July 2024", "Central Government"],
-          "correct_matches": [3, 2, 1, 0, 4],
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_match_2",
-          "columnA": ["Subsection 1", "Subsection 2", "Subsection 3", "Explanation", "Footnote"],
-          "columnB": ["Commencement", "Tribal areas definition", "Law's name", "Exemptions", "Exception details"],
-          "correct_matches": [2, 3, 0, 1, 4],
-          "subsection": "bare_act"
-        }
-      ],
-      "word_arrangement_pool": [
-        {
-          "id": "s1_bareact_wa_1",
-          "jumbled": ["may", "called", "Act", "This", "be", "the", "Bharatiya", "Nagarik", "Suraksha", "Sanhita", "2023"],
-          "correct": "This Act may be called the Bharatiya Nagarik Suraksha Sanhita, 2023.",
-          "hint": "Start with 'This Act...'",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_wa_2",
-          "jumbled": ["shall", "force", "into", "come", "It", "on", "such", "date"],
-          "correct": "It shall come into force on such date.",
-          "hint": "When does it start?",
-          "subsection": "bare_act"
-        },
-        {
-          "id": "s1_bareact_wa_3",
-          "jumbled": ["Government", "Central", "by", "notification", "the", "appoint", "may"],
-          "correct": "The Central Government may appoint by notification.",
-          "hint": "Who has the power?",
-          "subsection": "bare_act"
-        }
-      ]
-    },
-    "subsections": {
-      "subsection_1": {
-        "id": "ss1",
-        "title": "Law's Official Name",
-        "keywords_for_identification": [
-          "subsection 1", "subsection-1", "subsection one", "ss1", "ss 1",
-          "upkhanda 1", "pehla upkhanda", "first subsection",
-          "law name", "title of law", "what is called", "naam kya hai"
-        ],
-        "main": {
-          "keywords": ["overview subsection 1", "tell me about subsection 1", "explain subsection 1", "batao subsection 1", "samjhao subsection 1"],
-          "content": [
-            {
-              "text": "Subsection-1: Law's Official Name<br><br>• This law is called the 'Bharatiya Nagarik Suraksha Sanhita, 2023'.<br>• The complete title establishes the legal identity of this code.<br>• It consists of four Hindi words followed by the year 2023.",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS1-MAIN.mp3"
-            }
-          ]
-        },
-  "concept_with_example": {
-    "keywords": ["concept subsection 1", "concept with example subsection 1", "example subsection 1", "udaharan subsection 1", "concept samjhao"],
-    "content": [
-      {
-        "text": "Concept with Example - Subsection 1:<br><br><strong>Concept 1: Law's Name (कानून का नाम)</strong><br>This law is called the 'Bharatiya Nagarik Suraksha Sanhita, 2023'.<br>यह कानून 'भारतीय नागरिक सुरक्षा संहिता, 2023' कहलाता है।<br>• <strong>Example (उदाहरण):</strong> Just like your name is Raj or Priya, this law's name is BNSS, 2023.<br>जैसे आपका नाम राज या प्रिया है, वैसे ही इस कानून का नाम BNSS, 2023 है।<br><br><strong>Concept 2: English Translation (अंग्रेजी अनुवाद)</strong><br>In English, it means 'Indian Citizen Security Code, 2023'.<br>अंग्रेजी में, इसका अर्थ है 'इंडियन सिटीजन सिक्योरिटी कोड, 2023'।<br>• <strong>Example (उदाहरण):</strong> Like 'Vidyalaya' means 'School' in English, BNSS means 'Indian Citizen Security Code'.<br>जैसे 'विद्यालय' का अंग्रेजी में मतलब 'स्कूल' होता है, वैसे ही BNSS का मतलब 'इंडियन सिटीजन सिक्योरिटी कोड' है।",
-        "audioUrl": "BNSS-TTS-S1-SS1-CONCEPT.mp3"
-      }
-    ]
-  },
-        "what": {
-          "keywords": ["what subsection 1", "kya subsection 1", "what is subsection 1"],
-          "content": [
-            {
-              "text": "Subsection-1 states: This law is officially called 'Bharatiya Nagarik Suraksha Sanhita, 2023'. Example: Just like saying 'My name is John' - this subsection declares the law's official name.",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS1-WHAT.mp3"
-            }
-          ]
-        },
-        "why": {
-          "keywords": ["why subsection 1", "kyun subsection 1", "reason subsection 1"],
-          "content": [
-            {
-              "text": "Subsection-1 exists to officially declare the law's name for legal recognition. Without this subsection, the law would have no formal identity. Example: Like a birth certificate that officially names a child, this subsection officially names the law.",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS1-WHY.mp3"
-            }
-          ]
-        },
-        "where": {
-          "keywords": ["where subsection 1", "kahan subsection 1", "location subsection 1"],
-          "content": [
-            {
-              "text": "Subsection-1 appears at the very beginning of the BNSS 2023 document. It is the first subsection of Section 1. Example: Found on the opening page of the official BNSS text, before any other provisions.",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS1-WHERE.mp3"
-            }
-          ]
-        },
-        "when": {
-          "keywords": ["when subsection 1", "kab subsection 1", "time subsection 1"],
-          "content": [
-            {
-              "text": "Subsection-1 came into effect in 2023 when the law was enacted. This naming provision became official with the passage of the Act. Example: Since 2023, this subsection has been the legal reference point for the law's name.",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS1-WHEN.mp3"
-            }
-          ]
-        },
-        "which": {
-          "keywords": ["which subsection 1", "kaun sa subsection 1"],
-          "content": [
-            {
-              "text": "Subsection-1 is the naming clause of BNSS 2023. It is the first and foundational subsection of Section 1. Example: Among all subsections, this is the one that specifically addresses the law's title.",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS1-WHICH.mp3"
-            }
-          ]
-        },
-        "how": {
-          "keywords": ["how subsection 1", "kaise subsection 1"],
-          "content": [
-            {
-              "text": "Subsection-1 works by providing a simple declarative statement: 'This law is called...'<br>It establishes legal nomenclature through direct declaration. Example: Legal professionals cite this subsection when referencing the law's official name in documents.",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS1-HOW.mp3"
-            }
-          ]
-        },
-        "mcq_pool": [
-          {
-            "id": "ss1_mcq_1",
-            "question": "What is this law called?",
-            "options": ["Indian Penal Code, 2023", "Bharatiya Nagarik Suraksha Sanhita, 2023", "Criminal Procedure Code, 2023", "Indian Evidence Act, 2023"],
-            "correct": 1,
-            "explanation": "The law is officially called 'Bharatiya Nagarik Suraksha Sanhita, 2023'.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_mcq_2",
-            "question": "In which year was this law named?",
-            "options": ["2022", "2024", "2023", "2021"],
-            "correct": 2,
-            "explanation": "The law was named in the year 2023.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_mcq_3",
-            "question": "The term 'Bharatiya' in the law's name means:",
-            "options": ["British", "Indian", "Foreign", "Colonial"],
-            "correct": 1,
-            "explanation": "'Bharatiya' means 'Indian' in English.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_mcq_4",
-            "question": "What does 'Nagarik' mean in English?",
-            "options": ["Soldier", "Police", "Citizen", "Judge"],
-            "correct": 2,
-            "explanation": "'Nagarik' translates to 'Citizen' in English.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_mcq_5",
-            "question": "The word 'Suraksha' in the title means:",
-            "options": ["Punishment", "Security/Protection", "Justice", "Rights"],
-            "correct": 1,
-            "explanation": "'Suraksha' means 'Security' or 'Protection'.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_mcq_6",
-            "question": "'Sanhita' in the law's name translates to:",
-            "options": ["Act", "Rule", "Code", "Law"],
-            "correct": 2,
-            "explanation": "'Sanhita' means 'Code' in English.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_mcq_7",
-            "question": "How many words are in the law's name (excluding the year)?",
-            "options": ["Two", "Three", "Four", "Five"],
-            "correct": 2,
-            "explanation": "There are four words: Bharatiya, Nagarik, Suraksha, Sanhita.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_mcq_8",
-            "question": "The short form of this law is:",
-            "options": ["IPC", "BNSS", "CrPC", "IEA"],
-            "correct": 1,
-            "explanation": "The short form is BNSS (Bharatiya Nagarik Suraksha Sanhita).",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_mcq_9",
-            "question": "This law is related to:",
-            "options": ["Traffic Rules", "Citizen Security", "Tax Collection", "Education"],
-            "correct": 1,
-            "explanation": "The law is about Citizen Security (Nagarik Suraksha).",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_mcq_10",
-            "question": "The complete title includes which year?",
-            "options": ["2020", "2021", "2022", "2023"],
-            "correct": 3,
-            "explanation": "The complete title includes the year 2023.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_mcq_11",
-            "question": "Which language is the law's name in?",
-            "options": ["English", "Hindi", "Sanskrit", "Urdu"],
-            "correct": 1,
-            "explanation": "The law's name is in Hindi.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_mcq_12",
-            "question": "The first word in the law's name is:",
-            "options": ["Nagarik", "Bharatiya", "Suraksha", "Sanhita"],
-            "correct": 1,
-            "explanation": "The first word is 'Bharatiya'.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_mcq_13",
-            "question": "The last word before the year is:",
-            "options": ["Bharatiya", "Nagarik", "Suraksha", "Sanhita"],
-            "correct": 3,
-            "explanation": "The last word before 2023 is 'Sanhita'.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_mcq_14",
-            "question": "This law is also known as:",
-            "options": ["BNS", "BNSS", "BSS", "BNS 2023"],
-            "correct": 1,
-            "explanation": "It's commonly abbreviated as BNSS.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_mcq_15",
-            "question": "The law's title contains how many numbers?",
-            "options": ["None", "One", "Two", "Three"],
-            "correct": 1,
-            "explanation": "The title contains one number: 2023.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_mcq_16",
-            "question": "What type of document is this?",
-            "options": ["Constitution", "Law/Code", "Agreement", "Treaty"],
-            "correct": 1,
-            "explanation": "It's a Law/Code (Sanhita).",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_mcq_17",
-            "question": "The second word in the law's name is:",
-            "options": ["Bharatiya", "Nagarik", "Suraksha", "Sanhita"],
-            "correct": 1,
-            "explanation": "The second word is 'Nagarik'.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_mcq_18",
-            "question": "The third word in the law's name is:",
-            "options": ["Bharatiya", "Nagarik", "Suraksha", "Sanhita"],
-            "correct": 2,
-            "explanation": "The third word is 'Suraksha'.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_mcq_19",
-            "question": "This law is meant for:",
-            "options": ["Only government officials", "All Indian citizens", "Only police", "Only judges"],
-            "correct": 1,
-            "explanation": "It's for all Indian citizens (Bharatiya Nagarik).",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_mcq_20",
-            "question": "The year 2023 appears at the:",
-            "options": ["Beginning", "Middle", "End", "Not mentioned"],
-            "correct": 2,
-            "explanation": "The year 2023 appears at the end of the title.",
-            "subsection": "1"
-          }
-        ],
-        "truefalse_pool": [
-          {
-            "id": "ss1_tf_1",
-            "statement": "This law is called the 'Bharatiya Nagarik Suraksha Sanhita, 2023'.",
-            "correct": true,
-            "explanation": "This is the exact official name of the law.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_tf_2",
-            "statement": "The law was named in 2022.",
-            "correct": false,
-            "explanation": "The law was named in 2023, not 2022.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_tf_3",
-            "statement": "The name of this law includes the year 2023.",
-            "correct": true,
-            "explanation": "Yes, 2023 is part of the official name.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_tf_4",
-            "statement": "This law is called the 'Indian Penal Code, 2023'.",
-            "correct": false,
-            "explanation": "It's called BNSS, not IPC.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_tf_5",
-            "statement": "'Bharatiya Nagarik Suraksha Sanhita' is part of the law's name.",
-            "correct": true,
-            "explanation": "This is the main part of the law's name.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_tf_6",
-            "statement": "The year 2023 appears in the law's official name.",
-            "correct": true,
-            "explanation": "2023 is included in the official title.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_tf_7",
-            "statement": "This law has no official name.",
-            "correct": false,
-            "explanation": "The law has an official name: BNSS 2023.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_tf_8",
-            "statement": "The law's name is only in English.",
-            "correct": false,
-            "explanation": "The law's name is in Hindi.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_tf_9",
-            "statement": "BNSS stands for Bharatiya Nagarik Suraksha Sanhita.",
-            "correct": true,
-            "explanation": "BNSS is the correct abbreviation.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_tf_10",
-            "statement": "The word 'Nagarik' means 'Police' in English.",
-            "correct": false,
-            "explanation": "'Nagarik' means 'Citizen', not 'Police'.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_tf_11",
-            "statement": "'Suraksha' means 'Security' or 'Protection'.",
-            "correct": true,
-            "explanation": "This is the correct meaning of 'Suraksha'.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_tf_12",
-            "statement": "The law was enacted in 2020.",
-            "correct": false,
-            "explanation": "The law was enacted in 2023.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_tf_13",
-            "statement": "'Sanhita' translates to 'Code' in English.",
-            "correct": true,
-            "explanation": "'Sanhita' means 'Code'.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_tf_14",
-            "statement": "This law contains exactly three words.",
-            "correct": false,
-            "explanation": "It contains four words plus the year.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_tf_15",
-            "statement": "The law's name begins with 'Bharatiya'.",
-            "correct": true,
-            "explanation": "'Bharatiya' is the first word.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_tf_16",
-            "statement": "This is a law about traffic regulations.",
-            "correct": false,
-            "explanation": "It's about citizen security, not traffic.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_tf_17",
-            "statement": "The law's title ends with the year 2023.",
-            "correct": true,
-            "explanation": "The title ends with 2023.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_tf_18",
-            "statement": "'Bharatiya' means 'British' in English.",
-            "correct": false,
-            "explanation": "'Bharatiya' means 'Indian', not 'British'.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_tf_19",
-            "statement": "This law is called a 'Sanhita' (Code).",
-            "correct": true,
-            "explanation": "Yes, it's officially called a Sanhita.",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_tf_20",
-            "statement": "The law has no year mentioned in its title.",
-            "correct": false,
-            "explanation": "The year 2023 is mentioned in the title.",
-            "subsection": "1"
-          }
-        ],
-        "fillblank_pool": [
-          {
-            "id": "ss1_fb_1",
-            "question": "This law is called the \"__________, 2023\".",
-            "answer": "Bharatiya Nagarik Suraksha Sanhita",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_fb_2",
-            "question": "This law is called the \"Bharatiya Nagarik Suraksha Sanhita, __________\".",
-            "answer": "2023",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_fb_3",
-            "question": "The complete name of this law is __________.",
-            "answer": "Bharatiya Nagarik Suraksha Sanhita, 2023",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_fb_4",
-            "question": "The year mentioned in the law's name is __________.",
-            "answer": "2023",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_fb_5",
-            "question": "This __________ is called the \"Bharatiya Nagarik Suraksha Sanhita, 2023\".",
-            "answer": "law",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_fb_6",
-            "question": "The complete title is \"__________ __________ __________ __________, 2023\".",
-            "answer": "Bharatiya Nagarik Suraksha Sanhita",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_fb_7",
-            "question": "This law is __________ the \"Bharatiya Nagarik Suraksha Sanhita, 2023\".",
-            "answer": "called",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_fb_8",
-            "question": "The law's name includes the term \"__________ Nagarik Suraksha Sanhita\".",
-            "answer": "Bharatiya",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_fb_9",
-            "question": "The short form of this law is __________.",
-            "answer": "BNSS",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_fb_10",
-            "question": "'Nagarik' means __________ in English.",
-            "answer": "Citizen",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_fb_11",
-            "question": "'Suraksha' translates to __________ in English.",
-            "answer": "Security/Protection",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_fb_12",
-            "question": "'Sanhita' means __________ in English.",
-            "answer": "Code",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_fb_13",
-            "question": "The first word in the law's name is __________.",
-            "answer": "Bharatiya",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_fb_14",
-            "question": "The second word in the law's name is __________.",
-            "answer": "Nagarik",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_fb_15",
-            "question": "The third word in the law's name is __________.",
-            "answer": "Suraksha",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_fb_16",
-            "question": "The fourth word in the law's name is __________.",
-            "answer": "Sanhita",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_fb_17",
-            "question": "'Bharatiya' means __________ in English.",
-            "answer": "Indian",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_fb_18",
-            "question": "This law was enacted in the year __________.",
-            "answer": "2023",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_fb_19",
-            "question": "The law is about __________ Security.",
-            "answer": "Citizen",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_fb_20",
-            "question": "BNSS stands for Bharatiya __________ Suraksha __________.",
-            "answer": "Nagarik, Sanhita",
-            "subsection": "1"
-          }
-        ],
-        "matching_pool": [
-          {
-            "id": "ss1_match_1",
-            "columnA": ["Law's name", "Year", "Complete title", "First word", "Verb used"],
-            "columnB": ["2023", "Bharatiya Nagarik Suraksha Sanhita, 2023", "Bharatiya Nagarik Suraksha Sanhita", "Bharatiya", "Called"],
-            "correct_matches": [1, 0, 1, 3, 4],
-            "subsection": "1"
-          }
-        ],
-        "word_arrangement_pool": [
-          {
-            "id": "ss1_wa_1",
-            "jumbled": ["2023", "Sanhita", "This", "Bharatiya", "is", "Nagarik", "law", "the", "called", "Suraksha"],
-            "correct": "This law is called the Bharatiya Nagarik Suraksha Sanhita, 2023.",
-            "hint": "Start with 'This law...'",
-            "subsection": "1"
-          },
-          {
-            "id": "ss1_wa_2",
-            "jumbled": ["called", "the", "law", "Bharatiya", "This", "is", "Nagarik", "Sanhita", "Suraksha", "2023"],
-            "correct": "This law is called the Bharatiya Nagarik Suraksha Sanhita, 2023.",
-            "hint": "Arrange in proper sequence",
-            "subsection": "1"
-          }
-        ]
-      },
-      "subsection_2": {
-        "id": "ss2",
-        "title": "Special Provisions for Nagaland and Tribal Areas",
-        "keywords_for_identification": [
-          "subsection 2", "subsection-2", "subsection two", "ss2", "ss 2",
-          "upkhanda 2", "dusra upkhanda", "second subsection",
-          "nagaland", "tribal areas", "adivasi kshetra", "exemption", "chhoot",
-          "special provision", "vishesh pravdhan", "chapter 9", "chapter 11", "chapter 12"
-        ],
-        "main": {
-          "keywords": ["overview subsection 2", "tell me about subsection 2", "explain subsection 2", "batao subsection 2", "samjhao subsection 2"],
-          "content": [
-            {
-              "text": "Subsection-2: Special Provisions for Nagaland and Tribal Areas<br><br>• This subsection exempts Nagaland and tribal areas from most provisions of BNSS.<br>• Only Chapters IX, XI, and XII apply to these areas by default.<br>• State Governments can choose to apply other provisions with modifications.",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-MAIN.mp3"
-            }
-          ]
-        },
-        "concept_with_example": {
-    "keywords": ["concept subsection 2", "concept with example subsection 2", "example subsection 2", "udaharan subsection 2", "concept samjhao subsection 2"],
-    "content": [
-      {
-        "text": "Concept with Example - Subsection 2:<br><br><strong>Concept 1: Law Does Not Apply in Nagaland</strong><br>Most parts of this law will not work in the State of Nagaland.<br>• <strong>Example:</strong> If a new school rule says 'all students must wear ties', but this rule doesn't apply to Class 12 students, similarly most BNSS rules don't apply in Nagaland.<br><br><strong>Concept 2: Law Does Not Apply in Tribal Areas</strong><br>Most parts of this law will not work in certain tribal areas.<br>• <strong>Example:</strong> Like some traffic rules don't apply inside a military area, most BNSS rules don't apply in specific tribal areas.<br><br><strong>Concept 3: Exception - Three Chapters Apply Everywhere</strong><br>But three chapters (Chapter 9, Chapter 11, and Chapter 12) WILL work in Nagaland and tribal areas.<br>• <strong>Example:</strong> Even though Class 12 is exempt from the tie rule, they still must follow the 'no phone' rule. Similarly, Chapters 9, 11, 12 apply everywhere.<br><br><strong>Concept 4: State Government's Special Power</strong><br>The State Government has a special power - it can decide to use other parts of this law in Nagaland or tribal areas if it wants.<br>• <strong>Example:</strong> Like a principal can decide to apply certain school rules to the hostel too, the State Government can choose to apply BNSS rules to these areas.<br><br><strong>Concept 5: Official Notification Required</strong><br>To do this, the State Government must issue an official notification (a formal announcement).<br>• <strong>Example:</strong> Just like your school puts up a notice board announcement for new rules, the government must publish an official notification.<br><br><strong>Concept 6: Power to Make Local Modifications</strong><br>The State Government can make small changes to the law to fit local situations when applying it.<br>• <strong>Example:</strong> If a school rule says 'wear black shoes' but in a hilly area, the principal allows 'wear boots', similarly, the State can modify rules for local needs.<br><br><strong>Concept 7: Changes Must Be Documented</strong><br>These changes should be mentioned in the notification.<br>• <strong>Example:</strong> Like the principal must write 'boots allowed' in the notice, the government must write all changes in their notification.",
-        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-CONCEPT.mp3"
-      }
-    ]
-  },
-        "what": {
-          "keywords": ["what subsection 2", "kya subsection 2", "what does subsection 2 say"],
-          "content": [
-            {
-              "text": "Subsection-2 states that most provisions of BNSS do not apply to Nagaland and tribal areas, except Chapters IX, XI, and XII. State Governments can notify to apply other provisions with modifications. Example: Like giving special autonomy to certain regions based on their unique needs.",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-WHAT.mp3"
-            }
-          ]
-        },
-        "why": {
-          "keywords": ["why subsection 2", "kyun subsection 2", "reason subsection 2"],
-          "content": [
-            {
-              "text": "Subsection-2 exists to respect the special constitutional status of Nagaland and tribal areas. These regions have unique cultural, social, and legal traditions that need protection. Example: Like Article 371A which grants special provisions to Nagaland, this subsection ensures their autonomy while maintaining national legal framework.",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-WHY.mp3"
-            }
-          ]
-        },
-        "where": {
-          "keywords": ["where subsection 2", "kahan subsection 2", "which areas subsection 2"],
-          "content": [
-            {
-              "text": "Subsection-2 applies to: (a) The State of Nagaland, and (b) Tribal areas as defined under the Constitution. These are specially protected regions with distinct legal status. Example: Scheduled Areas under Fifth Schedule and Tribal Areas under Sixth Schedule of the Indian Constitution.",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-WHERE.mp3"
-            }
-          ]
-        },
-        "when": {
-          "keywords": ["when subsection 2", "kab subsection 2", "time subsection 2"],
-          "content": [
-            {
-              "text": "Subsection-2 came into effect with BNSS in 2023. State Governments can issue notifications at any time to apply provisions to these areas. There's no fixed timeline - it depends on when the State Government decides. Example: A State can notify today, tomorrow, or years later based on their assessment.",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-WHEN.mp3"
-            }
-          ]
-        },
-        "which": {
-          "keywords": ["which subsection 2", "kaun sa subsection 2", "which chapters subsection 2"],
-          "content": [
-            {
-              "text": "Subsection-2 identifies: (1) Which areas are exempt: Nagaland and tribal areas. (2) Which chapters DO apply: Chapters IX, XI, and XII. (3) Which provisions DON'T apply: All other chapters. Example: If BNSS has 20 chapters, only 3 automatically apply to these regions; remaining 17 are optional.",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-WHICH.mp3"
-            }
-          ]
-        },
-        "how": {
-          "keywords": ["how subsection 2", "kaise subsection 2", "mechanism subsection 2"],
-          "content": [
-            {
-              "text": "Subsection-2 works through a notification system:<br>Step 1: State Government decides which provisions to apply<br>Step 2: Issues official notification<br>Step 3: Can add supplemental or consequential modifications<br>Step 4: Provisions become applicable as per notification. Example: Like a menu where the State picks what legal provisions suit their region best.",
-              "a udioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-HOW.mp3"
-            }
-          ]
-        },
-        "mcq_pool": [
-          {
-            "id": "ss2_mcq_1",
-            "question": "Subsection-2 grants special exemption to which state?",
-            "options": ["Assam", "Nagaland", "Manipur", "Mizoram"],
-            "correct": 1,
-            "explanation": "Subsection-2 specifically mentions the State of Nagaland as exempt from most BNSS provisions.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_2",
-            "question": "Which type of areas are exempt along with Nagaland?",
-            "options": ["Urban areas", "Tribal areas", "Metropolitan areas", "Industrial areas"],
-            "correct": 1,
-            "explanation": "Tribal areas are given the same exemption as Nagaland.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_3",
-            "question": "How many chapters of BNSS automatically apply to these exempt areas?",
-            "options": ["Two", "Three", "Four", "Five"],
-            "correct": 1,
-            "explanation": "Three chapters (IX, XI, and XII) automatically apply to Nagaland and tribal areas.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_4",
-            "question": "Which chapter is mentioned as automatically applicable?",
-            "options": ["Chapter VIII", "Chapter IX", "Chapter X", "Chapter XIII"],
-            "correct": 1,
-            "explanation": "Chapter IX is one of the three chapters that apply to these areas.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_5",
-            "question": "Who can notify to apply other BNSS provisions to these areas?",
-            "options": ["Central Government", "State Government", "Supreme Court", "Parliament"],
-            "correct": 1,
-            "explanation": "The concerned State Government has the power to issue such notifications.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_6",
-            "question": "What can State Governments add while applying provisions?",
-            "options": ["Punishments only", "Modifications", "New chapters", "Foreign laws"],
-            "correct": 1,
-            "explanation": "State Governments can add supplemental, incidental, or consequential modifications.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_7",
-            "question": "The exemption under Subsection-2 applies to how much of Nagaland?",
-            "options": ["Only cities", "Only villages", "Whole state", "Only capital"],
-            "correct": 2,
-            "explanation": "The exemption applies to the entire State of Nagaland.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_8",
-            "question": "Can State Government apply provisions to only part of the area?",
-            "options": ["No, must be full", "Yes, whole or part", "Only full state", "Not mentioned"],
-            "correct": 1,
-            "explanation": "State Government can apply to 'whole or part' of the area.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_9",
-            "question": "What type of modifications can be made?",
-            "options": ["Only supplemental", "Only incidental", "Only consequential", "All three types"],
-            "correct": 3,
-            "explanation": "Supplemental, incidental, or consequential modifications can be made.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_10",
-            "question": "Which chapter besides IX and XI also applies automatically?",
-            "options": ["Chapter X", "Chapter XII", "Chapter XIII", "Chapter XIV"],
-            "correct": 1,
-            "explanation": "Chapter XII is the third chapter that automatically applies.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_11",
-            "question": "The word 'Sanhita' in Subsection-2 refers to:",
-            "options": ["BNSS", "Constitution", "IPC", "CrPC"],
-            "correct": 0,
-            "explanation": "'This Sanhita' refers to BNSS (Bharatiya Nagarik Suraksha Sanhita).",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_12",
-            "question": "What must State Government issue to apply provisions?",
-            "options": ["Order", "Notification", "Judgment", "Circular"],
-            "correct": 1,
-            "explanation": "State Government must issue a notification.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_13",
-            "question": "Are all BNSS provisions exempt for these areas?",
-            "options": ["Yes, all exempt", "No, 3 chapters apply", "Only half exempt", "Not mentioned"],
-            "correct": 1,
-            "explanation": "No, Chapters IX, XI, and XII automatically apply; only other provisions are exempt.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_14",
-            "question": "The exemption is based on what factor?",
-            "options": ["Population", "Geography", "Special status", "Economy"],
-            "correct": 2,
-            "explanation": "The exemption recognizes the special constitutional and cultural status of these areas.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_15",
-            "question": "Can Central Government apply provisions to these areas?",
-            "options": ["Yes, only Central", "No, only State", "Both can", "Not mentioned"],
-            "correct": 1,
-            "explanation": "Only the concerned State Government can issue such notifications.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_16",
-            "question": "What does 'supplemental modifications' mean?",
-            "options": ["Remove provisions", "Add additional provisions", "Change completely", "Delete sections"],
-            "correct": 1,
-            "explanation": "Supplemental means additional provisions that supplement the main law.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_17",
-            "question": "Which subsection deals with exemptions?",
-            "options": ["Subsection-1", "Subsection-2", "Subsection-3", "Subsection-4"],
-            "correct": 1,
-            "explanation": "Subsection-2 of Section-1 deals with exemptions for Nagaland and tribal areas.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_18",
-            "question": "The provisions 'other than' which chapters are exempt?",
-            "options": ["I, II, III", "IX, XI, XII", "V, VI, VII", "All chapters"],
-            "correct": 1,
-            "explanation": "Provisions 'other than' Chapters IX, XI, XII are exempt.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_19",
-            "question": "How is the exemption implemented?",
-            "options": ["Automatically", "By default for most provisions", "Never", "By President"],
-            "correct": 1,
-            "explanation": "The exemption is automatic by default; State must notify to apply provisions.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_mcq_20",
-            "question": "What is the main purpose of Subsection-2?",
-            "options": ["Punish crimes", "Grant exemptions", "Define terms", "Create courts"],
-            "correct": 1,
-            "explanation": "The main purpose is to grant exemptions to special areas while allowing flexibility.",
-            "subsection": "2"
-          }
-        ],
-        "truefalse_pool": [
-          {
-            "id": "ss2_tf_1",
-            "statement": "Subsection-2 exempts Nagaland from most BNSS provisions.",
-            "correct": true,
-            "explanation": "This is correct. Most provisions do not apply to Nagaland.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_2",
-            "statement": "All provisions of BNSS apply to tribal areas.",
-            "correct": false,
-            "explanation": "False. Most provisions do not apply; only Chapters IX, XI, XII apply automatically.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_3",
-            "statement": "Chapter IX applies to Nagaland and tribal areas.",
-            "correct": true,
-            "explanation": "Correct. Chapter IX is one of the three chapters that automatically apply.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_4",
-            "statement": "Only Central Government can notify to apply provisions to these areas.",
-            "correct": false,
-            "explanation": "False. The concerned State Government has this power.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_5",
-            "statement": "State Government can make modifications while applying provisions.",
-            "correct": true,
-            "explanation": "True. They can make supplemental, incidental, or consequential modifications.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_6",
-            "statement": "Chapter XI does not apply to tribal areas.",
-            "correct": false,
-            "explanation": "False. Chapter XI is one of the three chapters that automatically apply.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_7",
-            "statement": "The exemption applies to the entire State of Nagaland.",
-            "correct": true,
-            "explanation": "True. The exemption covers the whole State of Nagaland.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_8",
-            "statement": "Chapter XII is exempt from applying to these areas.",
-            "correct": false,
-            "explanation": "False. Chapter XII is one of the three chapters that do apply.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_9",
-            "statement": "State Government must apply provisions to the whole area only.",
-            "correct": false,
-            "explanation": "False. They can apply to 'whole or part' of the area.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_10",
-            "statement": "Tribal areas have the same exemption status as Nagaland.",
-            "correct": true,
-            "explanation": "True. Both are treated similarly under Subsection-2.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_11",
-            "statement": "No chapters of BNSS apply to Nagaland by default.",
-            "correct": false,
-            "explanation": "False. Three chapters (IX, XI, XII) apply by default.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_12",
-            "statement": "Notification is required to apply exempt provisions.",
-            "correct": true,
-            "explanation": "True. State Government must issue a notification.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_13",
-            "statement": "Subsection-2 is about the law's name.",
-            "correct": false,
-            "explanation": "False. Subsection-1 is about the name; Subsection-2 is about exemptions.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_14",
-            "statement": "The exemption recognizes special status of certain areas.",
-            "correct": true,
-            "explanation": "True. It respects the unique constitutional status of these regions.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_15",
-            "statement": "State Government cannot modify BNSS provisions while applying.",
-            "correct": false,
-            "explanation": "False. They can make specified modifications.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_16",
-            "statement": "Subsection-2 mentions three specific chapters.",
-            "correct": true,
-            "explanation": "True. Chapters IX, XI, and XII are specifically mentioned.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_17",
-            "statement": "Urban areas get the same exemption as tribal areas.",
-            "correct": false,
-            "explanation": "False. Only tribal areas and Nagaland get this exemption.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_18",
-            "statement": "The exemption is permanent and cannot be changed.",
-            "correct": false,
-            "explanation": "False. State Government can notify to apply provisions anytime.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_19",
-            "statement": "Consequential modifications can be specified in the notification.",
-            "correct": true,
-            "explanation": "True. The notification can include such modifications.",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_tf_20",
-            "statement": "Subsection-2 appears in Section-1 of BNSS.",
-            "correct": true,
-            "explanation": "True. It is Subsection-2 of Section-1.",
-            "subsection": "2"
-          }
-        ],
-        "fillblank_pool": [
-          {
-            "id": "ss2_fb_1",
-            "question": "Subsection-2 grants exemption to __________ and tribal areas.",
-            "answer": "Nagaland",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_2",
-            "question": "Only Chapters IX, XI, and __________ apply automatically to these areas.",
-            "answer": "XII",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_3",
-            "question": "The concerned __________ Government can notify to apply other provisions.",
-            "answer": "State",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_4",
-            "question": "State Government must issue a __________ to apply provisions.",
-            "answer": "notification",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_5",
-            "question": "Provisions can be applied with supplemental, incidental, or __________ modifications.",
-            "answer": "consequential",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_6",
-            "question": "Chapter __________ is one of the three that automatically apply.",
-            "answer": "IX",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_7",
-            "question": "State Government can apply provisions to whole or __________ of the area.",
-            "answer": "part",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_8",
-            "question": "The exemption is for the State of __________ and tribal areas.",
-            "answer": "Nagaland",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_9",
-            "question": "Most provisions of BNSS do not __________ to these exempt areas.",
-            "answer": "apply",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_10",
-            "question": "__________ modifications can be specified in the notification.",
-            "answer": "Supplemental",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_11",
-            "question": "Besides Nagaland, __________ areas also get exemption.",
-            "answer": "tribal",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_12",
-            "question": "Chapter XI and XII along with Chapter __________ apply automatically.",
-            "answer": "IX",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_13",
-            "question": "Subsection-__________ deals with exemptions for special areas.",
-            "answer": "2",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_14",
-            "question": "The provisions 'other than' Chapters IX, XI, XII __________ not apply.",
-            "answer": "shall",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_15",
-            "question": "State Government has the power to apply __________ provisions.",
-            "answer": "such",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_16",
-            "question": "Modifications must be __________ in the notification.",
-            "answer": "specified",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_17",
-            "question": "The exemption recognizes the __________ status of these regions.",
-            "answer": "special",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_18",
-            "question": "Provisions relating to three chapters __________ apply.",
-            "answer": "shall",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_19",
-            "question": "State Government can apply provisions as the __________ may be.",
-            "answer": "case",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_fb_20",
-            "question": "The concerned __________ Government means the State Government of that area.",
-            "answer": "State",
-            "subsection": "2"
-          }
-        ],
-        "matching_pool": [
-          {
-            "id": "ss2_match_1",
-            "columnA": ["Exempt state", "Exempt areas", "Applying authority", "Chapters that apply", "Required document"],
-            "columnB": ["Notification", "Nagaland", "State Government", "Tribal areas", "IX, XI, XII"],
-            "correct_matches": [1, 3, 2, 4, 0],
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_match_2",
-            "columnA": ["Supplemental", "Incidental", "Consequential", "Whole or part", "Shall not apply"],
-            "columnB": ["Related modifications", "Resulting modifications", "Most provisions", "Application scope", "Additional modifications"],
-            "correct_matches": [4, 0, 1, 3, 2],
-            "subsection": "2"
-          }
-        ],
-        "word_arrangement_pool": [
-          {
-            "id": "ss2_wa_1",
-            "jumbled": ["provisions", "The", "of", "this", "Sanhita", "not", "apply", "shall", "to", "Nagaland"],
-            "correct": "The provisions of this Sanhita shall not apply to Nagaland.",
-            "hint": "Start with 'The provisions...'",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_wa_2",
-            "jumbled": ["Government", "State", "may", "notification", "by", "apply", "provisions", "such"],
-            "correct": "State Government may by notification apply such provisions.",
-            "hint": "Who has the power?",
-            "subsection": "2"
-          },
-          {
-            "id": "ss2_wa_3",
-            "jumbled": ["IX", "XI", "XII", "Chapters", "and", "apply", "automatically"],
-            "correct": "Chapters IX, XI and XII apply automatically.",
-            "hint": "Which chapters?",
-            "subsection": "2"
-          }
-        ]
-      },
-      "explanation_to_subsection_2": {
-  "id": "ss2_explanation",
-  "title": "Definition of Tribal Areas",
-  "keywords_for_identification": [
-    "explanation", "explanation to subsection 2", "explanation ss2",
-    "tribal areas definition", "what are tribal areas", "adivasi kshetra paribhasha",
-    "sixth schedule", "assam tribal areas", "21st january 1972",
-    "shillong municipality", "constitution paragraph 20"
-  ],
-  "main": {
-    "keywords": ["overview explanation", "tell me about explanation", "explain explanation", "batao explanation", "samjhao explanation"],
-    "content": [
-      {
-        "text": "Explanation to Subsection-2: Definition of Tribal Areas<br><br>• Defines what 'tribal areas' means for the purpose of Subsection-2.<br>• Refers to territories included in Assam's tribal areas as of January 21, 1972.<br>• Excludes the municipality of Shillong from this definition.<br>• Based on Paragraph 20 of the Sixth Schedule to the Constitution.",
-        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-EXP-MAIN.mp3"
-      }
-    ]
-  },
-   "concept_with_example": {
-      "keywords": ["concept subsection 2 explanation", "concept with example", "example", "samjhao", "concept explain", "with example"],
-      "content": [
-        {
-          "text": "Explanation - Meaning of 'Tribal Areas'<br><br><strong>1. The term 'tribal areas' has a specific meaning in this section.</strong><br>Example: Just like 'minor' means a person below 18 years, 'tribal areas' has a fixed legal meaning, not just any tribal village.<br><br><strong>2. It means those areas that were part of Assam's tribal regions before January 21, 1972.</strong><br>Example: Like saying 'old currency' means notes printed before 2016, 'tribal areas' means specific regions that existed before a particular date.<br><br><strong>3. These areas are mentioned in paragraph 20 of the Sixth Schedule of the Indian Constitution.</strong><br>Example: Just like your roll number is written in the school register, these areas are officially listed in the Constitution's Sixth Schedule.<br><br><strong>4. However, the city area of Shillong municipality is NOT included in 'tribal areas'.</strong><br>Example: Like saying 'all students get fee waiver except monitors', here all tribal areas are included except Shillong city.",
-          "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-EXP-CONCEPT.mp3"
-        }
-      ]
-    },      
-  "what": {
-    "keywords": ["what explanation", "kya explanation", "what does explanation say"],
-    "content": [
-      {
-        "text": "The Explanation states: 'Tribal areas' means the territories which were part of Assam's tribal areas immediately before January 21, 1972, as mentioned in Paragraph 20 of the Sixth Schedule to the Constitution, except areas within Shillong municipality. Example: Like defining a specific geographic region using a historical reference date.",
-        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-EXP-WHAT.mp3"
-      }
-    ]
-  },
-  "why": {
-    "keywords": ["why explanation", "kyun explanation", "reason explanation"],
-    "content": [
-      {
-        "text": "This Explanation exists to provide legal clarity on which areas qualify as 'tribal areas' under Subsection-2. It prevents confusion by fixing a specific date (January 21, 1972) and constitutional reference. Example: Like defining 'minor' as 'person below 18 years' - it removes ambiguity about who qualifies for special provisions.",
-        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-EXP-WHY.mp3"
-      }
-    ]
-  },
-  "where": {
-    "keywords": ["where explanation", "kahan explanation", "location explanation"],
-    "content": [
-      {
-        "text": "The Explanation applies to territories that were: (a) Part of Assam's tribal areas before January 21, 1972, (b) Mentioned in Paragraph 20 of Sixth Schedule, and (c) NOT within Shillong municipality limits. Example: Areas like parts of Meghalaya that were tribal areas of Assam before 1972, excluding Shillong city.",
-        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-EXP-WHERE.mp3"
-      }
-    ]
-  },
-  "when": {
-    "keywords": ["when explanation", "kab explanation", "time explanation"],
-    "content": [
-      {
-        "text": "The Explanation uses January 21, 1972 as the cut-off date. This is historically significant because it was when Meghalaya became a full state. Territories included as tribal areas 'immediately before' this date qualify. Example: If an area was tribal area on January 20, 1972, it qualifies; if designated after January 21, 1972, it doesn't.",
-        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-EXP-WHEN.mp3"
-      }
-    ]
-  },
-  "which": {
-    "keywords": ["which explanation", "kaun sa explanation", "which areas explanation"],
-    "content": [
-      {
-        "text": "The Explanation identifies: (1) Which areas qualify: Former Assam tribal areas as of Jan 21, 1972. (2) Which constitutional provision: Paragraph 20 of Sixth Schedule. (3) Which areas are excluded: Shillong municipality. Example: Of all tribal areas, only those meeting these three criteria qualify for Subsection-2 exemption.",
-        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-EXP-WHICH.mp3"
-      }
-    ]
-  },
-  "how": {
-    "keywords": ["how explanation", "kaise explanation", "mechanism explanation"],
-    "content": [
-      {
-        "text": "The Explanation works by establishing three criteria:<br>Step 1: Check if area was tribal area of Assam<br>Step 2: Verify status immediately before Jan 21, 1972<br>Step 3: Confirm it's referenced in Sixth Schedule Para 20<br>Step 4: Ensure it's NOT within Shillong municipality<br>All four must be satisfied. Example: Like a checklist - only areas meeting all conditions qualify as 'tribal areas' under BNSS.",
-        "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS2-EXP-HOW.mp3"
-      }
-    ]
-  },
-  "mcq_pool": [
-    {
-      "id": "ss2_exp_mcq_1",
-      "question": "The Explanation defines which term?",
-      "options": ["Nagaland", "Tribal areas", "State Government", "Notification"],
-      "correct": 1,
-      "explanation": "The Explanation specifically defines 'tribal areas'.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_mcq_2",
-      "question": "What is the reference date mentioned in the Explanation?",
-      "options": ["January 21, 1971", "January 21, 1972", "January 26, 1972", "January 21, 1973"],
-      "correct": 1,
-      "explanation": "January 21, 1972 is the specific date mentioned.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_mcq_3",
-      "question": "Which state's tribal areas are referenced?",
-      "options": ["Meghalaya", "Assam", "Manipur", "Nagaland"],
-      "correct": 1,
-      "explanation": "The Explanation refers to tribal areas of Assam.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_mcq_4",
-      "question": "Which municipality is specifically excluded?",
-      "options": ["Guwahati", "Dispur", "Shillong", "Imphal"],
-      "correct": 2,
-      "explanation": "Shillong municipality is explicitly excluded from the definition.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_mcq_5",
-      "question": "Which constitutional schedule is referenced?",
-      "options": ["Fifth Schedule", "Sixth Schedule", "Seventh Schedule", "Eighth Schedule"],
-      "correct": 1,
-      "explanation": "The Sixth Schedule to the Constitution is referenced.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_mcq_6",
-      "question": "Which paragraph of the Sixth Schedule is mentioned?",
-      "options": ["Paragraph 19", "Paragraph 20", "Paragraph 21", "Paragraph 22"],
-      "correct": 1,
-      "explanation": "Paragraph 20 of the Sixth Schedule is specifically mentioned.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_mcq_7",
-      "question": "The territories must have been tribal areas when?",
-      "options": ["After Jan 21, 1972", "On Jan 21, 1972", "Immediately before Jan 21, 1972", "Anytime"],
-      "correct": 2,
-      "explanation": "They must have been tribal areas 'immediately before' January 21, 1972.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_mcq_8",
-      "question": "What type of clause is this?",
-      "options": ["Proviso", "Explanation", "Exception", "Illustration"],
-      "correct": 1,
-      "explanation": "This is an Explanation clause that defines a term.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_mcq_9",
-      "question": "Areas within Shillong municipality are:",
-      "options": ["Included", "Excluded", "Partially included", "Not mentioned"],
-      "correct": 1,
-      "explanation": "Areas within Shillong municipality are explicitly excluded.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_mcq_10",
-      "question": "The Explanation is attached to which subsection?",
-      "options": ["Subsection-1", "Subsection-2", "Subsection-3", "None"],
-      "correct": 1,
-      "explanation": "It's the Explanation to Subsection-2.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_mcq_11",
-      "question": "Why is January 21, 1972 significant?",
-      "options": ["Independence Day", "Republic Day", "Meghalaya became full state", "BNSS enacted"],
-      "correct": 2,
-      "explanation": "This was when Meghalaya became a full-fledged state.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_mcq_12",
-      "question": "The definition applies to which section?",
-      "options": ["Entire BNSS", "Only this section", "Only Subsection-2", "Only Chapter IX"],
-      "correct": 1,
-      "explanation": "The Explanation says 'In this section', meaning it applies to this section only.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_mcq_13",
-      "question": "What does the Explanation clarify?",
-      "options": ["Who can notify", "What tribal areas means", "When to apply", "How to modify"],
-      "correct": 1,
-      "explanation": "It clarifies the meaning of 'tribal areas'.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_mcq_14",
-      "question": "The Explanation refers to territories of:",
-      "options": ["All India", "Specific Assam areas", "All tribal areas", "All North-East"],
-      "correct": 1,
-      "explanation": "It specifically refers to certain Assam tribal areas as of 1972.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_mcq_15",
-      "question": "Which document is the ultimate reference?",
-      "options": ["BNSS", "IPC", "Constitution", "CrPC"],
-      "correct": 2,
-      "explanation": "The Constitution (Sixth Schedule) is the ultimate reference.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_mcq_16",
-      "question": "The phrase 'immediately before' means:",
-      "options": ["Long before", "Just before", "After", "During"],
-      "correct": 1,
-      "explanation": "'Immediately before' means just before the specified date.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_mcq_17",
-      "question": "How many conditions must be met for an area to qualify?",
-      "options": ["One", "Two", "Three", "Four"],
-      "correct": 3,
-      "explanation": "Four conditions: Assam tribal area, before Jan 21 1972, Sixth Schedule Para 20, not Shillong.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_mcq_18",
-      "question": "The local limits mentioned refer to:",
-      "options": ["Entire state", "Shillong municipality", "All cities", "Rural areas"],
-      "correct": 1,
-      "explanation": "'Local limits' refers specifically to Shillong municipality boundaries.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_mcq_19",
-      "question": "The Explanation uses which type of definition?",
-      "options": ["General", "Specific with date", "Broad", "Flexible"],
-      "correct": 1,
-      "explanation": "It uses a specific definition with an exact date reference.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_mcq_20",
-      "question": "Who referred to the tribal areas originally?",
-      "options": ["BNSS", "Constitution", "Parliament", "Court"],
-      "correct": 1,
-      "explanation": "The Constitution (Sixth Schedule) originally referred to these tribal areas.",
-      "subsection": "2-explanation"
-    }
-  ],
-  "truefalse_pool": [
-    {
-      "id": "ss2_exp_tf_1",
-      "statement": "The Explanation defines 'tribal areas'.",
-      "correct": true,
-      "explanation": "Yes, this is the purpose of the Explanation.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_tf_2",
-      "statement": "The reference date is January 21, 1973.",
-      "correct": false,
-      "explanation": "False. The date is January 21, 1972.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_tf_3",
-      "statement": "Shillong municipality is included in 'tribal areas'.",
-      "correct": false,
-      "explanation": "False. Shillong municipality is explicitly excluded.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_tf_4",
-      "statement": "The Explanation refers to the Sixth Schedule.",
-      "correct": true,
-      "explanation": "True. It refers to Paragraph 20 of the Sixth Schedule.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_tf_5",
-      "statement": "Tribal areas of Meghalaya are referenced.",
-      "correct": false,
-      "explanation": "False. It refers to tribal areas of Assam (as of 1972).",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_tf_6",
-      "statement": "Paragraph 20 of Sixth Schedule is mentioned.",
-      "correct": true,
-      "explanation": "True. This is specifically referenced.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_tf_7",
-      "statement": "The Explanation applies to the entire BNSS.",
-      "correct": false,
-      "explanation": "False. It says 'In this section', meaning only Section 1.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_tf_8",
-      "statement": "January 21, 1972 was when Meghalaya became a state.",
-      "correct": true,
-      "explanation": "True. This is the historical significance of the date.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_tf_9",
-      "statement": "All tribal areas of India are covered.",
-      "correct": false,
-      "explanation": "False. Only specific Assam tribal areas from 1972 are covered.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_tf_10",
-      "statement": "The Explanation provides legal clarity.",
-      "correct": true,
-      "explanation": "True. It clarifies what 'tribal areas' means in this context.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_tf_11",
-      "statement": "The territories must have been tribal areas after 1972.",
-      "correct": false,
-      "explanation": "False. They must have been tribal areas 'immediately before' 1972.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_tf_12",
-      "statement": "The Constitution is the ultimate reference.",
-      "correct": true,
-      "explanation": "True. The Sixth Schedule to the Constitution is referenced.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_tf_13",
-      "statement": "Shillong was excluded because it's urban.",
-      "correct": true,
-      "explanation": "True. Municipality areas are excluded from tribal area definition.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_tf_14",
-      "statement": "This is an Explanation clause.",
-      "correct": true,
-      "explanation": "True. It's formally labeled as 'Explanation'.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_tf_15",
-      "statement": "The Explanation has no legal significance.",
-      "correct": false,
-      "explanation": "False. Explanations are legally significant definitional clauses.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_tf_16",
-      "statement": "'Immediately before' means just before the date.",
-      "correct": true,
-      "explanation": "True. It means right before January 21, 1972.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_tf_17",
-      "statement": "The Explanation defines 'State Government'.",
-      "correct": false,
-      "explanation": "False. It defines 'tribal areas', not 'State Government'.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_tf_18",
-      "statement": "Four conditions must be met for an area to qualify.",
-      "correct": true,
-      "explanation": "True. Assam area, before Jan 21 1972, Sixth Schedule, not Shillong.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_tf_19",
-      "statement": "The Explanation is attached to Subsection-1.",
-      "correct": false,
-      "explanation": "False. It's attached to Subsection-2.",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_tf_20",
-      "statement": "The definition uses a historical cut-off date.",
-      "correct": true,
-      "explanation": "True. January 21, 1972 is used as the historical reference point.",
-      "subsection": "2-explanation"
-    }
-  ],
-  "fillblank_pool": [
-    {
-      "id": "ss2_exp_fb_1",
-      "question": "The Explanation defines the term '__________ areas'.",
-      "answer": "tribal",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_fb_2",
-      "question": "The reference date is January __________, 1972.",
-      "answer": "21",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_fb_3",
-      "question": "The territories were part of __________ tribal areas.",
-      "answer": "Assam",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_fb_4",
-      "question": "The municipality of __________ is excluded.",
-      "answer": "Shillong",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_fb_5",
-      "question": "The Explanation refers to the __________ Schedule to the Constitution.",
-      "answer": "Sixth",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_fb_6",
-      "question": "Paragraph __________ of the Sixth Schedule is mentioned.",
-      "answer": "20",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_fb_7",
-      "question": "Territories must have been tribal areas __________ before January 21, 1972.",
-      "answer": "immediately",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_fb_8",
-      "question": "This is the __________ to Subsection-2.",
-      "answer": "Explanation",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_fb_9",
-      "question": "Areas within the __________ limits of Shillong municipality are excluded.",
-      "answer": "local",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_fb_10",
-      "question": "The definition applies 'In this __________'.",
-      "answer": "section",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_fb_11",
-      "question": "January 21, __________ is the cut-off date.",
-      "answer": "1972",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_fb_12",
-      "question": "The territories were referred to in __________ 20 of the Sixth Schedule.",
-      "answer": "paragraph",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_fb_13",
-      "question": "The Explanation clarifies what '__________ areas' means.",
-      "answer": "tribal",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_fb_14",
-      "question": "The reference is to the __________ to the Constitution.",
-      "answer": "Sixth Schedule",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_fb_15",
-      "question": "Shillong __________ is specifically excluded.",
-      "answer": "municipality",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_fb_16",
-      "question": "The territories 'which __________ before' the date are included.",
-      "answer": "immediately",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_fb_17",
-      "question": "Territories were included in tribal areas of __________.",
-      "answer": "Assam",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_fb_18",
-      "question": "The year mentioned is __________.",
-      "answer": "1972",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_fb_19",
-      "question": "__________ 20 of Sixth Schedule is the constitutional reference.",
-      "answer": "Paragraph",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_fb_20",
-      "question": "The Explanation uses __________ as the reference document.",
-      "answer": "Constitution",
-      "subsection": "2-explanation"
-    }
-  ],
-  "matching_pool": [
-    {
-      "id": "ss2_exp_match_1",
-      "columnA": ["Reference date", "Excluded area", "State referenced", "Constitutional reference", "What's defined"],
-      "columnB": ["Tribal areas", "Shillong", "January 21, 1972", "Assam", "Sixth Schedule Para 20"],
-      "correct_matches": [2, 1, 3, 4, 0],
-      "subsection": "2-explanation"
-    }
-  ],
-  "word_arrangement_pool": [
-    {
-      "id": "ss2_exp_wa_1",
-      "jumbled": ["tribal", "Explanation", "In", "section", "this", "areas", "means"],
-      "correct": "Explanation: In this section, tribal areas means",
-      "hint": "Start with 'Explanation'",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_wa_2",
-      "jumbled": ["before", "January", "1972", "21st", "immediately", "the", "day", "of"],
-      "correct": "immediately before the 21st day of January, 1972",
-      "hint": "Arrange the date properly",
-      "subsection": "2-explanation"
-    },
-    {
-      "id": "ss2_exp_wa_3",
-      "jumbled": ["municipality", "of", "Shillong", "the", "within", "limits", "local"],
-      "correct": "within the local limits of the municipality of Shillong",
-      "hint": "Where is excluded?",
-      "subsection": "2-explanation"
-    }
-  ]
-},
-  "subsection_3": {
-        "id": "ss3",
-        "title": "Date of Commencement",
-        "keywords_for_identification": [
-          "subsection 3", "subsection-3", "subsection three", "ss3", "ss 3",
-          "upkhanda 3", "tisra upkhanda", "third subsection",
-          "commencement", "enforcement", "force", "laagu hona", "prabhav mein",
-          "when law starts", "effective date", "notification date"
-        ],
-        "main": {
-          "keywords": ["overview subsection 3", "tell me about subsection 3", "explain subsection 3", "batao subsection 3", "samjhao subsection 3"],
-          "content": [
-            {
-              "text": "Subsection-3: Date of Commencement<br><br>• This law comes into force on the date notified by Central Government.<br>• The notification must be published in the Official Gazette.<br>• Different provisions may come into force on different dates.<br>• Actual enforcement date: 1st July, 2024 (with one exception).",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS3-MAIN.mp3"
-            }
-          ]
-        },
-    "concept_with_example": {
-      "keywords": ["concept subsection 3", "concept with example", "example", "samjhao", "concept explain", "with example"],
-      "content": [
-        {
-          "text": "Sub-section (3) - When This Law Started Working<br><br><strong>1. This law did not start immediately after being passed.</strong><br>Example: Like when Parliament passes a budget in February but it starts from April, this law also had a gap between passing and starting.<br><br><strong>2. It started working on a date chosen by the Central Government.</strong><br>Example: Like your summer vacation dates are decided by your school principal, the starting date of this law was decided by the Central Government.<br><br><strong>3. The Central Government had to announce this date through a notification in the Official Gazette (Government's official publication).</strong><br>Example: Just like important school announcements come in the school diary, government announcements come in the Official Gazette.",
-          "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS3-CONCEPT.mp3"
-        }
-      ]
-    },
-        "what": {
-          "keywords": ["what subsection 3", "kya subsection 3", "what is subsection 3"],
-          "content": [
-            {
-              "text": "Subsection-3 states: This law shall come into force on the date appointed by Central Government through official notification in the Gazette. The actual date notified was 1st July, 2024. Example: Like announcing 'School will start from Monday' - this subsection announces when the law officially begins.",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS3-WHAT.mp3"
-            }
-          ]
-        },
-        "why": {
-          "keywords": ["why subsection 3", "kyun subsection 3", "reason subsection 3"],
-          "content": [
-            {
-              "text": "Subsection-3 exists because laws need a clear start date for implementation. It allows time for preparation: training officials, setting up systems, and informing the public. Example: Like giving advance notice before new traffic rules - authorities need time to prepare before enforcing the law.",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS3-WHY.mp3"
-            }
-          ]
-        },
-        "where": {
-          "keywords": ["where subsection 3", "kahan subsection 3", "location subsection 3"],
-          "content": [
-            {
-              "text": "Subsection-3 applies throughout India where BNSS is applicable (except exempt areas under Subsection-2). The notification is published in the Official Gazette of India. Example: The commencement date is uniform across all non-exempt territories of India.",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS3-WHERE.mp3"
-            }
-          ]
-        },
-        "when": {
-          "keywords": ["when subsection 3", "kab subsection 3", "time subsection 3"],
-          "content": [
-            {
-              "text": "Subsection-3 became relevant on 23rd February, 2024 when the notification was issued. The law came into force on 1st July, 2024. Timeline: Law passed in 2023 → Notification issued 23-Feb-2024 → Enforcement began 01-Jul-2024. Example: Four months between notification and actual implementation.",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS3-WHEN.mp3"
-            }
-          ]
-        },
-        "which": {
-          "keywords": ["which subsection 3", "kaun sa subsection 3"],
-          "content": [
-            {
-              "text": "Subsection-3 is the commencement clause - the provision that activates the law. It is the third and final subsection of Section 1. Exception: Provisions related to Section 106(2) in First Schedule had different timing. Example: 99% of BNSS started on 1st July 2024; one specific provision had separate timing.",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS3-WHICH.mp3"
-            }
-          ]
-        },
-        "how": {
-          "keywords": ["how subsection 3", "kaise subsection 3"],
-          "content": [
-            {
-              "text": "Subsection-3 works through this mechanism:<br>Step 1: Central Government decides readiness date<br>Step 2: Issues notification (S.O. 848(E) dated 23-Feb-2024)<br>Step 3: Publishes in Official Gazette<br>Step 4: Law becomes enforceable on appointed date (01-Jul-2024). Example: Like flipping a switch - one specific moment when the law 'turns on'.",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-SS3-HOW.mp3"
-            }
-          ]
-        },
-        "mcq_pool": [
-          {
-            "id": "ss3_mcq_1",
-            "question": "Who appoints the date for BNSS to come into force?",
-            "options": ["State Government", "Central Government", "Supreme Court", "Parliament"],
-            "correct": 1,
-            "explanation": "Central Government has the power to appoint the commencement date.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_mcq_2",
-            "question": "Where must the commencement notification be published?",
-            "options": ["Newspapers", "Official Gazette", "Internet", "TV channels"],
-            "correct": 1,
-            "explanation": "The notification must be published in the Official Gazette.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_mcq_3",
-            "question": "On what date did BNSS come into force?",
-            "options": ["1st January, 2024", "1st July, 2024", "23rd February, 2024", "1st January, 2023"],
-            "correct": 1,
-            "explanation": "BNSS came into force on 1st July, 2024.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_mcq_4",
-            "question": "When was the commencement notification issued?",
-            "options": ["1st July, 2024", "23rd February, 2024", "1st January, 2024", "1st January, 2023"],
-            "correct": 1,
-            "explanation": "The notification was issued on 23rd February, 2024.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_mcq_5",
-            "question": "What is the notification number for commencement?",
-            "options": ["S.O. 848(E)", "S.O. 748(E)", "S.O. 948(E)", "S.O. 648(E)"],
-            "correct": 0,
-            "explanation": "The notification number is S.O. 848(E).",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_mcq_6",
-            "question": "Which section had an exception in commencement?",
-            "options": ["Section 105(2)", "Section 106(2)", "Section 107(2)", "Section 108(2)"],
-            "correct": 1,
-            "explanation": "Section 106(2) related provisions in First Schedule had an exception.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_mcq_7",
-            "question": "In which Schedule was the exception mentioned?",
-            "options": ["Second Schedule", "Third Schedule", "First Schedule", "Fourth Schedule"],
-            "correct": 2,
-            "explanation": "The exception was in the First Schedule.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_mcq_8",
-            "question": "What does 'come into force' mean?",
-            "options": ["Law is passed", "Law becomes enforceable", "Law is written", "Law is discussed"],
-            "correct": 1,
-            "explanation": "'Come into force' means the law becomes legally enforceable.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_mcq_9",
-            "question": "The commencement date is appointed by which method?",
-            "options": ["Oral announcement", "Notification", "Press release", "Email"],
-            "correct": 1,
-            "explanation": "It is appointed by official notification.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_mcq_10",
-            "question": "Can different provisions come into force on different dates?",
-            "options": ["No, never", "Yes, possible", "Only with court permission", "Not mentioned"],
-            "correct": 1,
-            "explanation": "Yes, different provisions can have different commencement dates (as shown by the exception).",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_mcq_11",
-            "question": "Which subsection deals with commencement?",
-            "options": ["Subsection-1", "Subsection-2", "Subsection-3", "Subsection-4"],
-            "correct": 2,
-            "explanation": "Subsection-3 deals with the date of commencement.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_mcq_12",
-            "question": "In which year did BNSS come into force?",
-            "options": ["2022", "2023", "2024", "2025"],
-            "correct": 2,
-            "explanation": "BNSS came into force in 2024.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_mcq_13",
-            "question": "The notification was published in which part of Gazette?",
-            "options": ["Part I", "Part II, sec. 3(ii)", "Part III", "Part IV"],
-            "correct": 1,
-            "explanation": "It was published in Part II, section 3(ii) of the Gazette.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_mcq_14",
-            "question": "What type of Gazette was used?",
-            "options": ["Ordinary", "Extraordinary", "Special", "Weekly"],
-            "correct": 1,
-            "explanation": "The Gazette of India, Extraordinary was used.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_mcq_15",
-            "question": "How many months between notification and enforcement?",
-            "options": ["2 months", "3 months", "About 4 months", "6 months"],
-            "correct": 2,
-            "explanation": "About 4 months elapsed (23rd Feb to 1st July).",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_mcq_16",
-            "question": "The word 'appoint' in subsection-3 means:",
-            "options": ["Hire someone", "Fix/decide a date", "Cancel", "Postpone"],
-            "correct": 1,
-            "explanation": "'Appoint' here means to fix or decide upon a date.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_mcq_17",
-            "question": "What does 'shall come into force' indicate?",
-            "options": ["Optional", "Mandatory future action", "Past action", "Suggestion"],
-            "correct": 1,
-            "explanation": "'Shall' indicates a mandatory future action.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_mcq_18",
-            "question": "The exception clause used which punctuation?",
-            "options": ["Round brackets", "Square brackets", "Curly brackets", "No brackets"],
-            "correct": 1,
-            "explanation": "Square brackets [ ] were used for the exception.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_mcq_19",
-            "question": "Which month did BNSS become operational?",
-            "options": ["January", "February", "July", "December"],
-            "correct": 2,
-            "explanation": "BNSS became operational in July 2024.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_mcq_20",
-            "question": "The commencement applies to how much of BNSS?",
-            "options": ["25%", "50%", "Almost all except one provision", "None"],
-            "correct": 2,
-            "explanation": "Almost all provisions came into force except Section 106(2) related entries.",
-            "subsection": "3"
-          }
-        ],
-        "truefalse_pool": [
-          {
-            "id": "ss3_tf_1",
-            "statement": "Central Government appoints the commencement date of BNSS.",
-            "correct": true,
-            "explanation": "True. Central Government has this power under Subsection-3.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_tf_2",
-            "statement": "BNSS came into force on 1st January, 2024.",
-            "correct": false,
-            "explanation": "False. It came into force on 1st July, 2024.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_tf_3",
-            "statement": "The notification must be published in the Official Gazette.",
-            "correct": true,
-            "explanation": "True. This is a mandatory requirement.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_tf_4",
-            "statement": "All provisions of BNSS came into force on the same date.",
-            "correct": false,
-            "explanation": "False. Provisions related to Section 106(2) in First Schedule had an exception.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_tf_5",
-            "statement": "The commencement notification was issued on 23rd February, 2024.",
-            "correct": true,
-            "explanation": "True. This is the date mentioned in the footnote.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_tf_6",
-            "statement": "State Governments appoint the commencement date.",
-            "correct": false,
-            "explanation": "False. Only Central Government has this power.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_tf_7",
-            "statement": "The notification number is S.O. 848(E).",
-            "correct": true,
-            "explanation": "True. This is the correct notification number.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_tf_8",
-            "statement": "BNSS came into force in 2023.",
-            "correct": false,
-            "explanation": "False. It came into force in 2024, though enacted in 2023.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_tf_9",
-            "statement": "Subsection-3 is about the law's title.",
-            "correct": false,
-            "explanation": "False. Subsection-1 is about title; Subsection-3 is about commencement.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_tf_10",
-            "statement": "The exception related to Section 106(2) in the First Schedule.",
-            "correct": true,
-            "explanation": "True. This is specifically mentioned in the footnote.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_tf_11",
-            "statement": "No notification is needed for BNSS to come into force.",
-            "correct": false,
-            "explanation": "False. A notification in the Official Gazette is mandatory.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_tf_12",
-            "statement": "The law came into force immediately after being passed.",
-            "correct": false,
-            "explanation": "False. There was a gap between enactment (2023) and enforcement (July 2024).",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_tf_13",
-            "statement": "'Come into force' means the law becomes enforceable.",
-            "correct": true,
-            "explanation": "True. This is the correct legal meaning.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_tf_14",
-            "statement": "The notification was published in an Extraordinary Gazette.",
-            "correct": true,
-            "explanation": "True. It was in the Gazette of India, Extraordinary.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_tf_15",
-            "statement": "Subsection-3 is the last subsection of Section 1.",
-            "correct": true,
-            "explanation": "True. It is the third and final subsection.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_tf_16",
-            "statement": "Different provisions can have different commencement dates.",
-            "correct": true,
-            "explanation": "True. The exception proves this is possible.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_tf_17",
-            "statement": "The commencement date was 23rd February, 2024.",
-            "correct": false,
-            "explanation": "False. That was the notification date; commencement was 1st July, 2024.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_tf_18",
-            "statement": "The notification allows time for implementation preparation.",
-            "correct": true,
-            "explanation": "True. The gap between notification and enforcement allows preparation time.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_tf_19",
-            "statement": "BNSS became operational in July 2024.",
-            "correct": true,
-            "explanation": "True. It came into force on 1st July, 2024.",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_tf_20",
-            "statement": "The commencement provision is in Subsection-2.",
-            "correct": false,
-            "explanation": "False. It is in Subsection-3.",
-            "subsection": "3"
-          }
-        ],
-        "fillblank_pool": [
-          {
-            "id": "ss3_fb_1",
-            "question": "This law shall come into force on such date as the __________ Government may appoint.",
-            "answer": "Central",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_fb_2",
-            "question": "The date must be appointed by notification in the Official __________.",
-            "answer": "Gazette",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_fb_3",
-            "question": "BNSS came into force on __________ July, 2024.",
-            "answer": "1st",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_fb_4",
-            "question": "The commencement notification was issued on 23rd __________, 2024.",
-            "answer": "February",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_fb_5",
-            "question": "The notification number was S.O. __________(E).",
-            "answer": "848",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_fb_6",
-            "question": "The exception related to Section __________(2) in the First Schedule.",
-            "answer": "106",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_fb_7",
-            "question": "The exception was in the __________ Schedule.",
-            "answer": "First",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_fb_8",
-            "question": "The notification was published in Part II, sec. __________(ii).",
-            "answer": "3",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_fb_9",
-            "question": "It shall __________ into force on the appointed date.",
-            "answer": "come",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_fb_10",
-            "question": "The Gazette used was the Gazette of India, __________.",
-            "answer": "Extraordinary",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_fb_11",
-            "question": "BNSS came into force in the year __________.",
-            "answer": "2024",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_fb_12",
-            "question": "Subsection-__________ deals with commencement.",
-            "answer": "3",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_fb_13",
-            "question": "Central Government may __________ the date by notification.",
-            "answer": "appoint",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_fb_14",
-            "question": "The commencement date is appointed in the __________ Gazette.",
-            "answer": "Official",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_fb_15",
-            "question": "Almost all provisions came into force __________ one exception.",
-            "answer": "except",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_fb_16",
-            "question": "The notification date was in the month of __________.",
-            "answer": "February",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_fb_17",
-            "question": "The enforcement date was in the month of __________.",
-            "answer": "July",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_fb_18",
-            "question": "'Come into force' means the law becomes __________.",
-            "answer": "enforceable",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_fb_19",
-            "question": "The notification was dated 23rd day of __________, 2024.",
-            "answer": "February",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_fb_20",
-            "question": "About __________ months passed between notification and enforcement.",
-            "answer": "four",
-            "subsection": "3"
-          }
-        ],
-        "matching_pool": [
-          {
-            "id": "ss3_match_1",
-            "columnA": ["Appointing authority", "Notification date", "Enforcement date", "Notification number", "Exception provision"],
-            "columnB": ["S.O. 848(E)", "Central Government", "1st July, 2024", "Section 106(2)", "23rd February, 2024"],
-            "correct_matches": [1, 4, 2, 0, 3],
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_match_2",
-            "columnA": ["Publication medium", "Gazette type", "Gazette part", "Schedule with exception", "Year of enforcement"],
-            "columnB": ["2024", "Official Gazette", "Part II, sec. 3(ii)", "First Schedule", "Extraordinary"],
-            "correct_matches": [1, 4, 2, 3, 0],
-            "subsection": "3"
-          }
-        ],
-        "word_arrangement_pool": [
-          {
-            "id": "ss3_wa_1",
-            "jumbled": ["shall", "It", "into", "force", "come", "on", "date", "such", "as", "appointed"],
-            "correct": "It shall come into force on such date as appointed.",
-            "hint": "Start with 'It shall...'",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_wa_2",
-            "jumbled": ["Central", "may", "Government", "by", "notification", "appoint", "the", "date"],
-            "correct": "Central Government may appoint the date by notification.",
-            "hint": "Who has the power?",
-            "subsection": "3"
-          },
-          {
-            "id": "ss3_wa_3",
-            "jumbled": ["force", "1st", "into", "came", "BNSS", "July", "2024", "on"],
-            "correct": "BNSS came into force on 1st July 2024.",
-            "hint": "When did it happen?",
-            "subsection": "3"
-          }
-        ]
-      },
-      "footnote_1": {
-        "id": "footnote1",
-        "title": "Commencement Date Notification Details",
-        "keywords_for_identification": [
-          "footnote", "footnote 1", "footnote-1", "foot note",
-          "notification details", "so 848", "gazette notification",
-          "july 2024", "february 2024", "section 106"
-        ],
-        "main": {
-          "keywords": ["overview footnote", "tell me about footnote", "explain footnote", "batao footnote", "samjhao footnote"],
-          "content": [
-            {
-              "text": "Footnote-1: Commencement Notification Details<br><br>• Notification No.: S.O. 848(E)<br>• Date of Notification: 23rd February, 2024<br>• Date of Enforcement: 1st July, 2024<br>• Exception: Provisions related to Section 106(2) in First Schedule<br>• Published in: Gazette of India, Extraordinary, Part II, sec. 3(ii)",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-FN1-MAIN.mp3"
-            }
-          ]
-        },
-        "concept_with_example": {
-      "keywords": ["concept footnote", "concept with example", "example", "samjhao", "concept explain", "with example"],
-      "content": [
-        {
-          "text": "Footnote - Actual Starting Date<br><br><strong>1. The Central Government announced the starting date through notification number S.O. 848(E).</strong><br>Example: Like your exam admit card has a number (like 2024/EXAM/12345), this notification has a number: S.O. 848(E).<br><br><strong>2. This notification was issued on February 23, 2024.</strong><br>Example: Like your exam date sheet is released on a specific date, this notification came out on February 23, 2024.<br><br><strong>3. According to this notification, the law came into force on July 1, 2024.</strong><br>Example: Like school reopening after summer vacation on July 1st, this law started working from July 1, 2024.<br><br><strong>4. However, one part was kept out - the provisions related to Section 106(2) in the First Schedule did not start on this date.</strong><br>Example: Like school reopens on July 1st but the science lab opens a week later, most of BNSS started on July 1st but Section 106(2) didn't start then.<br><br><strong>5. This notification was published in the Gazette of India, Extraordinary edition, Part II, Section 3(ii).</strong><br>Example: Like important news comes in a special edition newspaper, this notification was published in a special 'Extraordinary' edition of the government's official publication, in a specific section (Part II, Section 3(ii)).",
-          "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-FOOTNOTE-CONCEPT.mp3"
-        }
-      ]
-    },
-        "what": {
-          "keywords": ["what footnote", "kya footnote", "what is footnote"],
-          "content": [
-            {
-              "text": "Footnote-1 provides the specific details of how and when BNSS came into force. It references notification S.O. 848(E) dated 23rd February 2024, which appointed 1st July 2024 as the enforcement date, with one exception. Example: Like fine print that gives the complete reference details for verification.",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-FN1-WHAT.mp3"
-            }
-          ]
-        },
-        "why": {
-          "keywords": ["why footnote", "kyun footnote", "reason footnote"],
-          "content": [
-            {
-              "text": "Footnote-1 exists to provide official documentation and verification details. Legal documents need precise references so anyone can verify the information in official records. Example: Like citing sources in research - it allows readers to check the original notification in the Gazette.",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-FN1-WHY.mp3"
-            }
-          ]
-        },
-        "where": {
-          "keywords": ["where footnote", "kahan footnote", "location footnote"],
-          "content": [
-            {
-              "text": "Footnote-1 appears at the bottom of Section 1, linked to Subsection-3. The actual notification can be found in the Gazette of India, Extraordinary, Part II, section 3(ii). Example: Physical location: bottom of page; Reference location: Official Gazette archives.",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-FN1-WHERE.mp3"
-            }
-          ]
-        },
-        "when": {
-          "keywords": ["when footnote", "kab footnote", "time footnote"],
-          "content": [
-            {
-              "text": "Footnote-1 references two key dates: Notification issued on 23rd February 2024, and enforcement began on 1st July 2024. Timeline: Law enacted 2023 → Notification Feb 2024 → Enforcement July 2024. Example: About 4 months gap for implementation preparation.",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-FN1-WHEN.mp3"
-            }
-          ]
-        },
-        "which": {
-          "keywords": ["which footnote", "kaun sa footnote"],
-          "content": [
-            {
-              "text": "Footnote-1 is the first (and only) footnote to Section 1. It identifies: (1) Which notification: S.O. 848(E), (2) Which exception: Section 106(2) in First Schedule, (3) Which publication: Gazette of India, Extraordinary. Example: Among all documentation, this footnote pinpoints the exact official reference.",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-FN1-WHICH.mp3"
-            }
-          ]
-        },
-        "how": {
-          "keywords": ["how footnote", "kaise footnote"],
-          "content": [
-            {
-              "text": "Footnote-1 works as a documentation reference:<br>Step 1: Links to Subsection-3's date mention<br>Step 2: Provides notification number (S.O. 848(E))<br>Step 3: States exact dates (issued 23-Feb, effective 1-Jul)<br>Step 4: Notes exception in square brackets<br>Step 5: Gives Gazette publication details. Example: Like a detailed citation that allows verification of every claim.",
-              "audioUrl": "https://github.com/eguruOdisha/audio/raw/main/BNSS-TTS-S1-FN1-HOW.mp3"
-            }
-          ]
-        },
-        "mcq_pool": [
-          {
-            "id": "fn1_mcq_1",
-            "question": "What is the notification number mentioned in Footnote-1?",
-            "options": ["S.O. 748(E)", "S.O. 848(E)", "S.O. 948(E)", "S.O. 648(E)"],
-            "correct": 1,
-            "explanation": "The notification number is S.O. 848(E).",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_mcq_2",
-            "question": "On which date was the notification issued?",
-            "options": ["1st July, 2024", "23rd February, 2024", "1st January, 2024", "23rd July, 2024"],
-            "correct": 1,
-            "explanation": "The notification was issued on 23rd February, 2024.",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_mcq_3",
-            "question": "What date did BNSS come into force according to the footnote?",
-            "options": ["23rd February, 2024", "1st June, 2024", "1st July, 2024", "1st August, 2024"],
-            "correct": 2,
-            "explanation": "BNSS came into force on 1st July, 2024.",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_mcq_4",
-            "question": "Which section's provisions had an exception?",
-            "options": ["Section 105(2)", "Section 106(2)", "Section 107(2)", "Section 108(2)"],
-            "correct": 1,
-            "explanation": "Section 106(2) related provisions had an exception.",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_mcq_5",
-            "question": "In which schedule was the exception?",
-            "options": ["Second Schedule", "Third Schedule", "First Schedule", "Fourth Schedule"],
-            "correct": 2,
-            "explanation": "The exception was in the First Schedule.",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_mcq_6",
-            "question": "Where was the notification published?",
-            "options": ["Newspapers", "Gazette of India", "Internet only", "State Gazette"],
-            "correct": 1,
-            "explanation": "It was published in the Gazette of India.",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_mcq_7",
-            "question": "What type of Gazette was used?",
-            "options": ["Ordinary", "Extraordinary", "Weekly", "Monthly"],
-            "correct": 1,
-            "explanation": "The Gazette of India, Extraordinary was used.",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_mcq_8",
-            "question": "In which part of the Gazette was it published?",
-            "options": ["Part I", "Part II, sec. 3(ii)", "Part III", "Part IV"],
-            "correct": 1,
-            "explanation": "It was published in Part II, section 3(ii).",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_mcq_9",
-            "question": "The exception is marked with which punctuation?",
-            "options": ["Round brackets ( )", "Square brackets [ ]", "Curly brackets { }", "Angle brackets < >"],
-            "correct": 1,
-            "explanation": "The exception is marked with square brackets [ ].",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_mcq_10",
-            "question": "What does 'vide' mean in the footnote?",
-            "options": ["Video", "See/refer to", "Void", "Valid"],
-            "correct": 1,
-            "explanation": "'Vide' is a Latin term meaning 'see' or 'refer to'.",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_mcq_11",
-            "question": "Which year is mentioned in the footnote?",
-            "options": ["2022", "2023", "2024", "2025"],
-            "correct": 2,
-            "explanation": "The year 2024 is mentioned for both notification and enforcement dates.",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_mcq_12",
-            "question": "What is the purpose of Footnote-1?",
-            "options": ["Define terms", "Provide reference details", "List punishments", "Explain procedures"],
-            "correct": 1,
-            "explanation": "The footnote provides official reference and documentation details.",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_mcq_13",
-            "question": "The notification number starts with:",
-            "options": ["S.O.", "N.O.", "G.O.", "R.O."],
-            "correct": 0,
-            "explanation": "The notification starts with S.O. (Statutory Order).",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_mcq_14",
-            "question": "How many days are mentioned in the footnote date?",
-            "options": ["1st", "23rd", "Both 1st and 23rd", "Neither"],
-            "correct": 2,
-            "explanation": "Both 1st (July) and 23rd (February) are mentioned.",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_mcq_15",
-            "question": "The footnote is linked to which subsection?",
-            "options": ["Subsection-1", "Subsection-2", "Subsection-3", "No subsection"],
-            "correct": 2,
-            "explanation": "Footnote-1 is linked to Subsection-3.",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_mcq_16",
-            "question": "What does S.O. likely stand for?",
-            "options": ["Special Order", "Statutory Order", "State Order", "Supreme Order"],
-            "correct": 1,
-            "explanation": "S.O. stands for Statutory Order.",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_mcq_17",
-            "question": "The exception clause is about provisions relating to:",
-            "options": ["Section 105", "Section 106", "Section 107", "Section 108"],
-            "correct": 1,
-            "explanation": "The exception relates to Section 106(2).",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_mcq_18",
-            "question": "Which month was the notification issued?",
-            "options": ["January", "February", "July", "December"],
-            "correct": 1,
-            "explanation": "The notification was issued in February.",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_mcq_19",
-            "question": "Which month did enforcement begin?",
-            "options": ["January", "February", "July", "December"],
-            "correct": 2,
-            "explanation": "Enforcement began in July.",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_mcq_20",
-            "question": "The footnote provides details for:",
-            "options": ["Law's name", "Exemptions", "Commencement", "Definitions"],
-            "correct": 2,
-            "explanation": "The footnote provides commencement notification details.",
-            "subsection": "footnote"
-          }
-        ],
-        "truefalse_pool": [
-          {
-            "id": "fn1_tf_1",
-            "statement": "Footnote-1 mentions notification number S.O. 848(E).",
-            "correct": true,
-            "explanation": "True. This is the correct notification number.",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_tf_2",
-            "statement": "The notification was issued on 1st July, 2024.",
-            "correct": false,
-            "explanation": "False. It was issued on 23rd February, 2024; enforcement was on 1st July.",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_tf_3",
-            "statement": "BNSS came into force on 1st July, 2024.",
-            "correct": true,
-            "explanation": "True. This is the enforcement date mentioned in the footnote.",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_tf_4",
-            "statement": "All provisions of BNSS came into force on 1st July, 2024.",
-            "correct": false,
-            "explanation": "False. Provisions related to Section 106(2) in First Schedule were excepted.",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_tf_5",
-            "statement": "The notification was published in the Gazette of India, Extraordinary.",
-            "correct": true,
-            "explanation": "True. This is the correct publication.",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_tf_6",
-            "statement": "The exception relates to Section 107(2).",
-            "correct": false,
-            "explanation": "False. The exception relates to Section 106(2).",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_tf_7",
-            "statement": "The footnote is linked to Subsection-3.",
-            "correct": true,
-            "explanation": "True. Footnote-1 provides details for the date mentioned in Subsection-3.",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_tf_8",
-            "statement": "The exception was in the Second Schedule.",
-            "correct": false,
-            "explanation": "False. It was in the First Schedule.",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_tf_9",
-            "statement": "The notification was published in Part II, sec. 3(ii) of the Gazette.",
-            "correct": true,
-            "explanation": "True. This is the correct Gazette section.",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_tf_10",
-            "statement": "The notification number contains the letter E in brackets.",
-            "correct": true,
-            "explanation": "True. The notification is S.O. 848(E).",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_tf_11",
-            "statement": "The notification date and enforcement date are the same.",
-            "correct": false,
-            "explanation": "False. Notification was on 23rd Feb; enforcement on 1st July.",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_tf_12",
-            "statement": "'Vide' means 'see' or 'refer to'.",
-            "correct": true,
-            "explanation": "True. 'Vide' is a Latin term meaning 'see'.",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_tf_13",
-            "statement": "The exception is marked with square brackets.",
-            "correct": true,
-            "explanation": "True. Square brackets [ ] are used for the exception.",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_tf_14",
-            "statement": "The footnote appears at the top of Section 1.",
-            "correct": false,
-            "explanation": "False. Footnotes appear at the bottom.",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_tf_15",
-            "statement": "Both February and July dates are in 2024.",
-            "correct": true,
-            "explanation": "True. Both dates fall in the year 2024.",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_tf_16",
-            "statement": "The footnote provides verification details.",
-            "correct": true,
-            "explanation": "True. It allows anyone to verify the notification in official records.",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_tf_17",
-            "statement": "S.O. stands for Special Order.",
-            "correct": false,
-            "explanation": "False. S.O. stands for Statutory Order.",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_tf_18",
-            "statement": "About 4 months elapsed between notification and enforcement.",
-            "correct": true,
-            "explanation": "True. From 23rd February to 1st July is about 4 months.",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_tf_19",
-            "statement": "The footnote mentions multiple notification numbers.",
-            "correct": false,
-            "explanation": "False. Only one notification number (S.O. 848(E)) is mentioned.",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_tf_20",
-            "statement": "The Gazette used was an ordinary edition.",
-            "correct": false,
-            "explanation": "False. It was an Extraordinary edition of the Gazette.",
-            "subsection": "footnote"
-          }
-        ],
-        "fillblank_pool": [
-          {
-            "id": "fn1_fb_1",
-            "question": "The notification number is S.O. __________(E).",
-            "answer": "848",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_fb_2",
-            "question": "The notification was dated __________day of February, 2024.",
-            "answer": "23rd",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_fb_3",
-            "question": "BNSS came into force on __________ July, 2024.",
-            "answer": "1st",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_fb_4",
-            "question": "The exception relates to Section __________(2).",
-            "answer": "106",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_fb_5",
-            "question": "The exception was in the __________ Schedule.",
-            "answer": "First",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_fb_6",
-            "question": "The notification was published in the Gazette of India, __________.",
-            "answer": "Extraordinary",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_fb_7",
-            "question": "It was published in Part __________, sec. 3(ii).",
-            "answer": "II",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_fb_8",
-            "question": "The Latin word __________ means 'see' or 'refer to'.",
-            "answer": "vide",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_fb_9",
-            "question": "The exception is marked with __________ brackets.",
-            "answer": "square",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_fb_10",
-            "question": "S.O. stands for __________ Order.",
-            "answer": "Statutory",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_fb_11",
-            "question": "The notification was issued in the month of __________.",
-            "answer": "February",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_fb_12",
-            "question": "The enforcement began in the month of __________.",
-            "answer": "July",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_fb_13",
-            "question": "Both dates mentioned are in the year __________.",
-            "answer": "2024",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_fb_14",
-            "question": "Footnote-1 is linked to Subsection-__________.",
-            "answer": "3",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_fb_15",
-            "question": "The notification provides __________ details.",
-            "answer": "reference/verification",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_fb_16",
-            "question": "The notification was published in the __________ Gazette.",
-            "answer": "Official",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_fb_17",
-            "question": "See Gazette of India means __________ notification number S.O. 848(E).",
-            "answer": "vide",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_fb_18",
-            "question": "The exception clause uses the word '__________' to indicate the exception.",
-            "answer": "except",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_fb_19",
-            "question": "About __________ months passed between notification and enforcement.",
-            "answer": "four",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_fb_20",
-            "question": "The entry in the First Schedule relates to Section 106(__________)",
-            "answer": "2",
-            "subsection": "footnote"
-          }
-        ],
-        "matching_pool": [
-          {
-            "id": "fn1_match_1",
-            "columnA": ["Notification number", "Notification date", "Enforcement date", "Exception section", "Publication"],
-            "columnB": ["Section 106(2)", "Gazette of India, Extraordinary", "1st July, 2024", "23rd February, 2024", "S.O. 848(E)"],
-            "correct_matches": [4, 3, 2, 0, 1],
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_match_2",
-            "columnA": ["Schedule with exception", "Gazette part", "Latin term", "Bracket type", "Order type"],
-            "columnB": ["Part II, sec. 3(ii)", "Square brackets", "Statutory", "Vide", "First Schedule"],
-            "correct_matches": [4, 0, 3, 1, 2],
-            "subsection": "footnote"
-          }
-        ],
-        "word_arrangement_pool": [
-          {
-            "id": "fn1_wa_1",
-            "jumbled": ["1st", "July", "2024", "on", "force", "into", "came", "BNSS"],
-            "correct": "BNSS came into force on 1st July 2024.",
-            "hint": "When did it happen?",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_wa_2",
-            "jumbled": ["notification", "dated", "23rd", "February", "2024", "S.O.", "848(E)"],
-            "correct": "Notification S.O. 848(E) dated 23rd February 2024.",
-            "hint": "Start with notification number",
-            "subsection": "footnote"
-          },
-          {
-            "id": "fn1_wa_3",
-            "jumbled": ["except", "Section", "106(2)", "provisions", "relating", "to", "in", "First", "Schedule"],
-            "correct": "Except provisions relating to Section 106(2) in First Schedule.",
-            "hint": "What was excepted?",
-            "subsection": "footnote"
-          }
-        ]
-      }
-    }
-  }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Assistant - Odisha e-Guru</title>
+    <style>
+* {
+    box-sizing: border-box;
 }
 
+body, h1, h2, h3, h4, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
 
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    min-height: 100vh;
+    width: 100%;
+    overflow-x: hidden;
+}
 
+.container {
+    background: white;
+    max-width: 100%;
+    width: 100%;
+    min-height: 100vh;
+    overflow-x: hidden;
+    padding: 0;
+    margin: 0;
+}
 
+.header {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 25px 20px;
+    text-align: center;
+    margin: 0;
+    position: relative;
+    overflow: hidden;
+}
 
+.header::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%);
+    animation: pulse 4s ease-in-out infinite;
+}
 
+@keyframes pulse {
+    0%, 100% { transform: scale(1); opacity: 0.5; }
+    50% { transform: scale(1.1); opacity: 0.8; }
+}
 
+.header h1 {
+    font-size: 26px;
+    margin-bottom: 8px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+    position: relative;
+    z-index: 1;
+}
 
+.header p {
+    font-size: 14px;
+    opacity: 0.95;
+    margin: 0;
+    position: relative;
+    z-index: 1;
+}
 
+.assistant-image {
+    width: 140px;
+    height: 140px;
+    margin: 15px auto 0 !important;
+    display: block;
+    border-radius: 50%;
+    border: 4px solid white;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.3);
+    position: relative;
+    z-index: 1;
+    animation: float 3s ease-in-out infinite;
+}
 
+@keyframes float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+}
 
+.assistant-section {
+    padding: 20px 0 30px 0;
+}
 
+.input-container {
+    background: linear-gradient(135deg, #f0f8ff 0%, #e6f2ff 100%);
+    border-radius: 0;
+    padding: 20px 0;
+    margin: 0;
+    box-shadow: none;
+}
 
+.input-label {
+    color: #667eea;
+    font-weight: bold;
+    margin: 0 15px 12px 15px;
+    display: block;
+    font-size: 15px;
+}
 
+.assistant-input {
+    width: calc(100% - 30px);
+    padding: 30px;
+    border: 2px solid #667eea;
+    border-radius: 12px;
+    font-size: 17px;
+    resize: vertical;
+    min-height: 120px;
+    font-family: inherit;
+    transition: all 0.3s ease;
+    margin: 0 15px;
+    background: white;
+}
+
+.assistant-input:focus {
+    outline: none;
+    border-color: #764ba2;
+    box-shadow: 0 0 0 4px rgba(118, 75, 162, 0.15);
+}
+
+.send-btn {
+    background: linear-gradient(135deg, #4CAF50, #45a049);
+    color: white;
+    border: none;
+    padding: 15px 35px;
+    border-radius: 30px;
+    font-size: 15px;
+    cursor: pointer;
+    font-weight: 700;
+    transition: all 0.3s ease;
+    width: calc(100% - 30px);
+    margin: 15px 15px 0 15px;
+    box-shadow: 0 5px 18px rgba(76, 175, 80, 0.4);
+}
+
+.send-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 7px 22px rgba(76, 175, 80, 0.5);
+}
+
+.response-container {
+    background: linear-gradient(135deg, #ffffff 0%, #f5f7fa 100%);
+    border-radius: 0;
+    padding: 5px 0;
+    margin-top: 0;
+    display: none;
+    animation: fadeIn 0.5s ease;
+    box-shadow: none;
+}
+
+.response-container.show {
+    display: block;
+}
+
+.play-stop-btn {
+    background: linear-gradient(135deg, #FF6B6B, #FF8E53);
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 25px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    box-shadow: 0 4px 15px rgba(255, 107, 107, 0.4);
+    margin: 0 auto;
+}
+
+.play-stop-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(255, 107, 107, 0.5);
+}
+
+.play-stop-btn.playing {
+    background: linear-gradient(135deg, #f44336, #d32f2f);
+    animation: blink 1s infinite;
+}
+
+@keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.7; }
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+#background-audio {
+    position: fixed;
+    top: -9999px;
+    left: -9999px;
+    opacity: 0;
+    pointer-events: none;
+}
+
+@media (min-width: 769px) {
+    .container {
+        max-width: 100%;
+        margin: 0 auto;
+    }
+    
+    .header {
+        padding: 35px 30px;
+    }
+    
+    .header h1 {
+        font-size: 32px;
+    }
+    
+    .assistant-section {
+        padding: 30px 30px 40px;
+        max-width: 900px;
+        margin: 0 auto;
+    }
+    
+    .assistant-image {
+        width: 180px;
+        height: 180px;
+    }
+}
+
+@media (max-width: 768px) {
+    .header {
+        padding: 20px 15px;
+    }
+    
+    .header h1 {
+        font-size: 22px;
+        margin-bottom: 8px;
+    }
+    
+    .header p {
+        font-size: 13px;
+    }
+    
+    .assistant-image {
+        width: 120px;
+        height: 120px;
+        margin: 15px auto 0;
+    }
+    
+    .assistant-section {
+        padding: 15px 0 25px 0;
+    }
+    
+    .input-container,
+    .response-container {
+        border-radius: 0;
+        padding: 20px 0;
+        margin: 0;
+    }
+    
+    .assistant-input {
+        padding: 20px;
+        font-size: 17px;
+        min-height: 110px;
+    }
+    
+    .send-btn {
+        padding: 12px 25px;
+        font-size: 14px;
+        margin-top: 12px;
+    }
+}
+
+@media (max-width: 400px) {
+    .header h1 {
+        font-size: 20px;
+    }
+    
+    .assistant-image {
+        width: 100px;
+        height: 100px;
+    }
+
+    .assistant-input {
+        padding: 20px;
+        font-size: 17px;
+        min-height: 110px;
+    }
+}
+    </style>
+</head>
+<body>
+<audio id="background-audio" preload="auto"></audio>
+
+    <div class="container">
+        <div class="header">
+            <h1>🎓 Odisha e-Guru Assistant</h1>
+            <p>(Your assistant for learning BNSS Section-1)</p>
+            <img src="https://raw.githubusercontent.com/eguruOdisha/legal-support-services/main/Gif%2BGB%20(2).gif" 
+                 alt="AI Assistant" 
+                 class="assistant-image">
+        </div>
+
+        <div class="assistant-section">
+            <div class="input-container">
+                <label class="input-label">💬 Ask Your Question About BNSS Section-1:</label>
+                
+                <textarea class="assistant-input" 
+                          id="assistantInput" 
+                          placeholder="Ask anything about BNSS Section-1 Subsection 1 (e.g., 'What is the law's name?', 'Explain concept 1', 'Tell me about English translation')..."
+                          onkeypress="if(event.key === 'Enter' && event.shiftKey) { event.preventDefault(); sendQuery(); }"></textarea>
+                
+                <button class="send-btn" onclick="sendQuery()">
+                    Send Question ➤
+                </button>
+            </div>
+
+            <div class="response-container" id="responseContainer"></div>
+        </div>
+    </div>
+
+<script>
+let wakeLock = null;
+let backgroundAudioInterval = null;
+
+// The knowledge base - your BNSS content
+const knowledgeBase = {
+    content: `Concept with Example - Subsection 1:
+
+Concept 1: Law's Name (कानून का नाम)
+This law is called the 'Bharatiya Nagarik Suraksha Sanhita, 2023'.
+यह कानून 'भारतीय नागरिक सुरक्षा संहिता, 2023' कहलाता है।
+• Example (उदाहरण): Just like your name is Raj or Priya, this law's name is BNSS, 2023.
+जैसे आपका नाम राज या प्रिया है, वैसे ही इस कानून का नाम BNSS, 2023 है।
+
+Concept 2: English Translation (अंग्रेजी अनुवाद)
+In English, it means 'Indian Citizen Security Code, 2023'.
+अंग्रेजी में, इसका अर्थ है 'इंडियन सिटीजन सिक्योरिटी कोड, 2023'।
+• Example (उदाहरण): Like 'Vidyalaya' means 'School' in English, BNSS means 'Indian Citizen Security Code'.
+जैसे 'विद्यालय' का अंग्रेजी में मतलब 'स्कूल' होता है, वैसे ही BNSS का मतलब 'इंडियन सिटीजन सिक्योरिटी कोड' है।`,
+    
+    // Extract only English text for display
+    getEnglishText: function() {
+        return this.content
+            .split('\n')
+            .filter(line => !line.match(/[ा-ॿ]/)) // Remove lines with Hindi characters
+            .join('\n')
+            .replace(/\(.*?\)/g, '') // Remove parenthetical translations
+            .trim();
+    },
+    
+    // Extract ONLY Hindi text for TTS
+    getHindiText: function() {
+        const lines = this.content.split('\n');
+        let hindiText = '';
+        
+        for (let line of lines) {
+            // Check if line contains Hindi characters
+            if (line.match(/[ा-ॿ]/)) {
+                // Extract only the Hindi part (remove English)
+                const hindiMatch = line.match(/[ा-ॿ][^a-zA-Z]*/g);
+                if (hindiMatch) {
+                    hindiText += hindiMatch.join(' ') + ' ';
+                }
+            }
+        }
+        
+        return hindiText.trim();
+    }
+};
+
+function sendQuery() {
+    try {
+        const inputElement = document.getElementById('assistantInput');
+        const query = inputElement.value.trim();
+        
+        if (!query) {
+            alert('⚠️ Please write your question first.');
+            return;
+        }
+        
+        inputElement.value = '';
+        
+        const container = document.getElementById('responseContainer');
+        container.classList.add('show');
+        container.innerHTML = '<div style="text-align: center; padding: 40px; color: #667eea;"><h3>🔍 Processing your question...</h3></div>';
+        
+        setTimeout(() => {
+            container.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+        }, 100);
+        
+        // Display answer after a short delay for UX
+        setTimeout(() => {
+            displayAnswer();
+        }, 1000);
+        
+    } catch (error) {
+        console.error('❌ Error in sendQuery:', error);
+        alert('Error: ' + error.message);
+    }
+}
+
+function displayAnswer() {
+    const container = document.getElementById('responseContainer');
+    
+    // Get English-only text for display
+    const displayText = knowledgeBase.getEnglishText();
+    
+    // Format the text with HTML
+    const formattedText = displayText
+        .replace(/Concept \d+:/g, '<br><br><strong>$&</strong>')
+        .replace(/• Example:/g, '<br>• <strong>Example:</strong>')
+        .replace(/\n/g, '<br>');
+    
+    const answerId = 'answer-text-' + Date.now();
+    
+    container.innerHTML = `
+        <div style="background: white; border-radius: 10px; padding: 20px; margin: 15px; box-shadow: 0 3px 15px rgba(0,0,0,0.1);">
+            <div style="color: #667eea; font-weight: bold; font-size: 16px; margin-bottom: 15px; padding-bottom: 10px; border-bottom: 2px solid #667eea;">
+                📝 BNSS Section-1, Subsection 1:
+            </div>
+            <div id="typewriterText" style="color: #000; font-size: 15px; line-height: 1.8; text-align: justify;">
+            </div>
+            
+            <div id="${answerId}" style="display: none;">${knowledgeBase.getHindiText()}</div>
+            
+            <div style="margin-top: 20px; text-align: center; padding-top: 15px; border-top: 1px solid #e0e0e0;">
+                <button id="hindiTTSBtn" onclick="toggleHindiTTS()" class="play-stop-btn">
+                    <span style="font-size: 18px;">🔊</span> Read Aloud in Hindi
+                </button>
+            </div>
+        </div>
+    `;
+    
+    // Store ONLY Hindi text for TTS
+    window.currentAnswerText = knowledgeBase.getHindiText();
+    window.isHindiTTSPlaying = false;
+    
+    // Typewriter effect for display text
+    const textElement = document.getElementById('typewriterText');
+    let index = 0;
+    
+    function typeWriter() {
+        if (index < formattedText.length) {
+            textElement.innerHTML = formattedText.substring(0, index + 1);
+            index++;
+            setTimeout(typeWriter, 15);
+        }
+    }
+    typeWriter();
+}
+
+function startHindiTTS() {
+    console.log('🔊 Starting Hindi TTS');
+    
+    if (!('speechSynthesis' in window)) {
+        alert('❌ Text-to-speech not supported in your browser');
+        return;
+    }
+    
+    let text = window.currentAnswerText || '';
+    if (!text || text.trim() === '') {
+        console.log('❌ No text available');
+        return;
+    }
+    
+    requestWakeLock();
+    enableBackgroundAudio();
+    
+    window.speechSynthesis.cancel();
+    
+    setTimeout(() => {
+        // Clean the text for TTS
+        let cleanText = text
+            .replace(/<br\s*\/?>/gi, ' ')
+            .replace(/<\/p>/gi, '. ')
+            .replace(/<p[^>]*>/gi, '')
+            .replace(/<\/?[^>]+>/gi, ' ')
+            .replace(/&nbsp;/g, ' ')
+            .replace(/&amp;/g, '&')
+            .replace(/\s+/g, ' ')
+            .trim();
+        
+        const btn = document.getElementById('hindiTTSBtn');
+        
+        const utterance = new SpeechSynthesisUtterance(cleanText);
+        utterance.lang = 'hi-IN';
+        utterance.rate = 0.85;
+        utterance.pitch = 1.0;
+        utterance.volume = 1.0;
+        
+        const voices = window.speechSynthesis.getVoices();
+        const hindiVoice = voices.find(v => 
+            v.lang === 'hi-IN' || 
+            v.lang === 'hi' || 
+            v.lang.startsWith('hi-') ||
+            v.name.toLowerCase().includes('hindi')
+        );
+        
+        if (hindiVoice) {
+            utterance.voice = hindiVoice;
+            console.log('✅ Using Hindi voice:', hindiVoice.name);
+        } else {
+            console.log('⚠️ No Hindi voice found, using default');
+        }
+        
+        utterance.onstart = () => {
+            console.log('✅ TTS STARTED');
+            window.isHindiTTSPlaying = true;
+            keepSpeechAlive();
+            if (btn) {
+                btn.innerHTML = '<span style="font-size: 18px;">⏸️</span> Stop Reading';
+                btn.classList.add('playing');
+            }
+        };
+        
+        utterance.onend = () => {
+            console.log('✅ TTS ENDED');
+            window.isHindiTTSPlaying = false;
+            releaseWakeLock();
+            stopBackgroundAudio();
+            if (btn) {
+                btn.innerHTML = '<span style="font-size: 18px;">🔊</span> Read Aloud in Hindi';
+                btn.classList.remove('playing');
+            }
+        };
+        
+        utterance.onerror = (event) => {
+            console.error('❌ TTS ERROR:', event.error);
+            window.isHindiTTSPlaying = false;
+            releaseWakeLock();
+            stopBackgroundAudio();
+            if (btn) {
+                btn.innerHTML = '<span style="font-size: 18px;">🔊</span> Read Aloud in Hindi';
+                btn.classList.remove('playing');
+            }
+        };
+        
+        window.currentUtterance = utterance;
+        
+        console.log('🎬 Starting speech...');
+        window.speechSynthesis.speak(utterance);
+        
+    }, 200);
+}
+
+function toggleHindiTTS() {
+    console.log('🔘 Toggle TTS clicked, current state:', window.isHindiTTSPlaying);
+    
+    if (window.isHindiTTSPlaying) {
+        stopHindiTTS();
+    } else {
+        startHindiTTS();
+    }
+}
+
+function stopHindiTTS() {
+    console.log('⏸️ Stopping Hindi TTS');
+    window.speechSynthesis.cancel();
+    window.isHindiTTSPlaying = false;
+    
+    releaseWakeLock();
+    stopBackgroundAudio();
+    
+    const btn = document.getElementById('hindiTTSBtn');
+    if (btn) {
+        btn.innerHTML = '<span style="font-size: 18px;">🔊</span> Read Aloud in Hindi';
+        btn.classList.remove('playing');
+    }
+}
+
+async function requestWakeLock() {
+    try {
+        if ('wakeLock' in navigator) {
+            wakeLock = await navigator.wakeLock.request('screen');
+            console.log('✅ Wake Lock activated');
+            
+            wakeLock.addEventListener('release', () => {
+                console.log('🔓 Wake Lock released');
+            });
+        }
+    } catch (err) {
+        console.error('❌ Wake Lock error:', err);
+    }
+}
+
+function releaseWakeLock() {
+    if (wakeLock !== null) {
+        wakeLock.release()
+            .then(() => {
+                wakeLock = null;
+                console.log('✅ Wake Lock released manually');
+            });
+    }
+}
+
+function enableBackgroundAudio() {
+    const audioElement = document.getElementById('background-audio');
+    
+    if (!audioElement) return;
+    
+    const silentAudio = 'data:audio/wav;base64,UklGRigAAABXQVZFZm10IBIAAAABAAEARKwAAIhYAQACABAAAABkYXRhAgAAAAEA';
+    
+    audioElement.src = silentAudio;
+    audioElement.loop = true;
+    audioElement.volume = 0.01;
+    
+    audioElement.play().catch(err => {
+        console.error('❌ Background audio error:', err);
+    });
+    
+    backgroundAudioInterval = setInterval(() => {
+        if (window.isHindiTTSPlaying && window.speechSynthesis.paused) {
+            console.log('🔄 Resuming speech synthesis');
+            window.speechSynthesis.resume();
+        }
+    }, 5000);
+}
+
+function stopBackgroundAudio() {
+    const audioElement = document.getElementById('background-audio');
+    
+    if (audioElement) {
+        audioElement.pause();
+        audioElement.currentTime = 0;
+    }
+    
+    if (backgroundAudioInterval) {
+        clearInterval(backgroundAudioInterval);
+        backgroundAudioInterval = null;
+    }
+}
+
+function keepSpeechAlive() {
+    document.addEventListener('visibilitychange', handleVisibilityChange);
+    window.addEventListener('focus', handlePageFocus);
+}
+
+function handleVisibilityChange() {
+    if (document.hidden && window.isHindiTTSPlaying) {
+        console.log('📱 Page hidden, keeping speech alive');
+        setTimeout(() => {
+            if (window.speechSynthesis.paused) {
+                window.speechSynthesis.resume();
+            }
+        }, 100);
+    }
+}
+
+function handlePageFocus() {
+    if (window.isHindiTTSPlaying && window.speechSynthesis.paused) {
+        console.log('🔄 Page focused, resuming speech');
+        window.speechSynthesis.resume();
+    }
+}
+
+document.addEventListener('visibilitychange', async () => {
+    if (!document.hidden && window.isHindiTTSPlaying) {
+        await requestWakeLock();
+    }
+});
+
+window.addEventListener('load', function() {
+    console.log('🔊 Initializing speech synthesis...');
+    
+    if ('speechSynthesis' in window) {
+        const loadVoices = () => {
+            const voices = window.speechSynthesis.getVoices();
+            console.log('✅ Speech voices loaded:', voices.length);
+            
+            if (voices.length > 0) {
+                const hindiVoices = voices.filter(v => 
+                    v.lang.startsWith('hi') || v.name.toLowerCase().includes('hindi')
+                );
+                console.log('🇮🇳 Hindi voices available:', hindiVoices.length);
+            }
+        };
+        
+        loadVoices();
+        window.speechSynthesis.onvoiceschanged = loadVoices;
+        setTimeout(loadVoices, 100);
+    }
+    
+    document.addEventListener('touchstart', function() {
+        const audioContext = new (window.AudioContext || window.webkitAudioContext)();
+        audioContext.resume();
+    }, { once: true });
+});
+</script>
+
+</body>
+</html>
