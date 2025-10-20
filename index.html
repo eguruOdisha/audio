@@ -603,7 +603,7 @@ html, body {
 // ==========================================
 // CONFIGURATION - CHANGE THIS URL
 // ==========================================
-const GOOGLE_APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycby0IEO-V3AeDTBt9wJhUQ0A5IjN_kOKITzO9rz8Hm6dUi17KA1XTxreacn5q6Ua4Nz8/exec';
+const GOOGLE_APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzhRjY3gFUkigydkmiCkpWZKJgjgewPCc_V4o7uirUnY0epEt5tcksIg_SaPfNFZulh/exec';
 
 // ==========================================
 // GLOBAL VARIABLES
@@ -729,7 +729,23 @@ async function validateAndEnter() {
     userDeviceId = generateDeviceFingerprint();
     console.log('Device ID:', userDeviceId);
     
-    const browserInfo = `${navigator.userAgent} | ${navigator.platform} | ${screen.width}x${screen.height}`;
+    // Simplified browser info - only essential anonymized data
+    const getBrowserType = () => {
+        const ua = navigator.userAgent.toLowerCase();
+        if (ua.includes('chrome')) return 'Chrome';
+        if (ua.includes('firefox')) return 'Firefox';
+        if (ua.includes('safari')) return 'Safari';
+        if (ua.includes('edge')) return 'Edge';
+        return 'Other';
+    };
+    
+    const getDeviceType = () => {
+        if (/mobile|android|iphone/i.test(navigator.userAgent)) return 'Mobile';
+        if (/tablet|ipad/i.test(navigator.userAgent)) return 'Tablet';
+        return 'Desktop';
+    };
+    
+    const browserInfo = `${getBrowserType()} | ${getDeviceType()}`;
     
     try {
         // Send verification request to Google Apps Script
