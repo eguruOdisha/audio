@@ -187,6 +187,8 @@ html, body {
     font-weight: 600;
     display: none;
     animation: slideIn 0.3s ease-out;
+    white-space: pre-line;
+    line-height: 1.6;
 }
 
 @keyframes slideIn {
@@ -542,9 +544,7 @@ html, body {
                 <input type="number" 
                        id="rollInput" 
                        class="roll-input" 
-                       placeholder="101 - 200"
-                       min="101"
-                       max="200">
+                       placeholder="Enter Roll Number">
             </div>
             
             <button class="enter-btn" id="enterBtn" onclick="validateAndEnter()">
@@ -603,8 +603,7 @@ html, body {
 // ==========================================
 // CONFIGURATION - CHANGE THIS URL
 // ==========================================
-const GOOGLE_APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzhRjY3gFUkigydkmiCkpWZKJgjgewPCc_V4o7uirUnY0epEt5tcksIg_SaPfNFZulh/exec';
-// Example: 'https://script.google.com/macros/s/AKfycbx...../exec'
+const GOOGLE_APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycby0IEO-V3AeDTBt9wJhUQ0A5IjN_kOKITzO9rz8Hm6dUi17KA1XTxreacn5q6Ua4Nz8/exec';
 
 // ==========================================
 // GLOBAL VARIABLES
@@ -699,22 +698,21 @@ function showMessage(message, type = 'error') {
     if (type !== 'loading') {
         setTimeout(() => {
             messageBox.classList.remove('show');
-        }, 5000);
+        }, 8000);
     }
 }
 
 // ==========================================
-// ROLL NUMBER VALIDATION
+// ROLL NUMBER VALIDATION WITH SERVER
 // ==========================================
 async function validateAndEnter() {
     const rollInput = document.getElementById('rollInput');
     const rollNumber = parseInt(rollInput.value);
-    const enterBtn = document.
-        getElementById('enterBtn');
+    const enterBtn = document.getElementById('enterBtn');
     
     // Validate input
-    if (isNaN(rollNumber) || rollNumber < 101 || rollNumber > 200) {
-        showMessage('⚠️ Please enter a valid roll number (101-200)', 'error');
+    if (isNaN(rollNumber) || rollNumber <= 0) {
+        showMessage('⚠️ Please enter a valid roll number', 'error');
         rollInput.style.borderColor = '#ff6b6b';
         setTimeout(() => {
             rollInput.style.borderColor = '#667eea';
@@ -731,54 +729,52 @@ async function validateAndEnter() {
     userDeviceId = generateDeviceFingerprint();
     console.log('Device ID:', userDeviceId);
     
+    const browserInfo = `${navigator.userAgent} | ${navigator.platform} | ${screen.width}x${screen.height}`;
+    
     try {
         // Send verification request to Google Apps Script
         const response = await fetch(GOOGLE_APPS_SCRIPT_URL, {
             method: 'POST',
-            mode: 'no-cors', // Important for Google Apps Script
             headers: {
-                'Content-Type': 'application/json',
+                'Content-Type': 'text/plain',
             },
             body: JSON.stringify({
                 rollNumber: rollNumber,
                 deviceId: userDeviceId,
-                timestamp: new Date().toISOString(),
-                userAgent: navigator.userAgent,
-                timezone: Intl.DateTimeFormat().resolvedOptions().timeZone
+                browserInfo: browserInfo,
+                timestamp: new Date().toISOString()
             })
         });
         
-        // Note: Due to no-cors mode, we can't read the response directly
-        // But the request will still be processed by Google Apps Script
-        // We'll verify by making a GET request
+        const result = await response.json();
+        console.log('Server response:', result);
         
-        // Wait a moment for processing
-        await new Promise(resolve => setTimeout(resolve, 2000));
-        
-        // If we reach here without error, consider it successful
-        userRollNumber = rollNumber;
-        sessionStartTime = new Date();
-        
-        // Store in localStorage
-        localStorage.setItem('verified_roll', rollNumber);
-        localStorage.setItem('device_id', userDeviceId);
-        localStorage.setItem('session_start', sessionStartTime.toISOString());
-        
-        // Success message
-        showMessage('✅ Roll number verified successfully!', 'success');
-        
-        // Wait a moment then proceed
-        setTimeout(() => {
-            document.getElementById('welcomePage').style.display = 'none';
-            document.getElementById('mainApp').classList.add('show');
-            document.getElementById('userInfo').textContent = `Roll: ${rollNumber}`;
+        if (result.success) {
+            // SUCCESS - Allow entry
+            userRollNumber = rollNumber;
+            sessionStartTime = new Date();
             
-            // Update watermark
-            updateWatermark();
+            showMessage(result.message || '✅ Roll number verified successfully!', 'success');
             
-            // Load data
-            loadAssistantData();
-        }, 1500);
+            // Wait a moment then proceed
+            setTimeout(() => {
+                document.getElementById('welcomePage').style.display = 'none';
+                document.getElementById('mainApp').classList.add('show');
+                document.getElementById('userInfo').textContent = `Roll: ${rollNumber}`;
+                
+                // Update watermark
+                updateWatermark();
+                
+                // Load data
+                loadAssistantData();
+            }, 1500);
+            
+        } else {
+            // FAILED - Show error
+            showMessage(result.message || '❌ Verification failed', 'error');
+            enterBtn.disabled = false;
+            enterBtn.textContent = '🚀 Start Learning';
+        }
         
     } catch (error) {
         console.error('Verification error:', error);
@@ -789,25 +785,9 @@ async function validateAndEnter() {
 }
 
 // ==========================================
-// CHECK IF ALREADY LOGGED IN
+// ENTER KEY SUPPORT
 // ==========================================
 window.addEventListener('DOMContentLoaded', function() {
-    const storedRoll = localStorage.getItem('verified_roll');
-    const storedDevice = localStorage.getItem('device_id');
-    const currentDevice = generateDeviceFingerprint();
-    
-    if (storedRoll && storedDevice === currentDevice) {
-        // Already verified on this device
-        const rollInput = document.getElementById('rollInput');
-        if (rollInput) {
-            rollInput.value = storedRoll;
-        }
-        
-        // Auto-login option (optional - remove if you want manual entry each time)
-        // validateAndEnter();
-    }
-    
-    // Enter key support
     const rollInput = document.getElementById('rollInput');
     if (rollInput) {
         rollInput.addEventListener('keypress', function(event) {
@@ -1181,7 +1161,7 @@ window.speechSynthesis.onvoiceschanged = function() {
 };
 
 // ==========================================
-// SESSION MONITORING (OPTIONAL)
+// SESSION MONITORING
 // ==========================================
 let inactivityTimer;
 const INACTIVITY_LIMIT = 30 * 60 * 1000; // 30 minutes
@@ -1190,8 +1170,6 @@ function resetInactivityTimer() {
     clearTimeout(inactivityTimer);
     inactivityTimer = setTimeout(() => {
         alert('⏰ Session expired due to inactivity. Please refresh the page.');
-        localStorage.removeItem('verified_roll');
-        localStorage.removeItem('device_id');
         location.reload();
     }, INACTIVITY_LIMIT);
 }
@@ -1203,27 +1181,6 @@ function resetInactivityTimer() {
 
 // Start timer
 resetInactivityTimer();
-
-// ==========================================
-// PREVENT DEVELOPER TOOLS (OPTIONAL)
-// ==========================================
-/*
-// Uncomment if you want to discourage opening developer tools
-document.addEventListener('contextmenu', (e) => {
-    e.preventDefault();
-    alert('⚠️ Right-click is disabled for security reasons.');
-});
-
-document.addEventListener('keydown', (e) => {
-    // Prevent F12, Ctrl+Shift+I, Ctrl+Shift+J, Ctrl+U
-    if (e.keyCode === 123 || 
-        (e.ctrlKey && e.shiftKey && (e.keyCode === 73 || e.keyCode === 74)) ||
-        (e.ctrlKey && e.keyCode === 85)) {
-        e.preventDefault();
-        alert('⚠️ Developer tools are disabled for security reasons.');
-    }
-});
-*/
 
 console.log('🎓 Odisha e-Guru Assistant Loaded');
 console.log('🔒 Anti-Cheating System: ACTIVE');
