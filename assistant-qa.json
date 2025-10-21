@@ -568,15 +568,15 @@
             }
           ]
         },
-  "concept_with_example": {
-    "keywords": ["concept subsection 1", "concept with example subsection 1", "example subsection 1", "udaharan subsection 1", "concept samjhao"],
-    "content": [
-      {
-        "text": "SUBSECTION-1: <br>This Act may be called the Bharatiya Nagarik Suraksha Sanhita, 2023.<br><br>Breaking it down:<br>👉 'This Act' = This new law we're talking about.<br>👉 'may be called' = Its official name is.<br>👉 'Bharatiya Nagarik Suraksha Sanhita, 2023' = Its English is Indian Citizen Safety Code, 2023<br>👉 '2023' = Year when Parliament passed it.<br><br>Simple meaning:<br>👉 The official name of this law is BNSS, 2023. <br><br>Why important:<br>👉 Every law needs an official name.<br>👉 Courts and police will use this name.<br>👉 Replaces the old CrPC law.",
-        "audioUrl": "BNSS-TTS-S1-SS1-CONCEPT.mp3"
-      }
-    ]
-  },
+"concept_with_example": {
+  "keywords": ["concept subsection 1", "concept with example subsection 1", "example subsection 1", "udaharan subsection 1", "concept samjhao"],
+  "content": [
+    {
+      "text": "SUBSECTION-1: <br>This Act may be called the Bharatiya Nagarik Suraksha Sanhita, 2023.<br><br>Breaking it down:<br>👉 'This Act' = This new law we're talking about.<br>👉 'may be called' = Its official name is.<br>👉 'Bharatiya Nagarik Suraksha Sanhita, 2023' = Its English is Indian Citizen Safety Code, 2023<br>👉 '2023' = Year when Parliament passed it.<br><br>Simple meaning:<br>👉 The official name of this law is BNSS, 2023. <br><br>Why important:<br>👉 Every law needs an official name.<br>👉 Courts and police will use this name.<br>👉 Replaces the old CrPC law.<br><br>Let's understand with Example:<br><br>Sub-section (1) - Name of the Act<br><br>1. This law is called the 'Bharatiya Nagarik Suraksha Sanhita, 2023'.<br>👉 Example: Just like your name is Raj or Priya, this law's name is BNSS, 2023.<br><br>2. In English, it means 'Indian Citizen Security Code, 2023'.<br>👉 Example: Like 'Vidyalaya' means 'School' in English, BNSS means 'Indian Citizen Security Code'.",
+      "audioUrl": "BNSS-TTS-S1-SS1-CONCEPT.mp3"
+    }
+  ]
+}
         "what": {
           "keywords": ["what subsection 1", "kya subsection 1", "what is subsection 1"],
           "content": [
@@ -3266,6 +3266,7 @@
     }
   }
 }
+
 
 
 
