@@ -2188,15 +2188,15 @@
             }
           ]
         },
-    "concept_with_example": {
-      "keywords": ["concept subsection 3", "concept with example", "example", "samjhao", "concept explain", "with example"],
-      "content": [
-        {
-          "text": "SUBSECTION-3: <br>It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint.<br><br>Breaking it down:<br>👉 'It' = This BNSS law<br>👉 'shall come into force' = Will start working/become active<br>👉 'on such date' = On whatever date<br>👉 'as the Central Government may' = That the Central Government chooses<br>👉 'by notification in the Official Gazette' = By publishing in official government newspaper<br>👉 'appoint' = Decide/announce<br><br>Simple meaning:<br>👉 BNSS will start on a date chosen by Central Government<br>👉 They must announce it in Official Gazette<br>👉 Not automatic - government decides when<br><br>Why important:<br>👉 Gives time to prepare systems.<br>👉 Police, courts need training.<br>👉 Can't start immediately after passing.<br>👉 Official Gazette publication makes it legal.",
-          "audioUrl": "BNSS-TTS-S1-SS3-CONCEPT.mp3"
-        }
-      ]
-    },
+  "concept_with_example": {
+  "keywords": ["concept subsection 3", "concept with example", "example", "samjhao", "concept explain", "with example"],
+  "content": [
+    {
+      "text": "SUBSECTION-3: <br>It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint.<br><br>Breaking it down:<br>👉 'It' = This BNSS law<br>👉 'shall come into force' = Will start working/become active<br>👉 'on such date' = On whatever date<br>👉 'as the Central Government may' = That the Central Government chooses<br>👉 'by notification in the Official Gazette' = By publishing in official government newspaper<br>👉 'appoint' = Decide/announce<br><br>Simple meaning:<br>👉 BNSS will start on a date chosen by Central Government<br>👉 They must announce it in Official Gazette<br>👉 Not automatic - government decides when<br><br>Why important:<br>👉 Gives time to prepare systems.<br>👉 Police, courts need training.<br>👉 Can't start immediately after passing.<br>👉 Official Gazette publication makes it legal.<br><br><b>Let's understand with Example:</b><br><br>Sub-section (3) - When This Law Started Working<br><br>1. This law did not start immediately after being passed.<br>👉 Example: Like when Parliament passes a budget in February but it starts from April, this law also had a gap between passing and starting.<br><br>2. It started working on a date chosen by the Central Government.<br>👉 Example: Like your summer vacation dates are decided by your school principal, the starting date of this law was decided by the Central Government.<br><br>3. The Central Government had to announce this date through a notification in the Official Gazette (Government's official publication).<br>👉 Example: Just like important school announcements come in the school diary, government announcements come in the Official Gazette.",
+      "audioUrl": "BNSS-TTS-S1-SS3-CONCEPT.mp3"
+    }
+  ]
+},
         "what": {
           "keywords": ["what subsection 3", "kya subsection 3", "what is subsection 3"],
           "content": [
@@ -3266,6 +3266,7 @@
     }
   }
 }
+
 
 
 
