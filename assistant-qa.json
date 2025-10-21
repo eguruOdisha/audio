@@ -572,7 +572,7 @@
     "keywords": ["concept subsection 1", "concept with example subsection 1", "example subsection 1", "udaharan subsection 1", "concept samjhao"],
     "content": [
       {
-        "text": "Concept with Example - Subsection 1:<br><br><strong>Concept 1: Law's Name (कानून का नाम)</strong><br>This law is called the 'Bharatiya Nagarik Suraksha Sanhita, 2023'.<br>यह कानून 'भारतीय नागरिक सुरक्षा संहिता, 2023' कहलाता है।<br>• <strong>Example (उदाहरण):</strong> Just like your name is Raj or Priya, this law's name is BNSS, 2023.<br>जैसे आपका नाम राज या प्रिया है, वैसे ही इस कानून का नाम BNSS, 2023 है।<br><br><strong>Concept 2: English Translation (अंग्रेजी अनुवाद)</strong><br>In English, it means 'Indian Citizen Security Code, 2023'.<br>अंग्रेजी में, इसका अर्थ है 'इंडियन सिटीजन सिक्योरिटी कोड, 2023'।<br>• <strong>Example (उदाहरण):</strong> Like 'Vidyalaya' means 'School' in English, BNSS means 'Indian Citizen Security Code'.<br>जैसे 'विद्यालय' का अंग्रेजी में मतलब 'स्कूल' होता है, वैसे ही BNSS का मतलब 'इंडियन सिटीजन सिक्योरिटी कोड' है।",
+        "text": "SUBSECTION-1: <br>This Act may be called the Bharatiya Nagarik Suraksha Sanhita, 2023.<br><br>Breaking it down:<br>👉 'This Act' = This new law we're talking about.<br>👉 'may be called' = Its official name is.<br>👉 'Bharatiya Nagarik Suraksha Sanhita, 2023' = Its English is Indian Citizen Safety Code, 2023<br>👉 '2023' = Year when Parliament passed it.<br><br>Simple meaning:<br>👉 The official name of this law is BNSS, 2023. <br><br>Why important:<br>👉 Every law needs an official name.<br>👉 Courts and police will use this name.<br>👉 Replaces the old CrPC law.",
         "audioUrl": "BNSS-TTS-S1-SS1-CONCEPT.mp3"
       }
     ]
@@ -3266,6 +3266,7 @@
     }
   }
 }
+
 
 
 
