@@ -1069,7 +1069,7 @@
         "word_arrangement_pool": [
           {
             "id": "ss1_wa_1",
-            "jumbled": ["2023", "Sanhita", "This", "Bharatiya", "is", "Nagarik", "law", "the", "called", "Suraksha"],
+            "jumbled": ["2023", "Sanhita,", "This", "Bharatiya", "is", "Nagarik", "law", "the", "called", "Suraksha"],
             "correct": "This law is called the Bharatiya Nagarik Suraksha Sanhita, 2023.",
             "hint": "Start with 'This law...'",
             "subsection": "1"
@@ -3266,6 +3266,7 @@
     }
   }
 }
+
 
 
 
