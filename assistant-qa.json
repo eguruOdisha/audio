@@ -21,15 +21,15 @@
           }
         ]
       },
-       "concept_with_example": {
-      "keywords": ["section 1 concept and example", "section 1 concept example", "section 1 understanding with examples", "dhara 1 concept aur udaharan", "section 1 samajh aur example", "concept example section 1"],
-      "content": [
-          {
-            "text": "CONCEPT:<br><br>Section 1 embodies three foundational legal concepts:<br><br><strong>1. Nomenclature (Naming):</strong> Every statute must have an official short title for identification and citation in legal proceedings. This provides legal certainty and eliminates ambiguity.<br><br><strong>2. Territorial Jurisdiction:</strong> The extent clause defines where a law applies geographically. Special provisions recognize constitutional protections for tribal areas and special category states, balancing national uniformity with regional autonomy.<br><br><strong>3. Commencement:</strong> Laws don't automatically take effect upon passage. The commencement clause allows time for implementation, training, and awareness. This concept of 'appointed day' gives flexibility to the executive.<br><br>Together, these concepts establish the legal identity, scope, and timeline of the entire statute.<br><br><strong>EXAMPLES:</strong><br><br><strong>Example 1 - Nomenclature in Court:</strong><br>A lawyer files a bail application and cites 'Section 479, BNSS'. The judge immediately understands this refers to the Bharatiya Nagarik Suraksha Sanhita, 2023, not CrPC. The short title in Section 1(1) enables precise legal citation.<br><br><strong>Example 2 - Territorial Exemption:</strong><br>Police in Kohima, Nagaland arrest someone in June 2024. They cannot use provisions from Chapter V (about arrest procedures) because Section 1(2)(a) exempts Nagaland from most BNSS provisions. They continue using CrPC until the Nagaland Government issues a notification adopting BNSS.<br><br><strong>Example 3 - Commencement Date:</strong><br>A crime occurs on June 30, 2024 at 11:30 PM in Delhi. Investigation begins July 1, 2024. Per Section 1(3), BNSS came into force on July 1, 2024. Therefore, the investigation follows BNSS procedures, not CrPC (which was repealed), even though the crime occurred under the old law.<br><br><strong>Example 4 - State Notification:</strong><br>Nagaland Government decides to adopt BNSS provisions on community service (Chapter XI). They issue a notification under Section 1(2) applying only Chapter XI with modifications for local customs. Now community service provisions apply in Nagaland, but other BNSS chapters still don't.",
-            "audioUrl": "BNSS-TTS-S1-BAREACT-WHAT.mp3"
-          }
-        ]
-      }, 
+    "concept_with_example": {
+  "keywords": ["section 1 concept and example", "section 1 concept example", "section 1 understanding with examples", "dhara 1 concept aur udaharan", "section 1 samajh aur example", "concept example section 1"],
+  "content": [
+      {
+        "text": "Section 1: Short title, extent and commencement<br><br><strong>(1)</strong> This Act may be called the Bharatiya Nagarik Suraksha Sanhita, 2023.<br><br><strong>(2)</strong> The provisions of this Sanhita, other than those relating to Chapters IX, XI and XII thereof, shall not apply---<br>(a) to the State of Nagaland;<br>(b) to the tribal areas,<br>but the concerned State Government may, by notification, apply such provisions or any of them to the whole or part of the State of Nagaland or such tribal areas, as the case may be, with such supplemental, incidental or consequential modifications, as may be specified in the notification.<br><br><strong>Explanation.</strong>---In this section, 'tribal areas' means the territories which immediately before the 21st day of January, 1972, were included in the tribal areas of Assam, as referred to in paragraph 20 of the Sixth Schedule to the Constitution, other than those within the local limits of the municipality of Shillong.<br><br><strong>(3)</strong> It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint.<br><br><strong>Footnote:</strong> 1st July, 2024, [except the provisions of the entry relation to Section 106(2) in the first Schedule], vide notification No. S.O. 848(E), dated, 23rd day of February, 2024, see Gazette of India, Extraordinary, Part II, sec. 3(ii).<br><br><b>Understanding Section 1 easily:</b><br><br>1️⃣ Name: This law is called the Bharatiya Nagarik Suraksha Sanhita, 2023.<br>👉 (Like how your school book has a title — this law also has its own name.)<br><br>2️⃣ Where it applies: This law applies to all of India, except Nagaland and tribal areas.<br>👉 (Some special areas have separate rules.)<br><br>3️⃣ Special choice: The State Government of Nagaland or those tribal areas can choose to apply this law later by giving a notification.<br>👉 (Like taking permission before using new rules there.)<br><br>4️⃣ Meaning of tribal areas: These are the areas that were part of Assam's tribal regions before 21 January 1972, except the city of Shillong.<br>👉 (It tells clearly which areas are called 'tribal areas.')<br><br>5️⃣ Starting date: The Central Government decided this law will start from 1 July 2024 through notification number S.O. 848(E) dated 23 February 2024.<br>👉 (Like your exam starts from a date fixed by notice, this law also started by notice.)",
+        "audioUrl": "BNSS-TTS-S1-BAREACT-WHAT.mp3"
+      }
+    ]
+  },
       "what": {
         "keywords": ["what bare act section 1", "kya bare act section 1"],
         "content": [
@@ -3266,6 +3266,7 @@
     }
   }
 }
+
 
 
 
