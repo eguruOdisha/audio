@@ -21,6 +21,15 @@
           }
         ]
       },
+      "concept_and_example": {
+      "keywords": ["section 1 concept and example", "section 1 concept example", "section 1 understanding with examples", "dhara 1 concept aur udaharan", "section 1 samajh aur example", "concept example section 1"],
+      "content": [
+          {
+            "text": "CONCEPT:<br><br>Section 1 embodies three foundational legal concepts:<br><br><strong>1. Nomenclature (Naming):</strong> Every statute must have an official short title for identification and citation in legal proceedings. This provides legal certainty and eliminates ambiguity.<br><br><strong>2. Territorial Jurisdiction:</strong> The extent clause defines where a law applies geographically. Special provisions recognize constitutional protections for tribal areas and special category states, balancing national uniformity with regional autonomy.<br><br><strong>3. Commencement:</strong> Laws don't automatically take effect upon passage. The commencement clause allows time for implementation, training, and awareness. This concept of 'appointed day' gives flexibility to the executive.<br><br>Together, these concepts establish the legal identity, scope, and timeline of the entire statute.<br><br><strong>EXAMPLES:</strong><br><br><strong>Example 1 - Nomenclature in Court:</strong><br>A lawyer files a bail application and cites 'Section 479, BNSS'. The judge immediately understands this refers to the Bharatiya Nagarik Suraksha Sanhita, 2023, not CrPC. The short title in Section 1(1) enables precise legal citation.<br><br><strong>Example 2 - Territorial Exemption:</strong><br>Police in Kohima, Nagaland arrest someone in June 2024. They cannot use provisions from Chapter V (about arrest procedures) because Section 1(2)(a) exempts Nagaland from most BNSS provisions. They continue using CrPC until the Nagaland Government issues a notification adopting BNSS.<br><br><strong>Example 3 - Commencement Date:</strong><br>A crime occurs on June 30, 2024 at 11:30 PM in Delhi. Investigation begins July 1, 2024. Per Section 1(3), BNSS came into force on July 1, 2024. Therefore, the investigation follows BNSS procedures, not CrPC (which was repealed), even though the crime occurred under the old law.<br><br><strong>Example 4 - State Notification:</strong><br>Nagaland Government decides to adopt BNSS provisions on community service (Chapter XI). They issue a notification under Section 1(2) applying only Chapter XI with modifications for local customs. Now community service provisions apply in Nagaland, but other BNSS chapters still don't.",
+            "audioUrl": "BNSS-TTS-S1-BAREACT-WHAT.mp3"
+          }
+        ]
+      }, 
       "what": {
         "keywords": ["what bare act section 1", "kya bare act section 1"],
         "content": [
@@ -3257,6 +3266,7 @@
     }
   }
 }
+
 
 
 
