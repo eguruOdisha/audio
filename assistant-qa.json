@@ -1648,15 +1648,15 @@
       }
     ]
   },
-   "concept_with_example": {
-      "keywords": ["concept subsection 2 explanation", "concept with example", "example", "samjhao", "concept explain", "with example"],
-      "content": [
-        {
-          "text": "EXPLANATION: <br>In this section, 'tribal areas' means the territories which immediately before the 21st day of January, 1972, were included in the tribal areas of Assam, as referred to in paragraph 20 of the Sixth Schedule to the Constitution, other than those within the local limits of the municipality of Shillong.<br><br>Breaking it down:<br>👉 'In this section' = For this Section 1<br>👉 'tribal areas' means' = The definition of tribal areas is<br>👉 'the territories' = The land/regions<br>👉 'which immediately before the 21st day of January, 1972' = Just before January 21, 1972<br>👉 'were included in the tribal areas of Assam' = Were part of Assam's tribal zones<br>👉 'as referred to in paragraph 20 of the Sixth Schedule to the Constitution' = As mentioned in Constitution's Schedule 6, Para 20<br>👉 'other than those within the local limits of the municipality of Shillong' = Does NOT include Shillong city<br><br>Simple meaning:<br>👉 'Tribal areas' means specific regions<br>👉 These were Assam tribal areas before 1972<br>👉 Mentioned in Constitution's Sixth Schedule<br>👉 Does NOT include Shillong city<br><br>Why important:<br>👉 Prevents confusion about which areas are 'tribal'<br>👉 Uses a fixed historical date (January 21, 1972)<br>👉 Shillong excluded because it's urban/developed<br>👉 Based on constitutional provisions<br>👉 January 21, 1972 = When Meghalaya became a full state<br>👉 Before that, these areas were part of Assam<br>👉 This date freezes the definition",
-          "audioUrl": "BNSS-TTS-S1-SS2-EXP-CONCEPT.mp3"
-        }
-      ]
-    },      
+  "concept_with_example": {
+  "keywords": ["concept subsection 2 explanation", "concept with example", "example", "samjhao", "concept explain", "with example"],
+  "content": [
+    {
+      "text": "EXPLANATION: <br>In this section, 'tribal areas' means the territories which immediately before the 21st day of January, 1972, were included in the tribal areas of Assam, as referred to in paragraph 20 of the Sixth Schedule to the Constitution, other than those within the local limits of the municipality of Shillong.<br><br>Breaking it down:<br>👉 'In this section' = For this Section 1<br>👉 'tribal areas' means' = The definition of tribal areas is<br>👉 'the territories' = The land/regions<br>👉 'which immediately before the 21st day of January, 1972' = Just before January 21, 1972<br>👉 'were included in the tribal areas of Assam' = Were part of Assam's tribal zones<br>👉 'as referred to in paragraph 20 of the Sixth Schedule to the Constitution' = As mentioned in Constitution's Schedule 6, Para 20<br>👉 'other than those within the local limits of the municipality of Shillong' = Does NOT include Shillong city<br><br>Simple meaning:<br>👉 'Tribal areas' means specific regions<br>👉 These were Assam tribal areas before 1972<br>👉 Mentioned in Constitution's Sixth Schedule<br>👉 Does NOT include Shillong city<br><br>Why important:<br>👉 Prevents confusion about which areas are 'tribal'<br>👉 Uses a fixed historical date (January 21, 1972)<br>👉 Shillong excluded because it's urban/developed<br>👉 Based on constitutional provisions<br>👉 January 21, 1972 = When Meghalaya became a full state<br>👉 Before that, these areas were part of Assam<br>👉 This date freezes the definition<br><br><b>Let's understand with Example:</b><br><br>Explanation - Meaning of 'Tribal Areas'<br><br>The term 'tribal areas' has a specific meaning in this section.<br>👉 Example: Just like 'minor' means a person below 18 years, 'tribal areas' has a fixed legal meaning, not just any tribal village.<br><br>It means those areas that were part of Assam's tribal regions before January 21, 1972.<br>👉 Example: Like saying 'old currency' means notes printed before 2016, 'tribal areas' means specific regions that existed before a particular date.<br><br>These areas are mentioned in paragraph 20 of the Sixth Schedule of the Indian Constitution.<br>👉 Example: Just like your roll number is written in the school register, these areas are officially listed in the Constitution's Sixth Schedule.<br><br>However, the city area of Shillong municipality is NOT included in 'tribal areas'.<br>👉 Example: Like saying 'all students get fee waiver except monitors', here all tribal areas are included except Shillong city.",
+      "audioUrl": "BNSS-TTS-S1-SS2-EXP-CONCEPT.mp3"
+    }
+  ]
+},  
   "what": {
     "keywords": ["what explanation", "kya explanation", "what does explanation say"],
     "content": [
@@ -3266,6 +3266,7 @@
     }
   }
 }
+
 
 
 
